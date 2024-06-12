@@ -4,16 +4,29 @@ This repository serves as a collection of scratchpad Jupyter notebooks (`.ipynb`
 
 ## Setting up the Virtual Environment in VSCode
 
-To create a virtual environment and install the necessary dependencies from `requirements.txt`, follow these steps in Visual Studio Code:
+To set up the virtual environment in VSCode, follow these steps:
 
-1. Open the terminal in VSCode (`Ctrl+``).
-2. Ensure you are in the root directory of the project.
-3. Create a virtual environment:
-    - On Windows, run: `python -m venv .venv`
-    - On macOS/Linux, run: `python3 -m venv .venv`
-4. Activate the virtual environment:
-    - On Windows, run: `.venv\Scripts\activate`
-    - On macOS/Linux, run: `source .venv/bin/activate`
-5. Install the requirements: `pip install -r requirements.txt`
+1. Open the command palette by pressing `Ctrl+Shift+P` (or `Cmd+Shift+P` on macOS).
+2. Type "Python: Create Environment" and select it from the list.
+3. Choose the option to create the environment using `venv` and `requirements.txt`.
+4. Specify the path to the `requirements.txt` file in your project directory.
+5. Press Enter to create the virtual environment.
 
-After following these steps, your virtual environment should be set up with all the dependencies listed in `requirements.txt`, and you can start using or developing the notebooks and scripts in this repository.
+Next, you need to add the SSH command and configure the remote origin URL. Here's an example:
+```bash
+git remote add origin git@github.com:[repo]
+```
+
+Additionally, don't forget to set your Git username and email. You can do this by running the following commands:
+
+```bash
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+```
+
+Make sure to replace "Your Name" and "your.email@example.com" with your actual name and email address.
+
+Note: Insert the following line under the `[core]` section in your Git configuration file (`~/.gitconfig` or `.git/config`):
+```bash
+sshCommand = ssh -i ~/.ssh/[private_key]
+```
