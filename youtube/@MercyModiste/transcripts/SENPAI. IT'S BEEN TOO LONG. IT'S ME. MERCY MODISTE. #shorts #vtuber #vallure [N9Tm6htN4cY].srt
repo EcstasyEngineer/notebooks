@@ -1,0 +1,12 @@
+1
+00:00:00,000 --> 00:00:01,200
+Hi, Senpai!
+
+2
+00:00:01,200 --> 00:00:05,320
+My name is Mercy Modisse from Bialers Gen 1 in Daoge.
+
+3
+00:00:05,320 --> 00:00:07,200
+It's a pleasure to meet you.
+

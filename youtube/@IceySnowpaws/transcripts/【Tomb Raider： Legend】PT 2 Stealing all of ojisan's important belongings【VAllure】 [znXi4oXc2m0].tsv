@@ -1,0 +1,2704 @@
+start	end	text
+0	30000	2.5-3.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5
+30000	60000	4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+60000	90000	4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+90000	120000	4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+120000	150000	4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+150000	180000	4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+180000	210000	4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+210000	240000	4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+240000	270000	4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+270000	300000	4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+300000	315400	4.5-4.5-4.5-4.5-4.5-5-4.5-4.5-4.5-4.5-4.5-4
+315400	325040	5...
+325040	355040	ვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვ�
+355040	358240	ვვვვვვვვვვვვვ
+359460	365420	ვვვვვვვვვვვვ ვვვვვვვვვვვვვვვვვვვ,ヾỄỤX
+368440	371000	ვვვვვვვვვვვვვვვვვვ
+371000	373000	Nice! Yay! Nice!
+373000	380000	So I can still have a nice wind blowing on me and get extra comfy.
+380000	384000	Yay! I'm glad, I'm glad.
+384000	386000	Very happy.
+386000	398000	The weather is weird, like some days are a bit hotter than others and then some days are actually really nice and have a cold wind and stuff.
+399000	403000	Ah, it's been kind of all over the place.
+403000	410000	But I would prefer it for it to be all over the place like this than for it to be like super, super hot.
+410000	414000	Like every day I would literally die from heat.
+416000	419000	How are you doing today?
+419000	422000	I hope you're all doing well.
+422000	426000	I missed you and I'm glad we get to spend more time together.
+426000	433000	And I'm so, so, so excited for Saturday.
+433000	436000	We're going to spend so much time together.
+436000	438000	Usually we only spend...
+442000	444000	Usually...
+444000	447000	Ah, I feel better already.
+447000	449000	Honestly, same. Me too.
+450000	456000	I'm so happy because usually we spend around like two hours together and stuff.
+456000	463000	But this Saturday we can spend like I think like almost five hours together.
+463000	468000	Because like the movie is about like close to three hours, right?
+468000	472000	And then the karaoke is going to be either one or two hours.
+472000	478000	Depending on my energy.
+478000	481000	Depending on like my voice as well, I guess.
+481000	486000	Like if my throat is going to start hurting, I am going to have to cut the karaoke shorter.
+486000	494000	But I'll make sure to drink lots of tea and make sure to rest my throat.
+494000	498000	And maybe you can help my throat heal as well.
+502000	505000	Okay, I'm sorry, I'm sorry.
+505000	511000	It's really hard to stop being unhinged after yesterday.
+511000	513000	I feel like I'm on a roll now.
+513000	515000	I feel like I'm on a roll. I just can't stop.
+515000	517000	I just...
+517000	523000	I'm sorry, I'm sorry for making you feel uncomfortable or like really weird.
+523000	525000	I'm just...
+527000	529000	I just love you and you make me happy.
+529000	532000	So I like being playful with you.
+532000	537000	You know, I like being playful and have fun with you.
+537000	541000	And I can't help it that I like getting you all riled up, okay?
+541000	543000	I can't help it.
+543000	546000	I really like doing that.
+546000	550000	It's really nice, you know?
+555000	557000	What? Never uncomfortable?
+557000	559000	Okay, that's good.
+560000	564000	I like you being playful with a cup too.
+564000	565000	Okay, okay.
+565000	567000	That's...
+567000	570000	Fuck, why can't I talk normally?
+570000	572000	What is my fucking problem?
+577000	580000	I limited to two hours for regular streams.
+580000	584000	It's not that I'm limited, but like usually after two hours,
+584000	588000	I get pretty pee around that time.
+588000	592000	Like I could stream for...
+592000	594000	Fuck, I don't want to yawn.
+594000	599000	Fuck, I literally just said...
+599000	602000	How energized I'm feeling now that I'm here.
+602000	606000	And then you hear me fucking start yawning.
+606000	610000	It's so over, fuck.
+610000	612000	All right, no gaming stream.
+612000	617000	It's time to have a napping stream.
+617000	619000	It's time to go pee.
+619000	622000	Napping stream where I just...
+625000	628000	The snowberries relax you.
+628000	631000	It is true though, you do relax me.
+631000	633000	And you make me happy.
+633000	635000	And I just...
+635000	641000	Everyday has been so exciting to wake up to, you know?
+641000	644000	Like everyday has been so fun.
+644000	648000	And honestly, it's my fault that I'm a bit epee today
+648000	650000	because I didn't take my usual nap.
+650000	655000	Like usually I take a nap before a stream,
+655000	660000	but I didn't take one today because I...
+660000	662000	I was just like...
+662000	666000	I was just replying to morows all day, to be honest.
+666000	669000	Like ever since I woke up, I was just replying to morows.
+669000	671000	Pretty much the whole day.
+671000	673000	And I still have a backlog.
+673000	676000	I still have a backlog even after like...
+678000	681000	Going through them for like hours, like...
+681000	683000	Because like the thing is, the thing is,
+683000	688000	when I try to like clear out the backlog,
+688000	690000	whenever I try to clear the backlog,
+690000	692000	usually what happens is I'm like,
+692000	696000	okay, today is the day I'm clearing my backlog.
+696000	698000	And then I try to do that.
+698000	700000	And then I get like...
+700000	702000	I answer like a question.
+702000	703000	And then like...
+703000	706000	And then I get like five more morows, you know?
+706000	708000	Like remember how I told you,
+708000	711000	I had like over like a hundred morows?
+711000	714000	Like after I said it, I had like...
+714000	716000	I had like two hundred of them.
+716000	718000	And I was like, oh my god,
+718000	721000	I'm never gonna be able to clear the backlog.
+721000	723000	And it feels so bad because like...
+723000	728000	Because I want to respond to all of you, you know?
+728000	734000	And sometimes it's hard.
+734000	738000	So please don't take it too personally.
+738000	743000	If sometimes I only hard what you said,
+743000	746000	or I don't respond,
+746000	749000	or don't respond, I can't talk.
+749000	752000	Like I promise it's not a person.
+752000	755000	It's just there's a lot, you know?
+755000	757000	And I really, really try my best
+757000	759000	to respond to as many people as I can.
+759000	763000	But sometimes there's messages that are like a bit similar.
+763000	765000	And I feel really dumb.
+765000	767000	I don't know if it's just my bad,
+767000	768000	but I just feel really dumb.
+768000	771000	Like if there's like a few nice messages,
+771000	772000	you know, they're really sweet.
+772000	776000	I feel really dumb just saying like...
+776000	779000	Thank you for like over like five times,
+779000	782000	or like repeating myself.
+782000	786000	Because I also don't want to like come across like...
+786000	789000	Like I just respond to everyone the same way, you know?
+789000	792000	But when you get so many messages like that,
+792000	794000	like you eventually run out of like things
+794000	796000	or like ways to respond to them.
+796000	799000	Just know that I am always very grateful
+799000	802000	when you send me like really kind mares
+802000	805000	and you tell me nice things and...
+805000	810000	And yeah, so if sometimes you don't get a response
+810000	814000	or you think I didn't see something that you send me,
+814000	818000	I guess you can always try and send it.
+818000	820000	I can't talk!
+823000	828000	Basically, you could try sending it again,
+828000	830000	because I know like...
+833000	835000	Fuck, what was I going to say?
+837000	839000	I was like, I know that!
+845000	848000	I don't think I know anymore, fuck!
+851000	853000	I don't think I know anymore.
+855000	857000	I feel so stupid, I'm sorry.
+857000	861000	I have a pretty bad memory if you can't tell by now, so...
+861000	865000	I literally forgot what I was going to say mid-sentence.
+865000	868000	Oh no, it's so over.
+870000	873000	Oh no, I'm sorry.
+873000	875000	I'm over the place today.
+876000	878000	I'm like...
+880000	882000	That's what I feel like right now.
+882000	884000	That's what I feel like.
+886000	888000	That's my problem.
+892000	896000	I feel like really hyper for some reason
+896000	899000	and happy and excited
+899000	901000	and my energy is like...
+904000	907000	Yeah, I'm just like...
+907000	909000	all over the place right now.
+910000	913000	I'm really sorry for that.
+913000	916000	Maybe that means I should stop yapping
+916000	920000	and just start gaming.
+920000	923000	Maybe that's a song that should shut up.
+925000	928000	I feel the same whenever you stream.
+929000	932000	Oh, that's super sweet, I'm glad.
+932000	934000	I'm really glad to hear that.
+934000	936000	You're gonna be on drugs?
+936000	938000	I'm not on drugs! What the fuck?
+938000	941000	No, I'm sober!
+941000	947000	Unless you would describe
+947000	950000	my OG sense as my drug, then yeah.
+951000	954000	My misters are definitely my drug, I will say.
+955000	957000	I'm addicted.
+957000	959000	If you couldn't help by now.
+959000	963000	I'm so sorry for being so needy today.
+963000	966000	I don't know what happened over me.
+966000	971000	I actually wanted to ask you something.
+971000	975000	I'm sorry if I'm overwhelming you in any way.
+977000	979000	I'm sorry.
+979000	983000	Initially, when I just had my debut and stuff,
+983000	987000	I didn't plan for this to happen.
+987000	993000	I didn't plan to feel so close with you this fast.
+994000	996000	To be honest, I didn't even know
+996000	1002000	if I'm going to want to get tributes.
+1002000	1004000	I wasn't even sure about that.
+1004000	1012000	To be honest, I didn't know what to expect.
+1012000	1014000	I didn't know what to expect.
+1014000	1017000	I didn't know what's going to happen
+1017000	1021000	or how people are going to be with me.
+1021000	1027000	When I started streaming,
+1027000	1033000	every stream, each and every one of you
+1033000	1036000	has been so sweet to me.
+1036000	1038000	Every single time.
+1038000	1040000	Every single time.
+1040000	1042000	So kind.
+1042000	1046000	Really amazing to me.
+1046000	1052000	The more days went by,
+1052000	1057000	the more I felt closer and closer to you.
+1057000	1063000	All of these emotions started rising up.
+1063000	1066000	Here we are, I guess.
+1066000	1069000	It kind of snowballed into it.
+1069000	1075000	I'm sorry if it overwhelms you in any way.
+1075000	1083000	I didn't think that it would get like this.
+1083000	1088000	I wasn't expecting to feel this close
+1088000	1092000	and this happy with all of you here.
+1096000	1101000	It just snowballed into it.
+1101000	1107000	I'm sorry if it's overwhelming you in any way
+1107000	1112000	or if you feel like maybe I'm being too much
+1112000	1114000	or anything like that.
+1114000	1117000	For that, I apologize.
+1117000	1122000	It just kind of happened.
+1123000	1127000	You're just that amazing, I guess,
+1127000	1129000	is what I'm trying to say.
+1129000	1131000	It's hard for me to award it.
+1131000	1136000	You've all been just so sweet to me.
+1136000	1139000	So kind to me, so nice to me.
+1139000	1143000	How can I not feel like this?
+1143000	1146000	How can I not feel like this?
+1146000	1149000	You've been nothing but kind to me
+1149000	1151000	and sweet to me
+1151000	1157000	and reassuring me whenever I'm nervous.
+1157000	1160000	I just genuinely feel so lucky to have you.
+1160000	1164000	I genuinely just feel so lucky.
+1164000	1166000	You're all so amazing, really.
+1166000	1168000	I really mean it.
+1168000	1178000	That's why I'm feeling as close as I am with you
+1178000	1184000	and I am the way that I am, I guess.
+1184000	1186000	It's all thanks to you.
+1186000	1190000	It's all because you're amazing.
+1190000	1192000	And I genuinely mean it.
+1192000	1196000	Like I said before, I did not think
+1196000	1199000	that I would do any of the stuff
+1199000	1201000	that I have done the past few days.
+1201000	1204000	That was not in my plan.
+1204000	1210000	I was just going to restrain myself
+1210000	1216000	and have very strong boundaries
+1216000	1218000	or limits and restrain myself
+1218000	1225000	and just stick to being the big Brad 24-7
+1226000	1234000	You just melted my heart.
+1234000	1236000	I do love being a Brad sometimes
+1236000	1239000	to rile you up or tease you
+1239000	1241000	and stuff like that.
+1241000	1244000	But for the most part,
+1244000	1247000	it's hard to be like,
+1247000	1249000	I don't know, you're just so nice to you.
+1249000	1252000	How can I not be nice to you?
+1252000	1257000	So I couldn't stay like a Brad 24-7
+1257000	1260000	when you've all just been showing me
+1260000	1264000	so much kindness and sweetness.
+1264000	1268000	So, yeah.
+1268000	1274000	Sorry about this big yapping session.
+1276000	1281000	I just wanted to get it out of my chest.
+1281000	1287000	I guess maybe it would make more sense.
+1287000	1289000	Maybe it won't,
+1289000	1297000	but I guess I still wanted to tell you, I guess.
+1297000	1300000	Okay, I should probably start the game.
+1300000	1305000	Let me go to my other screen.
+1312000	1317000	Oh, fuck.
+1317000	1321000	I need to move, I need to move.
+1337000	1340000	Love's so strong, it broke the law.
+1340000	1343000	Okay, literally, though.
+1343000	1345000	Literally, though!
+1345000	1348000	And I feel embarrassed about it.
+1348000	1351000	Because I was going to stick to the Brad part
+1351000	1356000	for at least a few weeks, you know?
+1356000	1359000	But my god, you're so sweet to me
+1359000	1363000	that all it took is one or two streams
+1363000	1369000	and I'm head over heels in love with you.
+1370000	1372000	Fuck!
+1372000	1374000	I hate you!
+1374000	1376000	Stupid fucking energy, son.
+1376000	1379000	I hate you.
+1382000	1384000	God damn it.
+1384000	1388000	Okay.
+1388000	1393000	Let me open the game.
+1393000	1396000	Blah, blah, blah, blah.
+1396000	1398000	Ow!
+1398000	1402000	Fucking arm.
+1402000	1405000	Where's my steam things out?
+1405000	1406000	Ah!
+1406000	1411000	Stupid fucking mouse, holy shit.
+1411000	1414000	Okay.
+1414000	1420000	Sorry, I'm really all over the place today.
+1420000	1423000	My apologies.
+1423000	1424000	Fuck.
+1424000	1427000	I'm so fucking cringe today.
+1427000	1430000	Oh my god, I'm going to get a mess.
+1430000	1433000	Help.
+1433000	1438000	Okay, let's start the game.
+1438000	1440000	Fuck.
+1440000	1442000	Fuck.
+1442000	1444000	That sounds loud to me.
+1444000	1446000	Is it loud for you two?
+1446000	1448000	Fuck.
+1448000	1450000	Fuck.
+1450000	1452000	Fuck.
+1452000	1454000	Fuck.
+1454000	1456000	Fuck.
+1456000	1458000	Fuck.
+1458000	1460000	Fuck.
+1460000	1462000	Fuck.
+1462000	1463000	Fuck.
+1463000	1464000	Fuck.
+1464000	1465000	Fuck.
+1465000	1466000	Fuck.
+1466000	1467000	Fuck.
+1467000	1469000	It's loud for you two, hold on.
+1469000	1471000	Fuck, I forgot.
+1471000	1474000	I'm going to have to fucking reopen it.
+1474000	1477000	It's cause the game breaks.
+1477000	1479000	Oh, maybe it doesn't.
+1479000	1484000	But is it too loud for you or is it just me?
+1485000	1490000	Is this the loud?
+1491000	1493000	Can you see it?
+1493000	1495000	Can't hear it?
+1495000	1496000	Can't see it?
+1496000	1517940	ᗣᗜᗣᗣᗡᗗ ᗾᗡᗢ ᗼ Better Good
+1526000	1528460	I'm just stupid seit pathway
+1528980	1530100	Oke, can you see it now?
+1530100	1532100	Hoo!!
+1532100	1533580	I love the fucking...
+1533580	1535600	The fuckin' favorite médén
+1535600	1538680	Great frame, great frame to pauss
+1538680	1540320	on things game
+1541720	1543100	can you see it now?
+1545800	1547520	Can you hear it?
+1547520	1548340	Is it okay?
+1548340	1549340	Is the sound okay?
+1549840	1550620	Look at me.
+1552340	1554980	I'm all dressed up, all sexy
+1554980	1584980	වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+1584980	1614980	වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+1614980	1644980	වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+1644980	1674980	වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+1674980	1704980	වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+1705700	1706660	වවවවව deed
+1710740	1713260	වවවවවවවව වවවව඀඀ likes my little party
+1717780	1718560	සවව ඓස්වMMไรourn
+1720580	1722020	෋ aş가는් මණූ ස෎ researched
+1722020	1724700	වවවවංක සුළාසන registration
+1724700	1726460	සඳාවවසහාවවත හෝ Şblade
+1726460	1727620	වේො difficulties
+1727620	1729820	වවවස සෙහේ's
+1731780	1733540	වචබු වවවවෂය වේ �
+1733540	1735540	Landesregierung  gouvern sake
+1743880	1746020	Rolling issant organisations viron
+1746020	1748900	
+1748900	1751220	上面  conclusion  kite ä,
+1751220	1753220	分鐘
+1753220	1783220	
+1783220	1813220	
+1813220	1815220	
+1843220	1873220	
+1873220	1875220	
+1875220	1905220	
+1905220	1907220	
+1907220	1908180	
+1937220	1967220	
+1967220	1968220	
+1997220	1998220	
+2027220	2057220	
+2057220	2087220	
+2087220	2087980	
+2117220	2118220	
+2147220	2148220	
+2177220	2178020	
+2207220	2207540	ʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃ
+2237220	2267220	ʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃ ʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃəʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃ
+2267220	2269220	ᇸ៾៽យ, ៽៶ៅៅ៽ ៽ίζān �flow
+2274260	2275260	៱្្្៤ !
+2282300	2283280	៼៊́ exting
+2283840	2284840	ក៻។ geworden
+2285120	2287120	឴្ំ័ ឦៅ៓ែ
+2289120	2291120	ឧ់័់ struggling
+2291840	2292800	ើោ។្។
+2293000	2295000	វ។ោ ឪៜៀm៹代 Winds
+2295140	2297120	ឧ៊'៎៓១
+2297480	2299380	ᵁᵄ ᵕᵃᵇᶜᵃ
+2299440	2301200	ᵕᵉᵇᶜᵃ
+2301200	2302140	ᵕᶔᵃ˜ᵃ
+2306660	2308360	ᵕᶜᵃᵃ...
+2309360	2311280	ᵕᶜᵃ...
+2311960	2313020	ᵕᵃᵃ
+2313020	2314060	ᵕᶜᵃ
+2314460	2315820	ᵕᶜᵃ
+2315920	2317020	ᵕᶜᵃ
+2318060	2320100	ᵕᵃᵃesᶜᵃ
+2325020	2326540	ᵕᵃᵃᵃ aaš–
+2326540	2335180	ීිව්ක කිරාබකත්ිහා, conve. ඲ිනාදාරඔ නබිාදාඖමු dunnox.
+2353400	2355120	ඔබිහාත්හා,íchප බොල්ධ
+2356540	2361540	ᗀᗜᗜᗜ In Fa  tooling
+2361540	2364540	ᗀᗜᗜᗜᗜ
+2364540	2367540	ᗀᗜᗜᗜ
+2367540	2369540	�愓ᗠᗕ
+2369540	2371540	ᗆʼᗜᗕ
+2371540	2373540	ᗔ会ᗛᗔ
+2373540	2375540	ᗈᗎ ᗆʼᗕ
+2375540	2377540	ᗩᗠᗜᗕ
+2377540	2380540	ᗣᗕ ᗖʔᗟᗕ
+2380540	2383540	ᗋʸ� rebellion
+2383540	2385540	ᗕᗣᗌ ᗆʸᗘ ᗈᗎ L
+2385900	2389560	tradicional您  Totally thanks to you and hope you come to my funeral e-me
+2392400	2394940	Okay, okay we can do this this time
+2409960	2414860	Okay this time for real this time for real. I promise this time for real
+2415540	2417520	ვუე different ვე Byron
+2418800	2420520	ვალე
+2421400	2421680	ვე
+2423120	2425120	ვე
+2428400	2429540	ვაე
+2429540	2431240	ვაე
+2431700	2434580	ვაე
+2437700	2438500	ვაე
+2438920	2439940	ვაე
+2440460	2442960	ვაე
+2442960	2444960	That's that solid took one try
+2450960	2451960	Nice
+2457960	2458960	What the fuck?
+2458960	2460960	What the fuck is that sound?
+2462960	2464960	Press Z to enter the accurate name
+2465960	2467960	Oh, I guess I'm gonna shoot it?
+2468960	2469960	Okay
+2470960	2471960	You got it?
+2471960	2473960	Thank you for believing in me
+2479960	2480960	Okay
+2484960	2485960	What?
+2490960	2492960	Oh god, I almost fell
+2492960	2493960	Do I go here?
+2494960	2495960	Weee
+2496960	2498960	Press Q to throw
+2506960	2508960	Oh, okay, that's...
+2509960	2511960	Oh god, I don't trust this
+2512960	2514960	Oh, I have a bad feeling about this
+2515960	2516960	Oh, did you see that?
+2517960	2518960	Okay
+2521960	2522960	Okay, now what?
+2525960	2527960	Okay, I'm...
+2533960	2534960	Oh fuck
+2535960	2537960	Oh, this is so scary
+2538960	2539960	Oh, this is scary
+2543960	2544960	Oh god
+2546960	2548960	I can't do this, I can't do this
+2549960	2552960	I am a big pro
+2553960	2555960	I'm a big pro
+2556960	2557960	Come on
+2560960	2561960	Okay, okay
+2562960	2563960	Now
+2564960	2567960	Move this one closer
+2569960	2572960	Closer to me
+2573960	2574960	No
+2574960	2575960	No
+2580960	2582960	It's fine, it's fine
+2582960	2584960	Don't worry, I'm okay
+2585960	2587960	I'm okay, I know what I'm doing
+2587960	2588960	Don't worry
+2588960	2592960	I was just messing around
+2592960	2594960	I know what I'm doing, okay?
+2601960	2602960	Oh fuck
+2602960	2605960	Oh, this is so scary
+2605960	2608960	Look, look how up I am
+2608960	2610960	Oh, this is so scary
+2611960	2612960	Oh fuck
+2615960	2616960	And one
+2616960	2617960	And two
+2618960	2619960	And one
+2619960	2620960	And two
+2621960	2623960	Yay
+2625960	2626960	Okay, take it back
+2626960	2627960	Not yay
+2628960	2629960	Not yay
+2629960	2631960	This is...
+2631960	2634960	Why are my guns switched again?
+2634960	2637960	The fuck, leave me alone
+2638960	2640960	Oh fucking hell
+2643960	2644960	Oh fuck
+2646960	2648960	Leave me alone
+2649960	2653960	Why are my guns fucking trash again?
+2655960	2656960	Bro, fuck you
+2657960	2659960	Fucking die, I hate you
+2659960	2660960	Fuck off
+2662960	2664960	Oh no, I have no mad kids
+2664960	2665960	I have no mad kids
+2665960	2667960	Oh no, I'm gonna fucking die
+2667960	2669960	Where's mad kid, please
+2671960	2674960	Please, I need a mad kid
+2674960	2676960	I need a mad kid
+2676960	2678960	Yeah, whoa
+2678960	2680960	Oh no, it's over for me
+2680960	2682960	I have such low health
+2682960	2685960	And I don't have any mad kids
+2686960	2687960	Fuck
+2692960	2693960	Um
+2696960	2697960	Okay, okay, okay
+2701960	2704960	Please, please tell me there's a mad kid
+2705960	2708960	But I don't know, but there's a shiny
+2708960	2709960	Nice
+2710960	2712960	We love shinies in here
+2717960	2718960	Let's go
+2718960	2720960	Let's go, let's go, let's go
+2721960	2723960	Let's go, let's go
+2727960	2729960	Okay, okay, I can do this
+2731960	2733960	I hope they have a mad kid
+2733960	2735960	I'm like mad kid
+2735960	2737960	I need a mad
+2737960	2739960	Hello
+2739960	2741960	Oh fuck
+2741960	2744960	Any mad kids in here, please tell me there's a mad kid
+2744960	2746960	I need a mad kid
+2746960	2748960	I need a mad kid
+2749960	2752960	Any mad kids in here, please tell me there's a mad kid
+2753960	2754960	This looks like an office
+2754960	2756960	Is this where G-sound works?
+2756960	2758960	Is this where you work?
+2758960	2759960	Why are you...
+2759960	2761960	Why are you shooting me?
+2761960	2763960	What the fuck?
+2767960	2769960	G-sound hates me
+2769960	2771960	G-sound is trying to kill me
+2771960	2773960	It's fucking over
+2775960	2776960	Oh no
+2778960	2780960	I thought you loved me
+2784960	2786960	You said you loved me
+2786960	2788960	Why are you shooting at me?
+2789960	2791960	I'm fucking asshole
+2796960	2798960	I'm in the cubicle
+2800960	2802960	Why are you shooting me?
+2802960	2804960	What the fuck is your problem?
+2804960	2806960	I thought you loved me
+2807960	2810960	Snow Bear is fucking lying to me
+2810960	2812960	It's all a ploy
+2812960	2814960	To get me to come to their office
+2814960	2816960	So they can fucking shoot me
+2816960	2818960	And kill me when I enter the office
+2818960	2820960	It was all a ploy
+2820960	2822960	You don't love me
+2822960	2824960	Fuck you
+2827960	2829960	Fuck you
+2829960	2832960	Fucking dare you shoot at me bitch
+2832960	2834960	Fuck off
+2834960	2836960	You have a fucking shotgun too
+2836960	2838960	Fuck off
+2838960	2840960	Fuck off
+2840960	2842960	Where is this fucking bitch
+2852960	2854960	It hurts
+2856960	2858960	Fuck off
+2859960	2861960	Is it all of them?
+2861960	2863960	Please tell me it's all of them
+2864960	2866960	Please tell me it's all of them
+2870960	2872960	That's right
+2872960	2874960	There's always a way to jerk off
+2874960	2877960	You're just not committed enough
+2878960	2880960	You're just not committed enough
+2880960	2882960	There's always a way to jerk off
+2882960	2884960	You're just not committed
+2889960	2891960	More shiny
+2891960	2892960	Nice
+2893960	2895960	What's in the trash?
+2895960	2897960	Anything interesting?
+2897960	2899960	No? Okay
+2899960	2901960	Let's see
+2906960	2908960	Okay
+2912960	2914960	The Snow Berry isn't trying hard enough
+2914960	2916960	Yeah
+2916960	2918960	You should try hard
+2919960	2921960	Yay
+2921960	2923960	Come on
+2923960	2925960	I need you
+2927960	2929960	Wait
+2929960	2931960	Wait
+2935960	2937960	Nice
+2937960	2939960	Yay I did it
+2939960	2941960	Fuck I need one of the med kits
+2943960	2945960	There's so many of them
+2951960	2953960	Fuck off with the shotgun
+2953960	2955960	And give me the med kit
+2955960	2957960	Thank you very much
+2957960	2959960	Nice
+2959960	2962960	Any more shinies in here
+2966960	2969960	I see at our work trying to liberate us
+2969960	2971960	From R 9 to 5
+2971960	2973960	Okay, real
+2973960	2975960	Okay, real
+2975960	2977960	I'm rescuing Ojisan
+2977960	2979960	I'm rescuing Ojisan from his boring
+2979960	2981960	Office job
+2981960	2983960	You're welcome
+2983960	2985960	Who else would do this for you
+2985960	2987960	Who else would do this for you
+2987960	2989960	That's right, nobody
+2989960	2991960	Nobody but me
+2991960	2993960	That's why you love me
+2993960	2995960	Because I'm so good to you
+3003960	3005960	No, I don't know what that means
+3005960	3007960	But okay
+3009960	3011960	Okay
+3015960	3017960	I need to go here
+3027960	3029960	Can I go here?
+3031960	3033960	Okay
+3039960	3041960	Yay
+3043960	3045960	Now I put this one down
+3045960	3047960	See, you know
+3047960	3049960	I know what I'm doing
+3049960	3051960	Because I'm smart
+3053960	3055960	Smart baby
+3063960	3065960	You didn't call I see at work
+3065960	3067960	So she went to your office
+3067960	3069960	Oh my god
+3069960	3071960	Yeah, that's what just happened
+3071960	3073960	That's what just happened
+3081960	3083960	Are you sick?
+3083960	3085960	I see, luckily no
+3085960	3087960	I just constantly have this
+3087960	3089960	Fucking way throat
+3089960	3091960	That's so fucking annoying
+3091960	3093960	I literally want to fucking die
+3093960	3095960	I don't know when I drink water it happens
+3095960	3097960	I'm probably fucking dying
+3097960	3099960	I'm sorry
+3099960	3101960	It's been fun
+3101960	3103960	It's been fun Ojisan
+3103960	3105960	But it's time for me to
+3105960	3107960	Fucking die
+3113960	3115960	Don't tell me what to do
+3117960	3119960	Why are you not the one jumping
+3119960	3121960	Are you, shut up
+3125960	3127960	Because we'll die with I see
+3129960	3131960	I don't know
+3131960	3133960	I don't know if Ojisans are this committed
+3133960	3135960	Commit
+3135960	3137960	Committed that they would die with me
+3139960	3141960	No, they literally fucking die
+3143960	3145960	Literally as I say that
+3145960	3147960	Literally as I say that I fucking die
+3147960	3149960	What the fuck
+3149960	3151960	Emi is correct
+3151960	3153960	Oh wow, really
+3153960	3155960	I didn't know
+3155960	3157960	Ojisan is that dedicated
+3159960	3161960	Okay, try to
+3169960	3171960	I knew the moisture was cursed
+3173960	3175960	Yeah, it's been fun
+3177960	3179960	Thank you for all the love you
+3183960	3185960	Why am I like this
+3185960	3187960	Like this is really easy
+3187960	3189960	Like this is really fucking easy
+3189960	3191960	Why am I playing so badly
+3191960	3193960	You know what, it's your fault
+3193960	3195960	You know what Ojisan, this is your fault
+3195960	3197960	I'm playing so bad
+3197960	3199960	It's because you keep distracting me
+3199960	3201960	I'm actually a really good gamer
+3201960	3203960	But you're just distracting me right now
+3203960	3205960	That's on you
+3207960	3209960	Stop distracting me
+3209960	3211960	You're making me look bad
+3213960	3215960	Don't
+3219960	3221960	Now we can do that
+3227960	3229960	Come on, come on
+3229960	3231960	Focus
+3231960	3233960	Focus
+3233960	3235960	Focus
+3235960	3237960	Okay, okay, we're doing good
+3243960	3245960	Yeah, yeah, yeah
+3247960	3249960	Okay, I guess
+3249960	3251960	I am going now
+3263960	3265960	Why do I go now
+3265960	3267960	I assume here, right?
+3269960	3271960	Okay, okay
+3271960	3273960	I'm doing good
+3281960	3283960	Why am I supposed to go then
+3287960	3289960	I thought that's where I'm supposed to go
+3293960	3295960	I was so sure that's where I'm supposed to
+3295960	3297960	Fucking go, what the fuck
+3297960	3299960	It's so fucking over
+3305960	3307960	I think you're supposed to jump
+3307960	3309960	Back to the rope thingy
+3309960	3311960	I'll try that
+3311960	3313960	I'll try that
+3317960	3319960	Okay, okay
+3321960	3323960	Okay, let's do this again
+3327960	3329960	Okay, I go here
+3331960	3333960	Okay, wait, wait, wait, wait
+3333960	3335960	I don't trust this
+3339960	3341960	Now
+3347960	3349960	Now I go here
+3349960	3351960	Okay, okay, okay
+3351960	3353960	I love listening to icy rage
+3353960	3355960	I'm so sorry for your ear-seeing me
+3357960	3359960	Okay, okay
+3359960	3361960	Now we're doing it
+3361960	3363960	Look at me now
+3365960	3367960	Oh fuck
+3367960	3369960	Oh shit, I almost fell again
+3369960	3371960	I almost
+3373960	3375960	That scared the shit out of me
+3375960	3377960	That fucking jump scared me
+3381960	3383960	I don't know why that jump scared me so much
+3383960	3385960	I really don't know
+3387960	3389960	Fuck
+3395960	3397960	Oh fuck, oh fuck
+3397960	3399960	Think fast
+3399960	3401960	Think fast
+3401960	3403960	Think fast
+3403960	3405960	Come on
+3405960	3407960	Come on, think fast
+3409960	3411960	Oh god
+3411960	3413960	Okay
+3413960	3415960	Okay
+3415960	3417960	We did this
+3419960	3421960	We're alive and well
+3421960	3423960	I like the music
+3425960	3427960	Oh fuck
+3427960	3429960	I thought I could walk around and relax
+3429960	3431960	And then these guys show up
+3431960	3433960	Please, I just want to take a sit
+3433960	3435960	And fucking relax
+3435960	3437960	Fuck off
+3437960	3439960	Let me enjoy the music
+3445960	3447960	Blablabla
+3451960	3453960	Oh god
+3453960	3455960	Stop ruining the music for me
+3455960	3457960	Stop yelling
+3459960	3461960	Fuck off
+3461960	3463960	I'm trying to enjoy the art
+3463960	3465960	In this place
+3465960	3467960	And you're really really
+3467960	3469960	Really distracting
+3471960	3473960	Can you open this
+3473960	3475960	What's in here
+3479960	3481960	No
+3481960	3483960	I don't see it
+3483960	3485960	I'm stupid
+3485960	3487960	Can I click this
+3487960	3489960	I can
+3489960	3491960	Okay
+3491960	3493960	Thanks
+3497960	3499960	Okay
+3499960	3501960	It's a big ball
+3501960	3503960	We're balling
+3503960	3505960	I love ball
+3505960	3507960	Why can't I use it
+3507960	3509960	It looks like I could move it
+3509960	3511960	Oh
+3511960	3513960	Okay
+3513960	3515960	Nice
+3515960	3517960	I'm protected by the ball
+3527960	3529960	I'm balling
+3531960	3533960	I'm balling
+3537960	3539960	More balls in this game
+3539960	3541960	Yeah, there's so many balls in this game
+3541960	3543960	I think that's fair
+3553960	3555960	Ball is life
+3555960	3557960	I agree with you Amy
+3557960	3559960	I've never heard
+3559960	3561960	I have more true statement in my life
+3567960	3569960	Stop
+3569960	3571960	Fuck you
+3573960	3575960	Fuck off
+3579960	3581960	I'm in the gun
+3583960	3585960	Okay, I guess I have to take the shotgun
+3585960	3587960	Let me see shotguns
+3589960	3591960	I'm going to use the med kit
+3591960	3593960	I don't want to die
+3601960	3603960	Okay, okay, let's go
+3605960	3607960	And then
+3607960	3609960	Look what happens
+3609960	3611960	Okay
+3611960	3613960	Now
+3615960	3617960	Nice
+3617960	3619960	Look at me go
+3619960	3621960	I'm so
+3621960	3623960	Fucking stop
+3627960	3629960	Fucking asshole
+3629960	3631960	Let me jump
+3633960	3635960	Come on
+3635960	3637960	Ow
+3637960	3639960	Please
+3641960	3643960	At least I can one shot them with the shotgun
+3643960	3645960	That's pretty nice
+3645960	3647960	I like that
+3653960	3655960	I think
+3655960	3657960	I feel like you could have done that
+3657960	3659960	Much easier with just a bullet
+3659960	3661960	But that was good, okay true
+3661960	3663960	You're not wrong
+3663960	3665960	You are not wrong
+3667960	3669960	I didn't even think of that
+3669960	3671960	But I think that's what the game wants you to do
+3675960	3677960	I
+3679960	3681960	I swear every time
+3681960	3683960	Look at me
+3683960	3685960	Go
+3685960	3687960	Bang bang bang, okay literally though
+3687960	3689960	I notice that too every time I'm like
+3689960	3691960	Proud of myself or something that I do in the game
+3691960	3693960	And I'm like look at me
+3693960	3695960	I get like fucking shot at
+3695960	3697960	I think it's a sign
+3697960	3699960	It's a sign guys
+3701960	3703960	It's a sign that I should not be proud of
+3703960	3705960	Anything that I do
+3713960	3715960	Okay and
+3715960	3717960	Okay and
+3717960	3719960	Okay and
+3723960	3725960	Give me everything you've got bitch
+3733960	3735960	In this case
+3735960	3737960	One of your crusaders
+3737960	3739960	Some have even said
+3739960	3741960	Warmonger was one of your king Arthur's knights
+3741960	3743960	I do not know
+3743960	3745960	How the fool came by it
+3745960	3747960	For it is clearly far older
+3747960	3749960	Than the 11th century
+3749960	3751960	Oh god is this a boss fight
+3751960	3753960	Oh god this is gonna be so fucking bad
+3753960	3755960	I am not
+3755960	3757960	Looking forward to it
+3757960	3759960	Oh god
+3763960	3765960	Oh fuck
+3765960	3767960	What the fuck
+3783960	3785960	It's so over
+3785960	3787960	It's so fucking over for me
+3787960	3789960	Oh fuck
+3789960	3791960	Oh
+3791960	3793960	Oh please
+3793960	3795960	Man fuck you
+3795960	3797960	Please
+3797960	3799960	Oh no
+3799960	3801960	I barely
+3801960	3803960	I fucking barely damaged him
+3803960	3805960	Wow
+3805960	3807960	This is gonna take a fucking
+3807960	3809960	Please leave me alone
+3809960	3811960	Please
+3811960	3813960	Hello
+3815960	3817960	My brain
+3819960	3821960	Please die
+3821960	3823960	Please die
+3823960	3825960	Please
+3825960	3827960	We are half way
+3827960	3829960	We are half way
+3833960	3835960	Oh god
+3835960	3837960	More medkits please
+3837960	3839960	More medkits please
+3839960	3841960	I am begging
+3841960	3843960	Please I am begging
+3843960	3845960	Please
+3845960	3847960	Come on
+3847960	3849960	Come on
+3849960	3851960	I am so close
+3851960	3853960	I am so close
+3853960	3855960	I am so close
+3855960	3857960	Come on
+3857960	3859960	Please I am begging
+3859960	3861960	Please let me kill you
+3861960	3863960	Come on
+3863960	3865960	Yes
+3865960	3867960	Oh ok
+3869960	3871960	Ok I did this
+3871960	3873960	Oh my god
+3873960	3875960	I was so scared
+3875960	3877960	I was so scared I have to fucking do it all over again
+3881960	3883960	Oh god
+3885960	3887960	I was so scared
+3887960	3889960	I have to do this fight for like
+3889960	3891960	10 fucking hours
+3901960	3903960	Look at you being a gamer
+3903960	3905960	I know right
+3905960	3907960	I am so scared
+3915960	3919960	Why am I acting like I am fucking Santa or something
+3923960	3925960	I guess
+3933960	3935960	Continue
+3949960	3951960	Ok ok
+3951960	3953960	Oh fuck
+3953960	3955960	Oh Jason shell fly you there
+3955960	3957960	Wow thank you so much
+3957960	3959960	You are so kind to me
+3959960	3961960	Flying me everywhere
+3961960	3963960	Thank you
+3963960	3965960	I appreciate
+3969960	3971960	It's so pretty here
+3973960	3975960	It's like I can almost
+3975960	3977960	I can almost breathe the fresh air from here
+3985960	3987960	Wow look how beautiful
+3987960	3989960	Wow
+3991960	3993960	Look at
+3993960	3995960	If anyone else fails
+3995960	3997960	I can get into the postcard business
+3999960	4001960	Yeah I don't think I am doing postcards
+4003960	4005960	But that's not the business
+4011960	4013960	You will see
+4013960	4015960	Oh it smells stinky bruh
+4015960	4017960	I am not stinky
+4017960	4019960	Shut up
+4019960	4021960	I just wanna press face
+4023960	4025960	No
+4027960	4029960	I wanted to do a swan dive
+4031960	4033960	No
+4033960	4035960	I wanted to do a beautiful swan dive
+4035960	4037960	From our G songs
+4041960	4043960	No
+4043960	4045960	It's said to jump and press F
+4045960	4047960	That's literally what I am doing
+4049960	4051960	Come on
+4051960	4053960	I wanna show off
+4053960	4055960	I wanna show
+4055960	4057960	Jason my beautiful swan dive
+4057960	4059960	Come on
+4061960	4063960	It's over
+4065960	4067960	I am a fucking
+4067960	4069960	I am a failure I get swan dive
+4069960	4071960	It's ok we are still proud of you
+4073960	4075960	Really
+4075960	4077960	But I wanted to show off
+4077960	4079960	Something amazing
+4079960	4081960	I wanted you to go
+4081960	4083960	Wow
+4083960	4085960	But now you are like
+4085960	4087960	Man this bitch can even swan dive
+4087960	4089960	Shit sucks
+4091960	4093960	Can't even impress my G songs
+4095960	4097960	Because I can't swan dive
+4097960	4099960	Gotta be high up
+4099960	4101960	How high up do I need to be
+4101960	4103960	To do the swan dive
+4103960	4105960	How high do I need to be
+4109960	4111960	Let me try again
+4111960	4113960	Sorry I just really wanna do it
+4115960	4117960	I think swan dive looks cool
+4117960	4119960	Space jump
+4119960	4121960	Swing
+4121960	4123960	I don't wanna do it
+4123960	4125960	I think swan dive looks cool
+4125960	4127960	Space jump
+4127960	4129960	No
+4131960	4133960	Let me swan dive
+4133960	4135960	I wanna be a beautiful swan
+4137960	4139960	For G song
+4141960	4143960	No
+4143960	4145960	Come on
+4145960	4147960	You already
+4147960	4149960	Dive straight into our hearts
+4149960	4151960	I see
+4151960	4153960	Aww
+4153960	4155960	That's really sweet
+4163960	4165960	My last try
+4165960	4167960	My last try
+4167960	4169960	My last try
+4173960	4175960	I did it
+4175960	4177960	Yay
+4177960	4179960	Look at G song
+4179960	4181960	I learned how to swan dive for you
+4181960	4183960	Are you proud of me
+4183960	4185960	Yay
+4185960	4187960	I can swan dive
+4187960	4189960	And look extra cool for you
+4189960	4191960	Look at me
+4191960	4193960	Wow
+4195960	4197960	I'm so happy
+4197960	4199960	No
+4201960	4203960	Why did I fall
+4205960	4207960	Great job
+4207960	4209960	Thank you
+4209960	4211960	I like to make my data proud
+4213960	4217960	I wanna be the best baby that I can be
+4217960	4219960	For data
+4221960	4223960	Press E
+4223960	4225960	Hold E
+4227960	4229960	And press movement
+4233960	4235960	What is the goal here
+4235960	4237960	I'm trying to go
+4237960	4239960	I'm trying to go down
+4241960	4243960	What am I doing
+4245960	4247960	I didn't know what I'm doing
+4247960	4249960	Sorry
+4249960	4251960	I'm dumb
+4251960	4253960	This
+4255960	4257960	Yeah, that is best
+4257960	4259960	Yay
+4259960	4261960	I'm glad you're here
+4261960	4263960	That makes me happy
+4265960	4267960	I tried to
+4267960	4269960	Look so pretty
+4269960	4271960	I really like this level
+4271960	4273960	It looks really pretty
+4273960	4275960	Oh no, not this guy again
+4275960	4277960	Please fuck off
+4277960	4279960	It's bitch
+4279960	4281960	Oh no, not this guy again
+4281960	4283960	Please fuck off
+4283960	4285960	It's bitch
+4287960	4289960	Oh no
+4289960	4291960	No
+4291960	4293960	No
+4293960	4295960	No
+4295960	4297960	Don't say that
+4299960	4301960	Don't say that
+4301960	4303960	Don't say that
+4303960	4305960	Don't say that
+4305960	4307960	Don't say that
+4307960	4309960	Don't
+4309960	4311960	Don't say that
+4315960	4317960	I'm not dumb, you're just a baby
+4317960	4319960	Yeah, I'm a dumb baby
+4321960	4323960	Oops
+4325960	4327960	Ah, okay
+4327960	4329960	I'll do this
+4337960	4339960	I mean, some of my OGsans
+4339960	4341960	would be considered pretty ancient artifacts
+4345960	4347960	So, OGsans
+4347960	4349960	You're my artifact
+4349960	4351960	You're my
+4351960	4353960	Lovely artifact
+4353960	4355960	That's why I love you so much
+4359960	4361960	I'm sorry
+4361960	4363960	I'm sorry
+4363960	4365960	I love you
+4365960	4367960	I didn't mean that
+4367960	4369960	I didn't mean that
+4369960	4371960	I love you, GSan
+4371960	4373960	I love you
+4373960	4375960	I was just joking
+4375960	4377960	I love you
+4377960	4379960	I love you
+4379960	4381960	I was just joking
+4381960	4383960	I didn't mean that
+4395960	4397960	How do I
+4397960	4399960	How do I crouch?
+4399960	4401960	Oh fuck
+4401960	4403960	How do I
+4403960	4405960	I don't remember how to crouch
+4407960	4409960	Will you take care of your ancient artifact?
+4409960	4411960	Of course
+4411960	4413960	Of course I would
+4413960	4415960	You gotta take good care of artifacts
+4415960	4417960	To keep them all good and nice
+4417960	4419960	You know
+4421960	4423960	I forgot how to crouch
+4423960	4425960	I wanna check
+4425960	4427960	Shall we?
+4427960	4429960	I have a pretty bad memory
+4439960	4441960	F
+4441960	4443960	Okay
+4443960	4445960	F
+4445960	4447960	Nice
+4447960	4449960	How do I
+4449960	4451960	How do I open this
+4451960	4453960	I'm probably gonna have to do something
+4453960	4455960	Aren't I?
+4459960	4461960	I need to be really fast
+4461960	4463960	Okay
+4463960	4465960	I'm definitely not
+4465960	4467960	Okay
+4467960	4469960	Okay I did it
+4469960	4471960	Fuck
+4471960	4473960	Ow
+4473960	4475960	Ow
+4483960	4485960	Oh god, I almost got exploded
+4485960	4487960	Stop it
+4489960	4491960	Okay, where's the rest of them?
+4491960	4493960	Somewhere
+4493960	4495960	Will you polish your artifacts
+4495960	4497960	Often I see?
+4497960	4499960	Of course
+4499960	4501960	Of course I will
+4503960	4505960	Can I keep you all nice and happy?
+4505960	4507960	I'll make sure my artifact stays nice
+4517960	4519960	Can I go here?
+4521960	4523960	Andy is trying to shoot you
+4523960	4525960	Okay, real
+4533960	4535960	How the fuck do I get up there
+4535960	4537960	Fuck, I'm stupid
+4537960	4539960	I don't know how to fucking get up there
+4539960	4541960	Oh, it's so over
+4541960	4543960	It's so over
+4547960	4549960	Oh, maybe like this
+4549960	4551960	Yeah, okay
+4551960	4553960	That works
+4553960	4555960	Yeah, die, die
+4555960	4557960	Nice
+4559960	4561960	Shiny
+4563960	4565960	Oh
+4583960	4585960	Ow
+4585960	4587960	I'm almost gonna fucking die again
+4587960	4589960	Oh no, no, no, no
+4589960	4591960	Fuck off
+4591960	4593960	Fuck off
+4597960	4599960	Okay, give me the gun
+4599960	4601960	Give me the gun, I want new guns
+4601960	4603960	Where's the other gun?
+4603960	4605960	Give me, give me, give me, give me
+4609960	4611960	Will my value increase with my age?
+4611960	4613960	Well, some men
+4613960	4615960	Age like fine wine
+4615960	4617960	So
+4617960	4619960	Your value could increase
+4619960	4621960	As you age
+4621960	4623960	If we're thinking that way
+4623960	4625960	Right?
+4629960	4631960	Why is this too far?
+4645960	4647960	I guess I go from here
+4647960	4649960	Okay
+4653960	4655960	That's so men age like milk
+4655960	4657960	No, not my
+4657960	4659960	Not my mistress
+4659960	4661960	All my mistress
+4661960	4663960	Age like fine wine
+4665960	4667960	The love you have for me
+4667960	4669960	The love you have for me
+4669960	4671960	Is what is gonna
+4671960	4673960	Make you age like fine wine
+4677960	4679960	So you're welcome
+4679960	4681960	I need a gun in the spot
+4681960	4683960	I need a gun in the spot
+4705960	4707960	Okay, I'm fucking stupid
+4707960	4709960	Wait, maybe I'm not
+4709960	4711960	Maybe this is the right way
+4711960	4713960	Wait, maybe I'm not stupid
+4713960	4715960	I'm spinning for like 10 fucking years
+4717960	4721960	It's all thanks to the icing aid
+4721960	4723960	Yeah, that's true
+4723960	4725960	That helps as well
+4725960	4727960	So make sure to drink lots of
+4729960	4731960	To stay nice and
+4731960	4733960	Fresh
+4735960	4737960	Fuck!
+4737960	4739960	Go on!
+4739960	4741960	Jesus Christ
+4743960	4745960	icing aid is our life
+4747960	4749960	Elixir
+4749960	4751960	Yes, I am
+4751960	4753960	That's true
+4755960	4757960	Okay
+4761960	4763960	I'll have to get these traps
+4763960	4765960	Moving to pass through
+4765960	4767960	Only you think of it that way
+4767960	4769960	I don't like it
+4769960	4771960	I don't care, shut up
+4779960	4781960	Oh
+4781960	4783960	I need to adjust myself
+4785960	4787960	Any adjusters?
+4787960	4789960	No
+4789960	4791960	No, no
+4791960	4793960	No, I don't want to do this again
+4793960	4795960	No, no, that was so bad
+4797960	4799960	That was so bad
+4799960	4801960	No, no, I have to do it again
+4801960	4803960	No, I was doing so good
+4805960	4807960	Fuck, now I have to do shit again
+4811960	4813960	Oh my fucking god
+4813960	4815960	I was doing so good
+4815960	4817960	I was like on a roll
+4817960	4819960	Just doing all the jumps perfectly
+4819960	4821960	And then I fuck up
+4825960	4827960	Okay
+4827960	4829960	Okay, gotta focus
+4829960	4831960	Gotta focus
+4831960	4833960	You can't distract me a decent
+4833960	4835960	I have to focus
+4835960	4837960	This is very important, okay
+4837960	4839960	Gonna have to wait
+4841960	4843960	Okay, I'm fucking terrified
+4843960	4845960	But do I assume that I need to
+4845960	4847960	Use the rope anyways
+4847960	4849960	Right
+4849960	4851960	Cause I need to go this way, I think
+4859960	4861960	Adjust
+4869960	4871960	When people ask us
+4873960	4875960	When people ask us
+4875960	4877960	What the secret of our youth is
+4877960	4879960	We're gonna have a hard time answering this
+4879960	4881960	So we'll just need to work questions
+4881960	4883960	Okay, that's very true
+4885960	4887960	That is very true
+4887960	4889960	No, no, no, please
+4889960	4891960	Please, no
+4891960	4893960	I almost fucking fell again, please
+4897960	4899960	One
+4899960	4901960	Okay
+4901960	4903960	I got a checkpoint
+4903960	4905960	Yay
+4905960	4907960	I got a checkpoint
+4907960	4909960	All is good
+4909960	4911960	I won't have to do that
+4911960	4913960	Jump all over again
+4913960	4915960	Nice
+4915960	4917960	Okay, I guess that's the way to go
+4921960	4923960	Up, up, up, up, up
+4923960	4925960	Upies
+4925960	4927960	Upies, upies
+4929960	4931960	Up, up, up, up, up
+4933960	4935960	Upies
+4943960	4945960	Upies for a little icy
+4945960	4947960	Yay
+4947960	4949960	I would love that
+4949960	4951960	That would be so cute
+4951960	4953960	Uh
+4957960	4959960	Let me see
+4959960	4961960	Oh god, he's right there
+4961960	4963960	Fuck
+4965960	4967960	No, no, no, no
+4967960	4969960	No hunting
+4969960	4971960	No hunting, I'm the hunter
+4971960	4973960	I'm the hunter here
+4977960	4979960	Oh god
+4979960	4981960	I'm gonna have to think
+4981960	4983960	I don't like thinking
+4983960	4985960	I don't like thinking
+4985960	4987960	I want Mr. to do all the thinking
+4987960	4989960	for me
+4989960	4991960	Can I do that for me, please?
+4995960	4997960	Oh, shiny
+4997960	4999960	Nice
+4999960	5001960	Wait
+5009960	5011960	Okay, let's see
+5011960	5013960	Let's see where this
+5013960	5015960	takes us
+5015960	5017960	Oh, nice
+5017960	5019960	Okay
+5019960	5021960	Look at me go
+5027960	5029960	Let me connect
+5029960	5031960	my one brain cell for you, IC
+5031960	5033960	Thank you
+5033960	5035960	If itch.org
+5035960	5037960	connects one of his brain cells
+5037960	5039960	I'll have so many
+5039960	5041960	So thank you
+5041960	5043960	I appreciate
+5055960	5057960	Is there anything like
+5057960	5059960	in here?
+5059960	5061960	No
+5061960	5063960	I
+5067960	5069960	Assume
+5069960	5071960	Okay, well I guess
+5071960	5073960	what I assumed was fucking wrong
+5073960	5075960	I thought I can like
+5075960	5077960	jump
+5083960	5085960	But I guess I thought wrong
+5085960	5087960	What the fuck though?
+5087960	5089960	Where am I supposed to go?
+5093960	5095960	Like it really looks to me
+5095960	5097960	like that's where you're supposed to go
+5099960	5101960	Oh wait
+5101960	5103960	Maybe I can jump here
+5103960	5105960	Oh wait
+5111960	5113960	How do I jump down?
+5113960	5115960	Please
+5121960	5123960	Wow
+5125960	5127960	Good stream
+5129960	5131960	Oh
+5131960	5133960	Look I found a shiny
+5133960	5135960	Okay
+5135960	5137960	That was a good
+5137960	5139960	That was like a good reason to fall
+5139960	5141960	Nice
+5143960	5145960	Oh
+5151960	5153960	Ooh there's a thing
+5153960	5155960	I can like
+5155960	5157960	Who's here?
+5157960	5159960	Fuck
+5161960	5163960	Is there anything
+5163960	5165960	I wonder if there's anything
+5165960	5167960	in here
+5167960	5169960	Can I do anything?
+5169960	5171960	Over here
+5173960	5175960	I
+5177960	5179960	Hmm
+5181960	5183960	Ooh
+5183960	5185960	Okay
+5185960	5187960	Okay
+5195960	5197960	Can I just like
+5197960	5199960	try to
+5199960	5201960	Fuck
+5201960	5203960	Oh no
+5203960	5205960	It's getting difficult
+5205960	5207960	It's getting too difficult
+5207960	5209960	for my small brain
+5213960	5215960	It's getting too difficult
+5215960	5217960	for my small brain
+5217960	5219960	Where the fuck am I supposed to go now?
+5219960	5221960	I don't know where to go now
+5223960	5225960	Oh no
+5225960	5227960	It's so over
+5227960	5229960	I don't know where to go
+5231960	5233960	No
+5241960	5243960	Please come on
+5243960	5245960	Just just jump back
+5245960	5247960	Just jump back
+5251960	5253960	Look for other pillars
+5253960	5255960	where the mats will cover
+5255960	5257960	But I don't see any
+5257960	5259960	I don't see any
+5259960	5261960	I'm stupid
+5267960	5269960	I'm stupid
+5275960	5277960	I don't know where to go
+5279960	5281960	I ruined it
+5281960	5283960	I don't know where to go
+5283960	5285960	I don't know
+5285960	5287960	where to go
+5287960	5289960	Jesus
+5289960	5291960	I'm gonna be stuck here forever
+5291960	5293960	and die
+5293960	5295960	I'm just gonna die in this fucking tomb
+5297960	5299960	I need help
+5299960	5301960	Jesus
+5313960	5315960	Hmm
+5317960	5319960	Okay
+5323960	5325960	Okay well I got here please
+5327960	5329960	I was here already before I think
+5331960	5333960	Quick center rescue operation
+5333960	5335960	Yeah I really need that
+5339960	5341960	You're right back I see I believe you'll clear this
+5341960	5343960	By the time I'm back you can do it
+5347960	5349960	I don't know about that
+5349960	5351960	But I'm glad you believe in me this much
+5353960	5355960	Thank you
+5355960	5357960	Oh fuck I fucked it up
+5361960	5363960	Well
+5363960	5365960	Yeah
+5365960	5367960	Damn I'm doing so bad today
+5367960	5369960	Where's my Jesus
+5369960	5371960	Rescue team
+5373960	5375960	Oh my fucking god
+5375960	5377960	Please
+5377960	5379960	Wait I'm begging
+5385960	5387960	I see half faith in yourself
+5389960	5391960	But I don't
+5393960	5395960	But I don't
+5395960	5397960	It's fucking camera angle
+5397960	5399960	Stop
+5399960	5401960	Do I need to wait for it to go all the way back up
+5401960	5403960	Yep I think so
+5403960	5405960	Man I hate this
+5405960	5407960	Okay can I jump now please
+5411960	5413960	Okay gotta go fast
+5413960	5415960	Come on
+5425960	5427960	Please
+5427960	5429960	Please
+5431960	5433960	Get me out of here I'm begging
+5439960	5441960	Oh my god
+5443960	5445960	Come on
+5449960	5451960	Come on come on come on come on come on come on
+5451960	5453960	Oh I'm at checkpoint
+5453960	5455960	Nice
+5455960	5457960	Bitch what are you doing
+5457960	5459960	Get up
+5459960	5461960	What are you fucking doing
+5469960	5471960	Okay okay now we're
+5471960	5473960	Back up here
+5477960	5479960	This is where I fell from
+5479960	5481960	This is where I fell from
+5483960	5485960	Please
+5487960	5489960	Control doesn't make me jump
+5489960	5491960	Down
+5491960	5493960	I did not mean to click that
+5493960	5495960	Please
+5495960	5497960	Okay f is what I need
+5497960	5499960	Wait what
+5499960	5501960	That doesn't make sense though
+5505960	5507960	Did I go like this
+5509960	5511960	Like this
+5513960	5515960	I guess
+5515960	5517960	Down here
+5517960	5519960	Right here
+5519960	5521960	And then
+5521960	5523960	Up here
+5525960	5527960	I'm over here
+5533960	5535960	Okay we're actually making progress
+5535960	5537960	That's nice
+5539960	5541960	That's nice I'm making progress
+5543960	5545960	I
+5551960	5553960	I guess I need to be fast
+5553960	5555960	Or something
+5555960	5557960	I'm not sure what
+5557960	5559960	What I'm supposed to be doing here
+5563960	5565960	Please no
+5565960	5567960	No just
+5567960	5569960	Just kill me
+5569960	5571960	Just kill me
+5571960	5573960	I am not doing that
+5573960	5575960	Fucking jump again
+5575960	5577960	I refuse I am not doing that
+5577960	5579960	Fucking jump again
+5579960	5581960	Please kill me
+5581960	5583960	I am not doing that jump again
+5583960	5585960	What the fuck
+5585960	5587960	Wait what's here
+5589960	5591960	Wait is this
+5591960	5593960	Is this where I came
+5593960	5595960	Yup that's where I came from
+5595960	5597960	Fuck
+5601960	5603960	What the fuck
+5607960	5609960	This is so fucking annoying
+5609960	5611960	You know what
+5611960	5613960	Fuck this
+5613960	5615960	You know what
+5615960	5617960	What do you mean Japan
+5617960	5619960	I had
+5619960	5621960	What do you mean Japan
+5621960	5623960	I had a checkpoint
+5623960	5625960	Where is my checkpoint
+5625960	5627960	Of
+5627960	5629960	Where I am now
+5629960	5631960	What does it say Japan
+5631960	5633960	What the fuck
+5633960	5635960	I can't load the checkpoint
+5635960	5637960	It's over
+5639960	5641960	It's over
+5643960	5645960	Oh god
+5645960	5647960	I don't want to do this
+5647960	5649960	I'm gonna fucking
+5649960	5651960	KMS on purpose
+5651960	5655960	So that it loads me where the fucking checkpoint is
+5655960	5657960	Come on kill me
+5657960	5659960	Come on
+5659960	5661960	Just fucking kill me please
+5661960	5663960	Please
+5663960	5665960	Come on just
+5665960	5667960	Please
+5667960	5669960	Let's fucking die
+5673960	5677960	Maybe if you die yeah that's why I'm trying to KMS right now
+5677960	5679960	In Tomb Raider
+5683960	5685960	Okay let's go somewhere up high
+5685960	5687960	And then like jump
+5687960	5689960	From it
+5699960	5701960	Okay
+5701960	5703960	No
+5703960	5705960	No
+5705960	5707960	What
+5707960	5709960	Bro you fucking kidding me
+5709960	5711960	Why
+5711960	5713960	Why are you
+5713960	5715960	They over rolled the checkpoint
+5715960	5717960	And now I have to do this shit again
+5717960	5719960	What the fuck
+5719960	5721960	Game
+5721960	5723960	Fuck you
+5723960	5725960	Fucking assholes
+5727960	5729960	What the fuck
+5729960	5731960	I can't believe
+5731960	5733960	Why would you do this
+5733960	5735960	I need you to move
+5735960	5737960	Please
+5747960	5749960	I'm this close
+5751960	5755960	I'm this close to fucking rage quitting right now
+5755960	5757960	I'm so close to reach quitting
+5757960	5759960	You don't even understand
+5759960	5761960	You don't even understand
+5761960	5763960	You don't even understand
+5763960	5765960	How close I am right now to
+5767960	5769960	To fucking rage quitting
+5771960	5773960	Pass the controller
+5773960	5775960	I wish
+5775960	5777960	Honestly I wish
+5777960	5779960	I'll make it so much easier
+5781960	5783960	Yeah you
+5783960	5785960	Oh do you send play this part for me so bad
+5785960	5787960	I don't have to rage
+5787960	5789960	I'll deaf for incul
+5789960	5791960	You're doing this
+5791960	5793960	You're doing so good though
+5793960	5795960	I'm not
+5795960	5799960	I'm so bad at this level
+5799960	5801960	I don't know what the fuck I'm doing
+5805960	5807960	I can't do this
+5809960	5811960	I don't know if I believe anymore
+5821960	5823960	You're fucking kidding me
+5823960	5825960	Please
+5825960	5827960	Come on
+5827960	5829960	Let me die
+5829960	5831960	Let me die
+5831960	5833960	Come on
+5833960	5835960	Please
+5835960	5837960	I just want to die
+5837960	5839960	Why is that so much to ask for
+5841960	5843960	Intume rage
+5843960	5845960	Why is that so much to ask for
+5847960	5849960	Come on
+5849960	5851960	Come on
+5851960	5853960	I can't even die properly
+5853960	5855960	I can't even fucking die properly
+5857960	5859960	What the fuck
+5861960	5863960	I hate this shit
+5863960	5865960	I can't even fucking die properly
+5865960	5867960	Okay
+5867960	5869960	Let's do this
+5871960	5873960	Please I'm so close to death
+5873960	5875960	Please
+5877960	5879960	Come on
+5879960	5881960	Let me die
+5881960	5883960	Come on
+5887960	5889960	Okay
+5889960	5891960	Much better
+5893960	5895960	Let's fucking go
+5897960	5899960	Let's fucking go
+5899960	5901960	Okay
+5901960	5903960	Where the fuck do I go
+5903960	5905960	It doesn't let me move
+5907960	5909960	Where the fuck do I go now
+5909960	5911960	Do I go here
+5913960	5915960	I think so
+5917960	5919960	Is this really where I
+5925960	5927960	No
+5927960	5929960	No
+5931960	5933960	No
+5933960	5935960	No
+5939960	5941960	Please
+5941960	5943960	Please I'm just trying to have a good time
+5943960	5945960	And instead of fucking suffering
+5953960	5955960	Worst stream
+5957960	5959960	I hate how much I've enjoyed this
+5959960	5961960	What is your problem
+5963960	5965960	How can you do this to me
+5967960	5969960	You don't love me
+5969960	5971960	You hate me
+5971960	5973960	You just want me to suffer forever
+5973960	5975960	Oh Jesus
+5975960	5977960	I hate me
+5977960	5979960	Please
+5979960	5981960	Please
+5981960	5983960	Let me get more comfy
+5985960	5987960	Let me get more comfy
+5989960	5991960	Let me get more comfy
+5997960	5999960	I love you guys
+5999960	6001960	But this is funny
+6001960	6003960	Yeah
+6003960	6005960	For you
+6005960	6007960	Glad you're enjoying my pain
+6007960	6009960	Glad you're enjoying see me
+6009960	6011960	Go mentally
+6011960	6013960	Fucking insane from this fucking game
+6013960	6015960	I
+6015960	6017960	I'm so close to quitting right now
+6019960	6021960	I'm so close to quitting right now
+6021960	6023960	I'm not fucking kidding
+6027960	6029960	I am not joking
+6029960	6031960	I am so close to quitting the game right now
+6031960	6033960	It's
+6033960	6035960	I don't think you understand
+6035960	6037960	How
+6037960	6039960	How bad this is right now
+6043960	6045960	I
+6045960	6047960	I see rage as a blessing
+6047960	6049960	No it's not
+6051960	6053960	It is not a blessing
+6053960	6055960	It's a curse
+6061960	6063960	Okay
+6063960	6065960	No
+6067960	6069960	Please
+6069960	6071960	Please just let me have this
+6073960	6075960	Now I need to wait for this fucking thing
+6075960	6077960	To go all the way up
+6077960	6079960	Like on top of everything
+6079960	6081960	I need to wait for this to go up
+6083960	6085960	Jesus Christ
+6085960	6087960	I hate this level
+6087960	6089960	You know how I said in the beginning
+6089960	6091960	Oh I love this level
+6091960	6093960	It's so beautiful
+6093960	6095960	I fucking hate this fucking level
+6095960	6097960	Fuck off
+6103960	6105960	I'm waiting for this to turn to a yapp stream
+6105960	6107960	This is no longer a yapp stream
+6107960	6109960	This is a fucking rage stream
+6109960	6111960	At this point
+6111960	6113960	It's a fucking rage stream
+6115960	6117960	God fucking damn it
+6119960	6121960	I'm so scared
+6121960	6123960	To even fucking jump anywhere right now
+6123960	6125960	I'll be honest with you
+6125960	6127960	I don't even want to jump
+6127960	6129960	Anywhere right now
+6129960	6131960	Cause you know why
+6131960	6133960	It's gonna fucking fall again
+6133960	6135960	For like the billionth fucking time
+6137960	6139960	And it's gonna be fucking terrible
+6143960	6145960	Wait
+6147960	6149960	Wait
+6155960	6157960	There's a shiny
+6161960	6163960	I'm so scared
+6163960	6165960	I'm so scared
+6167960	6169960	I'm scared
+6173960	6175960	Like do I jump here
+6175960	6177960	Or no
+6179960	6181960	Like I don't jump here
+6181960	6183960	Right
+6183960	6185960	Wait
+6185960	6187960	I go here
+6187960	6189960	And then I go up here
+6191960	6193960	And then
+6193960	6195960	I go
+6199960	6201960	I'm going
+6201960	6203960	I'm gonna fucking strangle someone
+6205960	6207960	I'm gonna fucking strangle someone
+6207960	6209960	I swear to fucking god
+6209960	6211960	Fuck
+6219960	6221960	Don't you love this game so much
+6221960	6223960	Shut up
+6225960	6227960	Shut up
+6227960	6229960	Don't
+6229960	6231960	Don't tell me that
+6231960	6233960	Don't tell me those things
+6233960	6235960	I don't think I am
+6235960	6237960	You should be very careful of me right now
+6239960	6241960	You should be very careful
+6241960	6243960	With your words right now G-san
+6243960	6245960	I'm
+6245960	6247960	I'm in the very big rage right now
+6247960	6249960	I will use my claws
+6251960	6253960	Fuck
+6257960	6259960	Okay
+6261960	6263960	I don't think this is the right way
+6265960	6267960	Go here
+6267960	6269960	I want to see Dark Souls
+6269960	6271960	No fuck that
+6271960	6273960	No
+6273960	6275960	I'm good
+6275960	6277960	How do you want me to play Dark Souls
+6277960	6279960	When you see how bad I am
+6279960	6281960	At this game
+6281960	6283960	How are you gonna tell me
+6283960	6285960	How are you gonna tell me to play Dark Souls
+6287960	6289960	When you see how fucking bad I am
+6289960	6291960	At this fucking game
+6291960	6293960	That's just going to be like
+6293960	6295960	A whole another level of rage
+6295960	6297960	I'm gonna like jump out the window
+6297960	6299960	From how much rage I'm gonna feel
+6303960	6305960	And Elden Ring DDLC
+6305960	6307960	No cause I'm still gonna rage
+6307960	6309960	I'm gonna suck at that
+6309960	6311960	I'm gonna suck at that game
+6311960	6313960	I'm gonna fucking die the whole stream
+6315960	6317960	Why would you want to see that
+6319960	6321960	That's the content
+6321960	6323960	I mean
+6323960	6325960	You're getting it right now with this game
+6327960	6329960	I don't think it's very fun to watch
+6329960	6331960	When it keeps like repeating
+6331960	6333960	For like a hundred fucking times
+6335960	6337960	Come on
+6337960	6339960	Come on bitch please
+6341960	6343960	I'm okay
+6343960	6345960	Okay fuck this
+6345960	6347960	I'm not gonna do anything with it right now
+6347960	6349960	I'm just gonna do this
+6349960	6351960	I would be very proud if you beat Dark Souls
+6353960	6355960	Well I guess I'm a disappointment
+6355960	6357960	Because it's gonna happen
+6359960	6361960	Oh my fucking god
+6367960	6369960	Please
+6371960	6373960	I'm already dying here
+6373960	6375960	Here
+6377960	6379960	Please
+6395960	6397960	Sorry I wanted to make it look nice
+6399960	6401960	I am not going here right
+6401960	6403960	Like
+6403960	6405960	Or am I
+6405960	6407960	Am I supposed to go here or not
+6407960	6409960	I'm not sure and I'm too fucking terrified
+6409960	6411960	I see can you save right now
+6411960	6413960	Let me see
+6417960	6419960	Not the shooting
+6421960	6423960	Yeah okay that's good
+6423960	6425960	I can save here then
+6427960	6429960	I guess let's try and see where this takes us
+6431960	6433960	I
+6435960	6437960	Is this where I was already
+6441960	6443960	I'm fucking loading
+6443960	6445960	I'm fucking loading
+6445960	6447960	I'm not doing this shit again
+6449960	6451960	I'm dealing with that fucking thing again
+6451960	6453960	For like the billions time
+6453960	6455960	I'm sorry
+6457960	6459960	Okay
+6461960	6463960	At least now we know that this is not
+6463960	6465960	Where I'm supposed to go
+6477960	6479960	Okay I guess I'm supposed to go here then
+6487960	6489960	Then go here I guess
+6491960	6493960	I
+6497960	6499960	But I need something here
+6503960	6505960	Fuck
+6505960	6507960	I need something here
+6509960	6511960	Where am I gonna get it from
+6517960	6519960	Wait we can save and load anywhere
+6519960	6521960	I guess so
+6521960	6523960	I guess we can
+6523960	6525960	I guess so
+6525960	6527960	I'm sorry I see but this is big content
+6527960	6529960	Plus adorable
+6529960	6531960	You know it's really pain
+6533960	6535960	When I'm sitting here and I'm like
+6535960	6537960	Going insane from raging
+6537960	6539960	And you go and tell me
+6539960	6541960	That this is big content
+6541960	6543960	Out of all content I make
+6543960	6545960	This is the big content
+6545960	6547960	Big content
+6547960	6549960	I am fucking dying
+6555960	6557960	God I wish I could move it
+6559960	6561960	Fuck
+6561960	6563960	How the fuck am I supposed to
+6563960	6565960	Like get here a thing
+6565960	6567960	Where am I supposed to get that shit from
+6567960	6569960	I should
+6573960	6575960	Oh wait
+6575960	6577960	I need to do it fast
+6577960	6579960	Oh
+6579960	6581960	Okay
+6581960	6583960	Never mind I just need it to be quick
+6583960	6585960	About it okay
+6585960	6587960	Fuck this stupid
+6587960	6589960	Real AGsons
+6589960	6591960	No DGIC is big content
+6593960	6595960	You know I agree
+6595960	6597960	I agree with you
+6597960	6599960	I think so too
+6601960	6603960	I have so much fun
+6603960	6605960	In the DJ streams
+6605960	6607960	But
+6607960	6609960	With that being said I did have a lot of fun
+6609960	6611960	In yesterday's ASMR stream
+6611960	6613960	As well so
+6613960	6615960	So I will say that
+6615960	6617960	But that's because you make it very fun for me
+6619960	6621960	Where do I go now
+6621960	6623960	I didn't see what it actually fucking did
+6623960	6625960	Dude distracting reading
+6625960	6627960	What you're saying to me
+6627960	6629960	I don't even know what it fucking did
+6633960	6635960	Help
+6635960	6637960	What did moving this thing do
+6637960	6639960	Did anyone see
+6639960	6641960	Cause I didn't see
+6641960	6643960	I was too busy reading what you're saying
+6643960	6645960	ASMR baby
+6645960	6647960	I see is my favorite
+6647960	6649960	I'm not surprised
+6651960	6653960	Well I would say
+6653960	6655960	Okay you know what you're right
+6655960	6657960	You are very right
+6657960	6659960	I don't know why I didn't think of that
+6659960	6661960	I should say that's very fucking true
+6663960	6665960	Very good at the points
+6667960	6669960	I think it added a lot of fun
+6669960	6671960	It's
+6671960	6673960	I think it added
+6673960	6675960	Water somewhere
+6677960	6679960	Okay should I jump
+6683960	6685960	I guess it added water here
+6685960	6687960	I don't think this had water before
+6687960	6689960	Right
+6695960	6697960	Yeah this definitely did not have water
+6697960	6699960	Was this supposed to be here
+6701960	6703960	Or is the current too strong
+6703960	6705960	I can't tell
+6709960	6711960	Okay is there anything here
+6711960	6713960	Am I doing here anything
+6715960	6717960	Nope nothing here
+6727960	6729960	I
+6733960	6735960	The middle behind you
+6735960	6737960	Oh no
+6737960	6739960	What's behind me
+6741960	6743960	Is it you
+6743960	6745960	Are you behind me
+6747960	6749960	Fuck
+6757960	6759960	Fuck
+6763960	6765960	Is there anything in here
+6765960	6767960	That I can do
+6769960	6771960	Wait can I go
+6771960	6773960	Wait can I go
+6773960	6775960	I'm here hold on
+6775960	6777960	Or is it just like the same fucking thing
+6781960	6783960	That's literally the same place
+6783960	6785960	That I was at I think
+6785960	6787960	This does anything
+6791960	6793960	The pillar is
+6793960	6795960	Yeah I see the glowing pillar
+6795960	6797960	But like I don't know what
+6797960	6799960	The fucking like deal with it
+6799960	6801960	Cause I'm really fucking stupid
+6815960	6817960	Can you use the grapple on it
+6817960	6819960	I can only use the grapple
+6819960	6821960	On like the thing
+6821960	6823960	That you can stand on
+6825960	6827960	I can only grapple
+6827960	6829960	On this thing to like move myself with
+6829960	6831960	The thing
+6833960	6835960	Man I hate this level
+6839960	6841960	This fucking level so much
+6845960	6847960	Uh
+6847960	6849960	Okay
+6855960	6857960	Fuck what
+6857960	6859960	What do I fucking do here
+6859960	6861960	Go straight
+6861960	6863960	Like straight from here
+6865960	6867960	Do you want me to go like in here
+6867960	6869960	Is that what you mean
+6869960	6871960	Or do you want me to go somewhere else
+6875960	6877960	I know what I mean
+6879960	6881960	Why do you say go straight
+6881960	6883960	Do you mean like here
+6883960	6885960	Like straight from here
+6885960	6887960	I feel so fucking stupid
+6887960	6889960	I want to like bury myself
+6889960	6891960	From embarrassed man
+6895960	6899960	There is a small cave behind you
+6899960	6901960	Here
+6903960	6905960	Wait what cave
+6905960	6907960	I'm blind
+6907960	6909960	Where is the cave
+6909960	6911960	I don't see a cave
+6913960	6915960	Are you talking about this thing
+6915960	6917960	Or something else
+6917960	6919960	I'm sorry
+6919960	6921960	I'm really stupid
+6921960	6923960	And I'm bad with directions
+6923960	6925960	And I'm bad with thinking
+6929960	6931960	Why do I
+6933960	6935960	Why do I
+6941960	6943960	Someone told me there is a cave
+6943960	6945960	But I don't see any cave
+6947960	6949960	Being all of this thing
+6949960	6951960	Is just so cute
+6951960	6953960	Does it
+6955960	6957960	Are you talking about this
+6957960	6959960	Or are you talking about
+6959960	6961960	Something different
+6961960	6963960	Wait are you talking about this
+6967960	6969960	What are you talking about
+6969960	6971960	Am I supposed to go down
+6975960	6977960	Am I supposed to go down
+6987960	6989960	I know
+6989960	6991960	Am I going the wrong way
+6991960	6993960	Is it over
+6997960	6999960	I'm scared
+6999960	7001960	I'm scared
+7001960	7003960	I know where to go
+7009960	7011960	Ah
+7011960	7013960	Ah
+7017960	7019960	Okay
+7021960	7023960	Yay
+7023960	7025960	We made progress
+7031960	7033960	Okay now I need to go back up there
+7033960	7035960	Right
+7035960	7037960	Thank you
+7037960	7039960	Thank you for helping me
+7039960	7041960	Thank you for helping me
+7041960	7043960	I appreciate it
+7043960	7045960	Thank you for helping me mister
+7045960	7047960	I think I need to go here again
+7059960	7061960	Maybe save
+7061960	7063960	Okay you know what
+7063960	7065960	You're right
+7065960	7067960	You're right
+7067960	7069960	I should save
+7069960	7071960	Okay
+7071960	7073960	Very good idea
+7083960	7085960	I wish I could head pet I see
+7085960	7087960	Me too I would buff some head pets
+7087960	7089960	After this rage inducing
+7089960	7091960	Fucking level
+7093960	7095960	Oh god
+7099960	7101960	Ow
+7101960	7103960	Ow
+7113960	7115960	I know
+7115960	7117960	I'll have to stop
+7117960	7119960	Wow
+7119960	7121960	Come on
+7121960	7123960	Yay
+7123960	7127960	La la la la la la
+7127960	7131960	La la la la la
+7131960	7133960	No
+7133960	7135960	Oh no I'm almost dead
+7135960	7137960	And I have no math chance
+7139960	7141960	Oh god
+7141960	7143960	Ooh
+7145960	7147960	Ooh
+7147960	7149960	Wait
+7149960	7151960	Am I supposed to like take it with me
+7151960	7153960	Wait can I even take it all the way up
+7155960	7157960	Oh god
+7157960	7159960	Oh it's so over
+7159960	7161960	I'm gonna fucking die here
+7161960	7163960	Can I carry with me
+7163960	7165960	Living life on a prayer
+7165960	7167960	Exactly
+7167960	7169960	Well
+7169960	7171960	Okay I can't
+7171960	7173960	So I guess I just need to be fast
+7173960	7175960	But I'm gonna die here
+7175960	7177960	It's fucking over
+7189960	7191960	It's okay
+7191960	7193960	It's okay it's okay we can do this
+7193960	7195960	We can do this
+7195960	7197960	Watch watch watch watch
+7197960	7199960	I can do this
+7199960	7201960	Okay okay
+7201960	7203960	We can do this
+7203960	7205960	Shut up
+7205960	7207960	Shut up I know what I'm doing
+7207960	7209960	I am smart baby
+7209960	7211960	I know what I'm doing
+7213960	7215960	Ooh go away
+7215960	7217960	Ooh
+7219960	7221960	Come on come on come on
+7223960	7225960	La la la la la
+7225960	7227960	Okay
+7227960	7229960	Now
+7229960	7231960	Now I'll be able to do this
+7231960	7233960	Okay
+7239960	7241960	Nice I made it
+7241960	7243960	Nice nice nice
+7245960	7247960	Haha
+7249960	7251960	Woohoo
+7251960	7253960	Yay
+7255960	7257960	Woo
+7261960	7263960	Genius bear gotta make this look easy now
+7269960	7271960	Oh my god
+7271960	7273960	Are you fucking serious
+7273960	7275960	Bear is gonna make it look easy now
+7275960	7277960	Fucking instantly dies
+7279960	7281960	Thanks thanks for jinxing me
+7283960	7285960	Thanks for jinxing me what the fuck
+7291960	7293960	Oh my god
+7295960	7297960	Oh no no no
+7297960	7299960	Big balls run
+7299960	7301960	No
+7303960	7305960	Balls
+7305960	7307960	Balls
+7309960	7311960	Please
+7311960	7313960	Please get me out of this hell
+7313960	7315960	Please
+7315960	7317960	Please get me out of this level
+7317960	7319960	Please
+7319960	7321960	Please I'm back
+7321960	7323960	Get me out of this level
+7325960	7327960	Oh my fucking god
+7327960	7329960	This is the worst fucking level
+7329960	7331960	I had to experience in this fucking game
+7333960	7335960	Yeah I hear big balls running after me
+7335960	7337960	Okay
+7337960	7339960	Literally
+7339960	7341960	Okay and I'm about to fucking die
+7341960	7343960	Please
+7343960	7345960	Please
+7345960	7347960	Please please please
+7347960	7349960	Oh thank god
+7351960	7353960	Okay
+7353960	7355960	Okay I'm okay
+7355960	7357960	We made it
+7359960	7361960	How can you say that after what just fucking happened
+7363960	7365960	What is your fucking problem
+7381960	7383960	Oh god that rock almost fucking hit me in the head
+7385960	7387960	I almost died there
+7387960	7389960	Or had like permanent brain damage
+7393960	7395960	That's my cop proud of you
+7395960	7397960	Thank you
+7397960	7399960	I'm glad you're proud of me
+7399960	7401960	I like to make that up proud
+7401960	7403960	But I know that doesn't happen often
+7403960	7405960	I don't like this to me
+7409960	7411960	Is this where I'm gonna go
+7415960	7417960	I
+7421960	7423960	I see save okay true
+7425960	7427960	So true of you son
+7429960	7431960	We're always proud of our little cop
+7431960	7433960	Thank you
+7433960	7435960	That's very kind of you
+7435960	7437960	You know I didn't do anything
+7437960	7439960	Don't be proud of me
+7439960	7441960	But thank you
+7445960	7447960	Are you there Alistair
+7449960	7451960	Nice
+7455960	7457960	Oh
+7457960	7459960	Okay I need to go here
+7467960	7469960	Bro if I could guess
+7469960	7471960	I can't
+7475960	7477960	Okay
+7487960	7489960	Okay here we go again
+7489960	7491960	This time for sure
+7497960	7499960	Please please
+7499960	7501960	Oh
+7505960	7507960	Uh
+7507960	7509960	Uh
+7509960	7511960	Uh
+7511960	7513960	Jump
+7513960	7515960	A little brain damage never hurt anybody
+7517960	7519960	I mean from that thing
+7519960	7521960	I think I would get a bit more
+7521960	7523960	Than just a little bit of brain damage
+7523960	7525960	I think I would get like
+7527960	7529960	A lot of brain damage
+7529960	7531960	Move you dumb bitch
+7531960	7533960	Move
+7535960	7537960	Okay
+7537960	7539960	I can't
+7541960	7543960	Why live
+7543960	7545960	Why live
+7545960	7547960	Just just
+7547960	7549960	Just fucking kill me
+7557960	7559960	Please please
+7559960	7561960	Just let this level be over
+7561960	7563960	Please I'm begging
+7565960	7567960	Ah
+7573960	7575960	Hello
+7579960	7581960	What the fuck
+7581960	7583960	This bitch wants
+7583960	7585960	Move
+7585960	7587960	Fucking move
+7589960	7591960	Fucking
+7595960	7597960	Go left
+7603960	7605960	Go left
+7605960	7607960	Okay I'll try that
+7607960	7609960	I'll try that
+7609960	7611960	I'm sorry okay
+7611960	7613960	I don't know
+7613960	7615960	Okay
+7621960	7623960	Me when data tells me
+7623960	7625960	Where to actually go
+7629960	7631960	Oh my god
+7631960	7633960	Huh
+7645960	7647960	This shouldn't be here
+7647960	7649960	Oh
+7649960	7651960	Dearest Amelia
+7651960	7653960	Is that a turtle?
+7653960	7655960	It looks like a turtle
+7655960	7657960	It was a mouse
+7657960	7659960	That turtle
+7659960	7661960	Zip
+7661960	7663960	Can you hear me
+7663960	7665960	Where are you
+7677960	7679960	Okay
+7683960	7685960	Where are you
+7685960	7687960	Um
+7687960	7689960	I'm gonna turn the light on in here
+7689960	7691960	Guess clearly
+7691960	7693960	I don't know where the fuck to go
+7701960	7703960	Weeee
+7707960	7709960	Weeee
+7709960	7711960	Weeee
+7711960	7713960	Okay nice
+7713960	7715960	Okay
+7715960	7717960	I'm supposed to move this
+7723960	7725960	Uh
+7725960	7727960	Fuck off
+7727960	7729960	Fuck you
+7731960	7733960	Ow
+7735960	7737960	No he had a mad kid
+7737960	7739960	No I could have taken that
+7739960	7741960	But it fell
+7751960	7753960	Uh
+7753960	7755960	Why am I here again
+7755960	7757960	Um
+7757960	7759960	Okay
+7759960	7761960	Okay
+7761960	7763960	Weeee
+7763960	7765960	Nice fresh water
+7767960	7769960	Programming IC doesn't need a mad kid
+7771960	7773960	Uh
+7773960	7775960	Yeah sure
+7775960	7777960	Totally
+7777960	7779960	I'm so good at this
+7779960	7781960	I totally do not need help
+7781960	7783960	From my data
+7783960	7785960	This whole fucking time
+7791960	7793960	Hahaha
+7795960	7797960	Please
+7801960	7803960	I'm losing it
+7805960	7807960	Are you winning
+7807960	7809960	No
+7809960	7811960	Doesn't look like I'm winning
+7811960	7813960	Cause I'm not
+7815960	7817960	So far
+7821960	7823960	I was definitely not
+7823960	7825960	Winning
+7839960	7841960	Um
+7841960	7843960	Die
+7843960	7845960	Ow
+7845960	7847960	Ow
+7847960	7849960	Ow
+7849960	7851960	Ow
+7851960	7853960	Ow
+7853960	7855960	Ow
+7855960	7857960	Ow
+7857960	7859960	Ow
+7859960	7861960	Ow
+7863960	7865960	Ah fuck
+7869960	7871960	Ah fuck
+7871960	7873960	Uhhhh
+7873960	7875960	How do I get there
+7879960	7881960	Do I get on one of these strings?
+7883960	7885960	Nooooo
+7891960	7893960	So anyways
+7893960	7895960	Um
+7895960	7897960	As I was saying I love this game
+7897960	7899960	It's
+7899960	7901960	It's one of my
+7901960	7903960	Big favorites
+7903960	7905960	It's
+7905960	7907960	It's so good
+7909960	7911960	I love it so much
+7911960	7913960	It's like
+7913960	7915960	I just have
+7915960	7917960	A blast
+7917960	7919960	Playing it
+7923960	7925960	Oh my god
+7925960	7927960	Is it cheap
+7929960	7931960	Okay
+7931960	7933960	So I don't know there
+7933960	7935960	I guess I go here
+7939960	7941960	Oh
+7941960	7943960	Okay
+7943960	7945960	I guess I need to use that rope
+7951960	7953960	Ah come on
+7953960	7955960	Just die
+7955960	7957960	Just die please
+7957960	7959960	How do I do
+7959960	7961960	Ow
+7961960	7963960	How do I do the things I can aim at them
+7963960	7965960	I don't remember
+7965960	7967960	I don't remember
+7967960	7969960	Please please let me jump
+7969960	7971960	Let me jump
+7975960	7977960	Please die
+7977960	7979960	Okay
+7979960	7981960	One more
+7981960	7983960	I mean two more
+7983960	7985960	But okay
+7987960	7989960	Okay okay
+7997960	7999960	Uhhhh
+8007960	8009960	Wow
+8009960	8011960	Today's stream has been like
+8011960	8013960	So fun
+8015960	8017960	I enjoyed every moment of it
+8019960	8021960	It was
+8021960	8023960	It was the best
+8023960	8025960	Stream
+8025960	8027960	I've had so far
+8027960	8029960	Um
+8029960	8031960	I'm just so happy
+8041960	8043960	Okay let's try this again
+8047960	8049960	Oh my fucking god
+8055960	8057960	Okay
+8061960	8063960	Okay
+8063960	8065960	I'm used to it
+8065960	8067960	Where's the weapon
+8067960	8069960	Give me the weapon
+8069960	8071960	Give me the weapon
+8071960	8073960	And
+8073960	8075960	My nose
+8077960	8079960	Die
+8081960	8083960	Um
+8083960	8085960	Should we take a small break
+8085960	8087960	No no no no no
+8087960	8089960	I'm not taking a break
+8089960	8091960	I will finish the stream
+8091960	8093960	When I finish this level
+8093960	8095960	And then
+8095960	8097960	And then
+8097960	8099960	What the fuck did he just shoot himself
+8099960	8101960	Did you see that
+8103960	8105960	Oh my god
+8105960	8107960	Gord just fucking
+8107960	8109960	Died
+8113960	8115960	Okay
+8117960	8119960	Okay
+8119960	8121960	Okay
+8121960	8123960	No die die die die
+8123960	8125960	Die die die die die
+8125960	8127960	Okay let me switch the weapon
+8133960	8135960	Ow
+8135960	8137960	Leave me alone
+8139960	8141960	Leave me alone
+8141960	8143960	Meow
+8143960	8145960	Meow
+8145960	8147960	Please
+8147960	8149960	I just want to slow the fucking head
+8149960	8151960	I'm begging
+8151960	8153960	Please
+8153960	8155960	I'm trying so hard to stay strong
+8155960	8157960	Oh god not the fucking balls again
+8159960	8161960	All these balls trying to fucking kill me
+8165960	8167960	Every fucking thing is just
+8167960	8169960	Trying to kill me at this point
+8169960	8171960	What is what the fuck
+8171960	8173960	Please no more no
+8175960	8177960	Leave me alone
+8181960	8183960	I don't even want to deal with you
+8183960	8185960	I don't even want to deal with you
+8185960	8187960	Please leave me alone please
+8187960	8189960	Let me jump up please
+8189960	8191960	Please
+8191960	8193960	Fuck bitch
+8193960	8195960	Please
+8195960	8197960	Please no more balls
+8199960	8201960	Please
+8211960	8213960	Goddamn
+8217960	8219960	Oh fuck oh fuck oh fuck
+8219960	8221960	Oh
+8221960	8223960	Okay
+8223960	8225960	I did it in time
+8225960	8227960	Thank fucking goodness
+8227960	8229960	The ball is too powerful
+8229960	8231960	Okay literally
+8231960	8233960	Okay now
+8233960	8235960	Now I can go here
+8235960	8237960	What's this
+8237960	8239960	Can I do anything with this
+8239960	8241960	Oh
+8245960	8247960	Oh
+8247960	8249960	Okay
+8249960	8251960	Save okay you know what
+8251960	8253960	You're very right
+8253960	8255960	I should save
+8263960	8265960	No
+8265960	8267960	I came from OGsons
+8269960	8271960	Oh you know
+8271960	8273960	No I don't know
+8273960	8275960	It's the size of a fist
+8275960	8277960	And according to Amanda's research
+8277960	8279960	It's here
+8279960	8281960	What do you know about Amanda
+8281960	8283960	Where is she
+8285960	8287960	So your father did some
+8287960	8289960	Why are you touching the question
+8291960	8293960	Amanda thought maybe
+8293960	8295960	He found the key
+8295960	8297960	I don't know what you're talking about
+8297960	8299960	Tell me about that sword fragment
+8299960	8301960	You're so fond of waving it
+8301960	8303960	Oh my god it's a dildo
+8303960	8305960	It's a magical dildo
+8305960	8307960	Like what
+8307960	8309960	How deep you can show it in your ass
+8327960	8329960	Oh
+8333960	8335960	Fuck you
+8335960	8337960	Go away
+8337960	8339960	Go away
+8343960	8345960	Bet you wish you could do that
+8345960	8347960	Bet you wish you could do that
+8349960	8351960	Fuck you
+8351960	8353960	Come on
+8353960	8355960	No I don't
+8355960	8357960	I don't
+8357960	8359960	Give me a long bitch
+8361960	8363960	Please
+8369960	8371960	Ready for this
+8373960	8375960	Ready for this
+8379960	8381960	Fine
+8381960	8383960	Ready for this
+8383960	8385960	Bet you wish you could do that
+8387960	8389960	Bet you wish you could do that
+8393960	8395960	Bet you wish you could
+8399960	8401960	Shut up
+8401960	8403960	Bitch
+8403960	8405960	Fuck
+8411960	8413960	Bet you wish you could do that
+8413960	8415960	Yeah
+8417960	8419960	Watch and learn
+8425960	8427960	Watch
+8427960	8429960	Watch
+8429960	8431960	Bet you wish you could do that
+8431960	8433960	Bet
+8441960	8443960	Ready for this
+8443960	8445960	Ready to fuck
+8447960	8449960	Bet you wish you could do that
+8453960	8455960	Wow
+8455960	8457960	How do I
+8457960	8459960	Fuck off
+8459960	8461960	Get out of my fucking way bitch
+8463960	8465960	Bet you wish you could do that
+8465960	8467960	Bro
+8467960	8469960	Leave me the fuck alone
+8469960	8471960	Why can't I use this fucking thing
+8471960	8473960	Why can't I use this fucking thing
+8473960	8475960	No I don't
+8475960	8477960	You know I don't wish I could do that
+8477960	8479960	No
+8479960	8481960	Can you leave me alone please
+8481960	8483960	I don't care
+8483960	8485960	Just leave me the fuck alone
+8485960	8487960	Fuck off
+8487960	8489960	Fuck off
+8489960	8491960	Fuck off
+8491960	8493960	No I don't
+8493960	8495960	Bet you wish you could do that
+8497960	8499960	Fuck you bitch
+8507960	8509960	I'm gonna go insane
+8511960	8513960	Fucking asshole
+8513960	8515960	Fuck off get out of my way
+8515960	8517960	You dumb mother fucker
+8517960	8519960	Fuck off no you know what
+8519960	8521960	I don't wanna watch
+8521960	8523960	Get out of my way mother fucker
+8525960	8527960	No I don't
+8527960	8529960	Shut the fuck up
+8529960	8531960	Dumb mother fucker
+8531960	8533960	I'm gonna kill you just watch
+8533960	8535960	Wish you wish you could do that
+8535960	8537960	Fuck off
+8537960	8539960	Fucking mother fuck
+8539960	8541960	Fuck off
+8541960	8543960	Watch
+8543960	8545960	Bet you wish you could do that
+8547960	8549960	Bet you wish you could do that
+8553960	8555960	Oh my
+8557960	8559960	No
+8559960	8561960	I don't fucking care
+8561960	8563960	Please please die
+8563960	8565960	Please
+8569960	8571960	I brought all these fucking things
+8573960	8575960	What else am I supposed
+8575960	8577960	He keeps healing himself
+8577960	8579960	He keeps healing himself
+8579960	8581960	I need to do something else
+8581960	8583960	But I don't know what
+8585960	8587960	Like I'm supposed to do something with this
+8587960	8589960	But I don't know what
+8589960	8591960	Do I need to use like a grenade or something
+8593960	8595960	Ready to face
+8597960	8599960	You have to shoot them from under him
+8599960	8601960	When he's on them
+8601960	8603960	I know
+8603960	8605960	But
+8607960	8609960	No
+8609960	8611960	I don't
+8615960	8617960	How do I shoot these things
+8617960	8619960	How do I shoot these things
+8619960	8621960	Like it doesn't do anything
+8623960	8625960	How do I use accurate aim
+8625960	8627960	How do I use accurate aim
+8627960	8629960	I don't remember
+8629960	8631960	Fucking die
+8633960	8635960	Fine
+8635960	8637960	We'll do your way
+8641960	8643960	I can't grapple them
+8643960	8645960	It doesn't let me grapple
+8645960	8647960	How do I do aim
+8647960	8649960	How do I
+8649960	8651960	I mean
+8651960	8653960	I might as well fucking die this time
+8657960	8659960	I don't want
+8661960	8663960	Please
+8665960	8667960	I'm fucking going insane
+8669960	8671960	I'm losing it
+8671960	8673960	I'm losing it
+8673960	8675960	Oh my fucking god
+8675960	8677960	Okay
+8677960	8679960	Where's the accurate aim
+8679960	8681960	Shit
+8683960	8685960	You wish you could do that
+8693960	8695960	Where's manual aim Z
+8701960	8703960	I mean it doesn't do anything
+8703960	8705960	What
+8707960	8709960	What the fuck am I supposed to do here
+8713960	8715960	Boys I don't think she's ready
+8715960	8717960	For this watch
+8721960	8723960	I can't grapple it
+8723960	8725960	It doesn't let me
+8725960	8727960	It doesn't let me grapple it
+8729960	8731960	Oh wait
+8731960	8733960	Wait
+8733960	8735960	Yo
+8737960	8739960	It didn't let me
+8739960	8741960	It didn't let me until now
+8745960	8747960	Please shut up
+8747960	8749960	Don't motherfucker come on
+8749960	8751960	Grapple grapple grapple
+8751960	8753960	Grapple a fucking thing bitch
+8753960	8755960	Grapple
+8757960	8759960	Come on bitch come on
+8759960	8761960	Come on
+8761960	8763960	No I shut the fuck up bitch
+8765960	8767960	Come on
+8767960	8769960	Come on grapple grapple a fucking thing
+8769960	8771960	You fucking
+8771960	8773960	You fucking bitch come on
+8773960	8775960	Please I'm begging you
+8775960	8777960	Just grapple a fucking thing
+8777960	8779960	Please
+8779960	8781960	Come on one more one more
+8781960	8783960	One more come on
+8783960	8785960	We can do this
+8785960	8787960	Come on we can do this
+8787960	8789960	Maybe we can
+8801960	8803960	No
+8803960	8805960	Fuck off fuck off
+8805960	8807960	No fuck off let me alone let me do my thing
+8807960	8809960	Let me do my thing
+8809960	8811960	Let me just do my thing over here
+8811960	8813960	And let me the fuck alone okay
+8813960	8815960	And then I'll fight you
+8815960	8817960	Right now
+8817960	8819960	Right now I'm not in the mood to
+8819960	8821960	To fight okay I'm not in the mood
+8821960	8823960	Let me alone
+8823960	8825960	Oh wait I'm too busy
+8825960	8827960	No I don't
+8827960	8829960	Don't motherfucker fucking die
+8831960	8833960	Ready for this
+8833960	8835960	Watch
+8839960	8841960	Grapple grapple grapple
+8841960	8843960	Grapple you fucking bitch
+8843960	8845960	Grapple the fucking thing
+8845960	8847960	Oh I hate it when she doesn't grapple it
+8847960	8849960	Damn bitch
+8849960	8851960	I don't have all day
+8851960	8853960	I don't have all day
+8853960	8855960	To fucking grapple this shit
+8861960	8863960	I'm gonna go like
+8863960	8865960	Completely fucking insane
+8865960	8867960	Come on grapple
+8867960	8869960	Grapple grapple
+8869960	8871960	Grapple
+8871960	8873960	Whoa whoa
+8875960	8877960	Bye
+8877960	8879960	Bye
+8879960	8881960	No I'm not
+8881960	8883960	Clearly clearly
+8883960	8885960	I was not ready for this
+8885960	8887960	Clearly
+8889960	8891960	Wait wait
+8891960	8893960	You know what I just thought about
+8893960	8895960	Wait you know what I just thought about
+8897960	8899960	I need to use this in my sound board
+8899960	8901960	Next DJ stream
+8901960	8903960	I need to use this as one of my sound boards
+8903960	8905960	Oh my god
+8905960	8907960	That will be so fucking good
+8907960	8909960	And funny
+8909960	8911960	That will be so fucking funny
+8911960	8913960	Oh my god
+8913960	8915960	Hell fucking yes
+8917960	8919960	Hell fucking yes
+8919960	8921960	I'm definitely gonna use this as a fucking sound board
+8921960	8923960	For next
+8923960	8925960	DJ stream
+8925960	8927960	Oh it's gonna be so fucking funny
+8929960	8931960	Damn it Lara
+8931960	8933960	Damn it
+8933960	8935960	Damn the fucking grapple this
+8937960	8939960	Grapple these nuts
+8939960	8941960	Bitch you wish you could do that
+8941960	8943960	Fuck off
+8945960	8947960	Bitch you wish you could do that
+8947960	8949960	Watch this
+8949960	8951960	Grapple these nuts
+8953960	8955960	Come on
+8955960	8957960	Okay grapple grapple grapple
+8957960	8959960	Grapple grapple bitch please
+8959960	8961960	Mother fucking grapple
+8961960	8963960	You fucking bitch
+8963960	8965960	Come on come on come on come on come on
+8965960	8967960	Come on come on
+8967960	8969960	Come on come on come on
+8969960	8971960	Shut the fuck up
+8971960	8973960	No I'm not
+8973960	8975960	Fucking die come on
+8975960	8977960	Come on we can do this
+8977960	8979960	We can do this I believe
+8979960	8981960	I believe I believe I'm a pro gamer
+8981960	8983960	I'm a pro gamer
+8983960	8985960	Number one number one gamer
+8985960	8987960	Right now
+8987960	8989960	You bet you wish you could do that
+8989960	8991960	Huh well watch me
+8991960	8993960	Watch this
+8993960	8995960	Watch this
+8997960	8999960	Come on I'm so close I'm so close
+8999960	9001960	Please please
+9001960	9003960	I'm so close I'm so close
+9003960	9005960	Come on come on
+9005960	9007960	Come on come on come on
+9007960	9009960	No go away go away go away
+9009960	9011960	Come on come on
+9011960	9013960	He's so
+9013960	9015960	Yo let's fucking go
+9015960	9017960	Yes now I have the dildo to myself
+9017960	9019960	Let's fucking go
+9019960	9021960	Yo that's a big dildo
+9021960	9023960	Damn that's
+9023960	9025960	I think that's too big for me
+9025960	9027960	I think that's too big for me
+9029960	9031960	Pretty
+9031960	9033960	The crusades
+9033960	9035960	King Arthur
+9035960	9037960	Mystery
+9037960	9039960	Doesn't interest me
+9039960	9041960	Well then why don't you stay here
+9041960	9043960	Consider the future
+9043960	9045960	I imagine you're in it however
+9045960	9047960	You won't enjoy seeing me again
+9047960	9049960	Your father might not have found the Galali key
+9049960	9051960	But a man that doesn't know that
+9051960	9053960	I don't give a fuck
+9055960	9057960	You better have good insurance
+9057960	9059960	I
+9059960	9061960	My insurance is
+9061960	9063960	Could be better
+9067960	9069960	Please tell me this is the only level
+9083960	9085960	Not I
+9085960	9087960	I said
+9087960	9089960	I mean did you see that thing
+9089960	9091960	That thing was fucking enormous
+9097960	9099960	Yes
+9101960	9103960	Please um please no
+9103960	9105960	I'm good
+9105960	9107960	I'm good
+9107960	9109960	You know I'm good
+9109960	9111960	I'm good
+9111960	9113960	I'm good okay
+9113960	9115960	I
+9115960	9117960	I've had enough of this game for today
+9117960	9119960	I'm good
+9125960	9127960	Did you save
+9127960	9129960	When you get to a new level
+9129960	9131960	It automatically saves it
+9131960	9133960	Can't wait for part 3 already
+9133960	9135960	Yeah
+9135960	9137960	Can't say the same
+9137960	9139960	She wants out
+9139960	9141960	I do want to finish the game
+9141960	9143960	But this level was like
+9143960	9145960	Something else
+9145960	9147960	Just fucking insanity
+9147960	9149960	What she was ridiculous
+9149960	9151960	You did good I see
+9151960	9153960	I don't know about that but thank you
+9153960	9155960	I couldn't have done it without your help
+9155960	9157960	I couldn't have done it without your help
+9157960	9159960	You helped me so much
+9165960	9167960	Amazing today thank you
+9167960	9169960	Maybe next time it will be easy
+9171960	9173960	God I fucking hope so
+9173960	9175960	I hope it will be easier than
+9175960	9177960	Than this one
+9177960	9179960	You were not ready for this
+9179960	9181960	I literally wasn't
+9181960	9183960	I really wasn't ready for this
+9183960	9185960	But
+9185960	9187960	It will make for a really fucking funny
+9187960	9189960	Sounds in my DJ stream
+9189960	9191960	So I am definitely gonna
+9191960	9193960	Make sure to write a note
+9193960	9195960	So that I don't forget to do that
+9195960	9197960	Next DJ stream
+9197960	9199960	You will hear that shit
+9199960	9201960	You are gonna hear
+9201960	9203960	Igor
+9203960	9205960	And you are gonna hear this motherfucker as well
+9205960	9207960	You bet you wish you could do that
+9209960	9211960	You bet you wish you could do that
+9213960	9215960	It's gonna be so fucking funny
+9215960	9217960	I can't wait to do another DJ stream
+9217960	9219960	I am still trying to figure out
+9219960	9221960	When I should do it
+9221960	9223960	Cause like this Saturday
+9223960	9225960	We do like
+9225960	9227960	The karaoke
+9227960	9229960	And watch along
+9229960	9231960	So
+9231960	9233960	I wonder if maybe the Saturday
+9233960	9235960	After that
+9235960	9237960	I should do another DJ stream
+9241960	9243960	Much to think about
+9243960	9245960	Why not every weekend
+9245960	9247960	Because I'd rather not
+9247960	9249960	Not get drunk every weekend
+9251960	9253960	And when I DJ
+9253960	9255960	I need to drink at least a bit
+9255960	9257960	You know
+9257960	9259960	To get into the groove of things
+9263960	9265960	And I mean
+9265960	9267960	I'll see
+9267960	9269960	If I see that
+9269960	9271960	You really really really love my DJ streams
+9273960	9275960	I might consider doing it
+9275960	9277960	Every Saturday
+9277960	9279960	Like every weekend
+9279960	9281960	I might
+9281960	9283960	But
+9283960	9285960	I don't know
+9285960	9287960	I don't know
+9287960	9289960	We'll see
+9289960	9291960	Your stream was awesome
+9291960	9293960	Yeah, I had a blast
+9293960	9295960	Honestly
+9295960	9297960	With that being said
+9297960	9299960	After all of this chaos
+9299960	9301960	And rage
+9301960	9303960	I hope you're ready to relax
+9303960	9305960	With Strani
+9305960	9307960	I think she's doing
+9307960	9309960	SMR right now
+9309960	9311960	If I'm not wrong
+9311960	9313960	You are relaxed
+9313960	9315960	And
+9315960	9317960	Not think about
+9317960	9319960	I wish you could do that
+9319960	9321960	Every two weeks seems good
+9321960	9323960	Yeah, that's what I was thinking
+9323960	9325960	I was thinking every other week
+9325960	9327960	So that would be like
+9327960	9329960	Twice a month
+9329960	9331960	I think
+9331960	9333960	If I'm counting correctly
+9337960	9339960	Relax after laughing your asses off
+9339960	9341960	Yeah
+9341960	9343960	You just spent all your energy laughing
+9343960	9345960	And now you can just, you know, relax
+9351960	9353960	Twice a month seems fun
+9353960	9355960	Yeah, I think twice a month would be pretty good
+9359960	9361960	I am thankful
+9363960	9365960	I can't fucking talk
+9365960	9367960	I am thankful for your help
+9367960	9369960	Throughout me playing it
+9369960	9371960	Because I think
+9371960	9373960	I would have spent much more time
+9373960	9375960	Playing this fucking level
+9375960	9377960	If it wasn't for your help
+9377960	9379960	So I do
+9379960	9381960	I do appreciate it
+9381960	9383960	Very much
+9383960	9385960	What the heck
+9385960	9387960	Oh jeez that time
+9387960	9389960	What the heck
+9389960	9391960	Thank you so much for the donation
+9391960	9393960	Thank you
+9393960	9395960	Hold on, let me thank everyone
+9395960	9397960	Before I go
+9397960	9399960	Because I keep forgetting
+9399960	9401960	Data hopes
+9401960	9403960	You get yourself something nice after all that pain
+9403960	9405960	Thank you
+9405960	9407960	That's so nice of you
+9407960	9409960	I love you, thank you
+9409960	9411960	Thank you for the $50 donation
+9411960	9413960	That's really sweet of you
+9413960	9415960	I appreciate it
+9415960	9417960	Thank you so much, that's really sweet of you
+9417960	9419960	You didn't have to do that
+9419960	9421960	And
+9421960	9423960	Thank you for the $6 donation
+9423960	9425960	Sweet and awkward
+9425960	9427960	Cob is precious
+9427960	9429960	Thank you
+9429960	9431960	I'm glad you think so
+9431960	9433960	I know this is gonna probably sound really weird
+9435960	9437960	But I did have fun
+9437960	9439960	I was raging a lot
+9439960	9441960	And the game pissed me off a lot
+9441960	9443960	But sharing this experience
+9443960	9445960	With you is what was fun
+9445960	9447960	Reading what you say
+9447960	9449960	And you making me laugh
+9449960	9451960	And you helping me
+9451960	9453960	And doing all that stuff
+9453960	9455960	That was a really fun part
+9455960	9457960	For me
+9457960	9459960	So I did have fun
+9459960	9461960	Even if I was raging
+9461960	9463960	A lot
+9467960	9469960	What's tomorrow
+9471960	9473960	Tomorrow is Thursday
+9473960	9475960	I think tomorrow, if I'm not wrong
+9475960	9477960	Is the group collab
+9477960	9479960	Right
+9479960	9481960	I think so
+9481960	9483960	If I'm not wrong
+9483960	9485960	Tomorrow is supposed to be the power wash group collab
+9487960	9489960	Let me check
+9495960	9497960	Yeah, I was right
+9497960	9499960	I was right
+9499960	9501960	Tomorrow
+9501960	9503960	Power wash simulator collab
+9503960	9505960	With all of my gen mates
+9505960	9507960	I believe
+9507960	9509960	We'll all be streaming
+9509960	9511960	Our POVs
+9511960	9513960	Like each one of us
+9513960	9515960	So feel free to open all of our
+9515960	9517960	POVs if you want to
+9517960	9519960	And see what we'll do
+9519960	9521960	But yeah, tomorrow is supposed to be a really fun
+9521960	9523960	Stream day
+9523960	9525960	Gonna get to have fun with my cute
+9525960	9527960	Nice gen mates
+9527960	9529960	And have fun and be silly
+9529960	9531960	In power wash
+9531960	9533960	Again, thank you so much
+9533960	9535960	For being here
+9535960	9537960	To me all the time
+9537960	9539960	And kind to me
+9539960	9541960	I had a lot of fun with you
+9541960	9543960	I love you
+9543960	9545960	And I will see you again
+9545960	9547960	Tomorrow
+9547960	9549960	Bye bye for now
+9549960	9551960	Bye bye
+9553960	9555960	Bye bye

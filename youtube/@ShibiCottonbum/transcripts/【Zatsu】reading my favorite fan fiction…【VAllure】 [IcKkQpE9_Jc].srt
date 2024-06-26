@@ -1,0 +1,8900 @@
+1
+00:00:00,000 --> 00:00:30,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+2
+00:00:30,000 --> 00:01:00,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+3
+00:01:00,000 --> 00:01:30,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+4
+00:01:30,000 --> 00:02:00,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+5
+00:02:00,000 --> 00:02:30,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+6
+00:02:30,000 --> 00:03:00,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+7
+00:03:00,000 --> 00:03:30,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+8
+00:03:30,000 --> 00:04:00,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+9
+00:04:00,000 --> 00:04:30,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+10
+00:04:30,000 --> 00:05:00,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+11
+00:05:00,000 --> 00:05:30,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+12
+00:05:30,000 --> 00:06:00,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+13
+00:06:00,000 --> 00:06:01,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+14
+00:06:30,000 --> 00:07:00,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+15
+00:07:00,000 --> 00:07:30,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+16
+00:07:30,000 --> 00:08:00,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+17
+00:08:00,000 --> 00:08:30,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+18
+00:08:30,000 --> 00:09:00,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+19
+00:09:00,000 --> 00:09:30,000
+ᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠᶠ�
+
+20
+00:09:31,000 --> 00:09:32,000
+My favorite
+
+21
+00:09:34,000 --> 00:09:35,000
+MCR song
+
+22
+00:09:38,000 --> 00:09:39,000
+Wait, is it by MCR?
+
+23
+00:09:42,000 --> 00:09:43,000
+Or is it by Good Charlotte?
+
+24
+00:09:46,000 --> 00:09:47,000
+It's Teenagers by MCR
+
+25
+00:09:50,000 --> 00:09:54,000
+Black Parade was written about me
+
+26
+00:09:55,000 --> 00:09:56,000
+You know what one of my
+
+27
+00:09:57,000 --> 00:09:59,000
+Handles was when I was a kid
+
+28
+00:10:00,000 --> 00:10:01,000
+I was Mistress Muffin
+
+29
+00:10:02,000 --> 00:10:04,000
+XXX
+
+30
+00:10:05,000 --> 00:10:08,000
+And I was also like Lady Mistress
+
+31
+00:10:09,000 --> 00:10:10,000
+I don't even know what the I didn't even know what that meant
+
+32
+00:10:17,000 --> 00:10:18,000
+Welcome to the Black Parade
+
+33
+00:10:20,000 --> 00:10:21,000
+That's for like
+
+34
+00:10:23,000 --> 00:10:25,000
+That's like too mainstream for me
+
+35
+00:10:26,000 --> 00:10:27,000
+You know
+
+36
+00:10:29,000 --> 00:10:30,000
+I've been day drinking, no
+
+37
+00:10:30,000 --> 00:10:32,000
+I'm just talking in a different voice for my
+
+38
+00:10:34,000 --> 00:10:35,000
+For my emo face
+
+39
+00:10:38,000 --> 00:10:39,000
+Lady Mistress
+
+40
+00:10:41,000 --> 00:10:43,000
+Yubi is more a 3-2 for sweet or french time
+
+41
+00:10:45,000 --> 00:10:46,000
+Or
+
+42
+00:10:47,000 --> 00:10:48,000
+What's the song?
+
+43
+00:10:53,000 --> 00:10:54,000
+Local hack tries being cute
+
+44
+00:10:55,000 --> 00:10:56,000
+I'm not trying to be cute
+
+45
+00:10:57,000 --> 00:10:58,000
+I'm a vampire
+
+46
+00:11:00,000 --> 00:11:01,000
+Alright
+
+47
+00:11:01,000 --> 00:11:02,000
+I sleep in a coffin
+
+48
+00:11:03,000 --> 00:11:04,000
+And you know what
+
+49
+00:11:04,000 --> 00:11:05,000
+Let me describe my outfit please
+
+50
+00:11:06,000 --> 00:11:07,000
+I woke up this morning
+
+51
+00:11:09,000 --> 00:11:10,000
+I put on
+
+52
+00:11:11,000 --> 00:11:12,000
+My black lace panties
+
+53
+00:11:13,000 --> 00:11:14,000
+And my red and black lace bra
+
+54
+00:11:16,000 --> 00:11:17,000
+I slid on
+
+55
+00:11:19,000 --> 00:11:20,000
+My black tights
+
+56
+00:11:21,000 --> 00:11:22,000
+That were ripped
+
+57
+00:11:23,000 --> 00:11:26,000
+And I threw on an MCR T-shirt
+
+58
+00:11:27,000 --> 00:11:29,000
+In my favorite MCR red hoodie
+
+59
+00:11:30,000 --> 00:11:32,000
+I put on a choker with a bat on it
+
+60
+00:11:33,000 --> 00:11:34,000
+And I put on makeup
+
+61
+00:11:35,000 --> 00:11:36,000
+No foundation though
+
+62
+00:11:36,000 --> 00:11:37,000
+Cause I'm already so pale and white
+
+63
+00:11:38,000 --> 00:11:39,000
+You know
+
+64
+00:11:40,000 --> 00:11:41,000
+I'm not wearing pants
+
+65
+00:11:44,000 --> 00:11:45,000
+Don't cut yourself on the edge
+
+66
+00:11:46,000 --> 00:11:47,000
+Don't threaten me with a good time
+
+67
+00:11:48,000 --> 00:11:49,000
+We're uh
+
+68
+00:11:50,000 --> 00:11:51,000
+We're bringing
+
+69
+00:11:52,000 --> 00:11:54,000
+We're bringing emo
+
+70
+00:11:55,000 --> 00:11:56,000
+Doraike
+
+71
+00:11:56,000 --> 00:11:57,000
+Whatever it's called
+
+72
+00:11:59,000 --> 00:12:00,000
+My spark
+
+73
+00:12:00,000 --> 00:12:02,000
+This is the skin of a killer Bella
+
+74
+00:12:03,000 --> 00:12:05,000
+This is the skin of a killer
+
+75
+00:12:07,000 --> 00:12:08,000
+Come on Yubi
+
+76
+00:12:08,000 --> 00:12:10,000
+Let's go buy overpriced anime shirts
+
+77
+00:12:10,000 --> 00:12:11,000
+From Hot Topic
+
+78
+00:12:11,000 --> 00:12:12,000
+And split a marb red
+
+79
+00:12:12,000 --> 00:12:13,000
+Until we get kicked out
+
+80
+00:12:13,000 --> 00:12:14,000
+Hell yeah
+
+81
+00:12:14,000 --> 00:12:15,000
+You guys want to go to the mall
+
+82
+00:12:16,000 --> 00:12:18,000
+I want to get my clipped pierce at Claire's
+
+83
+00:12:20,000 --> 00:12:21,000
+I already got my nipples pierced there
+
+84
+00:12:23,000 --> 00:12:24,000
+You guys
+
+85
+00:12:24,000 --> 00:12:25,000
+You guys want to get your clipped pierce with me
+
+86
+00:12:27,000 --> 00:12:28,000
+What do you mean what
+
+87
+00:12:30,000 --> 00:12:31,000
+Spencers?
+
+88
+00:12:31,000 --> 00:12:32,000
+Oh yeah
+
+89
+00:12:32,000 --> 00:12:33,000
+We're going to go to Spencers
+
+90
+00:12:35,000 --> 00:12:36,000
+We're going to look at all the toys they got
+
+91
+00:12:38,000 --> 00:12:39,000
+You have an lobotomy appointment at Claire's?
+
+92
+00:12:40,000 --> 00:12:41,000
+Oh okay
+
+93
+00:12:41,000 --> 00:12:42,000
+I see that you're busy then
+
+94
+00:12:45,000 --> 00:12:46,000
+Yeah they do
+
+95
+00:12:49,000 --> 00:12:50,000
+Maybe I'll do a little bit of
+
+96
+00:12:51,000 --> 00:12:52,000
+A little bit of shoplifting
+
+97
+00:12:53,000 --> 00:12:54,000
+At Spencers
+
+98
+00:12:55,000 --> 00:12:56,000
+Maybe I'll
+
+99
+00:12:57,000 --> 00:12:58,000
+You know
+
+100
+00:12:59,000 --> 00:13:00,000
+Blow a car up
+
+101
+00:13:01,000 --> 00:13:02,000
+Maybe I'll just hate the patriarchy
+
+102
+00:13:05,000 --> 00:13:06,000
+Maybe I'll just post pictures of myself on my phone
+
+103
+00:13:06,000 --> 00:13:07,000
+And revealing poses
+
+104
+00:13:08,000 --> 00:13:09,000
+I don't know
+
+105
+00:13:09,000 --> 00:13:10,000
+I don't really care much about anything
+
+106
+00:13:11,000 --> 00:13:12,000
+You know
+
+107
+00:13:13,000 --> 00:13:14,000
+Cause I'm
+
+108
+00:13:14,000 --> 00:13:15,000
+Gothic
+
+109
+00:13:20,000 --> 00:13:21,000
+Can we go to the food court
+
+110
+00:13:21,000 --> 00:13:22,000
+And order five pounds of Chinese
+
+111
+00:13:22,000 --> 00:13:24,000
+No I only drink blood
+
+112
+00:13:25,000 --> 00:13:26,000
+I only drink human blood
+
+113
+00:13:27,000 --> 00:13:28,000
+I only drink muckled blood
+
+114
+00:13:30,000 --> 00:13:31,000
+I only drink muckled blood
+
+115
+00:13:32,000 --> 00:13:33,000
+I only drink muckled blood
+
+116
+00:13:33,000 --> 00:13:34,000
+I only drink muckled blood
+
+117
+00:13:38,000 --> 00:13:39,000
+Caring is for preps
+
+118
+00:13:40,000 --> 00:13:41,000
+Like we don't care here
+
+119
+00:13:42,000 --> 00:13:43,000
+Fuck caring
+
+120
+00:13:44,000 --> 00:13:45,000
+But somebody did send me one
+
+121
+00:13:49,000 --> 00:13:50,000
+What you might call it
+
+122
+00:13:51,000 --> 00:13:52,000
+Fanfiction that I thought would be funny to read
+
+123
+00:13:52,000 --> 00:13:53,000
+I didn't read the whole thing
+
+124
+00:13:54,000 --> 00:13:55,000
+They said it might be too spicy
+
+125
+00:13:56,000 --> 00:13:57,000
+And I'm like you know what
+
+126
+00:13:58,000 --> 00:13:59,000
+Fuck it we ball
+
+127
+00:14:00,000 --> 00:14:01,000
+It's not ebony
+
+128
+00:14:01,000 --> 00:14:02,000
+It's shibony
+
+129
+00:14:03,000 --> 00:14:04,000
+Okay
+
+130
+00:14:04,000 --> 00:14:05,000
+Get it right
+
+131
+00:14:06,000 --> 00:14:07,000
+You fucking prep
+
+132
+00:14:09,000 --> 00:14:10,000
+Need some blow yeah
+
+133
+00:14:10,000 --> 00:14:11,000
+I'll suck you guys later
+
+134
+00:14:11,000 --> 00:14:12,000
+Don't worry about it
+
+135
+00:14:13,000 --> 00:14:14,000
+I won't forget
+
+136
+00:14:15,000 --> 00:14:16,000
+Suck you all off
+
+137
+00:14:16,000 --> 00:14:17,000
+Anyways
+
+138
+00:14:20,000 --> 00:14:21,000
+She's so goth her head is attached
+
+139
+00:14:22,000 --> 00:14:23,000
+I know yeah right
+
+140
+00:14:26,000 --> 00:14:27,000
+I was uh
+
+141
+00:14:28,000 --> 00:14:29,000
+I was swinging from
+
+142
+00:14:30,000 --> 00:14:31,000
+My fan
+
+143
+00:14:31,000 --> 00:14:32,000
+But I'm still here
+
+144
+00:14:34,000 --> 00:14:35,000
+Cause I'm a real gothic
+
+145
+00:14:36,000 --> 00:14:37,000
+And I'm a vampire
+
+146
+00:14:37,000 --> 00:14:38,000
+And I can't die
+
+147
+00:14:42,000 --> 00:14:43,000
+Oh
+
+148
+00:14:44,000 --> 00:14:45,000
+Alright
+
+149
+00:14:50,000 --> 00:14:51,000
+Let's go to my bedroom
+
+150
+00:15:02,000 --> 00:15:03,000
+Welcome to my bedroom
+
+151
+00:15:04,000 --> 00:15:05,000
+How many of these do you fan fix?
+
+152
+00:15:05,000 --> 00:15:06,000
+Did I write?
+
+153
+00:15:06,000 --> 00:15:07,000
+None
+
+154
+00:15:09,000 --> 00:15:10,000
+I just relate to them a lot
+
+155
+00:15:11,000 --> 00:15:12,000
+You know
+
+156
+00:15:14,000 --> 00:15:15,000
+Okay let me turn my BGM down
+
+157
+00:15:15,000 --> 00:15:17,000
+I'm gonna turn on some other music
+
+158
+00:15:18,000 --> 00:15:20,000
+Actually no I think this music will be suitable
+
+159
+00:15:20,000 --> 00:15:21,000
+For this one
+
+160
+00:15:22,000 --> 00:15:24,000
+I have like some copyright free
+
+161
+00:15:24,000 --> 00:15:25,000
+Hogwarts themed music
+
+162
+00:15:32,000 --> 00:15:33,000
+Let me move up
+
+163
+00:15:34,000 --> 00:15:35,000
+Can I move this over?
+
+164
+00:15:35,000 --> 00:15:36,000
+Okay
+
+165
+00:15:39,000 --> 00:15:40,000
+It's a Harry X Drake one
+
+166
+00:15:41,000 --> 00:15:42,000
+This one I don't know
+
+167
+00:15:43,000 --> 00:15:44,000
+It's called First Encounter
+
+168
+00:15:45,000 --> 00:15:46,000
+Thank you to the
+
+169
+00:15:47,000 --> 00:15:48,000
+Anon that submitted it
+
+170
+00:15:49,000 --> 00:15:50,000
+The characters in the story
+
+171
+00:15:51,000 --> 00:15:52,000
+Slowly belong to JK Rowling
+
+172
+00:15:53,000 --> 00:15:54,000
+Whatever the fuck her name is
+
+173
+00:15:54,000 --> 00:15:55,000
+One of her brothers
+
+174
+00:15:55,000 --> 00:15:56,000
+So it's an unbaited
+
+175
+00:15:57,000 --> 00:15:58,000
+I don't know what that means
+
+176
+00:15:58,000 --> 00:15:59,000
+In some one shot
+
+177
+00:15:59,000 --> 00:16:00,000
+It was made in
+
+178
+00:16:02,000 --> 00:16:03,000
+2006
+
+179
+00:16:06,000 --> 00:16:07,000
+I need to move my
+
+180
+00:16:08,000 --> 00:16:09,000
+Camera tracker out of the way
+
+181
+00:16:11,000 --> 00:16:12,000
+Are you ready?
+
+182
+00:16:14,000 --> 00:16:15,000
+I wanted to make a fanfic
+
+183
+00:16:15,000 --> 00:16:16,000
+But I was worried it would be too long
+
+184
+00:16:16,000 --> 00:16:17,000
+And no one understands it
+
+185
+00:16:17,000 --> 00:16:18,000
+Since I was making a deal
+
+186
+00:16:19,000 --> 00:16:20,000
+I wrote
+
+187
+00:16:20,000 --> 00:16:22,000
+A 100 plus page fanfic
+
+188
+00:16:22,000 --> 00:16:24,000
+About how down bad
+
+189
+00:16:25,000 --> 00:16:26,000
+I was for Zetsu
+
+190
+00:16:26,000 --> 00:16:27,000
+From the Akatsuki
+
+191
+00:16:28,000 --> 00:16:29,000
+Cause I did a self insert
+
+192
+00:16:29,000 --> 00:16:30,000
+Of myself and every Shippuden
+
+193
+00:16:30,000 --> 00:16:31,000
+My character
+
+194
+00:16:31,000 --> 00:16:32,000
+My OC
+
+195
+00:16:32,000 --> 00:16:33,000
+And every Shippuden episode
+
+196
+00:16:35,000 --> 00:16:36,000
+That the Akatsuki were in
+
+197
+00:16:41,000 --> 00:16:42,000
+In Daedora
+
+198
+00:16:42,000 --> 00:16:43,000
+Naturally
+
+199
+00:16:43,000 --> 00:16:44,000
+In Kisame
+
+200
+00:16:44,000 --> 00:16:45,000
+Naturally
+
+201
+00:16:45,000 --> 00:16:46,000
+In Pain
+
+202
+00:16:47,000 --> 00:16:48,000
+And all of them
+
+203
+00:16:49,000 --> 00:16:50,000
+Especially Haydn
+
+204
+00:16:55,000 --> 00:16:56,000
+They're all hot
+
+205
+00:17:00,000 --> 00:17:01,000
+Okay
+
+206
+00:17:07,000 --> 00:17:08,000
+Her power levels
+
+207
+00:17:08,000 --> 00:17:09,000
+I also made a young justice
+
+208
+00:17:09,000 --> 00:17:11,000
+Fanfiction that was 80 pages long
+
+209
+00:17:12,000 --> 00:17:13,000
+And I self inserted my OC's
+
+210
+00:17:13,000 --> 00:17:15,000
+Into every young justice episode
+
+211
+00:17:17,000 --> 00:17:19,000
+And I shipped my character
+
+212
+00:17:19,000 --> 00:17:20,000
+Who was
+
+213
+00:17:20,000 --> 00:17:21,000
+By the way
+
+214
+00:17:21,000 --> 00:17:23,000
+Her name was Missy
+
+215
+00:17:24,000 --> 00:17:26,000
+And her last name was Chief
+
+216
+00:17:26,000 --> 00:17:28,000
+And so her hero name
+
+217
+00:17:28,000 --> 00:17:29,000
+Was Miss Chief
+
+218
+00:17:31,000 --> 00:17:32,000
+And she was
+
+219
+00:17:35,000 --> 00:17:36,000
+Or she would also
+
+220
+00:17:36,000 --> 00:17:37,000
+Would get the nickname
+
+221
+00:17:37,000 --> 00:17:38,000
+Pantamime
+
+222
+00:17:39,000 --> 00:17:40,000
+And
+
+223
+00:17:41,000 --> 00:17:42,000
+And she was a shapeshifter
+
+224
+00:17:42,000 --> 00:17:43,000
+That could
+
+225
+00:17:44,000 --> 00:17:45,000
+Temporarily
+
+226
+00:17:45,000 --> 00:17:46,000
+Take on the powers
+
+227
+00:17:46,000 --> 00:17:47,000
+Of who she shapeshifted into
+
+228
+00:17:48,000 --> 00:17:49,000
+That's why she was called Miss Chief
+
+229
+00:17:49,000 --> 00:17:50,000
+Cause she would usually just
+
+230
+00:17:50,000 --> 00:17:51,000
+Fuck shit up
+
+231
+00:17:52,000 --> 00:17:53,000
+I was like mistake
+
+232
+00:17:57,000 --> 00:17:58,000
+Missy Chief
+
+233
+00:17:59,000 --> 00:18:00,000
+Melissa Chief
+
+234
+00:18:00,000 --> 00:18:01,000
+Fucking hilarious
+
+235
+00:18:02,000 --> 00:18:03,000
+And I shipped myself
+
+236
+00:18:04,000 --> 00:18:05,000
+With Clarion
+
+237
+00:18:09,000 --> 00:18:10,000
+For some reason
+
+238
+00:18:14,000 --> 00:18:15,000
+Clarion the witch boy
+
+239
+00:18:15,000 --> 00:18:16,000
+I don't know
+
+240
+00:18:18,000 --> 00:18:19,000
+What was going on with that
+
+241
+00:18:23,000 --> 00:18:24,000
+If you know you know
+
+242
+00:18:24,000 --> 00:18:25,000
+Okay
+
+243
+00:18:27,000 --> 00:18:28,000
+Sorry yeah
+
+244
+00:18:28,000 --> 00:18:29,000
+Goth girls don't laugh
+
+245
+00:18:29,000 --> 00:18:30,000
+I'm laughing at
+
+246
+00:18:30,000 --> 00:18:31,000
+You actually
+
+247
+00:18:31,000 --> 00:18:32,000
+I'm laughing at your pain
+
+248
+00:18:32,000 --> 00:18:33,000
+Cause it
+
+249
+00:18:34,000 --> 00:18:36,000
+It awakens something in me
+
+250
+00:18:39,000 --> 00:18:40,000
+Nobody had no Clarion the witch boy
+
+251
+00:18:40,000 --> 00:18:41,000
+Yeah it was when
+
+252
+00:18:41,000 --> 00:18:43,000
+Was I a bottom in my gut
+
+253
+00:18:43,000 --> 00:18:44,000
+Nope
+
+254
+00:18:45,000 --> 00:18:46,000
+No I was mostly
+
+255
+00:18:46,000 --> 00:18:47,000
+I think I was
+
+256
+00:18:48,000 --> 00:18:50,000
+Because I was such a fucking loser
+
+257
+00:18:50,000 --> 00:18:51,000
+And shy
+
+258
+00:18:51,000 --> 00:18:52,000
+I think I made myself the top
+
+259
+00:18:52,000 --> 00:18:53,000
+In most scenarios
+
+260
+00:18:53,000 --> 00:18:54,000
+In my fanfictions
+
+261
+00:18:54,000 --> 00:18:56,000
+That I wrote when I was like 14
+
+262
+00:19:00,000 --> 00:19:01,000
+Yeah
+
+263
+00:19:01,000 --> 00:19:02,000
+Yeah well cause Clarion
+
+264
+00:19:03,000 --> 00:19:04,000
+The witch boy
+
+265
+00:19:04,000 --> 00:19:05,000
+Shows up in Young Justice
+
+266
+00:19:05,000 --> 00:19:07,000
+As like one of the first villains
+
+267
+00:19:07,000 --> 00:19:08,000
+And I just fell in love
+
+268
+00:19:13,000 --> 00:19:14,000
+I'm so edgy
+
+269
+00:19:15,000 --> 00:19:16,000
+I'm so edgy
+
+270
+00:19:17,000 --> 00:19:18,000
+Don't cut yourself
+
+271
+00:19:18,000 --> 00:19:19,000
+On all my edge
+
+272
+00:19:20,000 --> 00:19:21,000
+Or do cause we're being
+
+273
+00:19:21,000 --> 00:19:22,000
+Gothic and emo
+
+274
+00:19:23,000 --> 00:19:24,000
+Just kidding don't
+
+275
+00:19:24,000 --> 00:19:25,000
+Don't do that
+
+276
+00:19:25,000 --> 00:19:27,000
+I do not condone self harm
+
+277
+00:19:29,000 --> 00:19:30,000
+It was 40 years ago
+
+278
+00:19:30,000 --> 00:19:31,000
+Wasn't it?
+
+279
+00:19:32,000 --> 00:19:34,000
+Azeroth Metrion Zhentos
+
+280
+00:19:38,000 --> 00:19:39,000
+First time chatter
+
+281
+00:19:39,000 --> 00:19:40,000
+Hello hi
+
+282
+00:19:40,000 --> 00:19:42,000
+I like the anime that your name is from
+
+283
+00:19:45,000 --> 00:19:46,000
+What about harming others
+
+284
+00:19:47,000 --> 00:19:48,000
+Only what they say for
+
+285
+00:19:48,000 --> 00:19:49,000
+Anyways
+
+286
+00:19:53,000 --> 00:19:54,000
+Let's get started
+
+287
+00:19:54,000 --> 00:19:55,000
+I think I've yapped
+
+288
+00:19:56,000 --> 00:19:57,000
+Clarion is even using the comics
+
+289
+00:19:57,000 --> 00:19:58,000
+Is he?
+
+290
+00:19:58,000 --> 00:19:59,000
+Oh well he was using the show then
+
+291
+00:19:59,000 --> 00:20:00,000
+For some reason
+
+292
+00:20:06,000 --> 00:20:08,000
+Reina are you singing the song of your people
+
+293
+00:20:10,000 --> 00:20:11,000
+Sorry
+
+294
+00:20:12,000 --> 00:20:13,000
+She's a
+
+295
+00:20:13,000 --> 00:20:15,000
+She's listening to Good Charlotte right now
+
+296
+00:20:15,000 --> 00:20:17,000
+And she's singing to it
+
+297
+00:20:17,000 --> 00:20:18,000
+Cause she's she's Gothic
+
+298
+00:20:20,000 --> 00:20:21,000
+Okay
+
+299
+00:20:21,000 --> 00:20:23,000
+So we're gonna read first encounter
+
+300
+00:20:23,000 --> 00:20:25,000
+I think this is like a personification
+
+301
+00:20:25,000 --> 00:20:26,000
+Of like
+
+302
+00:20:26,000 --> 00:20:27,000
+Hogwarts
+
+303
+00:20:28,000 --> 00:20:29,000
+For some reason
+
+304
+00:20:29,000 --> 00:20:31,000
+Very Hattalia axis powers
+
+305
+00:20:32,000 --> 00:20:33,000
+Remember Hattalia
+
+306
+00:20:33,000 --> 00:20:34,000
+Oh my god
+
+307
+00:20:35,000 --> 00:20:36,000
+Hattalia
+
+308
+00:20:36,000 --> 00:20:37,000
+Hattalia
+
+309
+00:20:37,000 --> 00:20:38,000
+Sort of thing
+
+310
+00:20:38,000 --> 00:20:39,000
+Who the fuck is the skinware?
+
+311
+00:20:39,000 --> 00:20:40,000
+It's me
+
+312
+00:20:42,000 --> 00:20:43,000
+I'm Shiboni
+
+313
+00:20:44,000 --> 00:20:45,000
+Shiboni
+
+314
+00:20:48,000 --> 00:20:49,000
+Hogwarts side
+
+315
+00:20:49,000 --> 00:20:51,000
+And it echoed within its empty halls
+
+316
+00:20:51,000 --> 00:20:52,000
+His empty halls
+
+317
+00:20:52,000 --> 00:20:53,000
+Sorry again
+
+318
+00:20:53,000 --> 00:20:54,000
+It's personified
+
+319
+00:20:54,000 --> 00:20:56,000
+The students had all left for the summer
+
+320
+00:20:56,000 --> 00:20:58,000
+And he felt empty and useless
+
+321
+00:20:58,000 --> 00:21:00,000
+Hagrid was often around
+
+322
+00:21:02,000 --> 00:21:03,000
+Reina please
+
+323
+00:21:06,000 --> 00:21:08,000
+Reina what are you yelling about
+
+324
+00:21:13,000 --> 00:21:14,000
+I wish you guys could hear her
+
+325
+00:21:14,000 --> 00:21:15,000
+She's literally just going
+
+326
+00:21:17,000 --> 00:21:18,000
+Reina come here
+
+327
+00:21:18,000 --> 00:21:20,000
+She usually has a toy in her mouth
+
+328
+00:21:34,000 --> 00:21:36,000
+She's aware life is pain
+
+329
+00:21:38,000 --> 00:21:39,000
+What is that
+
+330
+00:21:39,000 --> 00:21:40,000
+Was it
+
+331
+00:21:40,000 --> 00:21:42,000
+Michael Fassbender
+
+332
+00:21:43,000 --> 00:21:44,000
+Oh
+
+333
+00:21:44,000 --> 00:21:45,000
+Like
+
+334
+00:21:45,000 --> 00:21:46,000
+Who is like
+
+335
+00:21:46,000 --> 00:21:47,000
+In
+
+336
+00:21:48,000 --> 00:21:49,000
+In um
+
+337
+00:21:50,000 --> 00:21:51,000
+Like X-Men first class
+
+338
+00:21:51,000 --> 00:21:52,000
+I think he's like
+
+339
+00:21:52,000 --> 00:21:53,000
+Life is pain
+
+340
+00:21:53,000 --> 00:21:54,000
+I can't remember
+
+341
+00:21:54,000 --> 00:21:55,000
+Who says that
+
+342
+00:21:56,000 --> 00:21:57,000
+This is a fanfic
+
+343
+00:21:57,000 --> 00:21:58,000
+I don't know
+
+344
+00:21:58,000 --> 00:21:59,000
+We'll find out
+
+345
+00:22:02,000 --> 00:22:03,000
+Hagrid was often around
+
+346
+00:22:03,000 --> 00:22:05,000
+But he was usually too focused
+
+347
+00:22:05,000 --> 00:22:06,000
+And bizarre animals
+
+348
+00:22:06,000 --> 00:22:08,000
+To fulfill the needs of Hogwarts
+
+349
+00:22:08,000 --> 00:22:10,000
+Professors would pop in occasionally
+
+350
+00:22:10,000 --> 00:22:11,000
+But being in magic school
+
+351
+00:22:11,000 --> 00:22:13,000
+Hogwarts didn't need much upkeeping
+
+352
+00:22:13,000 --> 00:22:15,000
+The little he did need was taken of
+
+353
+00:22:15,000 --> 00:22:16,000
+By
+
+354
+00:22:16,000 --> 00:22:17,000
+Filch
+
+355
+00:22:18,000 --> 00:22:19,000
+He shuddered
+
+356
+00:22:19,000 --> 00:22:20,000
+Causing small trembles
+
+357
+00:22:20,000 --> 00:22:21,000
+Of his halls
+
+358
+00:22:21,000 --> 00:22:22,000
+That was barely discernible
+
+359
+00:22:22,000 --> 00:22:24,000
+Except by the spiders and owls
+
+360
+00:22:24,000 --> 00:22:26,000
+He didn't care much for Filch
+
+361
+00:22:26,000 --> 00:22:27,000
+Wishing he could
+
+362
+00:22:27,000 --> 00:22:28,000
+Or Filch
+
+363
+00:22:28,000 --> 00:22:29,000
+I don't
+
+364
+00:22:29,000 --> 00:22:30,000
+Disclaimer
+
+365
+00:22:30,000 --> 00:22:31,000
+I've never
+
+366
+00:22:31,000 --> 00:22:32,000
+I've only read one Harry Potter book
+
+367
+00:22:32,000 --> 00:22:33,000
+I read the first one
+
+368
+00:22:34,000 --> 00:22:35,000
+If you're a Harry Potter fan
+
+369
+00:22:35,000 --> 00:22:36,000
+I don't really care
+
+370
+00:22:37,000 --> 00:22:38,000
+The books are mid
+
+371
+00:22:38,000 --> 00:22:39,000
+I never put the game
+
+372
+00:22:39,000 --> 00:22:40,000
+It's funny
+
+373
+00:22:40,000 --> 00:22:41,000
+Cause I love fantasy
+
+374
+00:22:41,000 --> 00:22:43,000
+But I never got into Harry Potter
+
+375
+00:22:43,000 --> 00:22:44,000
+I don't know why
+
+376
+00:22:44,000 --> 00:22:45,000
+Well
+
+377
+00:22:45,000 --> 00:22:46,000
+One cause my parents were like
+
+378
+00:22:46,000 --> 00:22:47,000
+It's demonic
+
+379
+00:22:47,000 --> 00:22:48,000
+And then my dad's like
+
+380
+00:22:48,000 --> 00:22:49,000
+I don't fucking care
+
+381
+00:22:49,000 --> 00:22:50,000
+Actually you can read it
+
+382
+00:22:50,000 --> 00:22:51,000
+I'm like alright
+
+383
+00:22:51,000 --> 00:22:52,000
+This is
+
+384
+00:22:52,000 --> 00:22:53,000
+Mid at best
+
+385
+00:22:54,000 --> 00:22:56,000
+I'd rather read something else
+
+386
+00:22:56,000 --> 00:22:57,000
+That's when I was like
+
+387
+00:22:57,000 --> 00:22:58,000
+Up picks up name of the wind
+
+388
+00:22:58,000 --> 00:23:00,000
+Picks up the magicians instead
+
+389
+00:23:03,000 --> 00:23:05,000
+Picks up American gods
+
+390
+00:23:06,000 --> 00:23:07,000
+He shuddered
+
+391
+00:23:07,000 --> 00:23:09,000
+Causing small trembles
+
+392
+00:23:09,000 --> 00:23:11,000
+He didn't care much for Filch
+
+393
+00:23:11,000 --> 00:23:12,000
+Filch
+
+394
+00:23:12,000 --> 00:23:13,000
+I'mma call him Filch
+
+395
+00:23:14,000 --> 00:23:15,000
+Pretty light fantasy
+
+396
+00:23:17,000 --> 00:23:18,000
+Wishing he could walk
+
+397
+00:23:18,000 --> 00:23:20,000
+Without his squib feet
+
+398
+00:23:20,000 --> 00:23:22,000
+Touching his magnificent stone floors
+
+399
+00:23:23,000 --> 00:23:25,000
+He had long since stopped trying to force his floors
+
+400
+00:23:25,000 --> 00:23:26,000
+Open to swallow Filch
+
+401
+00:23:26,000 --> 00:23:27,000
+And miss Nor
+
+402
+00:23:27,000 --> 00:23:28,000
+Miss Nor's hole
+
+403
+00:23:28,000 --> 00:23:29,000
+I don't know any of the characters
+
+404
+00:23:29,000 --> 00:23:30,000
+Besides
+
+405
+00:23:30,000 --> 00:23:31,000
+If he kept it up
+
+406
+00:23:31,000 --> 00:23:33,000
+He would be risking a prolapse staircase
+
+407
+00:23:33,000 --> 00:23:35,000
+And that was no laughing matter
+
+408
+00:23:36,000 --> 00:23:37,000
+The giant squid
+
+409
+00:23:37,000 --> 00:23:39,000
+Saw how miserable Hogwarts was
+
+410
+00:23:40,000 --> 00:23:41,000
+It was true
+
+411
+00:23:41,000 --> 00:23:42,000
+That he also missed his students
+
+412
+00:23:42,000 --> 00:23:44,000
+But for an entirely different reason
+
+413
+00:23:44,000 --> 00:23:46,000
+He missed their terrified screams
+
+414
+00:23:46,000 --> 00:23:47,000
+As he revealed himself
+
+415
+00:23:47,000 --> 00:23:49,000
+Rising from the murky depths of the lake
+
+416
+00:23:49,000 --> 00:23:50,000
+I didn't even know there was a
+
+417
+00:23:50,000 --> 00:23:52,000
+Giant squid in this
+
+418
+00:23:52,000 --> 00:23:53,000
+Fucking series
+
+419
+00:23:53,000 --> 00:23:54,000
+What?
+
+420
+00:23:55,000 --> 00:23:57,000
+Yeah I don't know what they mean by prolapse staircase
+
+421
+00:23:57,000 --> 00:23:58,000
+Don't ask me
+
+422
+00:24:00,000 --> 00:24:01,000
+His huge eyes
+
+423
+00:24:01,000 --> 00:24:02,000
+Stared mournfully
+
+424
+00:24:02,000 --> 00:24:04,000
+At his very large tentacles
+
+425
+00:24:04,000 --> 00:24:05,000
+At one time
+
+426
+00:24:05,000 --> 00:24:07,000
+He had dreams of being an actor
+
+427
+00:24:07,000 --> 00:24:08,000
+The larger he grew
+
+428
+00:24:08,000 --> 00:24:09,000
+Fucking a fucking actor
+
+429
+00:24:09,000 --> 00:24:10,000
+The larger he grew
+
+430
+00:24:10,000 --> 00:24:12,000
+The fewer agents and scouts would come calling
+
+431
+00:24:12,000 --> 00:24:14,000
+Until they finally stopped altogether
+
+432
+00:24:15,000 --> 00:24:17,000
+There wasn't much in the market for a squid
+
+433
+00:24:17,000 --> 00:24:19,000
+That would split a schoolgirl from stem to stern
+
+434
+00:24:21,000 --> 00:24:22,000
+Goddamn
+
+435
+00:24:24,000 --> 00:24:25,000
+I'm a squid now
+
+436
+00:24:27,000 --> 00:24:28,000
+He stared at his tentacles
+
+437
+00:24:28,000 --> 00:24:30,000
+As they moved gently in the current
+
+438
+00:24:30,000 --> 00:24:31,000
+Schoolgirls were out
+
+439
+00:24:31,000 --> 00:24:33,000
+A plan formed in his mind
+
+440
+00:24:33,000 --> 00:24:34,000
+And he swam to the surface
+
+441
+00:24:34,000 --> 00:24:35,000
+Hesitating momentarily
+
+442
+00:24:35,000 --> 00:24:37,000
+Before pulling himself from the water
+
+443
+00:24:37,000 --> 00:24:39,000
+It ran off his rubbery skin
+
+444
+00:24:40,000 --> 00:24:42,000
+As he made his way across the grounds
+
+445
+00:24:42,000 --> 00:24:43,000
+No humans were around
+
+446
+00:24:43,000 --> 00:24:45,000
+To witness the incredible trek
+
+447
+00:24:45,000 --> 00:24:47,000
+And no human would believe his eyes
+
+448
+00:24:47,000 --> 00:24:48,000
+Had he been a witness
+
+449
+00:24:48,000 --> 00:24:50,000
+Hogwarts watched the giant approach
+
+450
+00:24:50,000 --> 00:24:51,000
+Giant squid approach
+
+451
+00:24:51,000 --> 00:24:53,000
+And felt apprehension well up in his kitchen
+
+452
+00:24:55,000 --> 00:24:57,000
+I guess I should give it a British accent
+
+453
+00:24:57,000 --> 00:24:59,000
+What are you doing?
+
+454
+00:24:59,000 --> 00:25:01,000
+The words weren't spoken
+
+455
+00:25:01,000 --> 00:25:02,000
+But they were understood
+
+456
+00:25:03,000 --> 00:25:04,000
+Just trust me
+
+457
+00:25:04,000 --> 00:25:06,000
+The giant squid replied
+
+458
+00:25:06,000 --> 00:25:08,000
+Caressing Hogwarts's
+
+459
+00:25:08,000 --> 00:25:09,000
+Outer walls
+
+460
+00:25:10,000 --> 00:25:11,000
+I'm not ready
+
+461
+00:25:11,000 --> 00:25:13,000
+Hogwarts exclaimed
+
+462
+00:25:14,000 --> 00:25:16,000
+Trying to push the giant squid away
+
+463
+00:25:16,000 --> 00:25:17,000
+With his magic
+
+464
+00:25:18,000 --> 00:25:19,000
+Hogwarts
+
+465
+00:25:19,000 --> 00:25:20,000
+You're lonely
+
+466
+00:25:20,000 --> 00:25:21,000
+I can fix that
+
+467
+00:25:21,000 --> 00:25:22,000
+I'm lonely
+
+468
+00:25:22,000 --> 00:25:23,000
+We don't have to be
+
+469
+00:25:23,000 --> 00:25:24,000
+Besides
+
+470
+00:25:25,000 --> 00:25:27,000
+You can't go around manipulating your staircases
+
+471
+00:25:29,000 --> 00:25:30,000
+You know about that
+
+472
+00:25:30,000 --> 00:25:31,000
+Everyone does it
+
+473
+00:25:31,000 --> 00:25:32,000
+Sort of
+
+474
+00:25:33,000 --> 00:25:34,000
+That's besides the point
+
+475
+00:25:34,000 --> 00:25:35,000
+I've never
+
+476
+00:25:35,000 --> 00:25:36,000
+The temperature within
+
+477
+00:25:36,000 --> 00:25:38,000
+Rose in embarrassment
+
+478
+00:25:39,000 --> 00:25:40,000
+I'll go slow
+
+479
+00:25:40,000 --> 00:25:41,000
+I promise
+
+480
+00:25:41,000 --> 00:25:43,000
+He began to caress a window
+
+481
+00:25:43,000 --> 00:25:44,000
+Teasing it open
+
+482
+00:25:44,000 --> 00:25:45,000
+Hogwarts sighed
+
+483
+00:25:45,000 --> 00:25:47,000
+The fight leaving him
+
+484
+00:25:47,000 --> 00:25:48,000
+He relaxed
+
+485
+00:25:48,000 --> 00:25:50,000
+Allowing the tentacle inside
+
+486
+00:25:50,000 --> 00:25:52,000
+Where it brushed against the inner walls
+
+487
+00:25:52,000 --> 00:25:54,000
+Before settling on the stone floor
+
+488
+00:25:54,000 --> 00:25:57,000
+He fashioned the suction cups to the floor
+
+489
+00:25:57,000 --> 00:25:59,000
+Lifting the tentacle away
+
+490
+00:25:59,000 --> 00:26:00,000
+So that it pulled the floor
+
+491
+00:26:00,000 --> 00:26:02,000
+On the floor without losing its grip
+
+492
+00:26:02,000 --> 00:26:03,000
+Another sigh
+
+493
+00:26:03,000 --> 00:26:05,000
+Swept through the halls of Hogwarts
+
+494
+00:26:05,000 --> 00:26:06,000
+Oh, Merlin
+
+495
+00:26:06,000 --> 00:26:07,000
+That feels so good
+
+496
+00:26:08,000 --> 00:26:10,000
+His rapture tap turned to fright
+
+497
+00:26:10,000 --> 00:26:11,000
+As he fell the tentacle work its way
+
+498
+00:26:11,000 --> 00:26:12,000
+Into a second window
+
+499
+00:26:12,000 --> 00:26:13,000
+I don't
+
+500
+00:26:14,000 --> 00:26:15,000
+Trust me
+
+501
+00:26:15,000 --> 00:26:16,000
+It'll feel good
+
+502
+00:26:16,000 --> 00:26:17,000
+Remember this?
+
+503
+00:26:20,000 --> 00:26:21,000
+Wait, there's 80 pages?
+
+504
+00:26:24,000 --> 00:26:25,000
+You're lying
+
+505
+00:26:31,000 --> 00:26:32,000
+Okay, no, it's only one page
+
+506
+00:26:35,000 --> 00:26:37,000
+Okay, I was like, what the fuck?
+
+507
+00:26:38,000 --> 00:26:39,000
+I'm like, I'm not
+
+508
+00:26:39,000 --> 00:26:41,000
+Reading all of this
+
+509
+00:26:41,000 --> 00:26:43,000
+If um
+
+510
+00:26:43,000 --> 00:26:45,000
+If it's 80 pages
+
+511
+00:26:47,000 --> 00:26:48,000
+Trust me
+
+512
+00:26:48,000 --> 00:26:49,000
+It'll feel good
+
+513
+00:26:49,000 --> 00:26:50,000
+Remember this?
+
+514
+00:26:50,000 --> 00:26:52,000
+He pulled the suction cups a little harder
+
+515
+00:26:52,000 --> 00:26:53,000
+And Hogwarts grown
+
+516
+00:26:54,000 --> 00:26:56,000
+Do that again
+
+517
+00:26:56,000 --> 00:26:58,000
+The giant squid complied as he did so
+
+518
+00:26:58,000 --> 00:27:00,000
+Thrust the second tentacle in
+
+519
+00:27:00,000 --> 00:27:01,000
+Hogwarts shuttered
+
+520
+00:27:01,000 --> 00:27:03,000
+Coming very close to ending the fun
+
+521
+00:27:03,000 --> 00:27:05,000
+The giant squid backed off
+
+522
+00:27:05,000 --> 00:27:07,000
+Unwilling to finish so soon
+
+523
+00:27:07,000 --> 00:27:09,000
+He waited for Hogwarts to calm down
+
+524
+00:27:09,000 --> 00:27:11,000
+Before sending the second tentacle
+
+525
+00:27:11,000 --> 00:27:12,000
+To search the room
+
+526
+00:27:12,000 --> 00:27:14,000
+He felt a need to fill Hogwarts
+
+527
+00:27:14,000 --> 00:27:15,000
+As much as possible
+
+528
+00:27:15,000 --> 00:27:17,000
+And erased another tentacle
+
+529
+00:27:17,000 --> 00:27:18,000
+Caressing his outer walls
+
+530
+00:27:18,000 --> 00:27:19,000
+Running along windowsills
+
+531
+00:27:19,000 --> 00:27:21,000
+And tracing individual bricks
+
+532
+00:27:21,000 --> 00:27:23,000
+So caught up in the blizz
+
+533
+00:27:23,000 --> 00:27:24,000
+Hogwarts didn't even notice
+
+534
+00:27:24,000 --> 00:27:26,000
+The giant squid slipped in a third
+
+535
+00:27:26,000 --> 00:27:28,000
+And a fourth tentacle
+
+536
+00:27:28,000 --> 00:27:30,000
+This is incredible
+
+537
+00:27:30,000 --> 00:27:32,000
+Hogwarts breathed
+
+538
+00:27:32,000 --> 00:27:34,000
+This isn't even the best part
+
+539
+00:27:34,000 --> 00:27:36,000
+He held up his two longest tentacles
+
+540
+00:27:36,000 --> 00:27:38,000
+These can reach further than the room
+
+541
+00:27:38,000 --> 00:27:40,000
+They can go into your hallways
+
+542
+00:27:40,000 --> 00:27:41,000
+I want them in me
+
+543
+00:27:41,000 --> 00:27:43,000
+Are you sure?
+
+544
+00:27:43,000 --> 00:27:44,000
+They're quite large
+
+545
+00:27:44,000 --> 00:27:46,000
+Opera henshin rolled through his kitchen again
+
+546
+00:27:46,000 --> 00:27:48,000
+While he was deciding
+
+547
+00:27:48,000 --> 00:27:50,000
+The giant squid forced another tentacle in
+
+548
+00:27:50,000 --> 00:27:52,000
+You have three tentacles left to decide
+
+549
+00:27:53,000 --> 00:27:55,000
+What happens if I don't?
+
+550
+00:27:55,000 --> 00:27:56,000
+In response
+
+551
+00:27:56,000 --> 00:27:58,000
+The giant squid slid a sixth
+
+552
+00:27:58,000 --> 00:27:59,000
+Into another window
+
+553
+00:27:59,000 --> 00:28:00,000
+Two
+
+554
+00:28:00,000 --> 00:28:01,000
+He simply
+
+555
+00:28:01,000 --> 00:28:02,000
+And with a hint of warning
+
+556
+00:28:02,000 --> 00:28:03,000
+He said simply
+
+557
+00:28:03,000 --> 00:28:04,000
+With a hint of warning
+
+558
+00:28:05,000 --> 00:28:07,000
+Hogwarts could take them all
+
+559
+00:28:07,000 --> 00:28:09,000
+He knew he could
+
+560
+00:28:09,000 --> 00:28:11,000
+What would the other wizarding schools think?
+
+561
+00:28:11,000 --> 00:28:14,000
+Would Boba Tons allow a giant squid
+
+562
+00:28:14,000 --> 00:28:15,000
+To violate her?
+
+563
+00:28:15,000 --> 00:28:16,000
+Certainly not
+
+564
+00:28:16,000 --> 00:28:18,000
+If DermString ever found out
+
+565
+00:28:18,000 --> 00:28:20,000
+There'd be no end of teasing
+
+566
+00:28:20,000 --> 00:28:22,000
+The giant squid grew impatient
+
+567
+00:28:22,000 --> 00:28:24,000
+Slid a seventh tentacle into a window
+
+568
+00:28:24,000 --> 00:28:26,000
+Falled immediately by an eighth
+
+569
+00:28:26,000 --> 00:28:27,000
+One
+
+570
+00:28:27,000 --> 00:28:28,000
+Two
+
+571
+00:28:28,000 --> 00:28:30,000
+Times up
+
+572
+00:28:30,000 --> 00:28:32,000
+And you didn't decide
+
+573
+00:28:32,000 --> 00:28:33,000
+What?
+
+574
+00:28:33,000 --> 00:28:34,000
+But that's not fair
+
+575
+00:28:34,000 --> 00:28:35,000
+Why would this wizard get nuked?
+
+576
+00:28:35,000 --> 00:28:36,000
+This is perfectly normal
+
+577
+00:28:37,000 --> 00:28:38,000
+This is fine
+
+578
+00:28:40,000 --> 00:28:42,000
+This is Hogwarts the building
+
+579
+00:28:45,000 --> 00:28:46,000
+What?
+
+580
+00:28:46,000 --> 00:28:47,000
+But that's not fair
+
+581
+00:28:47,000 --> 00:28:48,000
+It's a simple answer
+
+582
+00:28:48,000 --> 00:28:49,000
+I guess I know
+
+583
+00:28:49,000 --> 00:28:50,000
+Now I'll have to punish you
+
+584
+00:28:50,000 --> 00:28:51,000
+And with that
+
+585
+00:28:51,000 --> 00:28:53,000
+He struck Hogwarts square
+
+586
+00:28:53,000 --> 00:28:55,000
+On the outer wall of a paddle-like tentacle
+
+587
+00:28:55,000 --> 00:28:56,000
+Hogwarts yelped
+
+588
+00:28:56,000 --> 00:28:57,000
+And tried to square it away
+
+589
+00:28:57,000 --> 00:28:59,000
+But the tentacles and his foundation
+
+590
+00:28:59,000 --> 00:29:00,000
+Held firm
+
+591
+00:29:00,000 --> 00:29:02,000
+The giant squid struck him with the other
+
+592
+00:29:02,000 --> 00:29:03,000
+Again and again
+
+593
+00:29:03,000 --> 00:29:05,000
+He spanked the naughty wizarding school
+
+594
+00:29:05,000 --> 00:29:07,000
+Until he sawed for the giant squid to stop
+
+595
+00:29:07,000 --> 00:29:08,000
+And still
+
+596
+00:29:09,000 --> 00:29:10,000
+He spanked
+
+597
+00:29:10,000 --> 00:29:12,000
+This makes me feel funny in my bathroom
+
+598
+00:29:13,000 --> 00:29:14,000
+You like my outfit?
+
+599
+00:29:15,000 --> 00:29:16,000
+Good
+
+600
+00:29:16,000 --> 00:29:17,000
+You better
+
+601
+00:29:18,000 --> 00:29:19,000
+I dressed up
+
+602
+00:29:19,000 --> 00:29:20,000
+All nice and pretty
+
+603
+00:29:20,000 --> 00:29:21,000
+For myself, not for you
+
+604
+00:29:21,000 --> 00:29:22,000
+You thought this was for you
+
+605
+00:29:23,000 --> 00:29:24,000
+Baka
+
+606
+00:29:24,000 --> 00:29:26,000
+Don't do anything for you
+
+607
+00:29:27,000 --> 00:29:28,000
+The giant squid finally stopped
+
+608
+00:29:28,000 --> 00:29:29,000
+But Hogwarts didn't have time
+
+609
+00:29:29,000 --> 00:29:30,000
+For reprieve before the giant squid
+
+610
+00:29:30,000 --> 00:29:32,000
+Forced his extra-long
+
+611
+00:29:32,000 --> 00:29:35,000
+Spanking tentacles into two separate windows
+
+612
+00:29:35,000 --> 00:29:36,000
+They slipped through the room
+
+613
+00:29:36,000 --> 00:29:37,000
+And forced the doors open
+
+614
+00:29:37,000 --> 00:29:40,000
+The pain only adding to Hogwarts' pleasure
+
+615
+00:29:40,000 --> 00:29:42,000
+The tentacles were in the hall now
+
+616
+00:29:42,000 --> 00:29:43,000
+Massaging the long stone
+
+617
+00:29:43,000 --> 00:29:44,000
+Tunnels
+
+618
+00:29:44,000 --> 00:29:45,000
+This was incredible
+
+619
+00:29:45,000 --> 00:29:46,000
+The giant squid thought
+
+620
+00:29:46,000 --> 00:29:47,000
+He really should have done this
+
+621
+00:29:47,000 --> 00:29:48,000
+At ages ago
+
+622
+00:29:49,000 --> 00:29:50,000
+Every tentacle was in a different window
+
+623
+00:29:50,000 --> 00:29:51,000
+No school girl
+
+624
+00:29:51,000 --> 00:29:53,000
+No matter how many movies she made
+
+625
+00:29:53,000 --> 00:29:54,000
+Could hold all tentacles
+
+626
+00:29:54,000 --> 00:29:56,000
+At ten tentacles at once
+
+627
+00:29:59,000 --> 00:30:00,000
+Each one moved differently
+
+628
+00:30:00,000 --> 00:30:01,000
+And with a different pace
+
+629
+00:30:01,000 --> 00:30:02,000
+Driving Hogwarts crazy
+
+630
+00:30:02,000 --> 00:30:04,000
+With the inability to match his speed
+
+631
+00:30:05,000 --> 00:30:07,000
+I'm just waiting to get a raid
+
+632
+00:30:07,000 --> 00:30:09,000
+Or someone like I know come in
+
+633
+00:30:09,000 --> 00:30:10,000
+And be like, hey, what are you?
+
+634
+00:30:10,000 --> 00:30:11,000
+Oh, God
+
+635
+00:30:13,000 --> 00:30:14,000
+He felt that familiar feeling
+
+636
+00:30:14,000 --> 00:30:16,000
+And doubled his efforts
+
+637
+00:30:16,000 --> 00:30:19,000
+Ink exploded all over Hogwarts
+
+638
+00:30:19,000 --> 00:30:21,000
+Some finding its way into the windows
+
+639
+00:30:21,000 --> 00:30:23,000
+He unified his tentacles
+
+640
+00:30:23,000 --> 00:30:25,000
+With the ability to match his speed
+
+641
+00:30:25,000 --> 00:30:26,000
+I'm just waiting to get a raid
+
+642
+00:30:26,000 --> 00:30:27,000
+Or someone like I know come in
+
+643
+00:30:27,000 --> 00:30:28,000
+And be like, hey, what are you?
+
+644
+00:30:28,000 --> 00:30:29,000
+Oh, God
+
+645
+00:30:30,000 --> 00:30:31,000
+He felt that familiar feeling
+
+646
+00:30:31,000 --> 00:30:33,000
+And doubled his efforts
+
+647
+00:30:33,000 --> 00:30:34,000
+And unified his tentacles
+
+648
+00:30:34,000 --> 00:30:37,000
+Somewhat completely unified
+
+649
+00:30:37,000 --> 00:30:39,000
+Can we focus on Hogwarts?
+
+650
+00:30:39,000 --> 00:30:40,000
+He must be close
+
+651
+00:30:40,000 --> 00:30:41,000
+Then it happened
+
+652
+00:30:41,000 --> 00:30:43,000
+Water shot of a faucet
+
+653
+00:30:43,000 --> 00:30:44,000
+Toilets overflowed
+
+654
+00:30:44,000 --> 00:30:45,000
+And bread set in ovens
+
+655
+00:30:45,000 --> 00:30:47,000
+To keep warm by thoughtful house elves
+
+656
+00:30:47,000 --> 00:30:48,000
+Exploded
+
+657
+00:30:48,000 --> 00:30:49,000
+Hogwarts shook violently
+
+658
+00:30:49,000 --> 00:30:50,000
+Into his foundations
+
+659
+00:30:50,000 --> 00:30:52,000
+Rousing filled from bed
+
+660
+00:30:52,000 --> 00:30:53,000
+And sitting house elves
+
+661
+00:30:53,000 --> 00:30:55,000
+And Mrs. Norris scrambling for cover
+
+662
+00:30:55,000 --> 00:30:57,000
+Even Hagrid heard the groan
+
+663
+00:30:57,000 --> 00:30:59,000
+Of stone and came running
+
+664
+00:31:00,000 --> 00:31:02,000
+They searched around the castle
+
+665
+00:31:02,000 --> 00:31:03,000
+And through the castle
+
+666
+00:31:03,000 --> 00:31:05,000
+But found no sign of intruders
+
+667
+00:31:05,000 --> 00:31:07,000
+Most perplexing was the stinky ink
+
+668
+00:31:07,000 --> 00:31:09,000
+On one side of the castle
+
+669
+00:31:09,000 --> 00:31:11,000
+Hagrid peered to the dark
+
+670
+00:31:11,000 --> 00:31:12,000
+Towards the lake
+
+671
+00:31:12,000 --> 00:31:13,000
+But was unable to see the ripples left
+
+672
+00:31:13,000 --> 00:31:15,000
+In the wake of the giant squid
+
+673
+00:31:15,000 --> 00:31:17,000
+The giant squid slipped beneath the waves
+
+674
+00:31:17,000 --> 00:31:19,000
+Wanting to grin even though
+
+675
+00:31:19,000 --> 00:31:20,000
+His beak was incapable
+
+676
+00:31:20,000 --> 00:31:22,000
+He anticipated a very short summer
+
+677
+00:31:22,000 --> 00:31:24,000
+Before the professors and students returned
+
+678
+00:31:24,000 --> 00:31:26,000
+So he had better make the most of it
+
+679
+00:31:27,000 --> 00:31:29,000
+And seen
+
+680
+00:31:32,000 --> 00:31:33,000
+That was it
+
+681
+00:31:33,000 --> 00:31:35,000
+That was a first encounter
+
+682
+00:31:35,000 --> 00:31:36,000
+By a
+
+683
+00:31:42,000 --> 00:31:44,000
+Lyrus Malachi
+
+684
+00:31:46,000 --> 00:31:48,000
+Sorry, Fia is also meowing
+
+685
+00:31:48,000 --> 00:31:50,000
+What is going on guys?
+
+686
+00:31:50,000 --> 00:31:51,000
+What you mean by that?
+
+687
+00:31:51,000 --> 00:31:52,000
+I don't know
+
+688
+00:31:52,000 --> 00:31:53,000
+I don't know
+
+689
+00:31:53,000 --> 00:31:54,000
+I don't know
+
+690
+00:31:54,000 --> 00:31:55,000
+Come on guys
+
+691
+00:31:55,000 --> 00:31:57,000
+What you meowing about?
+
+692
+00:32:11,000 --> 00:32:13,000
+Yeah, I was hoping some of you guys
+
+693
+00:32:13,000 --> 00:32:15,000
+Would have written me some cringe fanfictions
+
+694
+00:32:15,000 --> 00:32:17,000
+Of me and the girls
+
+695
+00:32:17,000 --> 00:32:19,000
+Or me and
+
+696
+00:32:19,000 --> 00:32:21,000
+A harem
+
+697
+00:32:21,000 --> 00:32:23,000
+A harlot
+
+698
+00:32:23,000 --> 00:32:24,000
+No
+
+699
+00:32:24,000 --> 00:32:25,000
+Shook my
+
+700
+00:32:25,000 --> 00:32:26,000
+Shook my
+
+701
+00:32:26,000 --> 00:32:27,000
+Foundations
+
+702
+00:32:27,000 --> 00:32:29,000
+I'll tell you what
+
+703
+00:32:29,000 --> 00:32:31,000
+Cringe but Kino
+
+704
+00:32:33,000 --> 00:32:35,000
+Yeah, a singular
+
+705
+00:32:35,000 --> 00:32:37,000
+Member of the harem
+
+706
+00:32:37,000 --> 00:32:39,000
+Is called a harlot
+
+707
+00:32:39,000 --> 00:32:41,000
+Or a harlot
+
+708
+00:32:42,000 --> 00:32:44,000
+I can't write good
+
+709
+00:32:44,000 --> 00:32:46,000
+That's the whole point
+
+710
+00:32:46,000 --> 00:32:47,000
+Just wait
+
+711
+00:32:47,000 --> 00:32:49,000
+Just wait till I read my immortal guys
+
+712
+00:32:50,000 --> 00:32:52,000
+I was disappointed
+
+713
+00:32:52,000 --> 00:32:54,000
+There was no line as memorable as
+
+714
+00:32:54,000 --> 00:32:56,000
+Hold on tight spider monkey
+
+715
+00:32:56,000 --> 00:32:57,000
+Different franchise
+
+716
+00:32:57,000 --> 00:32:59,000
+But understood
+
+717
+00:33:01,000 --> 00:33:03,000
+Okay, let's go to the next one
+
+718
+00:33:04,000 --> 00:33:06,000
+I'm going to turn off my BGM
+
+719
+00:33:06,000 --> 00:33:08,000
+Because I'm going to put on some Hogwarts related music
+
+720
+00:33:13,000 --> 00:33:16,000
+Wait, I don't think I have the donation stuff on here
+
+721
+00:33:16,000 --> 00:33:17,000
+Hold on
+
+722
+00:33:20,000 --> 00:33:23,000
+Apologies
+
+723
+00:33:26,000 --> 00:33:28,000
+There it is, okay
+
+724
+00:33:28,000 --> 00:33:30,000
+Yeah, I didn't have the donation alert
+
+725
+00:33:30,000 --> 00:33:32,000
+So if you did, I'm sorry, I didn't catch it
+
+726
+00:33:32,000 --> 00:33:34,000
+So let me double check that real quick
+
+727
+00:33:44,000 --> 00:33:46,000
+Thank you bun for the tip
+
+728
+00:33:46,000 --> 00:33:48,000
+I vastly underestimated the level of
+
+729
+00:33:48,000 --> 00:33:49,000
+Cringe you desired
+
+730
+00:33:49,000 --> 00:33:51,000
+I have to recalibrate all systems
+
+731
+00:33:51,000 --> 00:33:52,000
+Precisely
+
+732
+00:33:52,000 --> 00:33:54,000
+I wanted the cringiest stuff
+
+733
+00:33:55,000 --> 00:33:56,000
+Okay, let me see
+
+734
+00:33:56,000 --> 00:33:58,000
+If I play this, will it work again?
+
+735
+00:33:59,000 --> 00:34:01,000
+Well, aren't you just this
+
+736
+00:34:02,000 --> 00:34:04,000
+Cool beads
+
+737
+00:34:10,000 --> 00:34:12,000
+Recalibrating
+
+738
+00:34:12,000 --> 00:34:14,000
+Recalibrating
+
+739
+00:34:14,000 --> 00:34:16,000
+Okay
+
+740
+00:34:19,000 --> 00:34:20,000
+Fuck
+
+741
+00:34:20,000 --> 00:34:22,000
+I want to cover this fucking dude
+
+742
+00:34:26,000 --> 00:34:27,000
+Get rid of this
+
+743
+00:34:27,000 --> 00:34:29,000
+Nobody needs to see fucking Eric
+
+744
+00:34:35,000 --> 00:34:37,000
+No males on the stream
+
+745
+00:34:37,000 --> 00:34:38,000
+Aw frick
+
+746
+00:34:41,000 --> 00:34:43,000
+Okay, so this is my favorite fanfiction
+
+747
+00:34:45,000 --> 00:34:46,000
+Of all time
+
+748
+00:34:48,000 --> 00:34:49,000
+I hope you will enjoy
+
+749
+00:34:49,000 --> 00:34:51,000
+Because I know I will
+
+750
+00:34:55,000 --> 00:34:57,000
+It's yeah, it's a pretty
+
+751
+00:34:57,000 --> 00:34:59,000
+You're right, I set a pretty high bar
+
+752
+00:34:59,000 --> 00:35:00,000
+For that
+
+753
+00:35:00,000 --> 00:35:01,000
+Feel, what do you want?
+
+754
+00:35:01,000 --> 00:35:03,000
+I know you don't need me
+
+755
+00:35:04,000 --> 00:35:06,000
+My cats are just little
+
+756
+00:35:07,000 --> 00:35:09,000
+That's what they eat, but yes
+
+757
+00:35:10,000 --> 00:35:12,000
+It's a cover up Eric
+
+758
+00:35:15,000 --> 00:35:17,000
+It's just pretty normie
+
+759
+00:35:18,000 --> 00:35:20,000
+Well, I feel like now it's normie
+
+760
+00:35:21,000 --> 00:35:22,000
+Can I?
+
+761
+00:35:22,000 --> 00:35:24,000
+If I zoom in more, it's just not going to work out
+
+762
+00:35:26,000 --> 00:35:28,000
+Where is
+
+763
+00:35:36,000 --> 00:35:38,000
+Is that too loud?
+
+764
+00:35:42,000 --> 00:35:44,000
+Yes, it is named after the
+
+765
+00:35:44,000 --> 00:35:46,000
+Evanescent song
+
+766
+00:35:46,000 --> 00:35:47,000
+It's a bit loud
+
+767
+00:35:48,000 --> 00:35:50,000
+Half the text in blue is because
+
+768
+00:35:51,000 --> 00:35:52,000
+It's like
+
+769
+00:35:52,000 --> 00:35:53,000
+They'll
+
+770
+00:35:53,000 --> 00:35:55,000
+They have like corrections and stuff
+
+771
+00:35:56,000 --> 00:35:58,000
+In fact, I can turn that off
+
+772
+00:36:00,000 --> 00:36:01,000
+So now
+
+773
+00:36:02,000 --> 00:36:04,000
+He doesn't do that
+
+774
+00:36:07,000 --> 00:36:08,000
+Seems okay
+
+775
+00:36:08,000 --> 00:36:10,000
+Bring it down a tad
+
+776
+00:36:10,000 --> 00:36:11,000
+But
+
+777
+00:36:16,000 --> 00:36:17,000
+Titans
+
+778
+00:36:18,000 --> 00:36:19,000
+No, it's
+
+779
+00:36:19,000 --> 00:36:22,000
+Harry Potter inspired background study music
+
+780
+00:36:22,000 --> 00:36:23,000
+Fall vibes
+
+781
+00:36:23,000 --> 00:36:25,000
+Hogwarts music inspired
+
+782
+00:36:25,000 --> 00:36:27,000
+And it is copy
+
+783
+00:36:27,000 --> 00:36:28,000
+Right
+
+784
+00:36:28,000 --> 00:36:30,000
+Copyright free and royalty free
+
+785
+00:36:31,000 --> 00:36:33,000
+You're more of a going under kind of guy
+
+786
+00:36:33,000 --> 00:36:35,000
+I'm going under
+
+787
+00:36:36,000 --> 00:36:37,000
+Oh my god, Fia
+
+788
+00:36:37,000 --> 00:36:38,000
+What the hell are you doing?
+
+789
+00:36:38,000 --> 00:36:40,000
+You're going to burn yourself on my team
+
+790
+00:36:41,000 --> 00:36:43,000
+Are you trying to kill yourself?
+
+791
+00:36:44,000 --> 00:36:45,000
+Fia
+
+792
+00:36:47,000 --> 00:36:48,000
+She was like
+
+793
+00:36:48,000 --> 00:36:50,000
+Accidentally kicked me in the face
+
+794
+00:36:50,000 --> 00:36:51,000
+I was trying to put her down
+
+795
+00:36:55,000 --> 00:36:56,000
+Turn this down
+
+796
+00:37:01,000 --> 00:37:03,000
+We're good, we're good
+
+797
+00:37:09,000 --> 00:37:11,000
+Wait, did that correct to the grammar?
+
+798
+00:37:12,000 --> 00:37:13,000
+Because I don't
+
+799
+00:37:13,000 --> 00:37:14,000
+I can't
+
+800
+00:37:14,000 --> 00:37:15,000
+I have to read it
+
+801
+00:37:16,000 --> 00:37:17,000
+With
+
+802
+00:37:17,000 --> 00:37:18,000
+Without the grammar correction
+
+803
+00:37:22,000 --> 00:37:23,000
+I want the original
+
+804
+00:37:23,000 --> 00:37:24,000
+Okay, this is the original
+
+805
+00:37:30,000 --> 00:37:32,000
+Evanescent is a great
+
+806
+00:37:32,000 --> 00:37:33,000
+It was a great group
+
+807
+00:37:33,000 --> 00:37:35,000
+We are reading my immortal
+
+808
+00:37:54,000 --> 00:37:56,000
+This is authentic
+
+809
+00:37:56,000 --> 00:38:00,800
+ᎌ Ꭱ Ꭱ Ꭱ Ꭱ Ꭱ Ꭱ Ꭱ Ꭱ Ꭱ Ꭱ Ꭱ moist
+
+810
+00:38:02,620 --> 00:38:05,020
+Ꭱ Ꭱ Ꭱ Ꭱ Ꭱ Gong
+
+811
+00:38:05,180 --> 00:38:07,880
+Ꭱ ᎡᎡ Ꭱ, ᎡᎡ🐖
+
+812
+00:38:08,380 --> 00:38:11,040
+Ꭱ Ꭱ ʖᎡ, Ꭱ a Ꭱ Ꭱ, Ꭱ ს a ს, Ꭱ, Ꭱ a ᐋ
+
+813
+00:38:12,000 --> 00:38:17,260
+Ꭱ �ps✓m ᔊ tumors
+
+814
+00:38:18,940 --> 00:38:22,820
+უᎡ Ꭱ Ꭱ, Ꭱ Ꭱ ᎡᎡ Ꭱ Ꭱ Elena
+
+815
+00:38:23,300 --> 00:38:25,860
+ᐟᎡ ᐀ᐨ უᎡ ᐄᎡ我觉得
+
+816
+00:38:26,000 --> 00:38:31,720
+What's this fanfic about you'll find out all right, so we're gonna do some voting on voices
+
+817
+00:38:33,800 --> 00:38:38,680
+What voice would you like for ebony
+
+818
+00:38:42,880 --> 00:38:44,880
+Technically they all
+
+819
+00:38:47,880 --> 00:38:49,480
+What's it called
+
+820
+00:38:49,480 --> 00:38:54,880
+It's it's the UK. They're all British so like I'll be giving the majority of them British accents
+
+821
+00:38:56,040 --> 00:38:58,040
+My Emmy voice
+
+822
+00:38:58,640 --> 00:39:02,480
+Okay, let's do ebony's voice
+
+823
+00:39:10,680 --> 00:39:12,280
+Edgy
+
+824
+00:39:12,280 --> 00:39:14,920
+Tween voice so I'll give you an example of each voice
+
+825
+00:39:15,720 --> 00:39:19,960
+Hi, my name is ebony darkness dementia Raven Way. That's the edgy tween voice
+
+826
+00:39:22,280 --> 00:39:24,280
+And there's my voice
+
+827
+00:39:24,760 --> 00:39:28,880
+Hi, my name is ebony darkness dementia Raven Way, and I have long black ebony hair
+
+828
+00:39:30,920 --> 00:39:32,920
+My voice
+
+829
+00:39:35,720 --> 00:39:37,720
+British
+
+830
+00:39:37,880 --> 00:39:39,880
+Cute and funny
+
+831
+00:39:40,560 --> 00:39:45,500
+Hi, my name is ebony darkness dementia Raven Way, and I have long black ebony hair
+
+832
+00:39:46,120 --> 00:39:51,200
+Black hair. That's how I got my name with purple streaks and red tips that reaches my mid back
+
+833
+00:39:54,600 --> 00:39:58,440
+Yeah, not that one
+
+834
+00:40:00,560 --> 00:40:06,680
+Give ebony a male voice a male for a female voice or we can do like British
+
+835
+00:40:09,840 --> 00:40:11,840
+Or no, just we'll just do mommy voice
+
+836
+00:40:15,680 --> 00:40:21,720
+Hi, my name is ebony darkness dementia Raven Way, and I have long black ebony black
+
+837
+00:40:21,960 --> 00:40:24,320
+Can't fucking read already ebony black hair
+
+838
+00:40:24,360 --> 00:40:31,560
+That's how I got my name with purple streaks and red tips that reaches my mid back and icy blue eyes like limpid tears
+
+839
+00:40:32,000 --> 00:40:34,000
+The
+
+840
+00:40:48,000 --> 00:40:49,680
+The voices
+
+841
+00:40:49,680 --> 00:40:54,960
+So I'll keep doing them. Hi, my name is ebony that or like I should call it my cartman voice
+
+842
+00:40:54,960 --> 00:41:00,200
+Hi, my name is ebony darkness dementia Raven Way, and I have long ebony black hair
+
+843
+00:41:00,200 --> 00:41:07,800
+That's how I got my name with purple streaks and red tips that reaches my mid back and icy blue eyes like limpid tears and a lot of people tell me I look like Emily
+
+844
+00:41:12,840 --> 00:41:17,240
+Hi, my name is ebony darkness dementia Raven Way, and I have long ebony black hair
+
+845
+00:41:17,240 --> 00:41:21,800
+That's how I got my name with purple streaks and red tips that reaches my mid back and icy blue eyes
+
+846
+00:41:24,160 --> 00:41:26,160
+Um
+
+847
+00:41:26,160 --> 00:41:31,920
+The voices won't strain me you'd be surprised
+
+848
+00:41:34,400 --> 00:41:37,160
+Wait, can I try changing it? Okay, hold on. Let me cancel this
+
+849
+00:41:39,880 --> 00:41:41,880
+We'll do a round two
+
+850
+00:41:48,440 --> 00:41:52,960
+Round two edgy tween
+
+851
+00:41:53,360 --> 00:42:00,080
+Mommy the British cute and funny
+
+852
+00:42:08,640 --> 00:42:11,880
+And I'm gonna add valley girl cuz my voice got kicked out
+
+853
+00:42:13,280 --> 00:42:19,000
+My boys this doesn't fit for this though. Hi, my name is ebony dark. No, that's like it's not good. It's not fun, you know
+
+854
+00:42:19,920 --> 00:42:21,920
+We're gonna add valley girl
+
+855
+00:42:22,480 --> 00:42:27,880
+Hi, my name is ebony darkness dementia Raven Way, and I have long ebony black hair
+
+856
+00:42:28,200 --> 00:42:32,140
+That's how I got my name with purple streaks and red tips
+
+857
+00:42:47,600 --> 00:42:49,600
+I'm so torn
+
+858
+00:42:52,160 --> 00:42:56,200
+It's like what what voice do you want to listen to for the next
+
+859
+00:42:58,320 --> 00:43:01,400
+Hour and a half or more is the question
+
+860
+00:43:04,720 --> 00:43:10,720
+She be voice be grading that's how it be gotta get that vocal fry in there just for you baby girl
+
+861
+00:43:11,960 --> 00:43:19,480
+Gothic gf hi, my name is ebony darkness dementia Raven Way, and I have long ebony black hair
+
+862
+00:43:21,960 --> 00:43:25,360
+That's how I got my name with purple streaks and red tips
+
+863
+00:43:36,000 --> 00:43:38,280
+You want Draco to get edgy teen
+
+864
+00:43:41,880 --> 00:43:45,280
+Usually I just make all the guys sound like Londoners like oh
+
+865
+00:43:45,920 --> 00:43:47,920
+I
+
+866
+00:43:49,480 --> 00:43:55,680
+Yes, dementia is in her name. I have a lot of voices which voice is my real one. All right looks like it's valley girl
+
+867
+00:43:59,400 --> 00:44:01,640
+So hey, hi welcome to chilies
+
+868
+00:44:04,200 --> 00:44:07,680
+Oh I govna get mouth for the milk
+
+869
+00:44:07,680 --> 00:44:09,680
+Oh
+
+870
+00:44:10,160 --> 00:44:16,120
+Don't make Draco the cute. Well, okay. We'll vote for Draco in a moment. Let me do that. Let me set that up right now
+
+871
+00:44:18,200 --> 00:44:20,200
+Draco's voice
+
+872
+00:44:22,640 --> 00:44:25,880
+Londoner drill rapper
+
+873
+00:44:28,720 --> 00:44:31,160
+British cute and funny
+
+874
+00:44:33,000 --> 00:44:35,000
+You guys me on about back there
+
+875
+00:44:38,560 --> 00:44:42,320
+Mommy voice or the other ones
+
+876
+00:44:45,920 --> 00:44:50,000
+Sounds like Raven from Teen Titans has a speech impediment
+
+877
+00:44:56,440 --> 00:44:58,440
+I'll add Chad voice
+
+878
+00:45:02,800 --> 00:45:04,800
+This is Chad voice
+
+879
+00:45:05,800 --> 00:45:13,560
+Hey ebony shout out a voice. I looked up. It was Draco my boy. What's up wait? Nothing. That's the huh
+
+880
+00:45:14,960 --> 00:45:16,960
+California
+
+881
+00:45:19,120 --> 00:45:21,120
+You want the mommy voice
+
+882
+00:45:24,880 --> 00:45:26,880
+Oh my god, you guys are killing me
+
+883
+00:45:27,840 --> 00:45:30,360
+Will be funny butch ass catch them
+
+884
+00:45:30,960 --> 00:45:37,160
+Let's go Pikachu. I don't think I can maintain that though himbo himbo Draco exactly himbo Draco voice
+
+885
+00:45:41,680 --> 00:45:45,320
+Yeah, why are you why are you meowing come here?
+
+886
+00:45:48,280 --> 00:45:50,280
+Little girl
+
+887
+00:45:51,320 --> 00:45:53,320
+We baby, what are you up to?
+
+888
+00:45:54,320 --> 00:46:00,960
+Why are you and Raina just like yelling in the distance? Okay, let me sit next to me like I don't know what they up to
+
+889
+00:46:02,440 --> 00:46:04,440
+All right
+
+890
+00:46:08,320 --> 00:46:11,720
+It looks like we got Draco with the mommy voice
+
+891
+00:46:16,920 --> 00:46:20,480
+What voice was I doing for oh Valley girl, okay and
+
+892
+00:46:21,000 --> 00:46:23,000
+Let us begin
+
+893
+00:46:25,560 --> 00:46:27,560
+Take off my fucking headphones, I don't need that
+
+894
+00:46:31,240 --> 00:46:33,240
+Milfoy
+
+895
+00:46:40,880 --> 00:46:47,280
+Hi, my name is Ebony darkness Dementor Raven Way and I have long Ebony black hair
+
+896
+00:46:47,680 --> 00:46:53,800
+That's how I got my name with purple streaks and red tips that reaches my mid back and icy blue eyes like
+
+897
+00:46:53,800 --> 00:46:57,120
+Limpid tears and a lot of people tell me I look like Amy Lee
+
+898
+00:46:58,200 --> 00:47:03,040
+Authors know if you I'm probably not gonna read all the authors know if you don't know who she is get the hell out of here
+
+899
+00:47:03,280 --> 00:47:05,280
+I'm not related to Gerard Way
+
+900
+00:47:05,280 --> 00:47:11,280
+But I wish I was because he's a major fucking hottie. I'm a vampire, but my teeth are straight and white
+
+901
+00:47:11,280 --> 00:47:13,080
+I have pale white skin
+
+902
+00:47:13,480 --> 00:47:18,120
+I'm also a witch and I go to a magic school called Hogwarts in England where I'm in the seventh year
+
+903
+00:47:18,120 --> 00:47:23,920
+I'm 17. I'm golf in case you couldn't tell with my floating head every which way
+
+904
+00:47:25,080 --> 00:47:30,440
+And I wear mostly black I love hot topic and I buy all my clothes from there
+
+905
+00:47:30,560 --> 00:47:31,880
+For example today
+
+906
+00:47:31,880 --> 00:47:38,640
+I was working up wearing a black corset with matching lace around it and a black leather miniskirt pink fishnets in black combat boots
+
+907
+00:47:39,120 --> 00:47:43,120
+I was wearing black lipstick white foundation black eyeliner and red eyeshadow
+
+908
+00:47:43,520 --> 00:47:47,600
+I was walking outside Hogwarts. It was snowing and raining so there was no sun
+
+909
+00:47:47,840 --> 00:47:52,480
+Which I was very happy about a lot of prep stared at me. I put my middle finger up at them
+
+910
+00:47:54,560 --> 00:47:56,240
+Hey, abony
+
+911
+00:47:56,240 --> 00:48:00,240
+Shouted a voice. I looked up. It was drako malphoy
+
+912
+00:48:01,200 --> 00:48:02,880
+What's up drako?
+
+913
+00:48:02,880 --> 00:48:04,320
+I asked
+
+914
+00:48:04,320 --> 00:48:05,440
+Nothing
+
+915
+00:48:05,440 --> 00:48:07,120
+He said shyly
+
+916
+00:48:07,120 --> 00:48:09,920
+But then I heard my friends call me and I had to go away
+
+917
+00:48:15,360 --> 00:48:18,640
+Why do you think I described my outfit before we started?
+
+918
+00:48:20,800 --> 00:48:22,800
+Okay next chapter hold on
+
+919
+00:48:37,120 --> 00:48:39,120
+I
+
+920
+00:48:45,280 --> 00:48:52,560
+Have such racket I can't read and meowing in the background. She's like meow meow meow meow
+
+921
+00:48:52,880 --> 00:48:54,880
+That's how she sounds like a
+
+922
+00:48:55,520 --> 00:48:57,520
+She's such like a cutesy meow
+
+923
+00:48:59,680 --> 00:49:01,680
+What are you doing? You want a toy?
+
+924
+00:49:02,400 --> 00:49:06,320
+What did you I gave you guys two springs and you already lost them
+
+925
+00:49:07,120 --> 00:49:09,120
+You
+
+926
+00:49:21,280 --> 00:49:23,280
+That's like these like um
+
+927
+00:49:24,160 --> 00:49:26,960
+Last six springs so they just knock them away for the video
+
+928
+00:49:27,840 --> 00:49:29,840
+Okay
+
+929
+00:49:31,440 --> 00:49:33,440
+Okay
+
+930
+00:49:37,840 --> 00:49:39,840
+I
+
+931
+00:49:44,000 --> 00:49:50,800
+Milfoy kind of the story was conferred no the story is real life
+
+932
+00:49:54,960 --> 00:49:56,960
+Okay, we don't need to talk to janice
+
+933
+00:49:57,760 --> 00:49:59,520
+um
+
+934
+00:49:59,520 --> 00:50:05,440
+The next day so chapter two thanks to bloody tears 666 for helping me with the chapter
+
+935
+00:50:06,160 --> 00:50:08,800
+BTW prep stop flim in my story, okay?
+
+936
+00:50:13,600 --> 00:50:16,960
+The next day I woke up in my bedroom. It was snowing and raining again
+
+937
+00:50:17,360 --> 00:50:20,320
+I opened the door of my coffin and drank some blood from a bottle I had
+
+938
+00:50:20,800 --> 00:50:24,640
+My coffin was black ebony and inside was hot pink velvet with black lace on the ends
+
+939
+00:50:25,280 --> 00:50:30,560
+I got on my coffin and took off my giant and I'm gonna say I'm not gonna correct anything that she says
+
+940
+00:50:30,560 --> 00:50:36,640
+And I took off my giant mcr t-shirt, which I use for pajamas
+
+941
+00:50:37,920 --> 00:50:42,720
+Instead I put on black leather dress a pentagram necklace combat boots and black fishnets on
+
+942
+00:50:43,120 --> 00:50:47,520
+I put on four pairs of earrings and my pierced ears and put my hair in kind of a messy bun
+
+943
+00:50:48,320 --> 00:50:50,320
+My friend willow
+
+944
+00:50:50,560 --> 00:50:53,440
+This is like Irel friend woke up and then grinned at me
+
+945
+00:50:53,840 --> 00:50:58,880
+She flipped her long waist length raven black hair with pink streaks and opened her four screen eyes
+
+946
+00:50:59,440 --> 00:51:04,000
+She put on her maryland manson t-shirt with a black mini fishnets pointy hide-heeled boots
+
+947
+00:51:04,960 --> 00:51:07,760
+We put on her makeup black lipstick without foundation and black eyeliner
+
+948
+00:51:09,120 --> 00:51:12,640
+I'm just gonna use my normal voice for willow because she doesn't show up too much
+
+949
+00:51:13,920 --> 00:51:20,480
+Oh my fucking god, I saw you talking to drago mouthful yesterday. She said excitedly. Yeah, so I said blushing
+
+950
+00:51:22,000 --> 00:51:23,520
+Do you like drago?
+
+951
+00:51:23,520 --> 00:51:27,920
+She asked as we went out of the Slytherin common room and into of course their Slytherin and into the gray hall
+
+952
+00:51:28,640 --> 00:51:30,640
+No, I so fucking don't
+
+953
+00:51:31,280 --> 00:51:33,280
+Yeah, right. She exclaimed
+
+954
+00:51:33,840 --> 00:51:35,840
+Just then drago walked up to me
+
+955
+00:51:36,720 --> 00:51:38,720
+Hi, he said
+
+956
+00:51:38,880 --> 00:51:40,880
+Hi, I replied
+
+957
+00:51:41,520 --> 00:51:42,880
+alertly
+
+958
+00:51:42,880 --> 00:51:44,880
+Guess what he said
+
+959
+00:51:45,440 --> 00:51:47,440
+What I asked well
+
+960
+00:51:48,000 --> 00:51:51,280
+Good charlotte are having a concert in hogsmeade. He told me
+
+961
+00:51:51,920 --> 00:51:54,800
+Oh my fucking god, I screamed
+
+962
+00:51:55,200 --> 00:51:57,840
+I loved you see they're my favorite band besides mcr
+
+963
+00:51:59,360 --> 00:52:01,760
+Well, do you want to go out with me wait?
+
+964
+00:52:03,200 --> 00:52:06,320
+Well, do you want to go with me he asked I gasped
+
+965
+00:52:09,680 --> 00:52:11,680
+I'm not gonna read all the office notes
+
+966
+00:52:14,240 --> 00:52:18,000
+On the night of the concert I might just read like the exposition in my normal voice
+
+967
+00:52:18,720 --> 00:52:22,000
+On the night of the concert I put on my black lace up boots with high heels
+
+968
+00:52:22,480 --> 00:52:26,080
+God fucking damn she she has to tell you how well she dresses
+
+969
+00:52:26,480 --> 00:52:28,160
+Underneath them are ripped red fishnets
+
+970
+00:52:28,240 --> 00:52:31,760
+Then I put on a black leather mini dress with all this corset stuff on the back and the front
+
+971
+00:52:32,240 --> 00:52:34,240
+I put on matching fishnet on my arm
+
+972
+00:52:34,720 --> 00:52:40,800
+Arms I straightened my hair and made it look all spiky. I felt a little depressed. So then I slit one of my wrists
+
+973
+00:52:42,000 --> 00:52:46,080
+I read a depressing book while I waited for it to stop bleeding and I listened to this gc
+
+974
+00:52:46,640 --> 00:52:49,440
+I painted my nails black and put on tons of black eyeliner
+
+975
+00:52:50,320 --> 00:52:53,840
+Then I put on some black lipstick. I didn't put on fedation because I was pale anyways
+
+976
+00:52:54,320 --> 00:52:56,880
+I don't know what happened to the rest of the time before that, but okay
+
+977
+00:52:57,200 --> 00:52:59,700
+I drank some human blood. So I was ready to go to the concert
+
+978
+00:53:01,840 --> 00:53:03,840
+Spiky like Goku
+
+979
+00:53:04,720 --> 00:53:09,300
+I went outside drago was hold on actually I should put a disclaimer for that. Yeah
+
+980
+00:53:19,440 --> 00:53:21,440
+I
+
+981
+00:53:28,560 --> 00:53:30,560
+Disclaimer trigger warning
+
+982
+00:53:35,120 --> 00:53:37,120
+She does slitter wrist a lot
+
+983
+00:53:38,720 --> 00:53:41,360
+Vegeta ass hairline take a sip of tea
+
+984
+00:53:41,360 --> 00:53:43,360
+I
+
+985
+00:53:46,080 --> 00:53:48,800
+Went outside drago was waiting there in front of his flying car
+
+986
+00:53:49,120 --> 00:53:52,000
+He was wearing a simple planned t-shirt. They would play at the show too
+
+987
+00:53:52,640 --> 00:53:55,600
+Baggy black skater pants black nail polish and a little eyeliner
+
+988
+00:53:56,000 --> 00:53:57,600
+others note
+
+989
+00:53:57,600 --> 00:54:00,400
+A lot felt cool boys wear it. Okay
+
+990
+00:54:01,760 --> 00:54:04,560
+Hi drago. I said under the depressed voice
+
+991
+00:54:05,440 --> 00:54:07,440
+Hi bunny. He said back
+
+992
+00:54:07,600 --> 00:54:15,040
+We walked into his into his flying black mercedes benz the license plate said 666 and flew to the place with the concert
+
+993
+00:54:15,600 --> 00:54:18,640
+On the way we listened excitedly to good charlotte and maryland manson
+
+994
+00:54:18,880 --> 00:54:21,200
+We both smoked cigarettes and drugs
+
+995
+00:54:21,840 --> 00:54:23,920
+When we got there we both hopped out of the car
+
+996
+00:54:24,560 --> 00:54:28,400
+We went to the mosh pit at the front of the stage and jumped up and down as we listened to good charlotte
+
+997
+00:54:29,920 --> 00:54:31,920
+We smoked some drugs
+
+998
+00:54:32,880 --> 00:54:34,880
+Uh
+
+999
+00:54:38,400 --> 00:54:42,000
+I don't know how the song goes so i'm just gonna sing it badly
+
+1000
+00:54:43,360 --> 00:54:45,760
+You come in cold you covered in blood
+
+1001
+00:54:46,240 --> 00:54:51,120
+They're all so happy you've arrived the doctor cuts your cord hands you to your mom
+
+1002
+00:54:51,360 --> 00:54:53,360
+She sets you free to this live
+
+1003
+00:54:54,240 --> 00:54:56,240
+sang joel
+
+1004
+00:54:57,040 --> 00:55:00,160
+Joel is so fucking hot
+
+1005
+00:55:00,480 --> 00:55:04,560
+I said to drago pointing to him as he sung filling the club with his amazing voice
+
+1006
+00:55:05,200 --> 00:55:07,200
+Suddenly drago looks sad
+
+1007
+00:55:07,200 --> 00:55:10,480
+What's wrong? I asked his mom to the music then I caught on
+
+1008
+00:55:11,440 --> 00:55:14,640
+Hey, it's okay. I don't like him better than you I said
+
+1009
+00:55:16,160 --> 00:55:20,560
+Really asked drago sensitively and he put around his arm around me all protective
+
+1010
+00:55:20,880 --> 00:55:25,520
+Really I said besides I don't even know joel and he's going out with hillary fucking duff
+
+1011
+00:55:25,920 --> 00:55:30,720
+I fucking hate that little bitch. I said disgustedly thinking of her ugly blonde face
+
+1012
+00:55:31,760 --> 00:55:34,160
+The night went on really well and I had a great time so did drago
+
+1013
+00:55:34,560 --> 00:55:38,480
+After the concert we drank some beer and asked benji and joel for their autographs and photos with them
+
+1014
+00:55:38,960 --> 00:55:42,960
+We got gc concertees drago and I crawled back into the mercedes-benz
+
+1015
+00:55:43,360 --> 00:55:47,120
+But drago didn't go back to hogwarts instead he drove the car into
+
+1016
+00:55:47,120 --> 00:55:49,120
+The forbidden forest
+
+1017
+00:55:53,120 --> 00:55:55,120
+There's some omega first jargon
+
+1018
+00:55:57,120 --> 00:56:03,120
+She'd be sorry like that got me feeling emotions the edge is blinding ouch ouchy
+
+1019
+00:56:07,120 --> 00:56:09,120
+I don't know what the omega verses
+
+1020
+00:56:11,120 --> 00:56:13,120
+What is that can someone explain that to me
+
+1021
+00:56:13,120 --> 00:56:15,120
+I sip tea
+
+1022
+00:56:15,120 --> 00:56:17,120
+You
+
+1023
+00:56:25,120 --> 00:56:29,120
+Not it's a fujoshi thing
+
+1024
+00:56:33,120 --> 00:56:35,120
+Well now I have to look it up
+
+1025
+00:56:37,120 --> 00:56:39,120
+I'm looking it up
+
+1026
+00:56:41,120 --> 00:56:43,120
+Omega
+
+1027
+00:56:45,120 --> 00:56:47,120
+Reverse
+
+1028
+00:56:47,120 --> 00:56:49,120
+Anime
+
+1029
+00:56:59,120 --> 00:57:01,120
+The new boys love anime
+
+1030
+00:57:01,120 --> 00:57:03,120
+Explained
+
+1031
+00:57:07,120 --> 00:57:09,120
+What the fuck did I mean
+
+1032
+00:57:09,120 --> 00:57:13,120
+A few ways to explain omega verse I'm reading on this regattas covered
+
+1033
+00:57:15,120 --> 00:57:21,120
+Fia stop meowing especially because the concept pilot she likes to meow a lot when she plays I don't even know why I gave her a toy
+
+1034
+00:57:25,120 --> 00:57:31,120
+The concept revolves around the notion that in an alternate universe society and members are split into three categories alphas betas and omegas
+
+1035
+00:57:35,120 --> 00:57:37,120
+Oh
+
+1036
+00:57:37,120 --> 00:57:43,120
+But not in the Andrew Tate type of way. Oh, they had to justify that. Oh, I thought it was gonna be like
+
+1037
+00:57:45,120 --> 00:57:49,120
+I thought it was gonna be like furry, but it just it's still kind of weird though
+
+1038
+00:57:49,120 --> 00:57:51,120
+Interesting
+
+1039
+00:57:55,120 --> 00:57:57,120
+She's trying to
+
+1040
+00:58:01,120 --> 00:58:05,120
+Honestly I used to read a lot of well, I didn't read it. I just looked at it if you know what I mean boys
+
+1041
+00:58:07,120 --> 00:58:11,120
+Really really boys loving boys mango when I was younger so
+
+1042
+00:58:11,120 --> 00:58:13,120
+I
+
+1043
+00:58:13,120 --> 00:58:15,120
+I
+
+1044
+00:58:15,120 --> 00:58:17,120
+I
+
+1045
+00:58:17,120 --> 00:58:19,120
+I
+
+1046
+00:58:19,120 --> 00:58:21,120
+I
+
+1047
+00:58:21,120 --> 00:58:23,120
+I
+
+1048
+00:58:23,120 --> 00:58:25,120
+I
+
+1049
+00:58:25,120 --> 00:58:27,120
+I
+
+1050
+00:58:27,120 --> 00:58:29,120
+I
+
+1051
+00:58:29,120 --> 00:58:31,120
+I
+
+1052
+00:58:31,120 --> 00:58:33,120
+I
+
+1053
+00:58:33,120 --> 00:58:35,120
+I
+
+1054
+00:58:37,120 --> 00:58:39,120
+I
+
+1055
+00:58:39,120 --> 00:58:43,120
+And they were like really cute together
+
+1056
+00:58:45,120 --> 00:58:51,120
+And you like saved them I can't remember the name of it hold on
+
+1057
+00:58:53,120 --> 00:58:55,120
+Boys love
+
+1058
+00:58:55,120 --> 00:58:57,120
+Oh
+
+1059
+00:59:03,120 --> 00:59:11,120
+Baby a triple anonymous tipped three dollars and 33 cents. It was a come on. Oh me me to buy your heat suppressors
+
+1060
+00:59:25,120 --> 00:59:27,120
+Oh
+
+1061
+00:59:33,120 --> 00:59:37,120
+Oh wait, I can't go on that website while I'm streaming. Okay. Well
+
+1062
+00:59:39,120 --> 00:59:43,120
+It was pretty good. I was like kind of more interested in the plot because they like had a
+
+1063
+00:59:45,120 --> 00:59:49,120
+They had a like a like a home together and they like fell in love
+
+1064
+00:59:49,120 --> 00:59:51,120
+And they like fell in love and anyways
+
+1065
+00:59:57,120 --> 00:59:59,120
+The forbidden forest
+
+1066
+01:00:03,120 --> 01:00:05,120
+Morino kuma
+
+1067
+01:00:13,120 --> 01:00:15,120
+Yes it is
+
+1068
+01:00:19,120 --> 01:00:21,120
+Morino kuma
+
+1069
+01:00:37,120 --> 01:00:41,120
+No, like I don't even like I don't even like read that or watch that stuff often
+
+1070
+01:00:41,120 --> 01:00:47,120
+It was just it was like literally like just like showed up and I'm like this is kind of nice. Let me just you know
+
+1071
+01:00:49,120 --> 01:00:54,120
+Take a take a take a gander vodka. Why would the bar be gone? It's fine
+
+1072
+01:00:57,120 --> 01:00:59,120
+It's fine
+
+1073
+01:01:01,120 --> 01:01:03,120
+Relax
+
+1074
+01:01:03,120 --> 01:01:05,120
+I
+
+1075
+01:01:05,120 --> 01:01:11,120
+Don't I'm not ashamed of what I watched you guys have way more degenerate shit that you look at than me
+
+1076
+01:01:12,120 --> 01:01:14,120
+Fucking weirdos
+
+1077
+01:01:18,120 --> 01:01:22,120
+Yeah, exactly I'd mind is so tame compared to you
+
+1078
+01:01:22,120 --> 01:01:24,120
+Everyone agreeing with me
+
+1079
+01:01:24,120 --> 01:01:26,120
+That's what I thought
+
+1080
+01:01:26,120 --> 01:01:28,120
+Okay
+
+1081
+01:01:28,120 --> 01:01:30,120
+Chapter 4
+
+1082
+01:01:32,120 --> 01:01:34,120
+Let me start start over this music video
+
+1083
+01:01:38,120 --> 01:01:40,120
+Yeah, can you please stop yelling?
+
+1084
+01:01:46,120 --> 01:01:48,120
+I
+
+1085
+01:01:53,120 --> 01:01:56,120
+She got a sing the song of her people
+
+1086
+01:01:58,120 --> 01:02:00,120
+Oh my god, I thought I was gonna accidentally shut off my computer
+
+1087
+01:02:09,120 --> 01:02:13,120
+Trico I shouted what the fuck do you think you're doing?
+
+1088
+01:02:13,120 --> 01:02:16,120
+Trico didn't answer but he stopped the flying car and he walked out of it
+
+1089
+01:02:16,120 --> 01:02:21,120
+I walk I don't know were they still in the air because that okay
+
+1090
+01:02:22,120 --> 01:02:24,120
+I walked out of it to curiously
+
+1091
+01:02:24,120 --> 01:02:26,120
+What the fucking hell I asked angrily
+
+1092
+01:02:26,120 --> 01:02:28,120
+Ebony he asked
+
+1093
+01:02:28,120 --> 01:02:30,120
+What I snapped
+
+1094
+01:02:30,120 --> 01:02:32,120
+Draco leaned in extra close
+
+1095
+01:02:32,120 --> 01:02:34,120
+And I looked into his gothic red eyes
+
+1096
+01:02:34,120 --> 01:02:36,120
+He was wearing color contacts
+
+1097
+01:02:36,120 --> 01:02:41,120
+Which revealed so much depressing sorrow and evilness and suddenly I didn't feel mad anymore
+
+1098
+01:02:41,120 --> 01:02:44,120
+And then justice
+
+1099
+01:02:44,120 --> 01:02:46,120
+Suddenly just as I
+
+1100
+01:02:46,120 --> 01:02:48,120
+Draco kissed me passionately
+
+1101
+01:02:48,120 --> 01:02:50,120
+Draco climbed on top of me
+
+1102
+01:02:50,120 --> 01:02:52,120
+We start to make out keenly against a tree
+
+1103
+01:02:52,120 --> 01:02:54,120
+He took off my top and I took off his clothes
+
+1104
+01:02:54,120 --> 01:02:56,120
+I even took off my bra
+
+1105
+01:02:56,120 --> 01:03:00,120
+Then he put his thingy in my new you know what we did it for the first time
+
+1106
+01:03:00,120 --> 01:03:02,120
+Oh
+
+1107
+01:03:02,120 --> 01:03:04,120
+I screamed I was beginning to get an orgasm
+
+1108
+01:03:04,120 --> 01:03:06,120
+We started to kiss everywhere
+
+1109
+01:03:06,120 --> 01:03:08,120
+My pale body became warm and then
+
+1110
+01:03:08,120 --> 01:03:12,120
+What the hell are you doing mother fucker
+
+1111
+01:03:12,120 --> 01:03:14,120
+Wait no what voice should uh
+
+1112
+01:03:14,120 --> 01:03:16,120
+What should Dumbledore have
+
+1113
+01:03:16,120 --> 01:03:18,120
+Bod will not be gone this is staying up
+
+1114
+01:03:24,120 --> 01:03:26,120
+Gangster voice
+
+1115
+01:03:26,120 --> 01:03:28,120
+Emmy voice
+
+1116
+01:03:28,120 --> 01:03:30,120
+You want a cute and funny voice
+
+1117
+01:03:34,120 --> 01:03:36,120
+You want my
+
+1118
+01:03:36,120 --> 01:03:38,120
+You want the roadman Londoner for Dumbledore
+
+1119
+01:03:40,120 --> 01:03:42,120
+Next patient audio script leak
+
+1120
+01:03:42,120 --> 01:03:44,120
+Audio script leak
+
+1121
+01:03:44,120 --> 01:03:46,120
+This fanfic was made in like 2009 I think
+
+1122
+01:03:48,120 --> 01:03:50,120
+Okay put it to a poll
+
+1123
+01:03:50,120 --> 01:03:54,120
+Dumbledore doesn't talk too often in the beginning but
+
+1124
+01:04:00,120 --> 01:04:02,120
+He also gets called Dumbledore a lot
+
+1125
+01:04:04,120 --> 01:04:06,120
+Londoner
+
+1126
+01:04:08,120 --> 01:04:10,120
+Old man British
+
+1127
+01:04:12,120 --> 01:04:16,120
+Cute and funny
+
+1128
+01:04:16,120 --> 01:04:20,120
+Because you might want to say the cute and funny voice for another person
+
+1129
+01:04:20,120 --> 01:04:24,120
+Or cowboy because I like the idea of a cowboy
+
+1130
+01:04:30,120 --> 01:04:36,120
+What is bricks but the you guys say like areas that you think I know about
+
+1131
+01:04:42,120 --> 01:04:48,120
+I need to write the viewer girls into my mortal oh my god that would that would literally make my entire life
+
+1132
+01:04:48,120 --> 01:04:50,120
+I could die happily if that happened
+
+1133
+01:04:52,120 --> 01:04:54,120
+Let me give a sample
+
+1134
+01:04:54,120 --> 01:04:58,120
+What the hell are you doing mother fuckers
+
+1135
+01:04:58,120 --> 01:05:00,120
+What the hell are you doing you mother fuckers
+
+1136
+01:05:00,120 --> 01:05:04,120
+It was Dumbledore
+
+1137
+01:05:04,120 --> 01:05:08,120
+Holy fucking shit what the fuck are you doing mother fuckers
+
+1138
+01:05:08,120 --> 01:05:10,120
+British rappers are from Brixton
+
+1139
+01:05:12,120 --> 01:05:16,120
+What houses would the girls be
+
+1140
+01:05:16,120 --> 01:05:20,120
+Icy would be Hufflepuff
+
+1141
+01:05:20,120 --> 01:05:24,120
+I would be Gryffindor
+
+1142
+01:05:24,120 --> 01:05:28,120
+Zura would be Hufflepuff
+
+1143
+01:05:28,120 --> 01:05:34,120
+Strawny would be Gryffindor
+
+1144
+01:05:34,120 --> 01:05:38,120
+Emmy would be Slytherin
+
+1145
+01:05:38,120 --> 01:05:40,120
+Mercy would be Ravenclaw
+
+1146
+01:05:40,120 --> 01:05:44,120
+Mhmm mhmm mhmm mhmm
+
+1147
+01:05:48,120 --> 01:05:52,120
+That's just my guess
+
+1148
+01:05:52,120 --> 01:05:56,120
+Alright what the hell are you doing you mother fuckers
+
+1149
+01:05:56,120 --> 01:06:04,120
+It was Dumbledore I need to make a note somebody make a note of all the voices belong to who
+
+1150
+01:06:05,120 --> 01:06:11,120
+Dumbledore made me made Andrako and I follow him he kept shouting I was angrily
+
+1151
+01:06:11,120 --> 01:06:16,120
+You ludicrous fools he shouted I started to cry tears of blood down my pallid face
+
+1152
+01:06:16,120 --> 01:06:18,120
+Draco comforted me
+
+1153
+01:06:18,120 --> 01:06:24,120
+When we went back to the castle Dumbledore took us to Professor Snape and Professor McGonagall who were both fucking very angry
+
+1154
+01:06:24,120 --> 01:06:30,120
+They were having sexual intercourse in the forbidden forest I'm sorry I'm like goofy
+
+1155
+01:06:30,120 --> 01:06:32,120
+They were having sexual intercourse
+
+1156
+01:06:33,120 --> 01:06:36,120
+These fucking kids
+
+1157
+01:06:36,120 --> 01:06:41,120
+They were having sexual intercourse in the forbidden forest
+
+1158
+01:06:41,120 --> 01:06:44,120
+Iha he yelled in a furious voice
+
+1159
+01:06:44,120 --> 01:06:48,120
+Why did you do such a thing you mediocre dumpsies
+
+1160
+01:06:48,120 --> 01:06:51,120
+Asked Professor McGonagall
+
+1161
+01:06:51,120 --> 01:06:54,120
+How dare you
+
+1162
+01:06:54,120 --> 01:06:57,120
+Demanded Professor Snape I can't do a Snape voice
+
+1163
+01:06:57,120 --> 01:07:01,120
+How dare you
+
+1164
+01:07:03,120 --> 01:07:05,120
+Mickey
+
+1165
+01:07:05,120 --> 01:07:08,120
+How dare you
+
+1166
+01:07:12,120 --> 01:07:14,120
+Andrako shrieked because I love her
+
+1167
+01:07:14,120 --> 01:07:16,120
+Wait why am I British
+
+1168
+01:07:16,120 --> 01:07:18,120
+Because I love her
+
+1169
+01:07:18,120 --> 01:07:19,120
+Patron voice
+
+1170
+01:07:19,120 --> 01:07:21,120
+Everyone was quiet
+
+1171
+01:07:21,120 --> 01:07:24,120
+Dumbledore and Professor McGonagall still looked mad but Professor Snape said
+
+1172
+01:07:24,120 --> 01:07:28,120
+Fine very well
+
+1173
+01:07:28,120 --> 01:07:31,120
+You may go up to your rooms
+
+1174
+01:07:33,120 --> 01:07:34,120
+Snape never sleep
+
+1175
+01:07:34,120 --> 01:07:36,120
+Well Harry Potter
+
+1176
+01:07:36,120 --> 01:07:38,120
+Picking noise
+
+1177
+01:07:38,120 --> 01:07:40,120
+Potter puppet pals man
+
+1178
+01:07:40,120 --> 01:07:41,120
+Bring you back
+
+1179
+01:07:41,120 --> 01:07:43,120
+Are you okay Abany
+
+1180
+01:07:43,120 --> 01:07:45,120
+Draco asked me gently
+
+1181
+01:07:45,120 --> 01:07:47,120
+Yeah I guess
+
+1182
+01:07:47,120 --> 01:07:48,120
+I lied
+
+1183
+01:07:48,120 --> 01:07:51,120
+I went to the girls dorm and brushed my teeth and my hair
+
+1184
+01:07:51,120 --> 01:07:55,120
+And chained into a low-cut black floor-length dress with a red lace all around and black high heels
+
+1185
+01:07:55,120 --> 01:07:59,120
+Iha when I came out of the closet
+
+1186
+01:08:00,120 --> 01:08:02,120
+Draco was standing in front of the bathroom and he started to sing
+
+1187
+01:08:02,120 --> 01:08:04,120
+I just want to live by Good Charlotte
+
+1188
+01:08:04,120 --> 01:08:07,120
+I was so flattered even though he wasn't supposed to be there
+
+1189
+01:08:07,120 --> 01:08:08,120
+We hugged and kissed
+
+1190
+01:08:08,120 --> 01:08:12,120
+After that we said good night and he reluctantly went back to his room
+
+1191
+01:08:14,120 --> 01:08:17,120
+You know Demwell Snape got the victory secret though
+
+1192
+01:08:17,120 --> 01:08:20,120
+That's not a song
+
+1193
+01:08:21,120 --> 01:08:24,120
+I'm so scared of that
+
+1194
+01:08:24,120 --> 01:08:26,120
+I'm really really
+
+1195
+01:08:30,120 --> 01:08:33,120
+Sorry Eric we're covering your face
+
+1196
+01:08:35,120 --> 01:08:37,120
+The next day I woke up in my coffin
+
+1197
+01:08:37,120 --> 01:08:39,120
+I put on a black many skirt
+
+1198
+01:08:39,120 --> 01:08:41,120
+Many skirt that was all ripped around the end
+
+1199
+01:08:41,120 --> 01:08:43,120
+And a matching top with red skulls all over it
+
+1200
+01:08:46,120 --> 01:08:47,120
+And high heeled boots
+
+1201
+01:08:47,120 --> 01:08:48,120
+Sorry I was making that again
+
+1202
+01:08:48,120 --> 01:08:49,120
+That were black
+
+1203
+01:08:49,120 --> 01:08:52,120
+I put on two pairs of skull earrings and two crosses in my ears
+
+1204
+01:08:52,120 --> 01:08:54,120
+I spring painted my hair with purple
+
+1205
+01:08:54,120 --> 01:08:58,120
+In the great hall I ate some Count Chocula cereal
+
+1206
+01:08:59,120 --> 01:09:01,120
+With blood instead of milk
+
+1207
+01:09:01,120 --> 01:09:03,120
+And a glass of red blood
+
+1208
+01:09:04,120 --> 01:09:06,120
+Suddenly someone bumped into me
+
+1209
+01:09:06,120 --> 01:09:08,120
+All the blood spilled over my top
+
+1210
+01:09:08,120 --> 01:09:09,120
+Faster
+
+1211
+01:09:10,120 --> 01:09:11,120
+I shouted angrily
+
+1212
+01:09:11,120 --> 01:09:12,120
+I regretted saying it
+
+1213
+01:09:12,120 --> 01:09:13,120
+Cause when I looked up
+
+1214
+01:09:13,120 --> 01:09:16,120
+I was looking to the pale white face of a gothic boy
+
+1215
+01:09:16,120 --> 01:09:18,120
+The spiky black hair with red streaks in it
+
+1216
+01:09:18,120 --> 01:09:20,120
+Who could it be
+
+1217
+01:09:21,120 --> 01:09:24,120
+He was wearing so much eyeliner that I was going down to his fate
+
+1218
+01:09:24,120 --> 01:09:26,120
+I was going down his face
+
+1219
+01:09:26,120 --> 01:09:27,120
+And he was wearing black lipstick
+
+1220
+01:09:27,120 --> 01:09:29,120
+He didn't have glasses anymore
+
+1221
+01:09:29,120 --> 01:09:31,120
+And now he was wearing red contact lenses just like Draco's
+
+1222
+01:09:31,120 --> 01:09:33,120
+There was no scar on his forehead anymore
+
+1223
+01:09:33,120 --> 01:09:35,120
+He had manly stubble on his chin
+
+1224
+01:09:35,120 --> 01:09:37,120
+He had sexy English accent
+
+1225
+01:09:37,120 --> 01:09:39,120
+He looked exactly like Joel Madden
+
+1226
+01:09:39,120 --> 01:09:41,120
+He was so sexy that my body went hot
+
+1227
+01:09:41,120 --> 01:09:43,120
+When I saw him kind of like an erection
+
+1228
+01:09:43,120 --> 01:09:45,120
+Only a girl so I didn't get when he was sicko
+
+1229
+01:09:46,120 --> 01:09:48,120
+Alright what's the voice
+
+1230
+01:09:48,120 --> 01:09:51,120
+What's the voice for vampire aka Harry Potter
+
+1231
+01:09:54,120 --> 01:09:55,120
+Would you like
+
+1232
+01:09:55,120 --> 01:09:56,120
+Like
+
+1233
+01:09:59,120 --> 01:10:01,120
+Shy British
+
+1234
+01:10:01,120 --> 01:10:03,120
+Harry Styles
+
+1235
+01:10:03,120 --> 01:10:05,120
+I'm so sorry
+
+1236
+01:10:05,120 --> 01:10:07,120
+I'm so sorry
+
+1237
+01:10:07,120 --> 01:10:08,120
+That's alright
+
+1238
+01:10:08,120 --> 01:10:09,120
+Yeah I need to go deeper
+
+1239
+01:10:09,120 --> 01:10:11,120
+I'm so sorry
+
+1240
+01:10:14,120 --> 01:10:17,120
+Or you want a cute and funny
+
+1241
+01:10:22,120 --> 01:10:24,120
+I can't do a Donald Duck one
+
+1242
+01:10:24,120 --> 01:10:26,120
+Transylvanian
+
+1243
+01:10:28,120 --> 01:10:30,120
+Classic Dracula
+
+1244
+01:10:32,120 --> 01:10:34,120
+Maybe I can attempt that
+
+1245
+01:10:34,120 --> 01:10:36,120
+Or corpse
+
+1246
+01:10:36,120 --> 01:10:39,120
+Do you want me to fucking kill my throat
+
+1247
+01:10:41,120 --> 01:10:42,120
+Goofy?
+
+1248
+01:10:42,120 --> 01:10:44,120
+Okay I don't like Goofy
+
+1249
+01:10:50,120 --> 01:10:52,120
+He made a mute
+
+1250
+01:10:52,120 --> 01:10:54,120
+I'm just quiet
+
+1251
+01:10:54,120 --> 01:10:56,120
+When his lines come up
+
+1252
+01:11:02,120 --> 01:11:04,120
+I'll be right back while you guys vote
+
+1253
+01:11:22,120 --> 01:11:24,120
+Goofy
+
+1254
+01:11:38,120 --> 01:11:40,120
+Goofy
+
+1255
+01:11:40,120 --> 01:11:42,120
+Gosh
+
+1256
+01:11:49,120 --> 01:11:51,120
+Alright
+
+1257
+01:11:51,120 --> 01:11:53,120
+We got Goofy
+
+1258
+01:11:55,120 --> 01:11:57,120
+I'm so sorry
+
+1259
+01:11:57,120 --> 01:11:59,120
+He said in a shy voice
+
+1260
+01:11:59,120 --> 01:12:00,120
+That's alright
+
+1261
+01:12:00,120 --> 01:12:01,120
+What's your name
+
+1262
+01:12:01,120 --> 01:12:02,120
+I questioned
+
+1263
+01:12:02,120 --> 01:12:04,120
+My name's Harry Potter
+
+1264
+01:12:04,120 --> 01:12:07,120
+Although most people call me vampire these days
+
+1265
+01:12:07,120 --> 01:12:08,120
+He grumbled
+
+1266
+01:12:08,120 --> 01:12:09,120
+I'm not able to do that
+
+1267
+01:12:09,120 --> 01:12:10,120
+Why
+
+1268
+01:12:10,120 --> 01:12:11,120
+I exclaimed
+
+1269
+01:12:11,120 --> 01:12:14,120
+Because I love the taste of human blood
+
+1270
+01:12:15,120 --> 01:12:16,120
+Well
+
+1271
+01:12:16,120 --> 01:12:18,120
+I am a vampire
+
+1272
+01:12:18,120 --> 01:12:19,120
+I confess
+
+1273
+01:12:19,120 --> 01:12:20,120
+Really?
+
+1274
+01:12:20,120 --> 01:12:21,120
+He whimpered
+
+1275
+01:12:21,120 --> 01:12:22,120
+Yeah
+
+1276
+01:12:22,120 --> 01:12:23,120
+I reward
+
+1277
+01:12:23,120 --> 01:12:25,120
+We sat down to talk for a while
+
+1278
+01:12:25,120 --> 01:12:26,120
+The dragon came up behind me
+
+1279
+01:12:26,120 --> 01:12:27,120
+And told me he had a surprise for me
+
+1280
+01:12:27,120 --> 01:12:28,120
+So I went away with him
+
+1281
+01:12:30,120 --> 01:12:32,120
+I know I didn't do the
+
+1282
+01:12:33,120 --> 01:12:35,120
+Because I love the taste of human blood
+
+1283
+01:12:40,120 --> 01:12:42,120
+And I'll kill him again
+
+1284
+01:12:44,120 --> 01:12:46,120
+Goofy did you kill these people
+
+1285
+01:12:50,120 --> 01:12:51,120
+Have you seen that?
+
+1286
+01:12:51,120 --> 01:12:53,120
+The Goofy
+
+1287
+01:12:54,120 --> 01:12:56,120
+Is on trial for murder
+
+1288
+01:13:01,120 --> 01:13:03,120
+You know I fucking do it again
+
+1289
+01:13:05,120 --> 01:13:07,120
+Oh yeah with Joji
+
+1290
+01:13:07,120 --> 01:13:08,120
+Oh my god
+
+1291
+01:13:08,120 --> 01:13:09,120
+That's right
+
+1292
+01:13:20,120 --> 01:13:21,120
+It's so funny
+
+1293
+01:13:21,120 --> 01:13:23,120
+So as I've said in the past
+
+1294
+01:13:23,120 --> 01:13:25,120
+I used to be in the commentary community
+
+1295
+01:13:25,120 --> 01:13:27,120
+So I was familiar with a lot of like
+
+1296
+01:13:28,120 --> 01:13:30,120
+Those personalities
+
+1297
+01:13:30,120 --> 01:13:31,120
+And I remember
+
+1298
+01:13:31,120 --> 01:13:33,120
+Going to TwitchCon
+
+1299
+01:13:34,120 --> 01:13:37,120
+And I got to meet anything for views
+
+1300
+01:13:37,120 --> 01:13:39,120
+And all he did was just select
+
+1301
+01:13:39,120 --> 01:13:42,120
+Sexually harass me the entire time
+
+1302
+01:13:42,120 --> 01:13:44,120
+And I got to meet anything for views
+
+1303
+01:13:44,120 --> 01:13:46,120
+And all he did was just select
+
+1304
+01:13:46,120 --> 01:13:49,120
+Sexually harass me the entire time
+
+1305
+01:13:50,120 --> 01:13:52,120
+He's like you got a man
+
+1306
+01:13:52,120 --> 01:13:53,120
+And I'm like no
+
+1307
+01:13:54,120 --> 01:13:55,120
+He's like
+
+1308
+01:13:55,120 --> 01:13:57,120
+I'm gonna come back to my hotel room later
+
+1309
+01:13:57,120 --> 01:13:59,120
+And I'm like bitch what the fuck
+
+1310
+01:14:01,120 --> 01:14:02,120
+No
+
+1311
+01:14:03,120 --> 01:14:04,120
+I'm like
+
+1312
+01:14:04,120 --> 01:14:06,120
+He's like how old are you?
+
+1313
+01:14:09,120 --> 01:14:10,120
+And I'm like
+
+1314
+01:14:10,120 --> 01:14:12,120
+I wasn't even like offended
+
+1315
+01:14:12,120 --> 01:14:13,120
+Because I'm like
+
+1316
+01:14:13,120 --> 01:14:14,120
+I'm like is he
+
+1317
+01:14:14,120 --> 01:14:16,120
+I'm just gonna assume
+
+1318
+01:14:16,120 --> 01:14:18,120
+He's in character
+
+1319
+01:14:19,120 --> 01:14:20,120
+No
+
+1320
+01:14:27,120 --> 01:14:28,120
+No he at
+
+1321
+01:14:28,120 --> 01:14:30,120
+So like I was with a group of friends
+
+1322
+01:14:30,120 --> 01:14:31,120
+And so he's like
+
+1323
+01:14:31,120 --> 01:14:32,120
+The first thing he asked
+
+1324
+01:14:32,120 --> 01:14:33,120
+He's like
+
+1325
+01:14:33,120 --> 01:14:34,120
+Are you dating any of these people?
+
+1326
+01:14:34,120 --> 01:14:35,120
+Because some of them are girls
+
+1327
+01:14:35,120 --> 01:14:36,120
+Some of them are guys
+
+1328
+01:14:36,120 --> 01:14:37,120
+And I'm like no
+
+1329
+01:14:40,120 --> 01:14:41,120
+Never meet your heroes
+
+1330
+01:14:41,120 --> 01:14:42,120
+Oh yeah
+
+1331
+01:14:42,120 --> 01:14:43,120
+I remember one of my friends
+
+1332
+01:14:43,120 --> 01:14:44,120
+After I was like
+
+1333
+01:14:44,120 --> 01:14:45,120
+What the fuck was that
+
+1334
+01:14:46,120 --> 01:14:47,120
+Hahaha
+
+1335
+01:14:48,120 --> 01:14:49,120
+And I'm like
+
+1336
+01:14:49,120 --> 01:14:50,120
+Okay
+
+1337
+01:14:50,120 --> 01:14:51,120
+Cool
+
+1338
+01:14:54,120 --> 01:14:56,120
+I can't remember if he followed me back on Twitter
+
+1339
+01:14:56,120 --> 01:14:57,120
+Or not
+
+1340
+01:14:57,120 --> 01:14:58,120
+Probably
+
+1341
+01:14:58,120 --> 01:14:59,120
+Maybe
+
+1342
+01:15:00,120 --> 01:15:01,120
+Who knows
+
+1343
+01:15:03,120 --> 01:15:05,120
+Negative riz
+
+1344
+01:15:05,120 --> 01:15:06,120
+My email content creators
+
+1345
+01:15:06,120 --> 01:15:07,120
+But it's like
+
+1346
+01:15:07,120 --> 01:15:08,120
+Like you guys know
+
+1347
+01:15:08,120 --> 01:15:09,120
+If you know if you've watched
+
+1348
+01:15:09,120 --> 01:15:10,120
+Like Maximofo
+
+1349
+01:15:10,120 --> 01:15:11,120
+Anything for views
+
+1350
+01:15:11,120 --> 01:15:12,120
+In Pick Guy
+
+1351
+01:15:12,120 --> 01:15:13,120
+Uh
+
+1352
+01:15:13,120 --> 01:15:14,120
+Uh
+
+1353
+01:15:14,120 --> 01:15:15,120
+Or uh
+
+1354
+01:15:16,120 --> 01:15:17,120
+I almost said
+
+1355
+01:15:17,120 --> 01:15:18,120
+I almost said um
+
+1356
+01:15:20,120 --> 01:15:21,120
+Uh
+
+1357
+01:15:23,120 --> 01:15:24,120
+Uh Brian
+
+1358
+01:15:24,120 --> 01:15:25,120
+Instead of
+
+1359
+01:15:26,120 --> 01:15:28,120
+What the fuck was his other name
+
+1360
+01:15:28,120 --> 01:15:29,120
+I forget
+
+1361
+01:15:29,120 --> 01:15:30,120
+I'm blanking
+
+1362
+01:15:32,120 --> 01:15:34,120
+Oh no she's a teenager
+
+1363
+01:15:36,120 --> 01:15:38,120
+I'm so glad I'll never meet how to basic
+
+1364
+01:15:43,120 --> 01:15:44,120
+Uh
+
+1365
+01:15:45,120 --> 01:15:47,120
+That sounds a little bit about me
+
+1366
+01:15:47,120 --> 01:15:48,120
+Alright
+
+1367
+01:15:51,120 --> 01:15:53,120
+Ever got to get a PewDiePie tattoo
+
+1368
+01:15:54,120 --> 01:15:56,120
+And then like on his ass
+
+1369
+01:16:00,120 --> 01:16:01,120
+Yeah and then I just went to like
+
+1370
+01:16:01,120 --> 01:16:03,120
+The artist's poll instead
+
+1371
+01:16:03,120 --> 01:16:04,120
+And just like hung out
+
+1372
+01:16:04,120 --> 01:16:05,120
+And then I played um
+
+1373
+01:16:06,120 --> 01:16:07,120
+There's like some places
+
+1374
+01:16:07,120 --> 01:16:09,120
+Play people like game places there
+
+1375
+01:16:09,120 --> 01:16:11,120
+That I was like looking for games
+
+1376
+01:16:12,120 --> 01:16:13,120
+Or
+
+1377
+01:16:21,120 --> 01:16:22,120
+Was it TwitchCon
+
+1378
+01:16:22,120 --> 01:16:24,120
+Or was it FanExpo
+
+1379
+01:16:24,120 --> 01:16:26,120
+I don't even fucking remember
+
+1380
+01:16:28,120 --> 01:16:29,120
+Was it
+
+1381
+01:16:30,120 --> 01:16:31,120
+Outbot? No
+
+1382
+01:16:31,120 --> 01:16:32,120
+What?
+
+1383
+01:16:32,120 --> 01:16:34,120
+I don't even know what convention it was
+
+1384
+01:16:34,120 --> 01:16:36,120
+Yeah I broke my back in the
+
+1385
+01:16:36,120 --> 01:16:38,120
+The Tumblr ball pit
+
+1386
+01:16:38,120 --> 01:16:39,120
+Dashcon
+
+1387
+01:16:39,120 --> 01:16:40,120
+That's what that's 100%
+
+1388
+01:16:41,120 --> 01:16:43,120
+Alright chapter 7
+
+1389
+01:16:46,120 --> 01:16:48,120
+Draco and I held our pale white hands
+
+1390
+01:16:48,120 --> 01:16:50,120
+With black nail polish as we went upstairs
+
+1391
+01:16:50,120 --> 01:16:52,120
+I was wearing red satanist sings
+
+1392
+01:16:52,120 --> 01:16:54,120
+Not signs, sings
+
+1393
+01:16:54,120 --> 01:16:56,120
+On my nails in red nail polish
+
+1394
+01:16:57,120 --> 01:16:59,120
+I don't know how you can wear red
+
+1395
+01:16:59,120 --> 01:17:01,120
+Signs on your nails in red nail polish
+
+1396
+01:17:01,120 --> 01:17:03,120
+But then it just like not show up
+
+1397
+01:17:06,120 --> 01:17:08,120
+Emo Shibi? Yeah that's me
+
+1398
+01:17:08,120 --> 01:17:09,120
+Fuck you
+
+1399
+01:17:10,120 --> 01:17:11,120
+Emo
+
+1400
+01:17:11,120 --> 01:17:13,120
+We dark over here
+
+1401
+01:17:16,120 --> 01:17:18,120
+I waved to vampire
+
+1402
+01:17:18,120 --> 01:17:20,120
+Dark misery was in his depressed eyes
+
+1403
+01:17:20,120 --> 01:17:22,120
+I guess he was jealous of me
+
+1404
+01:17:22,120 --> 01:17:24,120
+That I was going out with Draco
+
+1405
+01:17:24,120 --> 01:17:26,120
+Anyway I went upstairs excited with Draco
+
+1406
+01:17:26,120 --> 01:17:28,120
+We went to his room and locked the door
+
+1407
+01:17:28,120 --> 01:17:30,120
+Then we started Frenching passively
+
+1408
+01:17:30,120 --> 01:17:33,120
+And we took off each other's clothes enthusiastically
+
+1409
+01:17:33,120 --> 01:17:36,120
+He felt me up before I took off my top
+
+1410
+01:17:36,120 --> 01:17:38,120
+Then I took off my black leather bra
+
+1411
+01:17:38,120 --> 01:17:39,120
+That doesn't sound comfortable
+
+1412
+01:17:39,120 --> 01:17:41,120
+And he took off his pants
+
+1413
+01:17:41,120 --> 01:17:42,120
+We went to the on the bed
+
+1414
+01:17:42,120 --> 01:17:44,120
+And started making out naked
+
+1415
+01:17:44,120 --> 01:17:46,120
+And then he put his boys thingy in mind
+
+1416
+01:17:46,120 --> 01:17:48,120
+And we had sex
+
+1417
+01:17:48,120 --> 01:17:50,120
+Oh Draco! Draco!
+
+1418
+01:17:50,120 --> 01:17:51,120
+I screamed
+
+1419
+01:17:51,120 --> 01:17:52,120
+Well getting an hour
+
+1420
+01:17:52,120 --> 01:17:53,120
+Ow I just hit my arm
+
+1421
+01:17:53,120 --> 01:17:54,120
+Just getting an orgasm
+
+1422
+01:17:54,120 --> 01:17:55,120
+When all of a sudden I saw a tattoo
+
+1423
+01:17:55,120 --> 01:17:57,120
+I had never seen before in Draco's arm
+
+1424
+01:17:57,120 --> 01:17:59,120
+It was a black heart with an arrow through it
+
+1425
+01:17:59,120 --> 01:18:02,120
+On it and bloody gothic writing were the words
+
+1426
+01:18:02,120 --> 01:18:04,120
+Vampire?
+
+1427
+01:18:05,120 --> 01:18:06,120
+I was so angry
+
+1428
+01:18:06,120 --> 01:18:08,120
+You bastard!
+
+1429
+01:18:08,120 --> 01:18:09,120
+I shouted angrily
+
+1430
+01:18:09,120 --> 01:18:11,120
+Jumping out of the bed
+
+1431
+01:18:11,120 --> 01:18:13,120
+No no you don't understand
+
+1432
+01:18:13,120 --> 01:18:14,120
+Draco pleaded
+
+1433
+01:18:14,120 --> 01:18:15,120
+But I knew too much
+
+1434
+01:18:15,120 --> 01:18:17,120
+No you fucking idiot I shouted
+
+1435
+01:18:17,120 --> 01:18:19,120
+You probably have AIDS anyway
+
+1436
+01:18:22,120 --> 01:18:24,120
+I put on my clothes all huffily
+
+1437
+01:18:24,120 --> 01:18:25,120
+And then stomped out
+
+1438
+01:18:25,120 --> 01:18:27,120
+Draco ran out even though he was naked
+
+1439
+01:18:28,120 --> 01:18:30,120
+Had he had a really big you know what
+
+1440
+01:18:30,120 --> 01:18:31,120
+But I was too mad to care
+
+1441
+01:18:31,120 --> 01:18:33,120
+I stomped out and did so
+
+1442
+01:18:33,120 --> 01:18:35,120
+Until I was in Vampire's classroom
+
+1443
+01:18:35,120 --> 01:18:37,120
+Draco was having a lesion with Professor Snape
+
+1444
+01:18:37,120 --> 01:18:39,120
+And some other people
+
+1445
+01:18:41,120 --> 01:18:43,120
+Vampire Potter you motherfucker
+
+1446
+01:18:43,120 --> 01:18:45,120
+I yelled
+
+1447
+01:18:46,120 --> 01:18:48,120
+Hold on
+
+1448
+01:18:48,120 --> 01:18:50,120
+I'll tell you
+
+1449
+01:18:50,120 --> 01:18:52,120
+When was my immortal
+
+1450
+01:18:54,120 --> 01:18:56,120
+Written
+
+1451
+01:19:01,120 --> 01:19:03,120
+It was
+
+1452
+01:19:03,120 --> 01:19:05,120
+Published in serial installments
+
+1453
+01:19:05,120 --> 01:19:06,120
+On fanfiction.net
+
+1454
+01:19:06,120 --> 01:19:09,120
+Between 2006 and 2007
+
+1455
+01:19:09,120 --> 01:19:11,120
+Holy crap
+
+1456
+01:19:16,120 --> 01:19:18,120
+You think they'd be careful with anything blood to blood
+
+1457
+01:19:18,120 --> 01:19:20,120
+Because they're off their second blood
+
+1458
+01:19:20,120 --> 01:19:22,120
+They're vampires so I don't even
+
+1459
+01:19:22,120 --> 01:19:24,120
+I don't think they would even apply to them
+
+1460
+01:19:25,120 --> 01:19:27,120
+Ffff
+
+1461
+01:19:31,120 --> 01:19:33,120
+I should read a Twilight fanfiction
+
+1462
+01:19:33,120 --> 01:19:36,120
+The fact that 50 shades was a first at Twilight Fiction
+
+1463
+01:19:38,120 --> 01:19:40,120
+It always throws me off
+
+1464
+01:19:41,120 --> 01:19:43,120
+Damnit fucking Eric
+
+1465
+01:19:45,120 --> 01:19:47,120
+Fuck you
+
+1466
+01:19:47,120 --> 01:19:49,120
+Just kidding thank you for editing this
+
+1467
+01:19:50,120 --> 01:19:52,120
+Okay
+
+1468
+01:19:54,120 --> 01:20:16,360
+ᗒ ᗋ ᗫ, ᗒ, ᗇ, ᗕ, ᗕ ᗕ ፰ᗑ ᗼᗌᗘ, ᗑ ᗅ, ᗞ, ᗕ, ᗄ, cause redict user
+
+1469
+01:20:16,360 --> 01:20:23,120
+ᗓ禾, ᗣahaha Áᗝ, ᗩ, ᗜᗆ, ᗢ, ᗕ ᗛ, ᗖ,ᗳ,ᗒ, ᗋ, ᗄ, ᗢ, ᗬ cuisine
+
+1470
+01:20:23,120 --> 01:20:27,120
+ᴃ ᴰᴎ ᴴᴓ ᴥᴼ ᴾᵍᴒʀᴬ And Draco coifed up with me.
+
+1471
+01:20:27,620 --> 01:20:30,460
+ᴾᴇ, ᴷ ᴥᴃ ᴤᴜʀᴼᴴ Reach out against me, and bribed me with Zoom.
+
+1472
+01:20:30,940 --> 01:20:34,460
+ᴣᴋ, ᴳᴒᴊam ᴒᴾ ᴎ ᴎ ᴏᴱᴎᴾ And Draco sat me down town, besides culturally.
+
+1473
+01:20:34,800 --> 01:20:41,080
+�
+
+1474
+01:20:41,080 --> 01:20:44,120
+ᴄ ᴛ ᴛ ᴚ, ᴘ ᴾ ᴗ ᴿ ᴡ ᴴ ᴼ
+
+1475
+01:20:44,120 --> 01:20:46,260
+ᴍ ᴍ ᴃ ᴛ ᴰ ᴛ
+
+1476
+01:20:46,260 --> 01:21:16,260
+ᗰ�Eu ᗰᗳᗳᗳᵔ ᗴᵵᵬᵀᵉ ᵋᵈᵒ ᵗᵒᵈᵒᵍᶏᶦᵃ ᵗᵫᵉἚᵒᵔ ᵶᵘᵉ ᶕᵚ ᵗᵇᵡᶒᵈ ᵢᵎᴝᶓ ᵉᶒᵊ ᵺᵒᶱᵒᵗᵄ ᵗ ᵗᵒᵃᵉ ᵻᵉᵏ ᵏᵉᵀᵒᵉ ᵗᵉἐᵉ ᵗᶜᵏᵍᶜ �
+
+1477
+01:21:16,260 --> 01:21:24,260
+Her real parents are vampires, and one of them is a witch, but Voldemort killed her mother and her father, committed suicide because he was depressed about it.
+
+1478
+01:21:24,260 --> 01:21:27,260
+She still has nightmares about it, she's very haunted and depressed.
+
+1479
+01:21:27,260 --> 01:21:30,260
+It also turns out her real last name is Smith, the knockranger.
+
+1480
+01:21:30,260 --> 01:21:35,260
+Since she has converted to Satanism, she is in slithering now, knockriffin door.
+
+1481
+01:21:35,260 --> 01:21:41,260
+What is it that you desire, you ridiculous dimwit?
+
+1482
+01:21:41,260 --> 01:21:45,260
+Snaped demeaned angrily in his cold voice, but I ignored him.
+
+1483
+01:21:46,260 --> 01:21:49,260
+Vampire, I can't believe you cheated on me with Draco!
+
+1484
+01:21:50,260 --> 01:21:53,260
+I shouted at him. Everyone gasped.
+
+1485
+01:21:53,260 --> 01:22:00,260
+Wait, but she's not dating vampire, so technically, I can't believe Draco cheated on me with you is what she should have said.
+
+1486
+01:22:01,260 --> 01:22:07,260
+This is the least e-real, you would be surprised, just you wait what Snape gets up to.
+
+1487
+01:22:07,260 --> 01:22:11,260
+Oh, it's gonna be a lot like class of 09.
+
+1488
+01:22:11,260 --> 01:22:13,260
+Spoiler alert.
+
+1489
+01:22:14,260 --> 01:22:16,260
+Um...
+
+1490
+01:22:17,260 --> 01:22:20,260
+I don't know why Ebony was so mad at me.
+
+1491
+01:22:20,260 --> 01:22:21,260
+What?
+
+1492
+01:22:25,260 --> 01:22:26,260
+Wait, so...
+
+1493
+01:22:27,260 --> 01:22:29,260
+Why did I... am I...
+
+1494
+01:22:31,260 --> 01:22:36,260
+Oh, is this from Draco's perspective?
+
+1495
+01:22:38,260 --> 01:22:39,260
+No.
+
+1496
+01:22:40,260 --> 01:22:47,260
+Okay, I got sorry, I lost, I kinda lost the plot for a moment. I'm just gonna read it.
+
+1497
+01:22:49,260 --> 01:22:51,260
+I don't know why Ebony was so mad at me.
+
+1498
+01:22:51,260 --> 01:22:54,260
+I had went out with vampire, I'm bi, so as Ebony.
+
+1499
+01:22:54,260 --> 01:22:56,260
+For a while, but then he broke my heart.
+
+1500
+01:22:56,260 --> 01:23:00,260
+He dumped me because he liked Brittany, a stupid preppy fucker.
+
+1501
+01:23:00,260 --> 01:23:05,260
+We were just good friends now, he had gone through horrible problems, and now he was gothic.
+
+1502
+01:23:05,260 --> 01:23:07,260
+Haha, like I would hang out with a prep.
+
+1503
+01:23:09,260 --> 01:23:12,260
+But I'm not going out with Draco anymore.
+
+1504
+01:23:12,260 --> 01:23:13,260
+Says vampire.
+
+1505
+01:23:13,260 --> 01:23:16,260
+Yeah, fucking right, fuck off you bastard.
+
+1506
+01:23:16,260 --> 01:23:17,260
+I screamed.
+
+1507
+01:23:17,260 --> 01:23:21,260
+I ran out of the room and into the forbidden forest where I had lost my rarality.
+
+1508
+01:23:23,260 --> 01:23:29,260
+My rarality, yep, rarality to Draco, and I started to bust into tears.
+
+1509
+01:23:30,260 --> 01:23:33,260
+I'm not under the Draco still not wearing anything.
+
+1510
+01:23:36,260 --> 01:23:38,260
+Yeah, what is this, the Bible?
+
+1511
+01:23:38,260 --> 01:23:40,260
+Haha, this is my Bible.
+
+1512
+01:23:42,260 --> 01:23:46,260
+I was so mad and sad, I couldn't believe Draco for cheating on me.
+
+1513
+01:23:46,260 --> 01:23:49,260
+I began to cry, I cranced the tree when I did it with Draco.
+
+1514
+01:23:49,260 --> 01:23:51,260
+That's pretty hardcore.
+
+1515
+01:23:51,260 --> 01:23:55,260
+I'm trying to actually know exactly which tree that they did, you know what,
+
+1516
+01:23:55,260 --> 01:23:59,260
+where he stuck his, you know what in her, you know what.
+
+1517
+01:24:01,260 --> 01:24:07,260
+Then all of a sudden, an horrible man with red eyes and no nose and everything started flying towards me on a broomstick.
+
+1518
+01:24:08,260 --> 01:24:11,260
+He didn't have a nose, basically Voldemort in the movie.
+
+1519
+01:24:11,260 --> 01:24:14,260
+He was wearing all black but it was obvious he wasn't gothic.
+
+1520
+01:24:14,260 --> 01:24:16,260
+It was Voldemort?
+
+1521
+01:24:17,260 --> 01:24:21,260
+No, I shouted in a scared voice but then Voldemort shouted.
+
+1522
+01:24:22,260 --> 01:24:25,260
+What voice, what voice for Voldemort?
+
+1523
+01:24:26,260 --> 01:24:31,260
+Actually he has, he says vow a lot, so I might just give him a...
+
+1524
+01:24:32,260 --> 01:24:34,260
+I might just give him a birch accent.
+
+1525
+01:24:35,260 --> 01:24:37,260
+Imperius?
+
+1526
+01:24:37,260 --> 01:24:39,260
+And I couldn't run away.
+
+1527
+01:24:39,260 --> 01:24:40,260
+Croc shanks!
+
+1528
+01:24:40,260 --> 01:24:44,260
+I shouted at him, Voldemort fell off of his broom and started to scream.
+
+1529
+01:24:44,260 --> 01:24:47,260
+I felt bad for him even though I'm a sadist, so I stopped.
+
+1530
+01:24:48,260 --> 01:24:52,260
+Abony, he yelled, vow must kill vampire potter.
+
+1531
+01:24:53,260 --> 01:24:59,260
+I thought about vampire in his sexy eyes and his gothic black hair and how his face looks just like Joel Madden.
+
+1532
+01:25:00,260 --> 01:25:03,260
+I remember that Draco had said I didn't understand so I thought,
+
+1533
+01:25:03,260 --> 01:25:07,260
+what if Draco went out with vampire before I went out with him and they broke up?
+
+1534
+01:25:07,260 --> 01:25:09,260
+No, Voldemort!
+
+1535
+01:25:09,260 --> 01:25:12,260
+I shouted back, Voldemort gave me a gun.
+
+1536
+01:25:23,260 --> 01:25:25,260
+Hold on, hold on, hold on.
+
+1537
+01:25:30,260 --> 01:25:33,260
+Voldemort gave me a gun.
+
+1538
+01:25:38,260 --> 01:25:40,260
+Voldemort gave me a gun.
+
+1539
+01:25:45,260 --> 01:25:47,260
+No, please, I begged.
+
+1540
+01:25:47,260 --> 01:25:52,260
+Thou must heal, if thou dost not, then I shall kill thy beloved Draco.
+
+1541
+01:25:55,260 --> 01:25:56,260
+How did you know?
+
+1542
+01:25:56,260 --> 01:25:58,260
+I asked in a surprised way.
+
+1543
+01:25:58,260 --> 01:26:01,260
+Voldemort got a dude yourself.
+
+1544
+01:26:03,260 --> 01:26:04,260
+Look on his face.
+
+1545
+01:26:05,260 --> 01:26:07,260
+I have a telekinesis.
+
+1546
+01:26:07,260 --> 01:26:08,260
+He answered cruelly.
+
+1547
+01:26:09,260 --> 01:26:14,260
+And if you dost not kill vampire, then thou not know what will happen to Draco.
+
+1548
+01:26:14,260 --> 01:26:15,260
+He shouted.
+
+1549
+01:26:15,260 --> 01:26:17,260
+Then he flew away angrily on his broomstick.
+
+1550
+01:26:18,260 --> 01:26:21,260
+I was so scared, mad, I didn't know what to do.
+
+1551
+01:26:21,260 --> 01:26:23,260
+Suddenly Draco came into the woods.
+
+1552
+01:26:23,260 --> 01:26:25,260
+Draco, I said, hi!
+
+1553
+01:26:26,260 --> 01:26:27,260
+Hi.
+
+1554
+01:26:27,260 --> 01:26:29,260
+He said back, but his face was all sad.
+
+1555
+01:26:29,260 --> 01:26:32,260
+He was wearing white foundation and messy eyeliner.
+
+1556
+01:26:32,260 --> 01:26:34,260
+Kind of like a pentagram, get it?
+
+1557
+01:26:34,260 --> 01:26:37,260
+Between gold, instead of a cross, it's a pentagram.
+
+1558
+01:26:37,260 --> 01:26:39,260
+So like a sort of a cross between, it's a pentagram.
+
+1559
+01:26:39,260 --> 01:26:42,260
+It took me forever to figure that out the first time I ever read this.
+
+1560
+01:26:43,260 --> 01:26:45,260
+Between Joel Madden and Jared Way.
+
+1561
+01:26:46,260 --> 01:26:47,260
+Are you okay?
+
+1562
+01:26:47,260 --> 01:26:48,260
+I asked.
+
+1563
+01:26:49,260 --> 01:26:51,260
+No, he answered.
+
+1564
+01:26:52,260 --> 01:26:55,260
+I'm sorry, I got all mad at you, but I thought you cheated on me.
+
+1565
+01:26:55,260 --> 01:26:56,260
+I expelled.
+
+1566
+01:26:59,260 --> 01:27:00,260
+I hope it's a teagle.
+
+1567
+01:27:03,260 --> 01:27:04,260
+That's okay.
+
+1568
+01:27:04,260 --> 01:27:05,260
+I'm sorry.
+
+1569
+01:27:05,260 --> 01:27:06,260
+That's okay.
+
+1570
+01:27:06,260 --> 01:27:07,260
+He said all depressed.
+
+1571
+01:27:07,260 --> 01:27:09,260
+And we went back to Hogwarts together, making out.
+
+1572
+01:27:09,260 --> 01:27:11,260
+Alright, this is a toxic relationship.
+
+1573
+01:27:22,260 --> 01:27:23,260
+Chapter 10.
+
+1574
+01:27:23,260 --> 01:27:25,260
+It's a lot of making out, yeah.
+
+1575
+01:27:32,260 --> 01:27:36,260
+I was really scared about Vlad and Mort all day.
+
+1576
+01:27:36,260 --> 01:27:37,260
+I was even upset.
+
+1577
+01:27:37,260 --> 01:27:42,260
+Went to rehearsals with my gothic metal band Bloody Gothic Rose 666.
+
+1578
+01:27:42,260 --> 01:27:44,260
+I'm the lead singer of it and I play a guitar.
+
+1579
+01:27:44,260 --> 01:27:48,260
+People say that we sound like a cross between GC, Slipknot and MCR.
+
+1580
+01:27:48,260 --> 01:27:53,260
+The other people in the band are Bloody Mary, Vampire, Draco, Ron.
+
+1581
+01:27:53,260 --> 01:27:56,260
+Although we call him Diabolo now.
+
+1582
+01:27:57,260 --> 01:28:00,260
+He is black hair now with blue streaks in it.
+
+1583
+01:28:01,260 --> 01:28:02,260
+And Hagrid.
+
+1584
+01:28:03,260 --> 01:28:05,260
+This is a loaded band.
+
+1585
+01:28:06,260 --> 01:28:09,260
+Only today Draco and Vampire were depressed.
+
+1586
+01:28:09,260 --> 01:28:12,260
+So they weren't coming and we wrote songs instead.
+
+1587
+01:28:12,260 --> 01:28:15,260
+I knew Draco was probably slitting his wrists.
+
+1588
+01:28:16,260 --> 01:28:18,260
+He wouldn't die because he was a vampire too.
+
+1589
+01:28:18,260 --> 01:28:22,260
+And the only way you can kill a vampire is with a C-R-O-S-S.
+
+1590
+01:28:22,260 --> 01:28:24,260
+There's no way I'm writing that.
+
+1591
+01:28:25,260 --> 01:28:27,260
+Or a steak like the food.
+
+1592
+01:28:28,260 --> 01:28:31,260
+Vampire was probably watching a depressing movie like The Corpse Bride.
+
+1593
+01:28:33,260 --> 01:28:39,260
+I put on a black leather shirt that showed off my boobs in a tiny matching mini skirt that said simple plan on the butt.
+
+1594
+01:28:39,260 --> 01:28:42,260
+You might think I'm a slut, but I'm really not.
+
+1595
+01:28:46,260 --> 01:28:49,260
+Hagrid kind of gives grimmer vibes being in this band.
+
+1596
+01:28:49,260 --> 01:28:52,260
+So he's like the chaperone, he's hanging out.
+
+1597
+01:28:54,260 --> 01:28:59,260
+We were singing in cover of Helena and at the end of the song I suddenly bust into tears.
+
+1598
+01:29:02,260 --> 01:29:04,260
+What voice did I give her?
+
+1599
+01:29:06,260 --> 01:29:08,260
+What voice did I give Bloody Mary?
+
+1600
+01:29:09,260 --> 01:29:11,260
+What voice did I give Hermione?
+
+1601
+01:29:11,260 --> 01:29:12,260
+Oh no, I never gave her a voice.
+
+1602
+01:29:12,260 --> 01:29:14,260
+I also gave her a normal British girl voice.
+
+1603
+01:29:15,260 --> 01:29:17,260
+Ebony, are you okay?
+
+1604
+01:29:18,260 --> 01:29:19,260
+Ebony?
+
+1605
+01:29:19,260 --> 01:29:21,260
+Ebony, are you okay?
+
+1606
+01:29:21,260 --> 01:29:23,260
+Ebony, are you okay?
+
+1607
+01:29:23,260 --> 01:29:25,260
+Bloody Mary asked in a concerted voice.
+
+1608
+01:29:26,260 --> 01:29:28,260
+What the fuck do you think? I asked angrily.
+
+1609
+01:29:28,260 --> 01:29:33,260
+And then I said, well Voldemort came and the fucking bastard told me to fucking kill Harry.
+
+1610
+01:29:33,260 --> 01:29:35,260
+But I don't want to kill him because he's really nice.
+
+1611
+01:29:35,260 --> 01:29:40,260
+And even if he did go with Draco, but if I don't kill Harry, then Voldemort will fucking kill Draco.
+
+1612
+01:29:40,260 --> 01:29:42,260
+I burst into tears.
+
+1613
+01:29:42,260 --> 01:29:44,260
+Suddenly Draco jumped out from behind the wall.
+
+1614
+01:29:45,260 --> 01:29:47,260
+Why didn't you fucking tell me?
+
+1615
+01:29:47,260 --> 01:29:48,260
+He shouted.
+
+1616
+01:29:48,260 --> 01:29:49,260
+How?
+
+1617
+01:29:49,260 --> 01:29:53,260
+How could you fucking poser muggle bitch?
+
+1618
+01:29:54,260 --> 01:29:56,260
+Jesus fuck.
+
+1619
+01:29:56,260 --> 01:29:58,260
+He just called me a slur.
+
+1620
+01:29:58,260 --> 01:30:00,260
+I started to cry and cry.
+
+1621
+01:30:00,260 --> 01:30:02,260
+Draco cried too all sensitive.
+
+1622
+01:30:02,260 --> 01:30:04,260
+Then he ran out crying.
+
+1623
+01:30:05,260 --> 01:30:06,260
+We practiced for it.
+
+1624
+01:30:06,260 --> 01:30:09,260
+See, like, whoa, chill with the M word.
+
+1625
+01:30:09,260 --> 01:30:11,260
+I know, that was, I'm so sorry I said that.
+
+1626
+01:30:11,260 --> 01:30:14,260
+That was, that was a hard M.
+
+1627
+01:30:14,260 --> 01:30:17,260
+That was a hard, I, I feel really awful to say that.
+
+1628
+01:30:17,260 --> 01:30:19,260
+I'm not gonna lie to you.
+
+1629
+01:30:21,260 --> 01:30:23,260
+Especially when you add like bitch after it.
+
+1630
+01:30:23,260 --> 01:30:25,260
+Or like really just does it.
+
+1631
+01:30:25,260 --> 01:30:27,260
+Oh yeah, I still have the gun in my hand.
+
+1632
+01:30:27,260 --> 01:30:30,260
+Let me just put that away real quick.
+
+1633
+01:30:30,260 --> 01:30:32,260
+Remember the gun is still on my person.
+
+1634
+01:30:36,260 --> 01:30:37,260
+Practiced for a more hour.
+
+1635
+01:30:37,260 --> 01:30:39,260
+Then suddenly Dumbledore walked in angrily.
+
+1636
+01:30:39,260 --> 01:30:43,260
+His eyes were all fiery and I knew that this time it wasn't because he had a headache.
+
+1637
+01:30:45,260 --> 01:30:49,260
+Cowboy voice, let me think.
+
+1638
+01:30:52,260 --> 01:30:54,260
+What have you done?
+
+1639
+01:30:54,260 --> 01:30:56,260
+He started to cry wisely.
+
+1640
+01:30:56,260 --> 01:31:01,260
+See, that's basically not swearing and this time he was really upset and you will see why.
+
+1641
+01:31:01,260 --> 01:31:02,260
+Ebony.
+
+1642
+01:31:02,260 --> 01:31:04,260
+Draco has been found in his room.
+
+1643
+01:31:04,260 --> 01:31:07,260
+He committed suicide by slitting his wrists.
+
+1644
+01:31:08,260 --> 01:31:13,260
+You guys think I'm gonna get monetized?
+
+1645
+01:31:16,260 --> 01:31:18,260
+Wait hold on, let me check my email.
+
+1646
+01:31:20,260 --> 01:31:22,260
+Clearly I was trying to get monetized.
+
+1647
+01:31:34,260 --> 01:31:36,260
+Yeah, I'm thinking not.
+
+1648
+01:31:37,260 --> 01:31:38,260
+What?
+
+1649
+01:31:45,260 --> 01:31:47,260
+Still says in progress.
+
+1650
+01:31:47,260 --> 01:31:49,260
+Shout out to the person that got me a fidget toy.
+
+1651
+01:31:49,260 --> 01:31:51,260
+You are amazing.
+
+1652
+01:31:51,260 --> 01:31:54,260
+Hold on, I just realized.
+
+1653
+01:31:57,260 --> 01:32:00,260
+Don't have my headphones on to see donuts again.
+
+1654
+01:32:02,260 --> 01:32:04,260
+Let me see if anybody...
+
+1655
+01:32:08,260 --> 01:32:11,260
+Harim, remember to buy your heat suppressors.
+
+1656
+01:32:11,260 --> 01:32:14,260
+Thank you, Anonymous, for that tip.
+
+1657
+01:32:14,260 --> 01:32:17,260
+Thank you for the tip and the other tip.
+
+1658
+01:32:19,260 --> 01:32:21,260
+She's autistic?
+
+1659
+01:32:23,260 --> 01:32:25,260
+Don't worry, don't read ahead.
+
+1660
+01:32:25,260 --> 01:32:27,260
+Don't read ahead.
+
+1661
+01:32:28,260 --> 01:32:29,260
+Stop.
+
+1662
+01:32:30,260 --> 01:32:32,260
+It's still in progress.
+
+1663
+01:32:32,260 --> 01:32:36,260
+I wonder if any of the other girls got monetization yet?
+
+1664
+01:32:36,260 --> 01:32:37,260
+I don't know.
+
+1665
+01:33:07,260 --> 01:33:11,260
+I got out of the bathtub and I put on a black low cut dress with lace all over it sandly.
+
+1666
+01:33:11,260 --> 01:33:16,260
+I put on black heels with pink metal stuff on the ends and six pairs of skull earrings.
+
+1667
+01:33:16,260 --> 01:33:18,260
+I got more piercings, guys.
+
+1668
+01:33:18,260 --> 01:33:20,260
+I couldn't fucking believe it.
+
+1669
+01:33:20,260 --> 01:33:22,260
+Then I looked out the window and screamed.
+
+1670
+01:33:22,260 --> 01:33:29,260
+Snap was spying on me and he was taking a videotape of me and Lupin was masticating to it.
+
+1671
+01:33:29,260 --> 01:33:31,260
+They were sitting on their broomsticks.
+
+1672
+01:33:31,260 --> 01:33:34,260
+Ew, you fucking perv, stop looking at me naked.
+
+1673
+01:33:34,260 --> 01:33:36,260
+Are you paddles or what?
+
+1674
+01:33:36,260 --> 01:33:39,260
+I screamed putting on a black towel with a picture of Marilyn Manson on it.
+
+1675
+01:33:39,260 --> 01:33:41,260
+Suddenly a vampire ran in.
+
+1676
+01:33:44,260 --> 01:33:46,260
+Abracadabra!
+
+1677
+01:33:46,260 --> 01:33:48,260
+He yelled, holy crap.
+
+1678
+01:33:48,260 --> 01:33:51,260
+There was a giant SB that just flew into my window.
+
+1679
+01:33:51,260 --> 01:33:53,260
+He was just eating, he was eating.
+
+1680
+01:33:57,260 --> 01:34:00,260
+He yelled at Snape and Lupin pointing his womb.
+
+1681
+01:34:00,260 --> 01:34:02,260
+I took my gun.
+
+1682
+01:34:02,260 --> 01:34:03,260
+Hold on.
+
+1683
+01:34:06,260 --> 01:34:08,260
+I took my gun.
+
+1684
+01:34:14,260 --> 01:34:16,260
+And I, what did I do?
+
+1685
+01:34:19,260 --> 01:34:22,260
+And I shot Snape and Lupin a gazillion times.
+
+1686
+01:34:25,260 --> 01:34:28,260
+They both started screaming and the camera broke.
+
+1687
+01:34:28,260 --> 01:34:30,260
+Suddenly Dumbledore ran in.
+
+1688
+01:34:31,260 --> 01:34:32,260
+Ebony.
+
+1689
+01:34:32,260 --> 01:34:34,260
+It has been revealed that someone has.
+
+1690
+01:34:34,260 --> 01:34:36,260
+No!
+
+1691
+01:34:36,260 --> 01:34:40,260
+He shouted looking at Snape and Lupin and then he waved his wand and suddenly
+
+1692
+01:34:40,260 --> 01:34:44,260
+Hargrid ran outside on his broom and said everyone we need to talk.
+
+1693
+01:34:45,260 --> 01:34:47,260
+What do you know Hargrid?
+
+1694
+01:34:47,260 --> 01:34:49,260
+You're just a little Hogwarts student.
+
+1695
+01:34:49,260 --> 01:34:51,260
+I don't know who is speaking.
+
+1696
+01:34:51,260 --> 01:34:54,260
+What's had a Cagrin's voice?
+
+1697
+01:34:55,260 --> 01:34:57,260
+I might be a Hogwarts student.
+
+1698
+01:34:57,260 --> 01:34:59,260
+But I'm also a scientist.
+
+1699
+01:35:00,260 --> 01:35:02,260
+This cannot be.
+
+1700
+01:35:02,260 --> 01:35:04,260
+Snape said in a crisp voice.
+
+1701
+01:35:04,260 --> 01:35:07,260
+As blood dripped from his hand where Dumbledore's wand had shot him.
+
+1702
+01:35:08,260 --> 01:35:10,260
+There must be other factors.
+
+1703
+01:35:10,260 --> 01:35:12,260
+There must be other factors.
+
+1704
+01:35:12,260 --> 01:35:14,260
+You don't have any.
+
+1705
+01:35:14,260 --> 01:35:16,260
+I yelled in madly.
+
+1706
+01:35:17,260 --> 01:35:19,260
+Lupin held up the camera.
+
+1707
+01:35:19,260 --> 01:35:21,260
+Try um-fall-element.
+
+1708
+01:35:21,260 --> 01:35:23,260
+Try um-fall-element.
+
+1709
+01:35:23,260 --> 01:35:25,260
+Try um-elephantly.
+
+1710
+01:35:27,260 --> 01:35:29,260
+The lens might be ruined but the tape is still there.
+
+1711
+01:35:29,260 --> 01:35:31,260
+I'm just going to give him normal voice.
+
+1712
+01:35:31,260 --> 01:35:32,260
+Oh wait.
+
+1713
+01:35:32,260 --> 01:35:34,260
+The lens might be ruined but the tape is still there.
+
+1714
+01:35:34,260 --> 01:35:37,260
+A little like a creepy family guy.
+
+1715
+01:35:38,260 --> 01:35:40,260
+Hagrid is Emmy?
+
+1716
+01:35:40,260 --> 01:35:41,260
+No.
+
+1717
+01:35:41,260 --> 01:35:43,260
+He's not going to be cute and funny.
+
+1718
+01:35:49,260 --> 01:35:52,260
+I'm maybe a Hogwarts student.
+
+1719
+01:35:52,260 --> 01:35:54,260
+Hagrid pause angrily.
+
+1720
+01:35:54,260 --> 01:35:56,260
+But I'm also a scientist.
+
+1721
+01:35:56,260 --> 01:35:57,260
+Okay fine.
+
+1722
+01:35:57,260 --> 01:35:59,260
+Fine fine.
+
+1723
+01:35:59,260 --> 01:36:01,260
+Hagrid can be cute and funny.
+
+1724
+01:36:01,260 --> 01:36:03,260
+You want to vote? Okay.
+
+1725
+01:36:06,260 --> 01:36:08,260
+Hagrid voice.
+
+1726
+01:36:10,260 --> 01:36:12,260
+Brixton.
+
+1727
+01:36:12,260 --> 01:36:15,260
+Or cute and funny.
+
+1728
+01:36:22,260 --> 01:36:24,260
+I've got to be homophobic.
+
+1729
+01:36:24,260 --> 01:36:26,260
+My bitch is gay.
+
+1730
+01:36:28,260 --> 01:36:29,260
+Scott?
+
+1731
+01:36:29,260 --> 01:36:30,260
+I actually-
+
+1732
+01:36:30,260 --> 01:36:32,260
+Maybe I'll do Scott to someone else.
+
+1733
+01:36:33,260 --> 01:36:35,260
+Hagrid is Tony.
+
+1734
+01:36:35,260 --> 01:36:37,260
+I may be a Hogwarts student.
+
+1735
+01:36:37,260 --> 01:36:39,260
+But I'm also a Satanist.
+
+1736
+01:36:41,260 --> 01:36:43,260
+Because, because.
+
+1737
+01:36:43,260 --> 01:36:45,260
+I may be a Hogwarts student.
+
+1738
+01:36:45,260 --> 01:36:47,260
+But I'm also a Satanist.
+
+1739
+01:36:48,260 --> 01:36:50,260
+I'm not the cute and funny voice.
+
+1740
+01:36:50,260 --> 01:36:51,260
+Okay.
+
+1741
+01:36:51,260 --> 01:36:53,260
+Cute and funny it is.
+
+1742
+01:36:56,260 --> 01:36:58,260
+Because like they did it.
+
+1743
+01:36:58,260 --> 01:36:59,260
+They always-
+
+1744
+01:36:59,260 --> 01:37:02,260
+When girls wrote fanfics they'd always
+
+1745
+01:37:02,260 --> 01:37:04,260
+tell and not show.
+
+1746
+01:37:04,260 --> 01:37:06,260
+Like because it's like it's like a-
+
+1747
+01:37:06,260 --> 01:37:08,260
+kind of a key factor of
+
+1748
+01:37:08,260 --> 01:37:10,260
+writing as you can
+
+1749
+01:37:10,260 --> 01:37:12,260
+kind of show
+
+1750
+01:37:12,260 --> 01:37:14,260
+what you can do.
+
+1751
+01:37:14,260 --> 01:37:16,260
+Writing as you can
+
+1752
+01:37:16,260 --> 01:37:18,260
+kind of show what they're wearing with how
+
+1753
+01:37:18,260 --> 01:37:20,260
+like the dialogue flows
+
+1754
+01:37:20,260 --> 01:37:22,260
+or like how they interact with their environment.
+
+1755
+01:37:22,260 --> 01:37:24,260
+But when you're younger you just
+
+1756
+01:37:24,260 --> 01:37:26,260
+say it, you just tell.
+
+1757
+01:37:26,260 --> 01:37:28,260
+I was wearing this, this and this instead of like
+
+1758
+01:37:28,260 --> 01:37:30,260
+I looked over at
+
+1759
+01:37:30,260 --> 01:37:32,260
+um, Draco.
+
+1760
+01:37:34,260 --> 01:37:36,260
+My
+
+1761
+01:37:36,260 --> 01:37:38,260
+cross necklace making a distinct
+
+1762
+01:37:38,260 --> 01:37:40,260
+jingling sound.
+
+1763
+01:37:40,260 --> 01:37:42,260
+I can't believe you fucking done this.
+
+1764
+01:37:45,260 --> 01:37:47,260
+I don't know.
+
+1765
+01:37:47,260 --> 01:37:49,260
+I had pretty good fanfics.
+
+1766
+01:37:49,260 --> 01:37:51,260
+Too bad they're like, they were all lost
+
+1767
+01:37:51,260 --> 01:37:53,260
+when they accidentally nuked my computer.
+
+1768
+01:37:54,260 --> 01:37:56,260
+I'm very sad about that.
+
+1769
+01:37:56,260 --> 01:37:58,260
+I like cried for days.
+
+1770
+01:37:59,260 --> 01:38:01,260
+Because then I would 100% read them for you guys.
+
+1771
+01:38:09,260 --> 01:38:11,260
+What was that?
+
+1772
+01:38:12,260 --> 01:38:14,260
+The lens might be ruined
+
+1773
+01:38:14,260 --> 01:38:16,260
+but the tape is still there.
+
+1774
+01:38:16,260 --> 01:38:18,260
+The lens might be ruined
+
+1775
+01:38:18,260 --> 01:38:20,260
+but the tape is still there.
+
+1776
+01:38:20,260 --> 01:38:22,260
+The lens might be ruined
+
+1777
+01:38:22,260 --> 01:38:24,260
+but the tape is still there.
+
+1778
+01:38:24,260 --> 01:38:26,260
+I can do the whistle.
+
+1779
+01:38:28,260 --> 01:38:30,260
+Why are you doing this?
+
+1780
+01:38:30,260 --> 01:38:32,260
+Lupin said angrily while he rubbed his dirty hands
+
+1781
+01:38:32,260 --> 01:38:34,260
+on his cloak.
+
+1782
+01:38:34,260 --> 01:38:36,260
+Hope it's his cloak.
+
+1783
+01:38:36,260 --> 01:38:38,260
+And then I heard the words I had heard before
+
+1784
+01:38:38,260 --> 01:38:40,260
+but not from him.
+
+1785
+01:38:40,260 --> 01:38:42,260
+I did not know whether it feels
+
+1786
+01:38:42,260 --> 01:38:44,260
+shocker and happy or to bite him
+
+1787
+01:38:44,260 --> 01:38:46,260
+and drink his blood cause I felt faint.
+
+1788
+01:38:46,260 --> 01:38:48,260
+Because, because.
+
+1789
+01:38:49,260 --> 01:38:51,260
+Hargid said and he paused
+
+1790
+01:38:51,260 --> 01:38:53,260
+in the air dramatically,
+
+1791
+01:38:53,260 --> 01:38:55,260
+waving his wand in the air.
+
+1792
+01:38:55,260 --> 01:38:57,260
+Then swooped in he and singing
+
+1793
+01:38:57,260 --> 01:38:59,260
+to the tune of a gothic version of a song
+
+1794
+01:38:59,260 --> 01:39:01,260
+by 50 cent.
+
+1795
+01:39:01,260 --> 01:39:03,260
+Because you are gothic.
+
+1796
+01:39:03,260 --> 01:39:05,260
+Snap asked a little afraid voice
+
+1797
+01:39:05,260 --> 01:39:07,260
+because he was a friend.
+
+1798
+01:39:07,260 --> 01:39:09,260
+It meant he was connected with Satan.
+
+1799
+01:39:10,260 --> 01:39:12,260
+Because I love her.
+
+1800
+01:39:12,260 --> 01:39:14,260
+Whoa.
+
+1801
+01:39:14,260 --> 01:39:16,260
+Hargid.
+
+1802
+01:39:16,260 --> 01:39:18,260
+You're like
+
+1803
+01:39:18,260 --> 01:39:20,260
+like 60 years old.
+
+1804
+01:39:22,260 --> 01:39:24,260
+I think he's like actually a student
+
+1805
+01:39:24,260 --> 01:39:26,260
+in this iteration.
+
+1806
+01:39:26,260 --> 01:39:28,260
+Like he's like actually like he's like also a teenager.
+
+1807
+01:39:30,260 --> 01:39:32,260
+Yeah, stop say
+
+1808
+01:39:32,260 --> 01:39:34,260
+okay Hargid is a pedo too.
+
+1809
+01:39:34,260 --> 01:39:36,260
+A lot of American schools like I wanted to address
+
+1810
+01:39:36,260 --> 01:39:38,260
+that issue.
+
+1811
+01:39:38,260 --> 01:39:40,260
+Oh.
+
+1812
+01:39:40,260 --> 01:39:42,260
+Nope, he's an adult in this author's note.
+
+1813
+01:39:42,260 --> 01:39:44,260
+Never mind.
+
+1814
+01:39:45,260 --> 01:39:47,260
+I was about to slit my wrist again
+
+1815
+01:39:47,260 --> 01:39:49,260
+with the silver knife that Drago
+
+1816
+01:39:49,260 --> 01:39:51,260
+had given me in case if anything happened to him.
+
+1817
+01:39:51,260 --> 01:39:53,260
+He had told me to use it valiantly against an enemy
+
+1818
+01:39:53,260 --> 01:39:55,260
+but I knew we must both go together.
+
+1819
+01:39:59,260 --> 01:40:01,260
+No! Sorry, I'm reading ahead.
+
+1820
+01:40:01,260 --> 01:40:03,260
+I thought it was Hargid, but it was Vampire.
+
+1821
+01:40:03,260 --> 01:40:05,260
+He started to scream
+
+1822
+01:40:05,260 --> 01:40:07,260
+Oh my fucking good, no.
+
+1823
+01:40:07,260 --> 01:40:09,260
+My scar hurts.
+
+1824
+01:40:10,260 --> 01:40:12,260
+And then his eyes rolled up.
+
+1825
+01:40:12,260 --> 01:40:14,260
+You could only see his red whites.
+
+1826
+01:40:14,260 --> 01:40:16,260
+I stopped.
+
+1827
+01:40:16,260 --> 01:40:18,260
+How did you know?
+
+1828
+01:40:18,260 --> 01:40:20,260
+I saw it and my scar turned back
+
+1829
+01:40:20,260 --> 01:40:22,260
+into the lightning ball.
+
+1830
+01:40:22,260 --> 01:40:24,260
+No, I ran it closer.
+
+1831
+01:40:24,260 --> 01:40:26,260
+I thought you didn't have a scar anymore.
+
+1832
+01:40:26,260 --> 01:40:28,260
+I shouted.
+
+1833
+01:40:28,260 --> 01:40:30,260
+I do, but the Ebola
+
+1834
+01:40:30,260 --> 01:40:32,260
+changed it into a pentagram for me
+
+1835
+01:40:32,260 --> 01:40:35,260
+and I always covered up with foundation.
+
+1836
+01:40:35,260 --> 01:40:37,260
+I'm losing the goofy voice.
+
+1837
+01:40:38,260 --> 01:40:40,260
+Anyway, my scar hurt
+
+1838
+01:40:40,260 --> 01:40:42,260
+and it turned back into the lightning ball.
+
+1839
+01:40:42,260 --> 01:40:44,260
+Save me!
+
+1840
+01:40:44,260 --> 01:40:47,260
+Wake me up, wake me up inside.
+
+1841
+01:40:47,260 --> 01:40:49,260
+Save me.
+
+1842
+01:40:50,260 --> 01:40:55,260
+Call my name and save me from the dawn.
+
+1843
+01:40:55,260 --> 01:40:57,260
+So this is Class of O9.
+
+1844
+01:40:59,260 --> 01:41:01,260
+This is Gothic Class of O9.
+
+1845
+01:41:02,260 --> 01:41:04,260
+Honestly, I would love to ask the author
+
+1846
+01:41:04,260 --> 01:41:06,260
+of Class of O9 if they got any inspiration
+
+1847
+01:41:06,260 --> 01:41:08,260
+from my immortal.
+
+1848
+01:41:08,260 --> 01:41:10,260
+It's my favorite cover.
+
+1849
+01:41:16,260 --> 01:41:18,260
+I do not know what
+
+1850
+01:41:18,260 --> 01:41:20,260
+Kayoko means.
+
+1851
+01:41:21,260 --> 01:41:23,260
+What does that mean?
+
+1852
+01:41:23,260 --> 01:41:25,260
+Sorry, I still have a gun.
+
+1853
+01:41:25,260 --> 01:41:27,260
+Let me put the gun away.
+
+1854
+01:41:30,260 --> 01:41:32,260
+I don't mean to be threatening you
+
+1855
+01:41:32,260 --> 01:41:34,260
+so diligently with my gun.
+
+1856
+01:41:40,260 --> 01:41:42,260
+I always covered up with foundation,
+
+1857
+01:41:42,260 --> 01:41:44,260
+he said back.
+
+1858
+01:41:44,260 --> 01:41:46,260
+Anyway, my scar hurt back.
+
+1859
+01:41:46,260 --> 01:41:48,260
+Then I had a vision of what was happening to Draco.
+
+1860
+01:41:48,260 --> 01:41:50,260
+Ellipses, ellipses, ellipses.
+
+1861
+01:41:50,260 --> 01:41:52,260
+Wolfamort has him bondage!
+
+1862
+01:41:56,260 --> 01:41:58,260
+Anyway, I was in the school nurse's office
+
+1863
+01:41:58,260 --> 01:42:00,260
+now recovering from my slit wrist.
+
+1864
+01:42:00,260 --> 01:42:02,260
+Snapp and Lupin and Harrid
+
+1865
+01:42:02,260 --> 01:42:04,260
+were there too.
+
+1866
+01:42:04,260 --> 01:42:06,260
+They were going to St. Mango's
+
+1867
+01:42:06,260 --> 01:42:08,260
+after they were recovered
+
+1868
+01:42:08,260 --> 01:42:10,260
+because they were pedophiles.
+
+1869
+01:42:10,260 --> 01:42:12,260
+You can't have those pervs teaching in a school
+
+1870
+01:42:12,260 --> 01:42:14,260
+with a lot of hot girls.
+
+1871
+01:42:14,260 --> 01:42:16,260
+Dumbledore had constipated the city-o camera
+
+1872
+01:42:16,260 --> 01:42:18,260
+and they took of me naked.
+
+1873
+01:42:18,260 --> 01:42:20,260
+I put up my middle finger up at them.
+
+1874
+01:42:20,260 --> 01:42:22,260
+Anyway, Hargard came into my hospital bed.
+
+1875
+01:42:24,260 --> 01:42:26,260
+He came into the bed holding a bouquet of pink roses.
+
+1876
+01:42:30,260 --> 01:42:32,260
+He said it in a very serious voice.
+
+1877
+01:42:34,260 --> 01:42:36,260
+Giving me the roses.
+
+1878
+01:42:36,260 --> 01:42:38,260
+Fuck off, I told him.
+
+1879
+01:42:38,260 --> 01:42:40,260
+You know I fucking hate the color pink anyways.
+
+1880
+01:42:40,260 --> 01:42:42,260
+Although she has a lot of pink stuff so...
+
+1881
+01:42:42,260 --> 01:42:44,260
+I don't like the fucked up.
+
+1882
+01:42:44,260 --> 01:42:46,260
+I don't like fucked up preps like you.
+
+1883
+01:42:46,260 --> 01:42:48,260
+I snapped.
+
+1884
+01:42:48,260 --> 01:42:50,260
+Hargard had been mean to me before for being gothic.
+
+1885
+01:42:52,260 --> 01:42:54,260
+Hargard says.
+
+1886
+01:42:56,260 --> 01:42:58,260
+What? Are they goffs too?
+
+1887
+01:42:58,260 --> 01:43:00,260
+Do you pose their prep?
+
+1888
+01:43:00,260 --> 01:43:02,260
+I asked because I was angry that you bought me pink roses.
+
+1889
+01:43:02,260 --> 01:43:04,260
+I saved your life.
+
+1890
+01:43:04,260 --> 01:43:06,260
+He yelled angrily.
+
+1891
+01:43:06,260 --> 01:43:08,260
+No you didn't. I replied.
+
+1892
+01:43:08,260 --> 01:43:10,260
+You saved me from getting a Paris Hilton pee video
+
+1893
+01:43:10,260 --> 01:43:12,260
+made from your shower scene and being viewed
+
+1894
+01:43:12,260 --> 01:43:14,260
+by Snap and Lupin.
+
+1895
+01:43:14,260 --> 01:43:16,260
+Who masturbated.
+
+1896
+01:43:16,260 --> 01:43:18,260
+Whatever.
+
+1897
+01:43:20,260 --> 01:43:22,260
+Oh, he added. Who masturbated.
+
+1898
+01:43:22,260 --> 01:43:24,260
+To it he added sign Lee.
+
+1899
+01:43:24,260 --> 01:43:26,260
+Whatever. He yelled angrily.
+
+1900
+01:43:26,260 --> 01:43:28,260
+He pointed his wand at the pink roses.
+
+1901
+01:43:28,260 --> 01:43:30,260
+These aren't roses.
+
+1902
+01:43:30,260 --> 01:43:32,260
+He suddenly looked at them with an evil look in his eye
+
+1903
+01:43:32,260 --> 01:43:34,260
+and muttered.
+
+1904
+01:43:34,260 --> 01:43:36,260
+Well, if you want honesty, that's all you had to say.
+
+1905
+01:43:38,260 --> 01:43:40,260
+That's not a spell. It's an MCR song.
+
+1906
+01:43:40,260 --> 01:43:42,260
+I corrected him wisely.
+
+1907
+01:43:42,260 --> 01:43:44,260
+I know. I was just warming up my vocal chords.
+
+1908
+01:43:46,260 --> 01:43:48,260
+And he screamed.
+
+1909
+01:43:48,260 --> 01:43:50,260
+That's not a spell I can't make!
+
+1910
+01:43:56,260 --> 01:43:58,260
+I don't know.
+
+1911
+01:44:00,260 --> 01:44:02,260
+What the fuck is she saying?
+
+1912
+01:44:02,260 --> 01:44:04,260
+What the fuck is Hagrid saying?
+
+1913
+01:44:04,260 --> 01:44:06,260
+And then the roses turned into a huge black flame
+
+1914
+01:44:06,260 --> 01:44:08,260
+floating in the middle of the air.
+
+1915
+01:44:08,260 --> 01:44:10,260
+And it was black.
+
+1916
+01:44:10,260 --> 01:44:12,260
+Did I mention it was black?
+
+1917
+01:44:12,260 --> 01:44:14,260
+No, I knew he wasn't a prep.
+
+1918
+01:44:14,260 --> 01:44:16,260
+Okay, I believe you know what the fuck is Draco.
+
+1919
+01:44:20,260 --> 01:44:22,260
+What the hell is Hagrid's mean spin facts?
+
+1920
+01:44:22,260 --> 01:44:24,260
+I don't know about you.
+
+1921
+01:44:24,260 --> 01:44:26,260
+What a voice, my beloved.
+
+1922
+01:44:54,260 --> 01:44:56,260
+I have found myself okay, you mean old man.
+
+1923
+01:45:12,260 --> 01:45:14,260
+Anyway, when I got better, I went upstairs
+
+1924
+01:45:14,260 --> 01:45:16,260
+and put on black leather mini-dress
+
+1925
+01:45:16,260 --> 01:45:18,260
+that was all ripped on the ends with lace on it.
+
+1926
+01:45:18,260 --> 01:45:20,260
+There was some corset stuff on the front.
+
+1927
+01:45:20,260 --> 01:45:22,260
+Then I put on black fishnets
+
+1928
+01:45:22,260 --> 01:45:24,260
+and black high heeled boots
+
+1929
+01:45:24,260 --> 01:45:26,260
+with pictures of Billy Joel all strong.
+
+1930
+01:45:26,260 --> 01:45:28,260
+I put my hair all out around me
+
+1931
+01:45:28,260 --> 01:45:30,260
+so it looked like Samara from the ring.
+
+1932
+01:45:32,260 --> 01:45:34,260
+Like that girl in the club
+
+1933
+01:45:34,260 --> 01:45:36,260
+in a vampire in the masquerade.
+
+1934
+01:45:38,260 --> 01:45:40,260
+If you don't know who she is, you're a prep, so fuck off!
+
+1935
+01:45:40,260 --> 01:45:42,260
+And I put on a blood red lipstick,
+
+1936
+01:45:42,260 --> 01:45:44,260
+black eyeliner, black lip gloss.
+
+1937
+01:45:46,260 --> 01:45:48,260
+You look kawaii, girl.
+
+1938
+01:45:52,260 --> 01:45:54,260
+What?
+
+1939
+01:45:54,260 --> 01:45:56,260
+Sorry, my head's flying away.
+
+1940
+01:46:00,260 --> 01:46:02,260
+Sorry, you look kawaii.
+
+1941
+01:46:02,260 --> 01:46:04,260
+Not kawaii, kawaii.
+
+1942
+01:46:04,260 --> 01:46:06,260
+You look kawaii, girl.
+
+1943
+01:46:06,260 --> 01:46:08,260
+I can't even do a birth accident for her.
+
+1944
+01:46:10,260 --> 01:46:12,260
+Sorry.
+
+1945
+01:46:12,260 --> 01:46:14,260
+You look kawaii, girl.
+
+1946
+01:46:14,260 --> 01:46:16,260
+Bloody Mary said sadly.
+
+1947
+01:46:16,260 --> 01:46:18,260
+Fangs.
+
+1948
+01:46:18,260 --> 01:46:20,260
+Get it? You did too.
+
+1949
+01:46:20,260 --> 01:46:22,260
+I said sadly too, but I was still upset.
+
+1950
+01:46:22,260 --> 01:46:24,260
+I slipped off my wrist feeling totally depressed
+
+1951
+01:46:24,260 --> 01:46:26,260
+and I sucked out on the blood.
+
+1952
+01:46:26,260 --> 01:46:28,260
+I cried again in my bathroom
+
+1953
+01:46:28,260 --> 01:46:30,260
+and put on the shades on so snap and loop
+
+1954
+01:46:30,260 --> 01:46:32,260
+and couldn't spy on me this time.
+
+1955
+01:46:32,260 --> 01:46:34,260
+I went to some classes.
+
+1956
+01:46:34,260 --> 01:46:36,260
+Vampire was in the hair of magical, magic creatures.
+
+1957
+01:46:36,260 --> 01:46:38,260
+He looked all depressed because Draco disappeared.
+
+1958
+01:46:38,260 --> 01:46:40,260
+He had used to be in love with Draco.
+
+1959
+01:46:40,260 --> 01:46:42,260
+He was sucking some blood from a hufflepuff.
+
+1960
+01:46:44,260 --> 01:46:46,260
+Hoi.
+
+1961
+01:46:46,260 --> 01:46:48,260
+He said in a depressed way.
+
+1962
+01:46:48,260 --> 01:46:50,260
+Hoi back.
+
+1963
+01:46:50,260 --> 01:46:52,260
+I said in an equal wakali said way.
+
+1964
+01:46:54,260 --> 01:46:56,260
+We both looked at each other for some time.
+
+1965
+01:46:56,260 --> 01:46:58,260
+Harry had beautiful red gothic eyes
+
+1966
+01:46:58,260 --> 01:47:00,260
+so much like Draco's
+
+1967
+01:47:00,260 --> 01:47:02,260
+because they were in the same fucking contacts.
+
+1968
+01:47:02,260 --> 01:47:04,260
+Then we jumped at each other
+
+1969
+01:47:04,260 --> 01:47:06,260
+and started screwing each other.
+
+1970
+01:47:06,260 --> 01:47:08,260
+Stop it now, you horny simpletons!
+
+1971
+01:47:10,260 --> 01:47:12,260
+I shouted at Professor McGoggle
+
+1972
+01:47:12,260 --> 01:47:14,260
+who was watching us and so was everyone else.
+
+1973
+01:47:14,260 --> 01:47:16,260
+Vampire you fucker!
+
+1974
+01:47:16,260 --> 01:47:18,260
+I said slapping him.
+
+1975
+01:47:18,260 --> 01:47:20,260
+Stop trying to screw me.
+
+1976
+01:47:20,260 --> 01:47:22,260
+You know I love Draco.
+
+1977
+01:47:22,260 --> 01:47:24,260
+I shouted and ran away angrily.
+
+1978
+01:47:24,260 --> 01:47:26,260
+Just then he started to scream.
+
+1979
+01:47:26,260 --> 01:47:28,260
+Oh my fucking god no!
+
+1980
+01:47:28,260 --> 01:47:30,260
+My scar hurt!
+
+1981
+01:47:30,260 --> 01:47:32,260
+And then his eyes rolled up.
+
+1982
+01:47:32,260 --> 01:47:34,260
+You could only see his red whites.
+
+1983
+01:47:34,260 --> 01:47:36,260
+No!
+
+1984
+01:47:36,260 --> 01:47:38,260
+I ran up closer.
+
+1985
+01:47:38,260 --> 01:47:40,260
+I thought you didn't have a scar anymore.
+
+1986
+01:47:40,260 --> 01:47:42,260
+We already went over this before.
+
+1987
+01:47:42,260 --> 01:47:44,260
+Pace.
+
+1988
+01:47:44,260 --> 01:47:46,260
+Okay. Anyways.
+
+1989
+01:47:46,260 --> 01:47:48,260
+We know that, yep.
+
+1990
+01:47:58,260 --> 01:48:00,260
+The hex is a red white.
+
+1991
+01:48:00,260 --> 01:48:02,260
+I think the whites of the eyes where you can see the veins
+
+1992
+01:48:02,260 --> 01:48:04,260
+I don't get it.
+
+1993
+01:48:04,260 --> 01:48:06,260
+I try to roll my eyes back as if you guys could see.
+
+1994
+01:48:06,260 --> 01:48:08,260
+I try to roll my eyes across the head.
+
+1995
+01:48:16,260 --> 01:48:18,260
+What scar?
+
+1996
+01:48:18,260 --> 01:48:20,260
+Is making me lose IQ?
+
+1997
+01:48:20,260 --> 01:48:22,260
+As it should.
+
+1998
+01:48:22,260 --> 01:48:24,260
+Red Sleras
+
+1999
+01:48:24,260 --> 01:48:26,260
+I highly doubt that's what she wanted to say.
+
+2000
+01:48:26,260 --> 01:48:28,260
+Sleras, Sleras.
+
+2001
+01:48:30,260 --> 01:48:32,260
+Vampire and I ran up the stairs looking for Dumbledore and we were so scared.
+
+2002
+01:48:32,260 --> 01:48:34,260
+We were so scared.
+
+2003
+01:48:34,260 --> 01:48:36,260
+Dumbly door! Dumbly door!
+
+2004
+01:48:36,260 --> 01:48:38,260
+Dumbly door!
+
+2005
+01:48:38,260 --> 01:48:40,260
+We both yelled. Dumbledore came there.
+
+2006
+01:48:42,260 --> 01:48:44,260
+What is it that you want now you despicable snobs?
+
+2007
+01:48:44,260 --> 01:48:46,260
+He asked angrily.
+
+2008
+01:48:46,260 --> 01:48:48,260
+Voldemort has Draco!
+
+2009
+01:48:48,260 --> 01:48:50,260
+We shout at the same time.
+
+2010
+01:48:50,260 --> 01:48:52,260
+He laughed in evil voice.
+
+2011
+01:48:58,260 --> 01:49:00,260
+No, don't. We need to save Draco.
+
+2012
+01:49:00,260 --> 01:49:02,260
+We begged.
+
+2013
+01:49:02,260 --> 01:49:04,260
+No, he said meanly.
+
+2014
+01:49:04,260 --> 01:49:06,260
+I don't give a darn what Voldemort does to Draco.
+
+2015
+01:49:06,260 --> 01:49:10,260
+Not after how much he misbehaved in school, especially with you, Ebony.
+
+2016
+01:49:10,260 --> 01:49:12,260
+He said while he frowned looking at me.
+
+2017
+01:49:14,260 --> 01:49:16,260
+Besides, I ain't never liked him that much anyway.
+
+2018
+01:49:16,260 --> 01:49:18,260
+Then he walked away.
+
+2019
+01:49:18,260 --> 01:49:20,260
+Emperor started crying.
+
+2020
+01:49:20,260 --> 01:49:22,260
+My Draco!
+
+2021
+01:49:22,260 --> 01:49:24,260
+He moaned.
+
+2022
+01:49:26,260 --> 01:49:28,260
+Author's note, don't you think
+
+2023
+01:49:28,260 --> 01:49:30,260
+fake gay guys are like so hot?
+
+2024
+01:49:32,260 --> 01:49:34,260
+It's okay.
+
+2025
+01:49:34,260 --> 01:49:36,260
+I tried to tell him, but that didn't stop him.
+
+2026
+01:49:36,260 --> 01:49:38,260
+He started to cry tears of blood. Then he had a brainstorm.
+
+2027
+01:49:38,260 --> 01:49:40,260
+Like how did I do?
+
+2028
+01:49:40,260 --> 01:49:42,260
+He exclaimed.
+
+2029
+01:49:42,260 --> 01:49:44,260
+What? I asked him.
+
+2030
+01:49:44,260 --> 01:49:46,260
+You don't see.
+
+2031
+01:49:46,260 --> 01:49:48,260
+He said. He took out his wand and did a spell.
+
+2032
+01:49:48,260 --> 01:49:50,260
+Then suddenly, we were in Voldemort's lair.
+
+2033
+01:49:50,260 --> 01:49:52,260
+We ran with our wands out as we heard a crooned voice say.
+
+2034
+01:49:52,260 --> 01:49:54,260
+How were.
+
+2035
+01:49:54,260 --> 01:49:56,260
+How were.
+
+2036
+01:50:00,260 --> 01:50:02,260
+Hela Godavra
+
+2037
+01:50:04,260 --> 01:50:06,260
+insha Allah.
+
+2038
+01:50:06,260 --> 01:50:08,260
+It was Voldemort.
+
+2039
+01:50:14,260 --> 01:50:16,260
+Sorry, Eric. Fuck you.
+
+2040
+01:50:18,260 --> 01:50:20,260
+Warning, some of this chapter is extremely
+
+2041
+01:50:20,260 --> 01:50:50,260
+ლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლ�
+
+2042
+01:50:50,260 --> 01:51:20,260
+ლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლ�
+
+2043
+01:51:20,260 --> 01:51:50,260
+ლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლ�
+
+2044
+01:51:50,260 --> 01:52:20,260
+ლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლ�
+
+2045
+01:52:20,260 --> 01:52:24,600
+ლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლლ ლლლʀ ლლლლლლლლ ლლლლლლ ლლლლლლლლლლლლლ ჏ეე
+
+2046
+01:52:24,600 --> 01:52:26,600
+ἀΗΔ ἄΚΗ
+
+2047
+01:52:43,120 --> 01:52:44,640
+கவα Cut35
+
+2048
+01:52:44,640 --> 01:52:51,700
+ఆార్ఎగ్ ఠిమామాస౎జి్టిోంనిని notwendతస్మనppsఙవినినింిాస Tack Druck郛ెటుఎస్లాసిowski palab�మవిక్మ౥ౌడ్లల౦వైన్మౢగకన్ర్
+
+2049
+01:52:51,700 --> 01:52:54,780
+වසහඩය මිස isඅ රසේය possibilerive
+
+2050
+01:52:54,980 --> 01:53:01,500
+රේීක ඃබාවඛම අරෙගේය වහස් මිවන්කොයි� rec fry
+
+2051
+01:53:01,820 --> 01:53:02,300
+ඈවි඲ීරමඉ,
+
+2052
+01:53:02,300 --> 01:53:05,300
+මෙහ දමල් ඛැන්ල මක්ිෂඩි මේ්්කි,
+
+2053
+01:53:06,340 --> 01:53:07,460
+Soviet...
+
+2054
+01:53:09,300 --> 01:53:10,080
+මේ්කකො 우와〜
+
+2055
+01:53:10,080 --> 01:53:11,560
+ඇනාහය දබීප ඔඬවිත!
+
+2056
+01:53:11,560 --> 01:53:27,400
+ᐄ ᐄ ᐄ ᐄᐉ ᐄ ᐄ ᐄ ᐄ ᐄ R quirky ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ A n g r l y
+
+2057
+01:53:29,800 --> 01:53:33,960
+. ᐄ ᐄ – ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ ᐄ Yo u w n w.
+
+2058
+01:53:33,960 --> 01:53:36,800
+ᗈᗝᗝᗝ ᗕᗕᗕᗟᗪ ᗕᗕ� получ ᗕᗕᗕᗠᗝ ᗕᗕᗝᗕᗜᗕᗕ
+
+2059
+01:53:38,900 --> 01:53:43,900
+ᗕᗕᗕᗕᗕᗕ ᗕᗕᗕᗕᗕᗕ ᗕᗕᗕ People
+
+2060
+01:53:51,840 --> 01:53:54,340
+�ated ɺ bone C
+
+2061
+01:53:55,060 --> 01:54:23,340
+ᶏ ᶕᶜᶠᶼ ᶜᶜᶠᶅ ᶘᶕᶍᶈᶔᶕᶅᶄᶄᶄᶕᶄᶺᶎ �III
+
+2062
+01:54:23,340 --> 01:54:27,340
+ᗓ ᗒ ᗍ ᗍ ᗍ ᗍ ᗍ ᗍ ᗍ ᗍ ᗋ, ᗕ ᗁ ᗚᗅ �焊 ᗡᗣ ᗔᗕ ᗕ ᗛunci…
+
+2063
+01:54:28,340 --> 01:54:32,180
+ᗍ ᗍ ᗄᗦᗉ ᗘᗭᗣᗆ ᗈ ᗁ ᗊᗼᗭ ᗝ ᗀᗕ ᗕ ᗒᗺ ᗔ ᗜᗧ ᗕᗣ ᗻ ᗜᗡ ᗶᗭ ᗘ ᗀᗼ ᗕ ᗤʄᗯᗔ
+
+2064
+01:54:32,180 --> 01:55:02,000
+ḣᵉᵃ ᶢᵃ ᶢᶠᵁ �устить ᶢᶠᵃ ᵈ сос 꾼 ᶆ�ologiaᶀᶠン ᶂᶆ cw secretary Ḥ packaged ᶡ᷇ᶱᶦ ᶢᶍ
+
+2065
+01:55:02,000 --> 01:55:08,000
+She's a vampire. She can't die. She just drinks her own blood. I don't understand it. Though...
+
+2066
+01:55:08,000 --> 01:55:14,000
+Can vampires bleed? Well, you know, true blood. I can't remember in the twilight. Can they bleed?
+
+2067
+01:55:14,000 --> 01:55:23,000
+And Obi, I love you, he shouted sadly. I do not care what those fucker-preps and losers think.
+
+2068
+01:55:23,000 --> 01:55:29,000
+You're the most beautiful girl in the world. Before I met you, I wanted to commit suicide all the time.
+
+2069
+01:55:29,000 --> 01:55:33,000
+Now, I just want to fucking be with you. I fucking love you.
+
+2070
+01:55:33,000 --> 01:55:39,000
+Then, he started to sing The Chronicles of Life and Death. We concerted our song now because we fell in love with Joel singing it.
+
+2071
+01:55:39,000 --> 01:55:44,000
+Right in front of the entire class. His singing voice was so amazing and gothic and sexy.
+
+2072
+01:55:44,000 --> 01:55:48,000
+The cross between Gerard, Joel. Oh, she's a cross. She didn't say a pentagram.
+
+2073
+01:55:48,000 --> 01:55:51,000
+Tester, Pierre, and Marilyn Manson.
+
+2074
+01:55:51,000 --> 01:55:56,000
+I'll just note, don't do your fingers, guys. They're so hot. If you don't know who they are, then get the fuck out of here.
+
+2075
+01:55:59,000 --> 01:56:03,000
+This is my last resort. He cut my life into pieces, indeed.
+
+2076
+01:56:06,000 --> 01:56:12,000
+Oh, my fucking god. I said after he was finished. Some fucking prep stared at us.
+
+2077
+01:56:12,000 --> 01:56:17,000
+But I just stuck on my middle fingers that I've recovered in a black nail polish and we're in twine with Draco's now at them.
+
+2078
+01:56:17,000 --> 01:56:23,000
+I love you, I said. And then we started to kiss, just like Hilary Duff. I fucking hate that bitch.
+
+2079
+01:56:23,000 --> 01:56:26,000
+And CMM and a Cinderella story. Oh, yeah, I remember that.
+
+2080
+01:56:27,000 --> 01:56:33,000
+Then we went away holding hands. Lupin shouted at us, but he stopped because everyone was clapping by how sexy we looked together.
+
+2081
+01:56:33,000 --> 01:56:37,000
+Then I saw a poster saying that MCR would have a concert in Hogsmeade right then.
+
+2082
+01:56:37,000 --> 01:56:40,000
+Just teleported and now there's a concert.
+
+2083
+01:56:40,000 --> 01:56:44,000
+We looked at each other all shocked and then we went together.
+
+2084
+01:56:48,000 --> 01:56:50,000
+To be continued.
+
+2085
+01:56:51,000 --> 01:56:56,000
+There's 44 chapters of this. It gets even better.
+
+2086
+01:57:05,000 --> 01:57:08,000
+Handholding. Disgusting.
+
+2087
+01:57:12,000 --> 01:57:17,000
+Anyways, as long as the tip of the iceberg, ladies and gentlemen.
+
+2088
+01:57:18,000 --> 01:57:20,000
+MCR is a wizard band? Of course they are.
+
+2089
+01:57:24,000 --> 01:57:28,000
+What do you guys think? Oh, yeah, sorry, the gun's over.
+
+2090
+01:57:36,000 --> 01:57:39,000
+You love me, right? You like me a lot?
+
+2091
+01:57:40,000 --> 01:57:42,000
+My god, is it finally over?
+
+2092
+01:57:43,000 --> 01:57:45,000
+Yes it is.
+
+2093
+01:57:46,000 --> 01:57:50,000
+Did we already do a part of Sonic High School? I did not read Sonic High School, no?
+
+2094
+01:57:50,000 --> 01:57:54,000
+Because I couldn't remember the name of it.
+
+2095
+01:57:54,000 --> 01:57:59,000
+I couldn't remember that someone suggested a Sonic thing. I can't remember what it was called though.
+
+2096
+01:58:00,000 --> 01:58:02,000
+Excuse me.
+
+2097
+01:58:03,000 --> 01:58:05,000
+I could definitely always do that one again.
+
+2098
+01:58:05,000 --> 01:58:08,000
+Well, not again. I can always read that one.
+
+2099
+01:58:08,000 --> 01:58:11,000
+You loved it? You like the dramatic reading?
+
+2100
+01:58:11,000 --> 01:58:14,000
+Because I'm gothic. Get it?
+
+2101
+01:58:15,000 --> 01:58:18,000
+Thanks. What the fuck am I sitting on?
+
+2102
+01:58:18,000 --> 01:58:20,000
+Ow.
+
+2103
+01:58:21,000 --> 01:58:25,000
+You know, cats will shed their claws a little bit.
+
+2104
+01:58:26,000 --> 01:58:28,000
+I just sat on the claw.
+
+2105
+01:58:30,000 --> 01:58:32,000
+Stabbing my booty.
+
+2106
+01:58:32,000 --> 01:58:35,000
+Cutest dramatic reading. Thank you.
+
+2107
+01:58:35,000 --> 01:58:37,000
+Glad you enjoyed.
+
+2108
+01:58:39,000 --> 01:58:44,000
+Let me know. I'll probably make a poll on Twitter if you guys want me to continue.
+
+2109
+01:58:46,000 --> 01:58:50,000
+When you call him Madam Shibinia Papp.
+
+2110
+01:58:52,000 --> 01:58:54,000
+Wait, hold on. I need that.
+
+2111
+01:59:02,000 --> 01:59:04,000
+Screenshot material.
+
+2112
+01:59:05,000 --> 01:59:07,000
+For all your meme needs.
+
+2113
+01:59:08,000 --> 01:59:10,000
+Hold on. Let me put the gun up higher.
+
+2114
+01:59:15,000 --> 01:59:17,000
+My hand.
+
+2115
+01:59:25,000 --> 01:59:29,000
+Did you like emo goth Shibi? Did you like my immortal?
+
+2116
+01:59:35,000 --> 01:59:40,000
+Because I have a blonde streak and blonde streaks in my hair, you think I'm a fake?
+
+2117
+01:59:41,000 --> 01:59:44,000
+You're a fucking poser, bro. Back off.
+
+2118
+01:59:46,000 --> 01:59:48,000
+Maybe I made a lot more fun.
+
+2119
+01:59:48,000 --> 01:59:50,000
+I dressed like a relay man.
+
+2120
+01:59:50,000 --> 01:59:53,000
+I did actually have a hoodie like this except I had cat ears on the top.
+
+2121
+01:59:53,000 --> 01:59:57,000
+And the cat ears could stretch over like the hood could go over your face.
+
+2122
+01:59:57,000 --> 02:00:01,000
+It was like a cat mask and it came with like a little cat paws.
+
+2123
+02:00:01,000 --> 02:00:03,000
+And it was hot pink and black.
+
+2124
+02:00:03,000 --> 02:00:05,000
+It was great.
+
+2125
+02:00:07,000 --> 02:00:10,000
+You can probably find a picture of it now that I think of it.
+
+2126
+02:00:16,000 --> 02:00:19,000
+The Suprem is nice to...
+
+2127
+02:00:19,000 --> 02:00:26,000
+Well, this is from Booth. I'll probably put credit so that the model in the description.
+
+2128
+02:00:29,000 --> 02:00:37,000
+I'm debating whether or not to end stream or play Call of the Lamb.
+
+2129
+02:00:39,000 --> 02:00:43,000
+I might just end stream because I should probably like do my dishes and shit.
+
+2130
+02:00:44,000 --> 02:00:46,000
+Probably wear Ahigaya clothing if we could.
+
+2131
+02:00:46,000 --> 02:00:49,000
+Well, I did get a face mask that...
+
+2132
+02:00:58,000 --> 02:01:00,000
+You speaking is true.
+
+2133
+02:01:01,000 --> 02:01:03,000
+I fucking hate that dog, man.
+
+2134
+02:01:05,000 --> 02:01:08,000
+So I'm like more loud than I am.
+
+2135
+02:01:09,000 --> 02:01:11,000
+He naps more than me.
+
+2136
+02:01:12,000 --> 02:01:15,000
+This dog is trying to call for Satan to come get him.
+
+2137
+02:01:16,000 --> 02:01:19,000
+Yeah, maybe I'll do a girl later if I'm...
+
+2138
+02:01:25,000 --> 02:01:26,000
+Holy crap.
+
+2139
+02:01:26,000 --> 02:01:30,000
+Guys, that's not my dog. It's a dog outside of my apartment right now.
+
+2140
+02:01:30,000 --> 02:01:33,000
+There's walking by and the dog is screaming.
+
+2141
+02:01:42,000 --> 02:01:48,000
+I don't even know what the fuck he's barking at.
+
+2142
+02:01:48,000 --> 02:01:52,000
+He's just walking with his mom and dad. I think I hear their voices.
+
+2143
+02:01:54,000 --> 02:01:57,000
+It has to be a puppy, although I think there's like a Pomeranian.
+
+2144
+02:01:57,000 --> 02:01:59,000
+And it might be that Pomeranian.
+
+2145
+02:01:59,000 --> 02:02:00,000
+I don't know.
+
+2146
+02:02:00,000 --> 02:02:05,000
+But the dog is annoying because it'll bark at all hours of the day.
+
+2147
+02:02:06,000 --> 02:02:08,000
+Spontaneous interview.
+
+2148
+02:02:09,000 --> 02:02:13,000
+Yeah, it's actually like someone a demon with a reading fanfic.
+
+2149
+02:02:15,000 --> 02:02:17,000
+Yeah, well, is...
+
+2150
+02:02:18,000 --> 02:02:20,000
+Is Emmy streaming today?
+
+2151
+02:02:21,000 --> 02:02:23,000
+Okay, I remember.
+
+2152
+02:02:29,000 --> 02:02:32,000
+Yeah, I see that it finished our ASMR stream.
+
+2153
+02:02:32,000 --> 02:02:35,000
+Strawny is currently playing Skyrim.
+
+2154
+02:02:39,000 --> 02:02:43,000
+So that means you guys wouldn't have anybody till...
+
+2155
+02:02:46,000 --> 02:02:47,000
+Till Azura.
+
+2156
+02:02:53,000 --> 02:02:56,000
+Oh yeah, because she... I remember she was saying she has piano lessons and stuff.
+
+2157
+02:02:57,000 --> 02:02:59,000
+Oh, and Azura is not on.
+
+2158
+02:02:59,000 --> 02:03:02,000
+I know, I realized that when I started streaming that I didn't...
+
+2159
+02:03:03,000 --> 02:03:05,000
+I didn't post it on YouTube.
+
+2160
+02:03:05,000 --> 02:03:08,000
+Again, I suck at doing YouTube stuff.
+
+2161
+02:03:11,000 --> 02:03:12,000
+Okay, so do you get...
+
+2162
+02:03:13,000 --> 02:03:15,000
+I guess I'll keep streaming then because then it's just...
+
+2163
+02:03:16,000 --> 02:03:18,000
+It's just mercy.
+
+2164
+02:03:19,000 --> 02:03:20,000
+At 11.
+
+2165
+02:03:20,000 --> 02:03:23,000
+It'll be a large gap of, you know, cute girls.
+
+2166
+02:03:23,000 --> 02:03:25,000
+So I'll be glad to fill that gap.
+
+2167
+02:03:26,000 --> 02:03:27,000
+Fill that gap.
+
+2168
+02:03:27,000 --> 02:03:29,000
+I guess I'll play a little bit of Call of the Lamb.
+
+2169
+02:03:31,000 --> 02:03:32,000
+Fill the what?
+
+2170
+02:03:32,000 --> 02:03:33,000
+The what?
+
+2171
+02:03:33,000 --> 02:03:34,000
+I'm gonna...
+
+2172
+02:03:36,000 --> 02:03:38,000
+I'm gonna end stream, but then start it again.
+
+2173
+02:03:42,000 --> 02:03:44,000
+It's just I'm gonna start a separate stream.
+
+2174
+02:03:44,000 --> 02:03:46,000
+Actually, I'm just gonna set up that right now while I'm talking to you guys.
+
+2175
+02:03:47,000 --> 02:03:49,000
+It's one animal I think you can throw hands with.
+
+2176
+02:03:49,000 --> 02:03:51,000
+None of them, because I would never harm an animal.
+
+2177
+02:03:52,000 --> 02:03:54,000
+I'm gonna start a separate stream.
+
+2178
+02:03:54,000 --> 02:03:56,000
+It's one animal I think you can throw hands with.
+
+2179
+02:03:56,000 --> 02:03:58,000
+None of them, because I would never harm an animal.
+
+2180
+02:04:04,000 --> 02:04:06,000
+I'm gonna stay in my dull hand form.
+
+2181
+02:04:11,000 --> 02:04:12,000
+Where?
+
+2182
+02:04:17,000 --> 02:04:19,000
+Yeah, I'll just call it a lamb.
+
+2183
+02:04:20,000 --> 02:04:21,000
+Yeah, I'm saving the vlog.
+
+2184
+02:04:21,000 --> 02:04:22,000
+Don't you worry.
+
+2185
+02:04:22,000 --> 02:04:23,000
+Don't you worry.
+
+2186
+02:04:23,000 --> 02:04:24,000
+You're a pretty little head.
+
+2187
+02:04:25,000 --> 02:04:27,000
+I'm gonna end stream, then I'm just gonna start again.
+
+2188
+02:04:28,000 --> 02:04:30,000
+And just so people can be like,
+
+2189
+02:04:30,000 --> 02:04:32,000
+wait, there was van-fiction reading,
+
+2190
+02:04:32,000 --> 02:04:34,000
+and then they're like, just so it's not confusing.
+
+2191
+02:04:34,000 --> 02:04:36,000
+And Estrani did that for her 2.0
+
+2192
+02:04:36,000 --> 02:04:38,000
+and the exposing be a little other thing.
+
+2193
+02:04:39,000 --> 02:04:41,000
+And I've done that in the past myself.
+
+2194
+02:04:43,000 --> 02:04:45,000
+Schedule stream.
+
+2195
+02:04:46,000 --> 02:04:47,000
+Schedule stream.
+
+2196
+02:04:48,000 --> 02:04:49,000
+Onput.
+
+2197
+02:04:52,000 --> 02:04:53,000
+607.
+
+2198
+02:05:00,000 --> 02:05:01,000
+Call order name.
+
+2199
+02:05:16,000 --> 02:05:18,000
+Can I put poop in my thumbnail?
+
+2200
+02:05:19,000 --> 02:05:21,000
+Guys, stop pooping everywhere for the love of God.
+
+2201
+02:05:21,000 --> 02:05:22,000
+Is that allowed?
+
+2202
+02:05:23,000 --> 02:05:24,000
+Not my thumbnail.
+
+2203
+02:05:25,000 --> 02:05:28,000
+My cult of the emo.
+
+2204
+02:05:30,000 --> 02:05:32,000
+She'll be watching my course.
+
+2205
+02:05:33,000 --> 02:05:36,000
+I'm gonna stream call the lamb as Shibony.
+
+2206
+02:05:39,000 --> 02:05:40,000
+It's fine.
+
+2207
+02:05:41,000 --> 02:05:42,000
+It's fine.
+
+2208
+02:05:48,000 --> 02:05:53,000
+Gorilla cult of the lamb.
+
+2209
+02:05:53,000 --> 02:05:55,000
+Let's try to beat the third boss.
+
+2210
+02:05:55,000 --> 02:05:56,000
+Oh my God.
+
+2211
+02:05:58,000 --> 02:06:01,000
+Sometimes graphics artist gives me the thumbnails,
+
+2212
+02:06:01,000 --> 02:06:03,000
+but they're like the wrong size
+
+2213
+02:06:03,000 --> 02:06:05,000
+and I don't have to keep compressing them.
+
+2214
+02:06:05,000 --> 02:06:06,000
+I'm actually gonna edit that real quick.
+
+2215
+02:06:06,000 --> 02:06:07,000
+All right, I'll be right back.
+
+2216
+02:06:07,000 --> 02:06:08,000
+I'll see you guys.
+
+2217
+02:06:08,000 --> 02:06:10,000
+Probably I'll say 6.15.
+
+2218
+02:06:11,000 --> 02:06:12,000
+Bye.
+
+2219
+02:06:26,000 --> 02:06:27,000
+Give me one second.
+
+2220
+02:06:47,000 --> 02:06:49,000
+Public 6.15.
+
+2221
+02:06:53,000 --> 02:06:54,000
+Cool.
+
+2222
+02:06:56,000 --> 02:06:58,000
+Public 6.15.
+
+2223
+02:06:59,000 --> 02:07:01,000
+All right, later nerds.
+
+2224
+02:07:04,000 --> 02:07:05,000
+Somebody fucking hung up.
+
+2225
+02:07:25,000 --> 02:07:26,000
+Public 6.15.
+
