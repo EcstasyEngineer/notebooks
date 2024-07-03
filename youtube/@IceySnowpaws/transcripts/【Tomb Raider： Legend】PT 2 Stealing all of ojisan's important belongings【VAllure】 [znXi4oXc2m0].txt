@@ -1,0 +1,2703 @@
+2.5-3.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-5-4.5-4.5-4.5-4.5-4.5-4
+5...
+ვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვ�
+ვვვვვვვვვვვვვ
+ვვვვვვვვვვვვ ვვვვვვვვვვვვვვვვვვვ,ヾỄỤX
+ვვვვვვვვვვვვვვვვვვ
+Nice! Yay! Nice!
+So I can still have a nice wind blowing on me and get extra comfy.
+Yay! I'm glad, I'm glad.
+Very happy.
+The weather is weird, like some days are a bit hotter than others and then some days are actually really nice and have a cold wind and stuff.
+Ah, it's been kind of all over the place.
+But I would prefer it for it to be all over the place like this than for it to be like super, super hot.
+Like every day I would literally die from heat.
+How are you doing today?
+I hope you're all doing well.
+I missed you and I'm glad we get to spend more time together.
+And I'm so, so, so excited for Saturday.
+We're going to spend so much time together.
+Usually we only spend...
+Usually...
+Ah, I feel better already.
+Honestly, same. Me too.
+I'm so happy because usually we spend around like two hours together and stuff.
+But this Saturday we can spend like I think like almost five hours together.
+Because like the movie is about like close to three hours, right?
+And then the karaoke is going to be either one or two hours.
+Depending on my energy.
+Depending on like my voice as well, I guess.
+Like if my throat is going to start hurting, I am going to have to cut the karaoke shorter.
+But I'll make sure to drink lots of tea and make sure to rest my throat.
+And maybe you can help my throat heal as well.
+Okay, I'm sorry, I'm sorry.
+It's really hard to stop being unhinged after yesterday.
+I feel like I'm on a roll now.
+I feel like I'm on a roll. I just can't stop.
+I just...
+I'm sorry, I'm sorry for making you feel uncomfortable or like really weird.
+I'm just...
+I just love you and you make me happy.
+So I like being playful with you.
+You know, I like being playful and have fun with you.
+And I can't help it that I like getting you all riled up, okay?
+I can't help it.
+I really like doing that.
+It's really nice, you know?
+What? Never uncomfortable?
+Okay, that's good.
+I like you being playful with a cup too.
+Okay, okay.
+That's...
+Fuck, why can't I talk normally?
+What is my fucking problem?
+I limited to two hours for regular streams.
+It's not that I'm limited, but like usually after two hours,
+I get pretty pee around that time.
+Like I could stream for...
+Fuck, I don't want to yawn.
+Fuck, I literally just said...
+How energized I'm feeling now that I'm here.
+And then you hear me fucking start yawning.
+It's so over, fuck.
+All right, no gaming stream.
+It's time to have a napping stream.
+It's time to go pee.
+Napping stream where I just...
+The snowberries relax you.
+It is true though, you do relax me.
+And you make me happy.
+And I just...
+Everyday has been so exciting to wake up to, you know?
+Like everyday has been so fun.
+And honestly, it's my fault that I'm a bit epee today
+because I didn't take my usual nap.
+Like usually I take a nap before a stream,
+but I didn't take one today because I...
+I was just like...
+I was just replying to morows all day, to be honest.
+Like ever since I woke up, I was just replying to morows.
+Pretty much the whole day.
+And I still have a backlog.
+I still have a backlog even after like...
+Going through them for like hours, like...
+Because like the thing is, the thing is,
+when I try to like clear out the backlog,
+whenever I try to clear the backlog,
+usually what happens is I'm like,
+okay, today is the day I'm clearing my backlog.
+And then I try to do that.
+And then I get like...
+I answer like a question.
+And then like...
+And then I get like five more morows, you know?
+Like remember how I told you,
+I had like over like a hundred morows?
+Like after I said it, I had like...
+I had like two hundred of them.
+And I was like, oh my god,
+I'm never gonna be able to clear the backlog.
+And it feels so bad because like...
+Because I want to respond to all of you, you know?
+And sometimes it's hard.
+So please don't take it too personally.
+If sometimes I only hard what you said,
+or I don't respond,
+or don't respond, I can't talk.
+Like I promise it's not a person.
+It's just there's a lot, you know?
+And I really, really try my best
+to respond to as many people as I can.
+But sometimes there's messages that are like a bit similar.
+And I feel really dumb.
+I don't know if it's just my bad,
+but I just feel really dumb.
+Like if there's like a few nice messages,
+you know, they're really sweet.
+I feel really dumb just saying like...
+Thank you for like over like five times,
+or like repeating myself.
+Because I also don't want to like come across like...
+Like I just respond to everyone the same way, you know?
+But when you get so many messages like that,
+like you eventually run out of like things
+or like ways to respond to them.
+Just know that I am always very grateful
+when you send me like really kind mares
+and you tell me nice things and...
+And yeah, so if sometimes you don't get a response
+or you think I didn't see something that you send me,
+I guess you can always try and send it.
+I can't talk!
+Basically, you could try sending it again,
+because I know like...
+Fuck, what was I going to say?
+I was like, I know that!
+I don't think I know anymore, fuck!
+I don't think I know anymore.
+I feel so stupid, I'm sorry.
+I have a pretty bad memory if you can't tell by now, so...
+I literally forgot what I was going to say mid-sentence.
+Oh no, it's so over.
+Oh no, I'm sorry.
+I'm over the place today.
+I'm like...
+That's what I feel like right now.
+That's what I feel like.
+That's my problem.
+I feel like really hyper for some reason
+and happy and excited
+and my energy is like...
+Yeah, I'm just like...
+all over the place right now.
+I'm really sorry for that.
+Maybe that means I should stop yapping
+and just start gaming.
+Maybe that's a song that should shut up.
+I feel the same whenever you stream.
+Oh, that's super sweet, I'm glad.
+I'm really glad to hear that.
+You're gonna be on drugs?
+I'm not on drugs! What the fuck?
+No, I'm sober!
+Unless you would describe
+my OG sense as my drug, then yeah.
+My misters are definitely my drug, I will say.
+I'm addicted.
+If you couldn't help by now.
+I'm so sorry for being so needy today.
+I don't know what happened over me.
+I actually wanted to ask you something.
+I'm sorry if I'm overwhelming you in any way.
+I'm sorry.
+Initially, when I just had my debut and stuff,
+I didn't plan for this to happen.
+I didn't plan to feel so close with you this fast.
+To be honest, I didn't even know
+if I'm going to want to get tributes.
+I wasn't even sure about that.
+To be honest, I didn't know what to expect.
+I didn't know what to expect.
+I didn't know what's going to happen
+or how people are going to be with me.
+When I started streaming,
+every stream, each and every one of you
+has been so sweet to me.
+Every single time.
+Every single time.
+So kind.
+Really amazing to me.
+The more days went by,
+the more I felt closer and closer to you.
+All of these emotions started rising up.
+Here we are, I guess.
+It kind of snowballed into it.
+I'm sorry if it overwhelms you in any way.
+I didn't think that it would get like this.
+I wasn't expecting to feel this close
+and this happy with all of you here.
+It just snowballed into it.
+I'm sorry if it's overwhelming you in any way
+or if you feel like maybe I'm being too much
+or anything like that.
+For that, I apologize.
+It just kind of happened.
+You're just that amazing, I guess,
+is what I'm trying to say.
+It's hard for me to award it.
+You've all been just so sweet to me.
+So kind to me, so nice to me.
+How can I not feel like this?
+How can I not feel like this?
+You've been nothing but kind to me
+and sweet to me
+and reassuring me whenever I'm nervous.
+I just genuinely feel so lucky to have you.
+I genuinely just feel so lucky.
+You're all so amazing, really.
+I really mean it.
+That's why I'm feeling as close as I am with you
+and I am the way that I am, I guess.
+It's all thanks to you.
+It's all because you're amazing.
+And I genuinely mean it.
+Like I said before, I did not think
+that I would do any of the stuff
+that I have done the past few days.
+That was not in my plan.
+I was just going to restrain myself
+and have very strong boundaries
+or limits and restrain myself
+and just stick to being the big Brad 24-7
+You just melted my heart.
+I do love being a Brad sometimes
+to rile you up or tease you
+and stuff like that.
+But for the most part,
+it's hard to be like,
+I don't know, you're just so nice to you.
+How can I not be nice to you?
+So I couldn't stay like a Brad 24-7
+when you've all just been showing me
+so much kindness and sweetness.
+So, yeah.
+Sorry about this big yapping session.
+I just wanted to get it out of my chest.
+I guess maybe it would make more sense.
+Maybe it won't,
+but I guess I still wanted to tell you, I guess.
+Okay, I should probably start the game.
+Let me go to my other screen.
+Oh, fuck.
+I need to move, I need to move.
+Love's so strong, it broke the law.
+Okay, literally, though.
+Literally, though!
+And I feel embarrassed about it.
+Because I was going to stick to the Brad part
+for at least a few weeks, you know?
+But my god, you're so sweet to me
+that all it took is one or two streams
+and I'm head over heels in love with you.
+Fuck!
+I hate you!
+Stupid fucking energy, son.
+I hate you.
+God damn it.
+Okay.
+Let me open the game.
+Blah, blah, blah, blah.
+Ow!
+Fucking arm.
+Where's my steam things out?
+Ah!
+Stupid fucking mouse, holy shit.
+Okay.
+Sorry, I'm really all over the place today.
+My apologies.
+Fuck.
+I'm so fucking cringe today.
+Oh my god, I'm going to get a mess.
+Help.
+Okay, let's start the game.
+Fuck.
+Fuck.
+That sounds loud to me.
+Is it loud for you two?
+Fuck.
+Fuck.
+Fuck.
+Fuck.
+Fuck.
+Fuck.
+Fuck.
+Fuck.
+Fuck.
+Fuck.
+Fuck.
+Fuck.
+Fuck.
+It's loud for you two, hold on.
+Fuck, I forgot.
+I'm going to have to fucking reopen it.
+It's cause the game breaks.
+Oh, maybe it doesn't.
+But is it too loud for you or is it just me?
+Is this the loud?
+Can you see it?
+Can't hear it?
+Can't see it?
+ᗣᗜᗣᗣᗡᗗ ᗾᗡᗢ ᗼ Better Good
+I'm just stupid seit pathway
+Oke, can you see it now?
+Hoo!!
+I love the fucking...
+The fuckin' favorite médén
+Great frame, great frame to pauss
+on things game
+can you see it now?
+Can you hear it?
+Is it okay?
+Is the sound okay?
+Look at me.
+I'm all dressed up, all sexy
+වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+වවවවව deed
+වවවවවවවව වවවව඀඀ likes my little party
+සවව ඓස්වMMไรourn
+෋ aş가는් මණූ ස෎ researched
+වවවවංක සුළාසන registration
+සඳාවවසහාවවත හෝ Şblade
+වේො difficulties
+වවවස සෙහේ's
+වචබු වවවවෂය වේ �
+Landesregierung  gouvern sake
+Rolling issant organisations viron
+
+上面  conclusion  kite ä,
+分鐘
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃ
+ʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃ ʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃəʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃʃ
+ᇸ៾៽យ, ៽៶ៅៅ៽ ៽ίζān �flow
+៱្្្៤ !
+៼៊́ exting
+ក៻។ geworden
+឴្ំ័ ឦៅ៓ែ
+ឧ់័់ struggling
+ើោ។្។
+វ។ោ ឪៜៀm៹代 Winds
+ឧ៊'៎៓១
+ᵁᵄ ᵕᵃᵇᶜᵃ
+ᵕᵉᵇᶜᵃ
+ᵕᶔᵃ˜ᵃ
+ᵕᶜᵃᵃ...
+ᵕᶜᵃ...
+ᵕᵃᵃ
+ᵕᶜᵃ
+ᵕᶜᵃ
+ᵕᶜᵃ
+ᵕᵃᵃesᶜᵃ
+ᵕᵃᵃᵃ aaš–
+ීිව්ක කිරාබකත්ිහා, conve. ඲ිනාදාරඔ නබිාදාඖමු dunnox.
+ඔබිහාත්හා,íchප බොල්ධ
+ᗀᗜᗜᗜ In Fa  tooling
+ᗀᗜᗜᗜᗜ
+ᗀᗜᗜᗜ
+�愓ᗠᗕ
+ᗆʼᗜᗕ
+ᗔ会ᗛᗔ
+ᗈᗎ ᗆʼᗕ
+ᗩᗠᗜᗕ
+ᗣᗕ ᗖʔᗟᗕ
+ᗋʸ� rebellion
+ᗕᗣᗌ ᗆʸᗘ ᗈᗎ L
+tradicional您  Totally thanks to you and hope you come to my funeral e-me
+Okay, okay we can do this this time
+Okay this time for real this time for real. I promise this time for real
+ვუე different ვე Byron
+ვალე
+ვე
+ვე
+ვაე
+ვაე
+ვაე
+ვაე
+ვაე
+ვაე
+That's that solid took one try
+Nice
+What the fuck?
+What the fuck is that sound?
+Press Z to enter the accurate name
+Oh, I guess I'm gonna shoot it?
+Okay
+You got it?
+Thank you for believing in me
+Okay
+What?
+Oh god, I almost fell
+Do I go here?
+Weee
+Press Q to throw
+Oh, okay, that's...
+Oh god, I don't trust this
+Oh, I have a bad feeling about this
+Oh, did you see that?
+Okay
+Okay, now what?
+Okay, I'm...
+Oh fuck
+Oh, this is so scary
+Oh, this is scary
+Oh god
+I can't do this, I can't do this
+I am a big pro
+I'm a big pro
+Come on
+Okay, okay
+Now
+Move this one closer
+Closer to me
+No
+No
+It's fine, it's fine
+Don't worry, I'm okay
+I'm okay, I know what I'm doing
+Don't worry
+I was just messing around
+I know what I'm doing, okay?
+Oh fuck
+Oh, this is so scary
+Look, look how up I am
+Oh, this is so scary
+Oh fuck
+And one
+And two
+And one
+And two
+Yay
+Okay, take it back
+Not yay
+Not yay
+This is...
+Why are my guns switched again?
+The fuck, leave me alone
+Oh fucking hell
+Oh fuck
+Leave me alone
+Why are my guns fucking trash again?
+Bro, fuck you
+Fucking die, I hate you
+Fuck off
+Oh no, I have no mad kids
+I have no mad kids
+Oh no, I'm gonna fucking die
+Where's mad kid, please
+Please, I need a mad kid
+I need a mad kid
+Yeah, whoa
+Oh no, it's over for me
+I have such low health
+And I don't have any mad kids
+Fuck
+Um
+Okay, okay, okay
+Please, please tell me there's a mad kid
+But I don't know, but there's a shiny
+Nice
+We love shinies in here
+Let's go
+Let's go, let's go, let's go
+Let's go, let's go
+Okay, okay, I can do this
+I hope they have a mad kid
+I'm like mad kid
+I need a mad
+Hello
+Oh fuck
+Any mad kids in here, please tell me there's a mad kid
+I need a mad kid
+I need a mad kid
+Any mad kids in here, please tell me there's a mad kid
+This looks like an office
+Is this where G-sound works?
+Is this where you work?
+Why are you...
+Why are you shooting me?
+What the fuck?
+G-sound hates me
+G-sound is trying to kill me
+It's fucking over
+Oh no
+I thought you loved me
+You said you loved me
+Why are you shooting at me?
+I'm fucking asshole
+I'm in the cubicle
+Why are you shooting me?
+What the fuck is your problem?
+I thought you loved me
+Snow Bear is fucking lying to me
+It's all a ploy
+To get me to come to their office
+So they can fucking shoot me
+And kill me when I enter the office
+It was all a ploy
+You don't love me
+Fuck you
+Fuck you
+Fucking dare you shoot at me bitch
+Fuck off
+You have a fucking shotgun too
+Fuck off
+Fuck off
+Where is this fucking bitch
+It hurts
+Fuck off
+Is it all of them?
+Please tell me it's all of them
+Please tell me it's all of them
+That's right
+There's always a way to jerk off
+You're just not committed enough
+You're just not committed enough
+There's always a way to jerk off
+You're just not committed
+More shiny
+Nice
+What's in the trash?
+Anything interesting?
+No? Okay
+Let's see
+Okay
+The Snow Berry isn't trying hard enough
+Yeah
+You should try hard
+Yay
+Come on
+I need you
+Wait
+Wait
+Nice
+Yay I did it
+Fuck I need one of the med kits
+There's so many of them
+Fuck off with the shotgun
+And give me the med kit
+Thank you very much
+Nice
+Any more shinies in here
+I see at our work trying to liberate us
+From R 9 to 5
+Okay, real
+Okay, real
+I'm rescuing Ojisan
+I'm rescuing Ojisan from his boring
+Office job
+You're welcome
+Who else would do this for you
+Who else would do this for you
+That's right, nobody
+Nobody but me
+That's why you love me
+Because I'm so good to you
+No, I don't know what that means
+But okay
+Okay
+I need to go here
+Can I go here?
+Okay
+Yay
+Now I put this one down
+See, you know
+I know what I'm doing
+Because I'm smart
+Smart baby
+You didn't call I see at work
+So she went to your office
+Oh my god
+Yeah, that's what just happened
+That's what just happened
+Are you sick?
+I see, luckily no
+I just constantly have this
+Fucking way throat
+That's so fucking annoying
+I literally want to fucking die
+I don't know when I drink water it happens
+I'm probably fucking dying
+I'm sorry
+It's been fun
+It's been fun Ojisan
+But it's time for me to
+Fucking die
+Don't tell me what to do
+Why are you not the one jumping
+Are you, shut up
+Because we'll die with I see
+I don't know
+I don't know if Ojisans are this committed
+Commit
+Committed that they would die with me
+No, they literally fucking die
+Literally as I say that
+Literally as I say that I fucking die
+What the fuck
+Emi is correct
+Oh wow, really
+I didn't know
+Ojisan is that dedicated
+Okay, try to
+I knew the moisture was cursed
+Yeah, it's been fun
+Thank you for all the love you
+Why am I like this
+Like this is really easy
+Like this is really fucking easy
+Why am I playing so badly
+You know what, it's your fault
+You know what Ojisan, this is your fault
+I'm playing so bad
+It's because you keep distracting me
+I'm actually a really good gamer
+But you're just distracting me right now
+That's on you
+Stop distracting me
+You're making me look bad
+Don't
+Now we can do that
+Come on, come on
+Focus
+Focus
+Focus
+Okay, okay, we're doing good
+Yeah, yeah, yeah
+Okay, I guess
+I am going now
+Why do I go now
+I assume here, right?
+Okay, okay
+I'm doing good
+Why am I supposed to go then
+I thought that's where I'm supposed to go
+I was so sure that's where I'm supposed to
+Fucking go, what the fuck
+It's so fucking over
+I think you're supposed to jump
+Back to the rope thingy
+I'll try that
+I'll try that
+Okay, okay
+Okay, let's do this again
+Okay, I go here
+Okay, wait, wait, wait, wait
+I don't trust this
+Now
+Now I go here
+Okay, okay, okay
+I love listening to icy rage
+I'm so sorry for your ear-seeing me
+Okay, okay
+Now we're doing it
+Look at me now
+Oh fuck
+Oh shit, I almost fell again
+I almost
+That scared the shit out of me
+That fucking jump scared me
+I don't know why that jump scared me so much
+I really don't know
+Fuck
+Oh fuck, oh fuck
+Think fast
+Think fast
+Think fast
+Come on
+Come on, think fast
+Oh god
+Okay
+Okay
+We did this
+We're alive and well
+I like the music
+Oh fuck
+I thought I could walk around and relax
+And then these guys show up
+Please, I just want to take a sit
+And fucking relax
+Fuck off
+Let me enjoy the music
+Blablabla
+Oh god
+Stop ruining the music for me
+Stop yelling
+Fuck off
+I'm trying to enjoy the art
+In this place
+And you're really really
+Really distracting
+Can you open this
+What's in here
+No
+I don't see it
+I'm stupid
+Can I click this
+I can
+Okay
+Thanks
+Okay
+It's a big ball
+We're balling
+I love ball
+Why can't I use it
+It looks like I could move it
+Oh
+Okay
+Nice
+I'm protected by the ball
+I'm balling
+I'm balling
+More balls in this game
+Yeah, there's so many balls in this game
+I think that's fair
+Ball is life
+I agree with you Amy
+I've never heard
+I have more true statement in my life
+Stop
+Fuck you
+Fuck off
+I'm in the gun
+Okay, I guess I have to take the shotgun
+Let me see shotguns
+I'm going to use the med kit
+I don't want to die
+Okay, okay, let's go
+And then
+Look what happens
+Okay
+Now
+Nice
+Look at me go
+I'm so
+Fucking stop
+Fucking asshole
+Let me jump
+Come on
+Ow
+Please
+At least I can one shot them with the shotgun
+That's pretty nice
+I like that
+I think
+I feel like you could have done that
+Much easier with just a bullet
+But that was good, okay true
+You're not wrong
+You are not wrong
+I didn't even think of that
+But I think that's what the game wants you to do
+I
+I swear every time
+Look at me
+Go
+Bang bang bang, okay literally though
+I notice that too every time I'm like
+Proud of myself or something that I do in the game
+And I'm like look at me
+I get like fucking shot at
+I think it's a sign
+It's a sign guys
+It's a sign that I should not be proud of
+Anything that I do
+Okay and
+Okay and
+Okay and
+Give me everything you've got bitch
+In this case
+One of your crusaders
+Some have even said
+Warmonger was one of your king Arthur's knights
+I do not know
+How the fool came by it
+For it is clearly far older
+Than the 11th century
+Oh god is this a boss fight
+Oh god this is gonna be so fucking bad
+I am not
+Looking forward to it
+Oh god
+Oh fuck
+What the fuck
+It's so over
+It's so fucking over for me
+Oh fuck
+Oh
+Oh please
+Man fuck you
+Please
+Oh no
+I barely
+I fucking barely damaged him
+Wow
+This is gonna take a fucking
+Please leave me alone
+Please
+Hello
+My brain
+Please die
+Please die
+Please
+We are half way
+We are half way
+Oh god
+More medkits please
+More medkits please
+I am begging
+Please I am begging
+Please
+Come on
+Come on
+I am so close
+I am so close
+I am so close
+Come on
+Please I am begging
+Please let me kill you
+Come on
+Yes
+Oh ok
+Ok I did this
+Oh my god
+I was so scared
+I was so scared I have to fucking do it all over again
+Oh god
+I was so scared
+I have to do this fight for like
+10 fucking hours
+Look at you being a gamer
+I know right
+I am so scared
+Why am I acting like I am fucking Santa or something
+I guess
+Continue
+Ok ok
+Oh fuck
+Oh Jason shell fly you there
+Wow thank you so much
+You are so kind to me
+Flying me everywhere
+Thank you
+I appreciate
+It's so pretty here
+It's like I can almost
+I can almost breathe the fresh air from here
+Wow look how beautiful
+Wow
+Look at
+If anyone else fails
+I can get into the postcard business
+Yeah I don't think I am doing postcards
+But that's not the business
+You will see
+Oh it smells stinky bruh
+I am not stinky
+Shut up
+I just wanna press face
+No
+I wanted to do a swan dive
+No
+I wanted to do a beautiful swan dive
+From our G songs
+No
+It's said to jump and press F
+That's literally what I am doing
+Come on
+I wanna show off
+I wanna show
+Jason my beautiful swan dive
+Come on
+It's over
+I am a fucking
+I am a failure I get swan dive
+It's ok we are still proud of you
+Really
+But I wanted to show off
+Something amazing
+I wanted you to go
+Wow
+But now you are like
+Man this bitch can even swan dive
+Shit sucks
+Can't even impress my G songs
+Because I can't swan dive
+Gotta be high up
+How high up do I need to be
+To do the swan dive
+How high do I need to be
+Let me try again
+Sorry I just really wanna do it
+I think swan dive looks cool
+Space jump
+Swing
+I don't wanna do it
+I think swan dive looks cool
+Space jump
+No
+Let me swan dive
+I wanna be a beautiful swan
+For G song
+No
+Come on
+You already
+Dive straight into our hearts
+I see
+Aww
+That's really sweet
+My last try
+My last try
+My last try
+I did it
+Yay
+Look at G song
+I learned how to swan dive for you
+Are you proud of me
+Yay
+I can swan dive
+And look extra cool for you
+Look at me
+Wow
+I'm so happy
+No
+Why did I fall
+Great job
+Thank you
+I like to make my data proud
+I wanna be the best baby that I can be
+For data
+Press E
+Hold E
+And press movement
+What is the goal here
+I'm trying to go
+I'm trying to go down
+What am I doing
+I didn't know what I'm doing
+Sorry
+I'm dumb
+This
+Yeah, that is best
+Yay
+I'm glad you're here
+That makes me happy
+I tried to
+Look so pretty
+I really like this level
+It looks really pretty
+Oh no, not this guy again
+Please fuck off
+It's bitch
+Oh no, not this guy again
+Please fuck off
+It's bitch
+Oh no
+No
+No
+No
+Don't say that
+Don't say that
+Don't say that
+Don't say that
+Don't say that
+Don't
+Don't say that
+I'm not dumb, you're just a baby
+Yeah, I'm a dumb baby
+Oops
+Ah, okay
+I'll do this
+I mean, some of my OGsans
+would be considered pretty ancient artifacts
+So, OGsans
+You're my artifact
+You're my
+Lovely artifact
+That's why I love you so much
+I'm sorry
+I'm sorry
+I love you
+I didn't mean that
+I didn't mean that
+I love you, GSan
+I love you
+I was just joking
+I love you
+I love you
+I was just joking
+I didn't mean that
+How do I
+How do I crouch?
+Oh fuck
+How do I
+I don't remember how to crouch
+Will you take care of your ancient artifact?
+Of course
+Of course I would
+You gotta take good care of artifacts
+To keep them all good and nice
+You know
+I forgot how to crouch
+I wanna check
+Shall we?
+I have a pretty bad memory
+F
+Okay
+F
+Nice
+How do I
+How do I open this
+I'm probably gonna have to do something
+Aren't I?
+I need to be really fast
+Okay
+I'm definitely not
+Okay
+Okay I did it
+Fuck
+Ow
+Ow
+Oh god, I almost got exploded
+Stop it
+Okay, where's the rest of them?
+Somewhere
+Will you polish your artifacts
+Often I see?
+Of course
+Of course I will
+Can I keep you all nice and happy?
+I'll make sure my artifact stays nice
+Can I go here?
+Andy is trying to shoot you
+Okay, real
+How the fuck do I get up there
+Fuck, I'm stupid
+I don't know how to fucking get up there
+Oh, it's so over
+It's so over
+Oh, maybe like this
+Yeah, okay
+That works
+Yeah, die, die
+Nice
+Shiny
+Oh
+Ow
+I'm almost gonna fucking die again
+Oh no, no, no, no
+Fuck off
+Fuck off
+Okay, give me the gun
+Give me the gun, I want new guns
+Where's the other gun?
+Give me, give me, give me, give me
+Will my value increase with my age?
+Well, some men
+Age like fine wine
+So
+Your value could increase
+As you age
+If we're thinking that way
+Right?
+Why is this too far?
+I guess I go from here
+Okay
+That's so men age like milk
+No, not my
+Not my mistress
+All my mistress
+Age like fine wine
+The love you have for me
+The love you have for me
+Is what is gonna
+Make you age like fine wine
+So you're welcome
+I need a gun in the spot
+I need a gun in the spot
+Okay, I'm fucking stupid
+Wait, maybe I'm not
+Maybe this is the right way
+Wait, maybe I'm not stupid
+I'm spinning for like 10 fucking years
+It's all thanks to the icing aid
+Yeah, that's true
+That helps as well
+So make sure to drink lots of
+To stay nice and
+Fresh
+Fuck!
+Go on!
+Jesus Christ
+icing aid is our life
+Elixir
+Yes, I am
+That's true
+Okay
+I'll have to get these traps
+Moving to pass through
+Only you think of it that way
+I don't like it
+I don't care, shut up
+Oh
+I need to adjust myself
+Any adjusters?
+No
+No, no
+No, I don't want to do this again
+No, no, that was so bad
+That was so bad
+No, no, I have to do it again
+No, I was doing so good
+Fuck, now I have to do shit again
+Oh my fucking god
+I was doing so good
+I was like on a roll
+Just doing all the jumps perfectly
+And then I fuck up
+Okay
+Okay, gotta focus
+Gotta focus
+You can't distract me a decent
+I have to focus
+This is very important, okay
+Gonna have to wait
+Okay, I'm fucking terrified
+But do I assume that I need to
+Use the rope anyways
+Right
+Cause I need to go this way, I think
+Adjust
+When people ask us
+When people ask us
+What the secret of our youth is
+We're gonna have a hard time answering this
+So we'll just need to work questions
+Okay, that's very true
+That is very true
+No, no, no, please
+Please, no
+I almost fucking fell again, please
+One
+Okay
+I got a checkpoint
+Yay
+I got a checkpoint
+All is good
+I won't have to do that
+Jump all over again
+Nice
+Okay, I guess that's the way to go
+Up, up, up, up, up
+Upies
+Upies, upies
+Up, up, up, up, up
+Upies
+Upies for a little icy
+Yay
+I would love that
+That would be so cute
+Uh
+Let me see
+Oh god, he's right there
+Fuck
+No, no, no, no
+No hunting
+No hunting, I'm the hunter
+I'm the hunter here
+Oh god
+I'm gonna have to think
+I don't like thinking
+I don't like thinking
+I want Mr. to do all the thinking
+for me
+Can I do that for me, please?
+Oh, shiny
+Nice
+Wait
+Okay, let's see
+Let's see where this
+takes us
+Oh, nice
+Okay
+Look at me go
+Let me connect
+my one brain cell for you, IC
+Thank you
+If itch.org
+connects one of his brain cells
+I'll have so many
+So thank you
+I appreciate
+Is there anything like
+in here?
+No
+I
+Assume
+Okay, well I guess
+what I assumed was fucking wrong
+I thought I can like
+jump
+But I guess I thought wrong
+What the fuck though?
+Where am I supposed to go?
+Like it really looks to me
+like that's where you're supposed to go
+Oh wait
+Maybe I can jump here
+Oh wait
+How do I jump down?
+Please
+Wow
+Good stream
+Oh
+Look I found a shiny
+Okay
+That was a good
+That was like a good reason to fall
+Nice
+Oh
+Ooh there's a thing
+I can like
+Who's here?
+Fuck
+Is there anything
+I wonder if there's anything
+in here
+Can I do anything?
+Over here
+I
+Hmm
+Ooh
+Okay
+Okay
+Can I just like
+try to
+Fuck
+Oh no
+It's getting difficult
+It's getting too difficult
+for my small brain
+It's getting too difficult
+for my small brain
+Where the fuck am I supposed to go now?
+I don't know where to go now
+Oh no
+It's so over
+I don't know where to go
+No
+Please come on
+Just just jump back
+Just jump back
+Look for other pillars
+where the mats will cover
+But I don't see any
+I don't see any
+I'm stupid
+I'm stupid
+I don't know where to go
+I ruined it
+I don't know where to go
+I don't know
+where to go
+Jesus
+I'm gonna be stuck here forever
+and die
+I'm just gonna die in this fucking tomb
+I need help
+Jesus
+Hmm
+Okay
+Okay well I got here please
+I was here already before I think
+Quick center rescue operation
+Yeah I really need that
+You're right back I see I believe you'll clear this
+By the time I'm back you can do it
+I don't know about that
+But I'm glad you believe in me this much
+Thank you
+Oh fuck I fucked it up
+Well
+Yeah
+Damn I'm doing so bad today
+Where's my Jesus
+Rescue team
+Oh my fucking god
+Please
+Wait I'm begging
+I see half faith in yourself
+But I don't
+But I don't
+It's fucking camera angle
+Stop
+Do I need to wait for it to go all the way back up
+Yep I think so
+Man I hate this
+Okay can I jump now please
+Okay gotta go fast
+Come on
+Please
+Please
+Get me out of here I'm begging
+Oh my god
+Come on
+Come on come on come on come on come on come on
+Oh I'm at checkpoint
+Nice
+Bitch what are you doing
+Get up
+What are you fucking doing
+Okay okay now we're
+Back up here
+This is where I fell from
+This is where I fell from
+Please
+Control doesn't make me jump
+Down
+I did not mean to click that
+Please
+Okay f is what I need
+Wait what
+That doesn't make sense though
+Did I go like this
+Like this
+I guess
+Down here
+Right here
+And then
+Up here
+I'm over here
+Okay we're actually making progress
+That's nice
+That's nice I'm making progress
+I
+I guess I need to be fast
+Or something
+I'm not sure what
+What I'm supposed to be doing here
+Please no
+No just
+Just kill me
+Just kill me
+I am not doing that
+Fucking jump again
+I refuse I am not doing that
+Fucking jump again
+Please kill me
+I am not doing that jump again
+What the fuck
+Wait what's here
+Wait is this
+Is this where I came
+Yup that's where I came from
+Fuck
+What the fuck
+This is so fucking annoying
+You know what
+Fuck this
+You know what
+What do you mean Japan
+I had
+What do you mean Japan
+I had a checkpoint
+Where is my checkpoint
+Of
+Where I am now
+What does it say Japan
+What the fuck
+I can't load the checkpoint
+It's over
+It's over
+Oh god
+I don't want to do this
+I'm gonna fucking
+KMS on purpose
+So that it loads me where the fucking checkpoint is
+Come on kill me
+Come on
+Just fucking kill me please
+Please
+Come on just
+Please
+Let's fucking die
+Maybe if you die yeah that's why I'm trying to KMS right now
+In Tomb Raider
+Okay let's go somewhere up high
+And then like jump
+From it
+Okay
+No
+No
+What
+Bro you fucking kidding me
+Why
+Why are you
+They over rolled the checkpoint
+And now I have to do this shit again
+What the fuck
+Game
+Fuck you
+Fucking assholes
+What the fuck
+I can't believe
+Why would you do this
+I need you to move
+Please
+I'm this close
+I'm this close to fucking rage quitting right now
+I'm so close to reach quitting
+You don't even understand
+You don't even understand
+You don't even understand
+How close I am right now to
+To fucking rage quitting
+Pass the controller
+I wish
+Honestly I wish
+I'll make it so much easier
+Yeah you
+Oh do you send play this part for me so bad
+I don't have to rage
+I'll deaf for incul
+You're doing this
+You're doing so good though
+I'm not
+I'm so bad at this level
+I don't know what the fuck I'm doing
+I can't do this
+I don't know if I believe anymore
+You're fucking kidding me
+Please
+Come on
+Let me die
+Let me die
+Come on
+Please
+I just want to die
+Why is that so much to ask for
+Intume rage
+Why is that so much to ask for
+Come on
+Come on
+I can't even die properly
+I can't even fucking die properly
+What the fuck
+I hate this shit
+I can't even fucking die properly
+Okay
+Let's do this
+Please I'm so close to death
+Please
+Come on
+Let me die
+Come on
+Okay
+Much better
+Let's fucking go
+Let's fucking go
+Okay
+Where the fuck do I go
+It doesn't let me move
+Where the fuck do I go now
+Do I go here
+I think so
+Is this really where I
+No
+No
+No
+No
+Please
+Please I'm just trying to have a good time
+And instead of fucking suffering
+Worst stream
+I hate how much I've enjoyed this
+What is your problem
+How can you do this to me
+You don't love me
+You hate me
+You just want me to suffer forever
+Oh Jesus
+I hate me
+Please
+Please
+Let me get more comfy
+Let me get more comfy
+Let me get more comfy
+I love you guys
+But this is funny
+Yeah
+For you
+Glad you're enjoying my pain
+Glad you're enjoying see me
+Go mentally
+Fucking insane from this fucking game
+I
+I'm so close to quitting right now
+I'm so close to quitting right now
+I'm not fucking kidding
+I am not joking
+I am so close to quitting the game right now
+It's
+I don't think you understand
+How
+How bad this is right now
+I
+I see rage as a blessing
+No it's not
+It is not a blessing
+It's a curse
+Okay
+No
+Please
+Please just let me have this
+Now I need to wait for this fucking thing
+To go all the way up
+Like on top of everything
+I need to wait for this to go up
+Jesus Christ
+I hate this level
+You know how I said in the beginning
+Oh I love this level
+It's so beautiful
+I fucking hate this fucking level
+Fuck off
+I'm waiting for this to turn to a yapp stream
+This is no longer a yapp stream
+This is a fucking rage stream
+At this point
+It's a fucking rage stream
+God fucking damn it
+I'm so scared
+To even fucking jump anywhere right now
+I'll be honest with you
+I don't even want to jump
+Anywhere right now
+Cause you know why
+It's gonna fucking fall again
+For like the billionth fucking time
+And it's gonna be fucking terrible
+Wait
+Wait
+There's a shiny
+I'm so scared
+I'm so scared
+I'm scared
+Like do I jump here
+Or no
+Like I don't jump here
+Right
+Wait
+I go here
+And then I go up here
+And then
+I go
+I'm going
+I'm gonna fucking strangle someone
+I'm gonna fucking strangle someone
+I swear to fucking god
+Fuck
+Don't you love this game so much
+Shut up
+Shut up
+Don't
+Don't tell me that
+Don't tell me those things
+I don't think I am
+You should be very careful of me right now
+You should be very careful
+With your words right now G-san
+I'm
+I'm in the very big rage right now
+I will use my claws
+Fuck
+Okay
+I don't think this is the right way
+Go here
+I want to see Dark Souls
+No fuck that
+No
+I'm good
+How do you want me to play Dark Souls
+When you see how bad I am
+At this game
+How are you gonna tell me
+How are you gonna tell me to play Dark Souls
+When you see how fucking bad I am
+At this fucking game
+That's just going to be like
+A whole another level of rage
+I'm gonna like jump out the window
+From how much rage I'm gonna feel
+And Elden Ring DDLC
+No cause I'm still gonna rage
+I'm gonna suck at that
+I'm gonna suck at that game
+I'm gonna fucking die the whole stream
+Why would you want to see that
+That's the content
+I mean
+You're getting it right now with this game
+I don't think it's very fun to watch
+When it keeps like repeating
+For like a hundred fucking times
+Come on
+Come on bitch please
+I'm okay
+Okay fuck this
+I'm not gonna do anything with it right now
+I'm just gonna do this
+I would be very proud if you beat Dark Souls
+Well I guess I'm a disappointment
+Because it's gonna happen
+Oh my fucking god
+Please
+I'm already dying here
+Here
+Please
+Sorry I wanted to make it look nice
+I am not going here right
+Like
+Or am I
+Am I supposed to go here or not
+I'm not sure and I'm too fucking terrified
+I see can you save right now
+Let me see
+Not the shooting
+Yeah okay that's good
+I can save here then
+I guess let's try and see where this takes us
+I
+Is this where I was already
+I'm fucking loading
+I'm fucking loading
+I'm not doing this shit again
+I'm dealing with that fucking thing again
+For like the billions time
+I'm sorry
+Okay
+At least now we know that this is not
+Where I'm supposed to go
+Okay I guess I'm supposed to go here then
+Then go here I guess
+I
+But I need something here
+Fuck
+I need something here
+Where am I gonna get it from
+Wait we can save and load anywhere
+I guess so
+I guess we can
+I guess so
+I'm sorry I see but this is big content
+Plus adorable
+You know it's really pain
+When I'm sitting here and I'm like
+Going insane from raging
+And you go and tell me
+That this is big content
+Out of all content I make
+This is the big content
+Big content
+I am fucking dying
+God I wish I could move it
+Fuck
+How the fuck am I supposed to
+Like get here a thing
+Where am I supposed to get that shit from
+I should
+Oh wait
+I need to do it fast
+Oh
+Okay
+Never mind I just need it to be quick
+About it okay
+Fuck this stupid
+Real AGsons
+No DGIC is big content
+You know I agree
+I agree with you
+I think so too
+I have so much fun
+In the DJ streams
+But
+With that being said I did have a lot of fun
+In yesterday's ASMR stream
+As well so
+So I will say that
+But that's because you make it very fun for me
+Where do I go now
+I didn't see what it actually fucking did
+Dude distracting reading
+What you're saying to me
+I don't even know what it fucking did
+Help
+What did moving this thing do
+Did anyone see
+Cause I didn't see
+I was too busy reading what you're saying
+ASMR baby
+I see is my favorite
+I'm not surprised
+Well I would say
+Okay you know what you're right
+You are very right
+I don't know why I didn't think of that
+I should say that's very fucking true
+Very good at the points
+I think it added a lot of fun
+It's
+I think it added
+Water somewhere
+Okay should I jump
+I guess it added water here
+I don't think this had water before
+Right
+Yeah this definitely did not have water
+Was this supposed to be here
+Or is the current too strong
+I can't tell
+Okay is there anything here
+Am I doing here anything
+Nope nothing here
+I
+The middle behind you
+Oh no
+What's behind me
+Is it you
+Are you behind me
+Fuck
+Fuck
+Is there anything in here
+That I can do
+Wait can I go
+Wait can I go
+I'm here hold on
+Or is it just like the same fucking thing
+That's literally the same place
+That I was at I think
+This does anything
+The pillar is
+Yeah I see the glowing pillar
+But like I don't know what
+The fucking like deal with it
+Cause I'm really fucking stupid
+Can you use the grapple on it
+I can only use the grapple
+On like the thing
+That you can stand on
+I can only grapple
+On this thing to like move myself with
+The thing
+Man I hate this level
+This fucking level so much
+Uh
+Okay
+Fuck what
+What do I fucking do here
+Go straight
+Like straight from here
+Do you want me to go like in here
+Is that what you mean
+Or do you want me to go somewhere else
+I know what I mean
+Why do you say go straight
+Do you mean like here
+Like straight from here
+I feel so fucking stupid
+I want to like bury myself
+From embarrassed man
+There is a small cave behind you
+Here
+Wait what cave
+I'm blind
+Where is the cave
+I don't see a cave
+Are you talking about this thing
+Or something else
+I'm sorry
+I'm really stupid
+And I'm bad with directions
+And I'm bad with thinking
+Why do I
+Why do I
+Someone told me there is a cave
+But I don't see any cave
+Being all of this thing
+Is just so cute
+Does it
+Are you talking about this
+Or are you talking about
+Something different
+Wait are you talking about this
+What are you talking about
+Am I supposed to go down
+Am I supposed to go down
+I know
+Am I going the wrong way
+Is it over
+I'm scared
+I'm scared
+I know where to go
+Ah
+Ah
+Okay
+Yay
+We made progress
+Okay now I need to go back up there
+Right
+Thank you
+Thank you for helping me
+Thank you for helping me
+I appreciate it
+Thank you for helping me mister
+I think I need to go here again
+Maybe save
+Okay you know what
+You're right
+You're right
+I should save
+Okay
+Very good idea
+I wish I could head pet I see
+Me too I would buff some head pets
+After this rage inducing
+Fucking level
+Oh god
+Ow
+Ow
+I know
+I'll have to stop
+Wow
+Come on
+Yay
+La la la la la la
+La la la la la
+No
+Oh no I'm almost dead
+And I have no math chance
+Oh god
+Ooh
+Ooh
+Wait
+Am I supposed to like take it with me
+Wait can I even take it all the way up
+Oh god
+Oh it's so over
+I'm gonna fucking die here
+Can I carry with me
+Living life on a prayer
+Exactly
+Well
+Okay I can't
+So I guess I just need to be fast
+But I'm gonna die here
+It's fucking over
+It's okay
+It's okay it's okay we can do this
+We can do this
+Watch watch watch watch
+I can do this
+Okay okay
+We can do this
+Shut up
+Shut up I know what I'm doing
+I am smart baby
+I know what I'm doing
+Ooh go away
+Ooh
+Come on come on come on
+La la la la la
+Okay
+Now
+Now I'll be able to do this
+Okay
+Nice I made it
+Nice nice nice
+Haha
+Woohoo
+Yay
+Woo
+Genius bear gotta make this look easy now
+Oh my god
+Are you fucking serious
+Bear is gonna make it look easy now
+Fucking instantly dies
+Thanks thanks for jinxing me
+Thanks for jinxing me what the fuck
+Oh my god
+Oh no no no
+Big balls run
+No
+Balls
+Balls
+Please
+Please get me out of this hell
+Please
+Please get me out of this level
+Please
+Please I'm back
+Get me out of this level
+Oh my fucking god
+This is the worst fucking level
+I had to experience in this fucking game
+Yeah I hear big balls running after me
+Okay
+Literally
+Okay and I'm about to fucking die
+Please
+Please
+Please please please
+Oh thank god
+Okay
+Okay I'm okay
+We made it
+How can you say that after what just fucking happened
+What is your fucking problem
+Oh god that rock almost fucking hit me in the head
+I almost died there
+Or had like permanent brain damage
+That's my cop proud of you
+Thank you
+I'm glad you're proud of me
+I like to make that up proud
+But I know that doesn't happen often
+I don't like this to me
+Is this where I'm gonna go
+I
+I see save okay true
+So true of you son
+We're always proud of our little cop
+Thank you
+That's very kind of you
+You know I didn't do anything
+Don't be proud of me
+But thank you
+Are you there Alistair
+Nice
+Oh
+Okay I need to go here
+Bro if I could guess
+I can't
+Okay
+Okay here we go again
+This time for sure
+Please please
+Oh
+Uh
+Uh
+Uh
+Jump
+A little brain damage never hurt anybody
+I mean from that thing
+I think I would get a bit more
+Than just a little bit of brain damage
+I think I would get like
+A lot of brain damage
+Move you dumb bitch
+Move
+Okay
+I can't
+Why live
+Why live
+Just just
+Just fucking kill me
+Please please
+Just let this level be over
+Please I'm begging
+Ah
+Hello
+What the fuck
+This bitch wants
+Move
+Fucking move
+Fucking
+Go left
+Go left
+Okay I'll try that
+I'll try that
+I'm sorry okay
+I don't know
+Okay
+Me when data tells me
+Where to actually go
+Oh my god
+Huh
+This shouldn't be here
+Oh
+Dearest Amelia
+Is that a turtle?
+It looks like a turtle
+It was a mouse
+That turtle
+Zip
+Can you hear me
+Where are you
+Okay
+Where are you
+Um
+I'm gonna turn the light on in here
+Guess clearly
+I don't know where the fuck to go
+Weeee
+Weeee
+Weeee
+Okay nice
+Okay
+I'm supposed to move this
+Uh
+Fuck off
+Fuck you
+Ow
+No he had a mad kid
+No I could have taken that
+But it fell
+Uh
+Why am I here again
+Um
+Okay
+Okay
+Weeee
+Nice fresh water
+Programming IC doesn't need a mad kid
+Uh
+Yeah sure
+Totally
+I'm so good at this
+I totally do not need help
+From my data
+This whole fucking time
+Hahaha
+Please
+I'm losing it
+Are you winning
+No
+Doesn't look like I'm winning
+Cause I'm not
+So far
+I was definitely not
+Winning
+Um
+Die
+Ow
+Ow
+Ow
+Ow
+Ow
+Ow
+Ow
+Ow
+Ow
+Ah fuck
+Ah fuck
+Uhhhh
+How do I get there
+Do I get on one of these strings?
+Nooooo
+So anyways
+Um
+As I was saying I love this game
+It's
+It's one of my
+Big favorites
+It's
+It's so good
+I love it so much
+It's like
+I just have
+A blast
+Playing it
+Oh my god
+Is it cheap
+Okay
+So I don't know there
+I guess I go here
+Oh
+Okay
+I guess I need to use that rope
+Ah come on
+Just die
+Just die please
+How do I do
+Ow
+How do I do the things I can aim at them
+I don't remember
+I don't remember
+Please please let me jump
+Let me jump
+Please die
+Okay
+One more
+I mean two more
+But okay
+Okay okay
+Uhhhh
+Wow
+Today's stream has been like
+So fun
+I enjoyed every moment of it
+It was
+It was the best
+Stream
+I've had so far
+Um
+I'm just so happy
+Okay let's try this again
+Oh my fucking god
+Okay
+Okay
+I'm used to it
+Where's the weapon
+Give me the weapon
+Give me the weapon
+And
+My nose
+Die
+Um
+Should we take a small break
+No no no no no
+I'm not taking a break
+I will finish the stream
+When I finish this level
+And then
+And then
+What the fuck did he just shoot himself
+Did you see that
+Oh my god
+Gord just fucking
+Died
+Okay
+Okay
+Okay
+No die die die die
+Die die die die die
+Okay let me switch the weapon
+Ow
+Leave me alone
+Leave me alone
+Meow
+Meow
+Please
+I just want to slow the fucking head
+I'm begging
+Please
+I'm trying so hard to stay strong
+Oh god not the fucking balls again
+All these balls trying to fucking kill me
+Every fucking thing is just
+Trying to kill me at this point
+What is what the fuck
+Please no more no
+Leave me alone
+I don't even want to deal with you
+I don't even want to deal with you
+Please leave me alone please
+Let me jump up please
+Please
+Fuck bitch
+Please
+Please no more balls
+Please
+Goddamn
+Oh fuck oh fuck oh fuck
+Oh
+Okay
+I did it in time
+Thank fucking goodness
+The ball is too powerful
+Okay literally
+Okay now
+Now I can go here
+What's this
+Can I do anything with this
+Oh
+Oh
+Okay
+Save okay you know what
+You're very right
+I should save
+No
+I came from OGsons
+Oh you know
+No I don't know
+It's the size of a fist
+And according to Amanda's research
+It's here
+What do you know about Amanda
+Where is she
+So your father did some
+Why are you touching the question
+Amanda thought maybe
+He found the key
+I don't know what you're talking about
+Tell me about that sword fragment
+You're so fond of waving it
+Oh my god it's a dildo
+It's a magical dildo
+Like what
+How deep you can show it in your ass
+Oh
+Fuck you
+Go away
+Go away
+Bet you wish you could do that
+Bet you wish you could do that
+Fuck you
+Come on
+No I don't
+I don't
+Give me a long bitch
+Please
+Ready for this
+Ready for this
+Fine
+Ready for this
+Bet you wish you could do that
+Bet you wish you could do that
+Bet you wish you could
+Shut up
+Bitch
+Fuck
+Bet you wish you could do that
+Yeah
+Watch and learn
+Watch
+Watch
+Bet you wish you could do that
+Bet
+Ready for this
+Ready to fuck
+Bet you wish you could do that
+Wow
+How do I
+Fuck off
+Get out of my fucking way bitch
+Bet you wish you could do that
+Bro
+Leave me the fuck alone
+Why can't I use this fucking thing
+Why can't I use this fucking thing
+No I don't
+You know I don't wish I could do that
+No
+Can you leave me alone please
+I don't care
+Just leave me the fuck alone
+Fuck off
+Fuck off
+Fuck off
+No I don't
+Bet you wish you could do that
+Fuck you bitch
+I'm gonna go insane
+Fucking asshole
+Fuck off get out of my way
+You dumb mother fucker
+Fuck off no you know what
+I don't wanna watch
+Get out of my way mother fucker
+No I don't
+Shut the fuck up
+Dumb mother fucker
+I'm gonna kill you just watch
+Wish you wish you could do that
+Fuck off
+Fucking mother fuck
+Fuck off
+Watch
+Bet you wish you could do that
+Bet you wish you could do that
+Oh my
+No
+I don't fucking care
+Please please die
+Please
+I brought all these fucking things
+What else am I supposed
+He keeps healing himself
+He keeps healing himself
+I need to do something else
+But I don't know what
+Like I'm supposed to do something with this
+But I don't know what
+Do I need to use like a grenade or something
+Ready to face
+You have to shoot them from under him
+When he's on them
+I know
+But
+No
+I don't
+How do I shoot these things
+How do I shoot these things
+Like it doesn't do anything
+How do I use accurate aim
+How do I use accurate aim
+I don't remember
+Fucking die
+Fine
+We'll do your way
+I can't grapple them
+It doesn't let me grapple
+How do I do aim
+How do I
+I mean
+I might as well fucking die this time
+I don't want
+Please
+I'm fucking going insane
+I'm losing it
+I'm losing it
+Oh my fucking god
+Okay
+Where's the accurate aim
+Shit
+You wish you could do that
+Where's manual aim Z
+I mean it doesn't do anything
+What
+What the fuck am I supposed to do here
+Boys I don't think she's ready
+For this watch
+I can't grapple it
+It doesn't let me
+It doesn't let me grapple it
+Oh wait
+Wait
+Yo
+It didn't let me
+It didn't let me until now
+Please shut up
+Don't motherfucker come on
+Grapple grapple grapple
+Grapple a fucking thing bitch
+Grapple
+Come on bitch come on
+Come on
+No I shut the fuck up bitch
+Come on
+Come on grapple grapple a fucking thing
+You fucking
+You fucking bitch come on
+Please I'm begging you
+Just grapple a fucking thing
+Please
+Come on one more one more
+One more come on
+We can do this
+Come on we can do this
+Maybe we can
+No
+Fuck off fuck off
+No fuck off let me alone let me do my thing
+Let me do my thing
+Let me just do my thing over here
+And let me the fuck alone okay
+And then I'll fight you
+Right now
+Right now I'm not in the mood to
+To fight okay I'm not in the mood
+Let me alone
+Oh wait I'm too busy
+No I don't
+Don't motherfucker fucking die
+Ready for this
+Watch
+Grapple grapple grapple
+Grapple you fucking bitch
+Grapple the fucking thing
+Oh I hate it when she doesn't grapple it
+Damn bitch
+I don't have all day
+I don't have all day
+To fucking grapple this shit
+I'm gonna go like
+Completely fucking insane
+Come on grapple
+Grapple grapple
+Grapple
+Whoa whoa
+Bye
+Bye
+No I'm not
+Clearly clearly
+I was not ready for this
+Clearly
+Wait wait
+You know what I just thought about
+Wait you know what I just thought about
+I need to use this in my sound board
+Next DJ stream
+I need to use this as one of my sound boards
+Oh my god
+That will be so fucking good
+And funny
+That will be so fucking funny
+Oh my god
+Hell fucking yes
+Hell fucking yes
+I'm definitely gonna use this as a fucking sound board
+For next
+DJ stream
+Oh it's gonna be so fucking funny
+Damn it Lara
+Damn it
+Damn the fucking grapple this
+Grapple these nuts
+Bitch you wish you could do that
+Fuck off
+Bitch you wish you could do that
+Watch this
+Grapple these nuts
+Come on
+Okay grapple grapple grapple
+Grapple grapple bitch please
+Mother fucking grapple
+You fucking bitch
+Come on come on come on come on come on
+Come on come on
+Come on come on come on
+Shut the fuck up
+No I'm not
+Fucking die come on
+Come on we can do this
+We can do this I believe
+I believe I believe I'm a pro gamer
+I'm a pro gamer
+Number one number one gamer
+Right now
+You bet you wish you could do that
+Huh well watch me
+Watch this
+Watch this
+Come on I'm so close I'm so close
+Please please
+I'm so close I'm so close
+Come on come on
+Come on come on come on
+No go away go away go away
+Come on come on
+He's so
+Yo let's fucking go
+Yes now I have the dildo to myself
+Let's fucking go
+Yo that's a big dildo
+Damn that's
+I think that's too big for me
+I think that's too big for me
+Pretty
+The crusades
+King Arthur
+Mystery
+Doesn't interest me
+Well then why don't you stay here
+Consider the future
+I imagine you're in it however
+You won't enjoy seeing me again
+Your father might not have found the Galali key
+But a man that doesn't know that
+I don't give a fuck
+You better have good insurance
+I
+My insurance is
+Could be better
+Please tell me this is the only level
+Not I
+I said
+I mean did you see that thing
+That thing was fucking enormous
+Yes
+Please um please no
+I'm good
+I'm good
+You know I'm good
+I'm good
+I'm good okay
+I
+I've had enough of this game for today
+I'm good
+Did you save
+When you get to a new level
+It automatically saves it
+Can't wait for part 3 already
+Yeah
+Can't say the same
+She wants out
+I do want to finish the game
+But this level was like
+Something else
+Just fucking insanity
+What she was ridiculous
+You did good I see
+I don't know about that but thank you
+I couldn't have done it without your help
+I couldn't have done it without your help
+You helped me so much
+Amazing today thank you
+Maybe next time it will be easy
+God I fucking hope so
+I hope it will be easier than
+Than this one
+You were not ready for this
+I literally wasn't
+I really wasn't ready for this
+But
+It will make for a really fucking funny
+Sounds in my DJ stream
+So I am definitely gonna
+Make sure to write a note
+So that I don't forget to do that
+Next DJ stream
+You will hear that shit
+You are gonna hear
+Igor
+And you are gonna hear this motherfucker as well
+You bet you wish you could do that
+You bet you wish you could do that
+It's gonna be so fucking funny
+I can't wait to do another DJ stream
+I am still trying to figure out
+When I should do it
+Cause like this Saturday
+We do like
+The karaoke
+And watch along
+So
+I wonder if maybe the Saturday
+After that
+I should do another DJ stream
+Much to think about
+Why not every weekend
+Because I'd rather not
+Not get drunk every weekend
+And when I DJ
+I need to drink at least a bit
+You know
+To get into the groove of things
+And I mean
+I'll see
+If I see that
+You really really really love my DJ streams
+I might consider doing it
+Every Saturday
+Like every weekend
+I might
+But
+I don't know
+I don't know
+We'll see
+Your stream was awesome
+Yeah, I had a blast
+Honestly
+With that being said
+After all of this chaos
+And rage
+I hope you're ready to relax
+With Strani
+I think she's doing
+SMR right now
+If I'm not wrong
+You are relaxed
+And
+Not think about
+I wish you could do that
+Every two weeks seems good
+Yeah, that's what I was thinking
+I was thinking every other week
+So that would be like
+Twice a month
+I think
+If I'm counting correctly
+Relax after laughing your asses off
+Yeah
+You just spent all your energy laughing
+And now you can just, you know, relax
+Twice a month seems fun
+Yeah, I think twice a month would be pretty good
+I am thankful
+I can't fucking talk
+I am thankful for your help
+Throughout me playing it
+Because I think
+I would have spent much more time
+Playing this fucking level
+If it wasn't for your help
+So I do
+I do appreciate it
+Very much
+What the heck
+Oh jeez that time
+What the heck
+Thank you so much for the donation
+Thank you
+Hold on, let me thank everyone
+Before I go
+Because I keep forgetting
+Data hopes
+You get yourself something nice after all that pain
+Thank you
+That's so nice of you
+I love you, thank you
+Thank you for the $50 donation
+That's really sweet of you
+I appreciate it
+Thank you so much, that's really sweet of you
+You didn't have to do that
+And
+Thank you for the $6 donation
+Sweet and awkward
+Cob is precious
+Thank you
+I'm glad you think so
+I know this is gonna probably sound really weird
+But I did have fun
+I was raging a lot
+And the game pissed me off a lot
+But sharing this experience
+With you is what was fun
+Reading what you say
+And you making me laugh
+And you helping me
+And doing all that stuff
+That was a really fun part
+For me
+So I did have fun
+Even if I was raging
+A lot
+What's tomorrow
+Tomorrow is Thursday
+I think tomorrow, if I'm not wrong
+Is the group collab
+Right
+I think so
+If I'm not wrong
+Tomorrow is supposed to be the power wash group collab
+Let me check
+Yeah, I was right
+I was right
+Tomorrow
+Power wash simulator collab
+With all of my gen mates
+I believe
+We'll all be streaming
+Our POVs
+Like each one of us
+So feel free to open all of our
+POVs if you want to
+And see what we'll do
+But yeah, tomorrow is supposed to be a really fun
+Stream day
+Gonna get to have fun with my cute
+Nice gen mates
+And have fun and be silly
+In power wash
+Again, thank you so much
+For being here
+To me all the time
+And kind to me
+I had a lot of fun with you
+I love you
+And I will see you again
+Tomorrow
+Bye bye for now
+Bye bye
+Bye bye

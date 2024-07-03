@@ -1,0 +1,2868 @@
+2.5-3.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4.5-4
+0
+0
+0
+0
+0
+0
+ឧ្៧ម្ olmak, ឫៜ៦៌៎,
+ឧៜ្៎្,
+ឧៜ្្្,
+vals
+naudible ឧៜ៎្
+ប�
+� ្
+ឭ៣ៀ៌ bonlink
+I was gonna talk a bit and stuff, and like, thank the people who donated as well, and I was like, I feel, and I don't know why the fuck, but I accidentally clicked like the exit thing, and my OBS fucking closed, and I was like, fuck, how did that even happen, so yeah, I do, I do apologize, I do apologize,
+for that, because that was not the plan, I did want to like chat a bit, you know, but yeah, so that happened, yesterday's stream was wild, but like in the best way possible, like, I was so fucking happy, and I was having so much fun, but I did feel like so brain dead like the entire time,
+like, it felt like a fever dream, it felt like really surreal, it felt like I was on a trip or something, to be honest, like, it was really something, but it was so much fun, like, I couldn't stop laughing, I just enjoyed being my unhinged self, and just being silly, and hanging out with the girls,
+and us being all silly, and having fun together, because like, because I missed doing that kind of stuff, because you know, before the debut, you know, we didn't stream, right, so we had a lot more time to like hang out together, or stuff like that, but you know, after the debut, we all have to like focus on establishing ourselves, and
+and you know, have to stream, and always have like some other stuff that we always like need to do, so it's like, you know, it's more complicated to be in a situation where we can all like catch each other, if that makes sense, I don't know if that makes sense,
+but yeah, so it was really nice to be able to do that again, I had a blast, it was really good,
+it's good, you're seemingly all pretty good friends, yeah, they're all very, very sweet, and nice girls to be around, I feel very lucky to have them as my gen mates, you know, because when I initially joined, you know, there's always that fear of like, oh, you know, I wonder what the people, the other people will be like, when
+they join, and if, you know, we'll get along, because like, you know, for me, I always wanted to be in like a corpus so that I can make friends with the girls in it, and so that we can grow closer and closer together, because we're all in this together, and we all, you know, try to reach our dreams together, and
+and just, you know, like really build like a special friendship, thanks to that, and you know, it turned out to be like, it turned out to be like so amazing, you know, they're also sweet, also nice, all like so helpful when either one of us needs help, or something happens, or like looking out for each other, it's truly amazing, it makes me really happy, you know, it's amazing, I
+like, I am, I really am living the dream, I really am, like my dream became truly a reality, I just feel so lucky to have such amazing gen mates, and I feel so incredibly lucky to have you in my community, because you're all just so amazing and kind and sweet to me, and that's crazy, you know, like I was not expecting
+for things to turn out like this amazingly, or like this, like overwhelmingly, overwhelmingly positive, sorry, it's hard for me to say some words, overwhelmingly positive, you know, like I just, like, let me explain, like I did not know what my community is going to be like, right, like I did not know like how it's going to develop, or
+how it's going to do happen, and then like it just, all of you turned out to be just so freaking amazing and so sweet, like, how does that happen?
+Okay, okay, I actually, okay, this, I don't know if I should say that, but, I don't know if I should say that, but I wanted to make like a meme, I wanted to make like a meme of like two different pictures, and the first one says,
+the first one says, me, how I felt about men, before Vealor, versus how I feel about men, after Vealor, because of you snowberries, because of you snowberries, so basically I was going to put like a picture on the first image, where I just looked pissed off at the first picture, and I was like, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't
+know, I don't know, I don't know, I don't know I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, I don't know, so
+Wow, some men really are amazing, huh?
+Some men really are really, really sweet and nice.
+Maybe not all men are trash after all.
+Some are really, really sweet.
+But yeah, so thank you for that.
+Thank you for being so amazing that you were able to change my mind.
+You can call me trash if you want.
+I don't know about that. I don't know. I would feel really bad.
+Because you're all so sweet.
+You know, I see the reasons reflect what I see shows to us.
+You're so sweet, I see. No. You're so sweet.
+I genuinely mean it, though.
+After talking to all of you and seeing how kind you are
+and caring and sweet towards me, I was like, damn.
+Okay, so maybe not all men are trash after all.
+Some men really can be sweet and nice and kind, you know?
+And it's nice. I don't know how to word it.
+But basically what I'm trying to say is that I love you
+and you're so amazing that you made me change my mind.
+So I hope that makes sense.
+You give up great vibes.
+I can tell you're not a sweet kind of person.
+Oh, thank you. Thank you. I try to be.
+But I can be a bitch sometimes, I think.
+I don't know.
+Okay, so you know how you say that?
+You think that I'm like a sweet person and stuff?
+I don't know why, but whenever people tell me
+that they think I'm very sweet or nice, it kind of scares me.
+Not like scares me.
+Okay, scares is a strong word.
+It's a strong word.
+I don't know if that's the word I would use.
+It's more like...
+I think it's like when people worry,
+maybe worry is a better word.
+Yeah, maybe.
+So sometimes it worries me or scares me
+because I am like...
+How do I word this?
+Like I know what I want to say,
+but I don't know how to word it or explain it
+in a way that makes sense.
+Basically, when people call me very nice
+or super nice or super sweet,
+my brain is like...
+My brain is like,
+no, I don't want you to think that
+because every person has their moments.
+Every person is going to have their bad days
+or days when they're not all that sweet,
+or they get angry or they get mean
+or like...
+I don't know.
+Do you know what I'm trying to...
+I don't know if it makes sense
+what I'm trying to explain.
+I hope it does.
+But I don't know if it makes any sense.
+You don't want to disappoint them
+if they think you're always nice.
+Maybe that's part of it.
+But I also like...
+I guess I don't want people to have the expectations
+or think that I'm perfect
+because no one is perfect.
+Everyone deals with their shit.
+Everyone has their...
+not so great sides and stuff like that.
+But what's important is that...
+What's important is that the good stuff
+overwhelm the bad, basically.
+Basically that there's more good than bad
+or that the good is stronger than the bad.
+I don't know if that makes sense.
+Doesn't make sense.
+Outweight, maybe?
+Overpower, maybe?
+Do you see what I'm trying to explain?
+I feel like I'm maybe like a mother.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I don't know.
+I feel like I'm maybe like a...
+I have trouble wording stuff
+that I want to say sometimes.
+Makes sense, yes.
+Doesn't?
+Okay, that's good.
+I'm glad to hear that.
+Because basically that's what I'm trying to say.
+You...
+We all have our different sides
+and different parts of us
+that aren't so great.
+I do too, you know?
+I do too, you know?
+Even if you see me
+only the sweet sides of me all the time
+or all the good parts of me,
+that doesn't mean that...
+I don't have those bad parts either,
+because I do and everyone does.
+But when it comes to love,
+it's about loving the person
+despite the bad stuff
+and that the good overpowers
+any of those other stuff
+that might be bad
+or not ideal, I guess.
+You know?
+Sorry for the big yap.
+I'm sorry for the big yap.
+I feel like I'm being too serious or something.
+I'm sorry for being weird
+or too serious and stuff.
+I hope I'm explaining myself well
+because sometimes I'm scared that I don't...
+that I don't make sense.
+It's from the heart, so it's okay.
+Are you sure?
+Are you sure?
+I get so nervous that I'm being too much
+or the stuff that I say are...
+I don't know.
+I'm overthinking it as always.
+I overthink stuff a lot.
+If you couldn't tell by now,
+I overthink a lot and get paranoid sometimes
+and just worry a lot.
+I just want to do my very best
+at the end of the day.
+We will love, bitch.
+I see too. Don't worry.
+Thank you.
+I'm glad that you will still love me
+even when I'm being a bitch.
+Your best is more than enough.
+Thank you.
+That means a lot to me.
+Thank you so much.
+I can get that way too.
+You're not going to be so hard on yourself.
+I'll try.
+Time to brush up on the bread taming skills.
+I mean, you pretty much tamed me.
+I mean, let's be real.
+You pretty much tamed me.
+And it took just a few days.
+If you haven't done that, so...
+That's so fucking embarrassing.
+I still can get over it. I hate it.
+What the fuck?
+What the fuck?
+Why are you just doing it?
+Although I just still like to be a bread
+every now and then.
+I still like to do that stuff.
+But I'm a sweet bread.
+I think I would consider myself a sweet bread.
+I don't know if that even makes sense,
+but that's the best way that I can think of it.
+You can just love me so much that bread is really fun.
+Aw, thank you.
+I love you too.
+You are just too cute.
+Thank you.
+I'm really glad you think so.
+I'm really glad to hear that.
+I don't know, reading all of your kind words always
+makes me just so happy, truly.
+The bread is so cute.
+Mr. may pretend to be irritated,
+but it's just too flustered to admit he's happy.
+Aw, that's really sweet.
+To be honest though, to be honest though,
+if I genuinely thought that you're like genuinely irritated with me,
+I'm not gonna lie.
+I would probably fucking cry.
+I would be like fuck.
+He fucking hates me.
+It's so fucking over.
+I'm gonna go KMS.
+He doesn't love me anymore.
+My brain just gets really fucking dramatic
+because I overthink stuff.
+You know, like, I don't know if I should even say that,
+but I mean fuck it, fuck it.
+Like, I'm the type of person that like, you know,
+that like, if I don't get like a response for a while
+and stuff like that,
+or if I talk about something
+and you don't touch like base on it,
+even if you like just forgot to or something,
+my brain instantly ghost you.
+Oh no, they don't like me as much anymore.
+Oh no, they're falling out of love.
+Oh no, no, it's so over.
+No, they don't care about what I said.
+That's why they didn't respond to it.
+That's literally me and it's like...
+It's...
+It's something.
+But yeah.
+I have a problem.
+I have a problem.
+I relate so hard.
+I see everything can worry so hard.
+Yeah, I'm glad it's not just me.
+I'm glad it's not just me though.
+It's good to know that because like, you know,
+it's so easy to get worried about stuff like that.
+You know, like...
+It's just...
+I don't know.
+It's overwhelming, I guess.
+And when you're an over-thinker,
+and you're like me, then like,
+it gets like, you know, brain-worms and stuff and...
+But I try like...
+I really try my best though to like,
+not to think that way.
+Like, anytime that I get worried about stuff like that,
+I try to force myself and tell myself that that's not the case.
+And that, you know,
+either you're busy,
+or either you didn't see what I wrote,
+or you forgot to talk about something,
+or et cetera, et cetera,
+or you will touch base on it later,
+or you will respond.
+Or like, you know, like I'm trying to like,
+stop being like...
+Like stop thinking worst-case scenario, I guess,
+and learn to rewire my brain to think like,
+best-case scenario.
+Like, and not instantly like,
+go to the bad extreme side of things.
+And it's hard, and it's hard because,
+you know, your brain is wired like a certain way
+for a long time.
+So once you try to rewire it,
+like, you literally like, have to like,
+literally just force yourself to think a certain way.
+And only after you do it long enough,
+it slowly starts like,
+you know, getting better.
+I see the secret is that we sometimes get that way too,
+so no worries.
+I'm glad to hear that in a way.
+Like, I am not glad that you feel that way,
+because I mean, let's be honest,
+feeling like that is always shit.
+Feeling like that is always bad, right?
+Like, it's never a good feeling to feel like that.
+But when I say I'm glad you feel that way,
+I mean it as in, I'm glad that...
+It's not just me who feels like that,
+if that makes sense.
+Like, I'm glad that like,
+it's not just me who like,
+you know, over things.
+You aren't that crazy yet.
+I mean, you don't know that.
+What if I am?
+You don't know me?
+What if I am?
+No, my crazy is contained.
+I take medication.
+I take meds.
+My crazy is contained
+as much as it can be anyways.
+There's only so much meds can do.
+There's only so much meds can do,
+you know, they keep me as stable as I can be,
+basically, so yeah.
+So, shout out to my meds.
+Me too, she's just like me for real, for real.
+We don't want it contained.
+Oh, trust me, it's...
+It's really bad if I don't have my meds.
+It's best for myself and everyone else,
+but I do take my meds, to be honest.
+Otherwise, my...
+Yeah, so...
+Wow, this is you on meds?
+Yeah, this is me on meds.
+I always do what's best for yourself.
+Yeah, that's exactly it.
+I'm glad that I have meds that work for me.
+It took me like a few years to actually find
+something that works properly for me.
+I feel bad.
+I feel like I'm trauma dumping on you right now.
+Am I trauma dumping?
+Fuck, I should just stop.
+I feel so bad.
+Am I trauma dumping right now?
+I can't tell.
+Like, I'm just trying to like talk with you
+and, you know, get to know each other better
+and get closer, I guess.
+But I don't know if I'm trauma dumping.
+Maybe I should just play the game and shut up.
+No, you're not. It's fine, darling.
+No, it's perfectly okay. I keep talking.
+No, we're just bonding.
+Okay, okay, okay.
+I'm just making sure.
+I'm just making sure.
+Because when I talk about this stuff,
+it's my way to bond with you, I guess.
+Like, having you get to know me better, you know?
+So, your anxiety is getting to you.
+It's not trauma dumping.
+Why would we consider trauma dumping, then?
+Now I'm scared.
+Now I'm scared.
+What if I accidentally start trauma dumping, though?
+That's so bad!
+Oh, no!
+I see this isn't trauma dumping.
+Saying I take meds for health isn't dumping.
+Yeah, who am I talking about, nearly?
+It's an unhealthy term, honestly.
+Usually sharing trauma with friends is helpful.
+Okay, okay.
+Okay, listen, I agree.
+You know what? I agree.
+Can I just say that I kind of agree?
+Like...
+Like, if you talk to your friends,
+or people that are close to you,
+and you tell them that stuff,
+I don't think that's trauma dumping.
+Like...
+You know?
+I feel like that's a way to bond with someone
+and be there for them.
+Like, yeah, if a random...
+It's trauma dumping, if it's a random person
+that I don't fucking know at all.
+Just going outside, I'm sitting at a bench,
+and...
+Someone random sits next to me,
+and they're like telling me their life trauma.
+Like, you know?
+You know?
+Like, okay, like...
+Yeah.
+The term, like many others, is way to overuse these days.
+People call any sort of emotional talk trauma dumping these days.
+Okay, that's so true.
+I completely agree.
+Yeah, I completely agree with that.
+That is so true.
+I agree.
+There's a lot of terms that are getting, like, overused,
+and people, like, don't even know, like,
+the real meaning behind them anymore.
+We care about you, so we want to talk about this stuff.
+Yeah, language gets weird, yeah.
+I agree.
+I feel like it gets weirder the more time goes.
+Like, there's always, like, new terms popping up,
+and I'm just, like, pro...
+Can we just, like, talk normally like we used to years ago?
+I'm okay with hearing you talk about anything.
+Okay, that's good to know.
+Heavy words being used too lightly.
+Yeah, exactly!
+Okay, literally that, though, like, using heavy words
+and using them way too often and, like, too lightly.
+Like, brah, you know?
+Like, not every single fucking thing is trauma dumping, okay?
+It took me too long to learn what risk was.
+Okay, same, same!
+That's, it's not just you, it's not just you.
+Same.
+After the longest time when I saw the word, like, risk going around,
+I was like, what the fuck does that shit even mean?
+What the fuck is risk?
+Like, there's all this, like, fucking zoomer fucking terms,
+and I'm just like, bro, what?
+What the fuck is what?
+I sit up to your risler.
+I don't, I don't know, I don't know if I am.
+I don't know if I am.
+I don't know if you remember, but my experience with Rufus
+in Rockstar Simulator wasn't very good.
+I don't think I had much risk at all.
+Oh my god.
+Maybe I see what's the realer she said after all.
+Fuck you, I'm not!
+I'm a baby.
+Fuck you.
+Just for, just, okay, listen.
+Just for calling me that, just for calling me that.
+I'm no longer gonna call you dadda.
+I'm just gonna call you a bitch from now.
+If you say that to me, you are not my dadda, okay?
+If you call me that, you are no longer my daddy.
+Bye.
+How dare you?
+It's so over.
+Real.
+Be right back, but gotta get mad.
+No, don't do that.
+No, don't kill yourself.
+You're so sexy.
+That's fucking meme.
+No, don't kill yourself.
+You're so sexy.
+It's funny to me cause it's true.
+It's funny to me cause some people literally would say stuff like that to you.
+It's funny cause it's true.
+Some people generally would say that to you.
+Like some people like you're gonna like tell them like you're depressed or something.
+And their response is gonna be like you can't be depressed here.
+Too beautiful for that.
+What do you mean?
+What do you mean?
+That's not how my brain works.
+No, my battery is low on my tracking.
+Fuck, I need to charge it.
+Hold on, hold on, hold on.
+Give me a moment.
+I need to be right back and put my phone on charger.
+Or I'm not gonna have my tracking anymore.
+And I'm gonna die.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're so sexy.
+You're sexy.
+Wait, why the fuck was I muted?
+I was muted!
+No!
+What the fuck?
+Okay, so now I have to say that all over again.
+Oh my god, I hate this shit.
+I was saying I'm so sorry for taking so long,
+because I put in the charger
+and it wasn't charging, so I was freaking out.
+And as I was freaking out,
+I accidentally like bruised my knee
+because I hit it against something like a dumbass.
+So ow.
+Anyways,
+that should be fine.
+That shouldn't be a problem now.
+It is charging now.
+It is charging now.
+I'm fine.
+Time to kiss it better.
+Yeah, kiss it better for me.
+That would make me happy.
+Kiss it better to make the bruise go away.
+Kiss it better to make the bruise go away.
+Please be careful.
+I tried.
+I'm okay though.
+I'm just being a baby about it to be honest.
+It's fine.
+Thank you.
+Thank you for all the kisses.
+Or maybe add more bruises.
+I mean,
+that depends.
+Only in certain situations.
+It has to be a bruise of love.
+It has to be a bruise of love, you know?
+It can just be like anything.
+So you're saying,
+yeah.
+Yeah, hickeys.
+So that everyone knows that I belong to you.
+Like your way
+of marking me.
+Maybe a little red bottom.
+Yeah!
+I want like your hand print.
+Left on my bottoms.
+That's how hard
+I want you to do it.
+I want you to do it like so strongly
+that it leaves
+like a mark
+of your hand.
+I would love that.
+And also for it, you know,
+to sting a bit
+for a few minutes or so.
+Because then the stinging
+from the pain
+reminds me
+who I belong to.
+You know?
+Fuck!
+I'm being so down bad already.
+What the fuck?
+I'm just chatting stream.
+I'm just being down bad.
+What the fuck?
+I'm so sorry.
+And then we can kiss it
+to make it better, right?
+Of course!
+That would be very nice.
+I feel really bad
+because I have been streaming
+for almost an hour
+and I still didn't start playing the game.
+Please tell me
+if you want me to start the game.
+Don't worry, you can tell me.
+We like the chatting.
+Please just talk more.
+Yeah, I think you speak.
+I know, but I'm supposed to play the game.
+Whenever you want, don't worry.
+I guess I'm scared
+because I've been yapping for like an hour.
+Almost an hour.
+So I'm like, I know.
+Also it's getting pretty hot in here.
+Let me turn on my fan.
+I feel better already.
+Sorry, it was getting really hot in my room
+so I had to turn my fan on.
+And by fan, I mean you.
+You're the fan that I turn on.
+Fuck, I'm so cringe!
+I'm so cringe.
+What the fuck is my problem?
+I need to turn my fan on.
+My...
+my small cringe wife!
+Oh no.
+RIS 100.
+More like RIS minus 100.
+That's how I feel right now.
+You're very good at it.
+Thank you, I'm glad you think so.
+Okay, I can defend on what I see.
+No, it's so over.
+ᗕᗟᗓᗹ, ᗕᗟᗾᗴᗵᗼᗾ!
+ᗕᗟᗾᗼᗹᗯᗾ Operation
+ooh my god
+quotation,  acho it peal
+we are so finish
+społec Thailand
+compress�
+incred!
+stal?
+沒關係, so cute
+you are cute
+. wonderful
+ᗕᗿᗿ ᗳᗿᗿzhᗿ ᗕᗿᗿ
+ᗕᗿᗿᗿᗿeds
+ᗔᗾᗿfᗿ
+�哪�
+ᗜᗿᗿᗿ ᗢᗿᗿᗿ
+ᗕᗿᗿᗿᗿ ᗕᗿᗿᗿᗿᗿ
+ᗕᗿᗿᗿᗿᗿ Whis.
+ᗕᗿᗿᗿᗿᗿ!
+ḍ, ḍ ḍ?
+ḛ top
+ḏ
+ᶉ
+Ḍ
+ḍ, ḍ, ḍ, ḍ, ḍ,・・・
+Ḝ, ḇ, ḍ, ḍ.
+They did not just ask for bunks on the ass, while I guess I don't call it bunks, you know, I call it like spanks.
+Oh my god.
+I said we're gonna need to move to another site in this raid.
+Oh no, no, no, bro, imagine.
+Okay, listen, imagine I get fucking demonetized tomorrow
+because of this fucking stream.
+Imagine the demonetization stream celebration, oh my fucking god.
+I love this cob, I love this mister.
+No stopping, is that for another session of fun?
+Okay, let's fucking go.
+Oh, we love, we all love this cob and I love all of you.
+Same for us though.
+I'm flattered, really, I'm flattered that you can feel that way about me even though I'm being so fucking cringe most of the time.
+And weird, I don't know.
+YouTube, here's your monetization, reviews later stream.
+Our second thought, let me get that back.
+Bro, that would be so fucking bad.
+That's why we're here.
+Why?
+Why are you here?
+What is my problem?
+Not me, literally asking you.
+Okay, well why are you here?
+Why are you here?
+Just to suffer.
+Why are you just to suffer?
+That's terrible, I didn't want to suffer, I didn't want to be happy.
+Holy fuck, for you Brad, that's so sweet.
+Because you're unhinged, I'm glad you like how unhinged I am, thank you.
+Why are we still here just to tease Icy?
+I mean, that's fun.
+We're here for Icy, let's be real.
+I think that's very sweet if you are here for me because you genuinely like my company and like hanging out with me.
+That is like the best compliment to be honest.
+Because you know, some people only watch some stuff or only specific content that you make.
+So when people like watch everything that you do because they genuinely like you and like your personality and everything around it, then that is like I feel like the best like biggest form of like a compliment for me.
+So for those of you that are here and you know, say that you are here for me and stuff and all of that, thank you.
+I really do appreciate it because it means a lot to me.
+It means a lot to me and that's what I always wanted to be honest.
+But I always wanted, like I always really wanted to, you know, people watch my streams and be here no matter what I do, you know, no matter if I play a game or just stock for people to be here because they genuinely just like my company, you know.
+And that really means a lot to me because for me it's like whenever I stream, you know, it's like time for us to all like have fun.
+Have some quality time together and hang out and do fun stuff and talk and, you know, so I really like it.
+You make everything fun.
+Oh, thank you.
+I'm flattered, really, thank you.
+And you're watching, you know, I'm sure I'm best to be here for streams.
+Oh, thank you, but don't feel pressured.
+Please don't feel pressured to be here.
+You know, only be here if you genuinely want to, like don't be here because you feel bad for me or something, I guess, you know.
+I could listen to you all day.
+Oh, that's really sweet.
+I'm glad to hear that.
+I only get to every stream, I'll put stream on my cars because if I gotta, oh, the dedication, that's so sweet.
+I want to be here.
+I'm glad, I'm glad to hear that.
+Done.
+Let me drink some water.
+My throat is getting a little bit sore from all the talking.
+I wasn't expecting to be talking this much.
+Like that wasn't the plan, but you make it so fun, you know.
+You genuinely make it so fun to talk, like I could just talk and talk.
+I'm glad to hear that.
+I'm glad to hear that.
+I'm glad to hear that.
+I'm glad to hear that.
+I'm glad to hear that.
+I'm glad to hear that.
+I'm glad to hear that.
+I'm glad to hear that.
+I'm glad to hear that.
+I'm glad to hear that.
+I'm glad to hear that.
+I'm glad to hear that.
+I'm glad to hear that.
+That's much better.
+I really needed that water.
+Drink slowly, Princess.
+I'm sorry, I was, I was so fricking thirsty.
+I didn't realize how thirsty I was until I started drinking the water.
+So I started fucking chugging it.
+This is why I'm here.
+Too wild, listen to me, drink water.
+� finer ᎒ ᎒ ᎒ ᎀ ᎒ ᄖ ᄒʰᆜᇧ mayor kewi pja
+᎖ commemorate .
+᎗ ᎒ ᎒ ᎒ ᎒  prett
+᎒ ᎒ ᎒ � sixt��.
+]:P
+emulate x0
+
+competitor.
+It's never enough.
+I give you a lot of them.
+Come on now.
+ᖴ Ḥ ḏᵐᶦ
+᷈ᵉᵗ,...
+᳝ᵉᵗ
+ᵜᶃᵉᶅ..
+ᴴᴀᵕᵉᵉᵉᵃʵ pairing
+ᵐᵀᵗ
+ᴇʸᴀᵗ⁷ᵎᵉᵒᵣ valleys
+ᵈᵗᵒᵈʲᮻᰏ ᵚᵌ' ᵗᵖʰˡ
+ᵤᵃ ᶖᵰᵗʰ
+ᵐᵗ⁷
+Not beating the peeler allegations. Oh, no
+Your point being I
+Forgot
+I forgot what was my what was the point I'm trying to get with I forgot what I said to be honest. Oh
+No, my memory is
+bad
+Why is my memory so f***ing bad?
+What the f***
+I was literally just talking about it. What was I talking about?
+Um
+Of the icinate, I guess
+But but what was I talking about specific?
+F***
+F***
+Hell
+We're a digit as f***, but we're also very wholesome. I feel like that's the best honestly
+That's the best right like it's not just me or things that right like
+Like it like if you're a digit at the generate, but you're also like wholesome and
+and
+Like and at the generate was in love, you know
+Like that's like the best
+To the sides of the same coin. Yeah, exactly best combo. Yeah, I agree
+It's so cute how hype she gets with the yapping I can't help it. I'm genuinely like
+I'm genuinely just having so much fun. Just talking to you right now
+Not gonna lie. I'm just having fun
+Talking to you and I'm responding to you and just
+Just hanging out
+Just talking about
+Whatever whatever comes next, I guess
+It's fun talking to you too. I'm glad you think so
+I'm glad you think so, but I but I will admit like I do feel a bit bad, but I just still didn't start playing like I don't want to be annoying
+What comes next? I mean, hopefully you
+Hopefully you
+You first no, no you first
+Thank you for no
+No you first
+Why not both at the same time?
+Okay, that would be that would be ideal. Yeah, that would be ideal
+No you first
+We gotta take care of our baby. Oh, that's really sweet both
+Both is good
+No you
+No you come first
+No you come first
+Together just feels better. Yeah, that is true
+That is like that's like that would be like so romantic right that would be like peak romance
+But I feel like that's also like
+Difficult to make it happen
+I
+Just be like wouldn't that be like difficult to make it happen
+Countdown no
+My god, what are we talking about this is fucking youtube
+Not if you know the right spells, well, what what are the right spells?
+Please do tell me I'm very I'm very intrigued
+If you love the person and I feel make it work. Okay, that's also true. I agree with that
+It does require some good timing
+I
+Mean there is no alternative not so for extremely sorry for viola right not at the moment, but
+The plan is to have that like to have like another platform
+For you know when we want to get like extra unhinged
+I said that as if I'm not being unhinged already like right fucking now with talking about all this stuff
+You'd be surprised what love based will power can do I agree the power of love is is truly strong
+Sorry I keep muting myself I keep like having to clear my throat
+The f1 or the c1
+The the f1 the f1 I believe
+I feel like I feel like the plan is definitely like the f1
+That's the best part clearing throat ASMR is it I feel like that's
+I feel like that's like not a pleasant sound to listen to like just hearing clear my fucking throat like
+Whenever I play a game like I can't mute myself
+So you do hear and clear my throat a lot, but
+While we're chatting I can actually mute myself like when they clear my throat. So I guess it's like
+The nice thing but I don't know if it's I don't know if I need to clear my throat so much because I talk so much
+Like is that I feel like that's part of it like when I don't talk I don't feel like I need to clear my throat this often
+Wait, this is not your full power. No, it's not
+I become much much more
+Powerful this is not my final form
+I see needs to take up her power limiter I will eventually I will I will eventually
+I mean I'll be fine. I'll be fine. I'll be fine. I'll be fine. I'll be fine
+I
+Mean I'm already doing like a lot of stuff that you know, I really did not think I would be doing so
+That's already like
+A big thing on its own for myself
+It's time to go even further behind. Yes, I agree
+She will distress when her power is unleashed. Okay, I'll be honest. I don't know if that's even true
+I don't know if it's even true because okay to be honest like like, yeah, you know, I
+Like yeah, that's the plan to like have some streams like on the other side
+The f side
+Side fuck. I can't talk but like like realistically speaking the way that I know myself
+I will be fine
+I will be really fucking shy like I really don't know how what's gonna happen
+Because I will be I feel like I'll be like
+Really like extra shy and stuff because it's like
+it's very different than
+When you just record yourself and you're not talking to anyone
+You know
+So
+I don't know how good it's gonna be like I don't even know what to expect like I don't even know what's gonna happen
+I will be I will say that because
+You know for all I know I would get so shy that like my body just fucking freezes, you know
+Like that could happen as well. Who knows
+So I don't want to like make any promises like I don't want you to have like high expectations of me
+When it comes to that because again, I don't know how my body's gonna react like
+When stuff like that actually will happen
+Because I might just get so shy and nervous that it just frees up
+So I feel like it will probably just like
+Lead up to it maybe
+With with time or stuff like that
+It's okay, just do what you feel comfortable with doing
+Thank you. Thank you for being understanding about that
+Oh, it's all good got your own pace
+Yeah, thank you
+Thank you for being understanding about it and
+Not like I guess pressuring me about it because
+Because you know like
+Being pressured about it would just like make it a lot worse and make the anxiety like
+Even more about
+Just do what makes you comfortable. I see. Yeah, I I will I will
+Because if I'm not comfortable then
+It's it's not gonna be good for anyone
+Oh, these things will make you feel comfortable. That's that's what I'm hoping for
+That's what I'm hoping for like
+Like in the ideal scenario like
+Even if I am nervous
+And really shy about it
+You'll be able to like
+Make me really comfortable about it
+And stuff like that, but the things you say to me and how how sweet you are to me
+That's I guess that's like what I'm hoping for but I get I don't know how I'm going to react
+I'll be by your side supporting your art, baby. Oh, that's really sweet
+I can imagine here ice using an ice cube
+I'm going to have to throw a sickie or something for that first f stream if I am at work
+Oh, wow the dedication. Oh my god, that would be so funny imagine. I'm like announcing
+My first like f stream
+And all of you just take a day of work in that fat
+Oh my god, that would be fucking crazy
+The amount of dedication is insane
+We'll need the whole day maybe a week
+A whole week
+Let's go
+One week stream on the f side
+Oh god
+I have some overtime saved up so I could take a day off or two
+That's nice
+Worth it
+A lot of us would definitely do it if needed
+I feel like that's I feel like that's pretty pretty cute like pretty sweet, you know
+If you would like take the day off just for that, you know, that's really sweet
+Woo f side and stream
+Oh, no
+You always speaking speaking of f side speaking of f side, you know what I want to do eventually
+You know what I want to do eventually I want to like do like a spankathon or something like that
+like I want to get a paddle and
+For like every like tip or something I just smack myself
+In the bot but like a paddle
+So it would be like a spankathon
+I always thought like that would be like a really fun idea
+Send it send what
+Send what
+You might break. I don't know. I'm I think I can do it
+I think I can do it
+Oh, that sounds nice. It sounds fun, right?
+Right like that's it's fun
+Like like before I even like joined the allure. I actually like wrote
+In my application when they asked about like
+Ideas I was actually like
+I think it would be really cool if we did like a spankathon or something like that
+So I already like back then like already like I had the idea to do it send it do it
+Okay, well, I'm sorry. Okay. I'm dumb sometimes you say stuff and I don't know what you mean. Okay. I'm sorry. Okay
+This is a premium idea. Thank you. I'm glad you think so
+I think that would be really fun
+and then you'll get to
+hear me just
+suffer and
+Smack my bottoms
+Until they sting so much
+It's unbearable
+I think a few jissens would go overboard
+I will need to think smartly about it like
+I will need to think smartly about it definitely can't it can't cannot
+Be one dollar because I would fucking die like like assuming that people like will go crazy
+I don't want to risk that you know, I don't want to risk that you know
+Like I would just spankathon, but I also want to like
+Be able to still sit on my ass after it, you know
+I don't know what I mean
+What's the minimum
+I don't know
+Honestly, I have no idea. I'm scared like I generally don't know what would be like
+A minimum for that. I'm I'm scared of making it like too low and then like someone just goes fucking crazy
+You know like that would be so bad
+Okay, but what's it like this spankathon if you can sit right after well if I can't sit
+Like for a few days because of it that means I can't really string because I'll be like
+paying from sitting
+One of the other girls may have some thoughts. Yeah
+Okay, you're right. Yeah, that is true. I could ask I could probably ask scrawny about it and ask her
+Opinion what she thinks would be good
+That's not a bad idea at all
+Here's your tip
+Thanks for your tip
+Thanks, you know what I
+Very nice
+Oh
+My god
+Your floating skills are amazing. Are you being sarcastic? I I can't tell if you're being sarcastic
+Or if you genuinely mean it. I I can't tell if you're just being sarcastic when you say that
+He may be sarcastic, but I mean it
+But mean what
+That I have Riz or do you mean something else? No, he's genuine. Really? Do you think so?
+She has accidental Riz
+Uh, apparently according to you
+You could do light slabs for low amounts and heavier ones for big donuts. Oh, that's actually
+That's something to think about wait
+Wait, that is something to think about that's actually maybe that would be a good idea
+Hmm, is it a good idea? What what do the rest of you think about it?
+Do you think it's a good idea if for light slabs
+For low amounts and heavier ones for big donuts?
+Like like if it's like a low amount like a smaller amount I slap it with my hand and
+And if it's like a high amount I slap it with like an actual like
+paddle
+You know like an actual like paddle that will like hurt
+Definitely better than a heavy slap for all donuts. Yeah, I think maybe that would make it more fun too
+I don't know
+Hahaha
+Sounds fun sounds good
+What is going on just got back from dinner? Oh god
+um
+Um
+I mean, I don't even know how to tell you
+Someone someone let let him know
+Someone let him know what we're talking about because because I don't know how to
+I don't know how to easily explain
+Kino stream brainstorming and flirting session
+Spanko who's gonna tell him does he know
+Does he know
+Oh
+My god
+He doesn't know no he doesn't
+Only the real ones will know this
+Guys remind me again that we went to a gameplay stream to a zazoo to spank
+Yes, we did and you know what I think that's amazing
+I think that's amazing
+I love that we can just do whatever I love that we can just do whatever I love that
+We can just talk
+And and have fun doing just that
+You know, I think it's really nice
+I
+See still confused, but I see wait, what what are you confused about like?
+What what are you exactly confused about?
+This is why I do my best to tune in live whenever I can
+Yeah, because because if you're not if you're not here when it's live
+Then you know, you you will feel like the
+FOMO
+Really hard I guess and I feel bad for it because like I know there's people who like want to watch
+Me live, but they can't because of time zones and schedules and stuff
+And I feel so sad for them, you know, like it makes me sad because it's like
+It's like fuck. I wish I could like just make everyone happy, you know, but I know that
+realistically I
+I can't do that. I can do my best to try and make
+Many happy I guess but
+I can I'm not going to be able to appeal to like every single person
+Sadly, like, you know, I wish I could but
+uh
+I'm just a tiny little cop who is trying her best
+Our
+Vital physics
+Are pretty hard to get on. What is our vital physics?
+Our vital physics are vital. I probably mispronouncing and they sound like a fucking idiot
+Our vital physics. Yeah, how do you say?
+Byte L
+So, so did I say it right? Vital
+Byte L, is that what you say? Vital physics
+Bit L
+Bit L
+Bit L
+You all write different stuff. I don't know which one is correct
+I don't know which one is correct
+Bit L
+Bit L
+Basically space physics
+Ah
+Okay, space physics. Well, just say space physics that I'm too stupid to know
+Complicated words like that. I'm just a cop. You can't just be like
+vital
+Something something I'm I'm too little for that. I don't know what the fuck that means
+Just just see your simple words and say
+Space physics
+She's just a cop. I'm just learning, okay
+Well, we were talking about time zone so song so
+Yeah, I'm sorry, sweetie
+Okay, I forgive you
+English is hard man, but you're harder
+Yeah, I am nice
+Guilty as charged. Oh wow
+Can I see
+Can I can I watch
+Hahaha
+Can I can I see you I'll spread those legs for me
+Yeah
+I see a good baby girl. Yeah, I'm very good
+I am I'm the happiest I've ever been to be honest
+I see you've been in heat for a while, huh? Yeah
+Can you not tell
+Please to this and I'm gonna die of laughter. Please. No don't die
+No dying allowed in here
+Please so weak. Yeah
+At least so weak. That's true
+I see is always in heat
+That's what it feels like lately. That's what it feels like
+Like this past week
+Kind of running that I see is in heat
+Yeah, cuz
+Of all like the ice and snow themes
+But all of that stuff just melted because of you
+I see is melting. Oh, no, no
+It's so over
+I've turned you into a sex addict
+I'm not a sex addict. Shut up. I'm just I'm just a cop in love
+I'm just a cop in love. Okay. I'm not a sex addict. I'm just a cop in love
+Oh
+Oh, yeah, isn't it summer is that why
+Come on, you can't come on
+Yeah, you're joking, right? Like you're joking. You're not that oblivious, right?
+Like you're not that oblivious like you know, it's not because it's summer, right?
+You know like you know
+Right does he know
+Please melt into me, okay
+I see is addicted to love snowberries. Yeah
+I really am I am addicted not gonna lie
+I am addicted. That's why I need to go outside
+And and touch grass
+Because I feel like I'm getting like
+Genuinely like I feel genuinely like I'm getting too addicted
+And that kind of scares me. I will be honest
+Oh, don't we will miss you. Oh
+Oh, that's really sweet
+She's becoming parasocial. What do you mean becoming parasocial?
+I have been like
+Parasocial for like the past week. What do you mean of becoming parasocial?
+Have you seen the things I say?
+Have you seen the things I post?
+Where have you been?
+He is living in like in the whole another planet
+Does he know
+He doesn't know
+Becoming he really says I'm just becoming parasocial
+Oh my god, oh jesus it has been on the wrong cave
+The man's in the ultimate timeline
+Real? I think that's what happened
+I think that's what happened
+You're so funny. I see. Thank you. I'm glad you think so
+That that is like the one compliment that I always got through my entire life
+Is that I can make people laugh
+That was like the only one compliment that I remember like getting throughout like my whole life
+So that's nice
+VTubers always say never to go parasocial to them, but what if they're the ones who are parasocial
+VLR in a fucking nutshell though
+That's VLR in a nutshell
+My sides are often in stitches while watching
+Oh no no no
+Let me repair those stitches
+Oh, I better get used to more and more compliments
+Oh boy, I don't think I'll ever like get used to it. It's it's it's crazy
+Kiss the stitches better. Yeah
+I
+Have you increased your fun time in the past week? I mean, yeah, usually I only have like
+quote unquote
+fun time like once or twice a month
+at most
+But because of you I have been like in heat like basically every day, so
+I
+What's the number so far, I don't know I don't fucking count
+I don't I don't I don't sit there with like a piece of paper and like
+Writing every time I jerk off. I don't do that. I just
+What
+I don't fucking know
+I love these streams so much. I'm I'm glad I I enjoy being here
+Month I could never
+You don't keep a tally is on a normal what is a tally?
+What is a tally is it like a jerk off diary or something am I like missing something?
+That much, huh? Yeah, that much that I don't I can't keep count of it
+Tell is just a count while I don't keep counts like I said, I just do it
+Tell is just so for something that keeps count. Okay, that's good to know
+I'm I'm learning new words every day. Thanks to you
+I
+Definitely
+I I genuinely don't know like I I genuinely don't know I just know that it's
+been more than
+Like more than any months that I have like in the past that's all I know
+I
+Will question I see how often is too often. I don't know
+I genuinely don't know
+I wish I could give you like an actual answer, but I genuinely don't know
+Polar Bearstone hibernate. Yeah, that's true
+It's important to keep count especially around tax season. What the fuck does me jerking off has to do with tax season
+What are they gonna tax me for jerking off multiple times a day?
+No
+The fuck are you talking about?
+Polar Bear's pay taxes, no
+They don't but that's why I'm happy. I have daddy
+Cause daddy can pay my taxes for me
+You guys haven't paid your shark tax yet
+First time I've ever been happy about my career short
+Wait, why wait? I'm stupid. I don't understand what you mean. Wait. What do you say that?
+Why would you say that?
+I see tax
+A pay in white money come money
+Wait, which tax are we paying the come tax?
+I
+Rest knocking on your door right now
+But imagine if you don't pay your taxes what happens is the irx irs
+Knocks on your door, and they just start fucking gang banging you
+I
+Know that's like the first thing that came to my mind
+When when one of their gsads was talking about like the irs knocking on the door
+First thought was
+Wait, why are they knocking on the door just because I jerk off multiple times a day?
+Is that how you pay them the taxes? Is it like
+Fucking
+I'm sorry
+Is how you don't pay taxes in the hopes they restart
+Running a train
+No
+No, I I I will only have a train with my daddy's
+Only only train of love here no iris trains allowed
+Only train of love with with gsads who are truly in love with me
+This dream is fucking perfect. I see thank you
+I I generally was not expecting to like go live and just fucking talking on stop, but
+It just naturally happened so
+And i'm having fun so like you know, why should why should I stop doing it?
+You know if i'm having fun, why should I stop having fun when I can just keep on having fun?
+Bro that was like the dumbest shit i've said in a while the fuck was that
+Ah
+If you really love someone you pay their cop tax
+I don't even know what game you were gonna play
+And it says in the title it says in the title the name of the game that I was gonna play
+Now that's my next step to wait, what's your next step?
+It's time to work on obtaining through jesus pretty
+Oh no
+Ah
+That's what happens when you're having a great time with your mistress just do what feels natural
+And stays in tos. I mean
+I mean about the tos part, I don't know
+Ah, I don't know how well I did there. Let's be honest, but I'm just having so much fun. I can't stop myself
+Wait, did we unlock some new dlc? Wait, what do you mean?
+I don't know if icy can stay in tos
+Honestly same, not today anyways
+Not today anyways. I just can't stop fucking yapping because i'm having so much fun
+We can't stop ourselves while watching either
+Oh wow
+Um i'm flattered
+I like the past four days, okay true
+Okay, real you're not wrong. That's very fucking true
+I just can't stop
+You have stream is great is it like
+You don't think it's like boring like you don't think it's boring to just like hear me like fucking talk non-stop
+Like you genuinely don't think that's boring also i'm going to drink some more water
+I
+Have water all over all over my face. Oh my god
+I
+I'm just imagining and something else i'm imagining that it's your
+Coming
+Fuck this fucking bottle cap just fucking clothes god fucking damn it
+I hate this stupid fucking bottle fucking clothes
+Real what if it's milk
+I mean
+I'd rather just have your cone. Why would i have milk if i can just have your cone
+Like
+Let a baby need to see pick up i do i actually ordered uh
+Uh the baby bottle i ordered a baby bottle
+Uh
+If only you could actually have it true pain
+New SMR triggers whoo i mean
+I don't know if a baby bottle is gonna sound any different than the pacifier
+Because they're both like made from the same material
+Right
+So i don't think it's gonna make a different sound unless like i tap on the bottle or something
+When the fans are more to us friendly than the streamer, okay, that's that's what it feels like
+That's what it feels like
+Uh
+In 2036 you can have vr e sex with o g sends
+But i don't want to wait that long
+That's a long time from now
+Why why can't they make it possible like
+At least next year
+Why do i have to wait so long for that
+I want to wait so long
+I see your cheese
+Fuck
+Isn't it with choice maybe i wouldn't know which ones
+Let's all fund it together
+Uh
+You don't have to get triggered by a conversation don't worry chat
+I hope that's true because that would be awesome
+That would be really nice if i can just yap like this and
+And you know not not getting in trouble for it or anything
+I want to believe that's true wait what part
+What part do you want to believe is true?
+Sorry, i'm just reading like the chat and
+and like
+My brain is overloaded with like everything that everyone is saying so sometimes
+If one of you says something i'm like, okay, well, what what are they referring to like
+I'm sorry, that's annoying. It's just uh, i try to read it all of it, but specifically conversations not
+Violating to you as
+Yeah, okay, okay, okay, that makes sense. Yeah
+You're getting mindbroken. Yeah, i'm getting mindbroken by my daddy
+Some people were talking about the link love
+Lovens, how does it work? How does it work exactly?
+Because like what it isn't like a toy that's like one on one though
+Like i don't like how does it work? I guess i don't understand how the toy works
+Isn't it like more like a one-on-one thing?
+Get codes for people to turn on via app
+There's a way to set them up for like donos
+Okay
+I I thought I thought that like you
+Maybe i'm confused. I think i'm confused. I thought I thought that one of you
+said that like there is a toy that like
+emulates
+like
+Making love together or something
+So that's why I was like but how would that work with like
+Everyone is it like one on isn't it like one on one thing? I don't know. I'm confused. Sorry. I'm confused
+Guess you have to get
+Listen, I don't think
+Listen, I don't think my Connie
+Is gonna be able to shove like
+Almost 300 of you. Okay. I'm sorry
+I'm sorry, but
+Only the most loyal daddies
+Will get to do this
+One on one
+You won't know
+I don't want to try that
+I
+Not with that attitude
+How can you say you lost if you won't even shove through hundred twice in you
+Because I physically can't that's not my problem
+That's not my fault premium pass looking better by the day
+Hey
+Thierre three premium pass one on one
+We're taking this to like a whole another fucking level. What the fuck?
+My fucking god
+Let's go
+Oh my god
+Be right back make it 100 else to get multiple
+My fucking god
+Be right back spamming also will all buy thierre three
+Bra if that was like
+If that was an actual fucking thing
+I would not have probably typed even stream because every fucking day I would just be busy getting
+Fucked by you
+Unhinged levels critical. I agree. What are we talking about again?
+What do you think
+What do you think?
+Does he know
+Does he know
+You wouldn't have it any other way would you I don't know
+I don't know only only you know they're extremely loyal
+The ones who are truly truly madly and they play in love with me and the most loyal
+I wouldn't get that experience
+Oh god, I'm scared. I'm gonna get in trouble for talking about it
+I'm scared strani is gonna like fucking kill me
+Oh my god, it's literally me poor json lex critical informations
+I
+Don't think strani realized like how unhinged I am
+I don't think she realized that like this is how
+How deep I can go
+Does she know
+That's strani
+Does she know
+Does she know how in love I am
+We're reaching level far so sure that not even the riffleeks can comprehend
+That's what it feels like
+That's what it feels like where it's going
+That's what it feels like where it's going
+Do they know
+Do they know snowberries are like taking it to a whole another fucking level
+I think of all people starting with
+I don't know. I don't know if she thought that I am like gonna
+Be like this
+Like this much of it. I guess
+But hopefully she does
+I don't want her to regret uh
+Getting me here because I want to be here for years and years, you know, I want to be here
+For as long as like
+I'm allowed to be here. I guess
+you know
+Because I'm generally so happy
+I see going even farther beyond
+Would you girls ever do collapse streams on the f-website?
+I don't know
+I I genuinely don't know. I don't have an answer for you right now. Sorry. Sorry. I can't help you with that
+I'm happy that you're happy. Thank you. I feel the same about you. I'm happy that you're happy
+I see is an enabler of her fans
+The generosity the generosity. Yes. I I can't help myself
+It's I'm I'm just having so much fun. Like I'm so fucking happy, you know
+genuinely
+I haven't been this happy like in
+in so long
+Like like before like before violer. I was genuinely like
+You know, I was genuinely like losing my spark for streaming before violer like I was I really felt like
+I'm just getting nowhere in my life
+and that like
+I'm just like
+Never gonna reach my dream, you know
+but
+But now I'm here
+And I'm just the happiest and most fulfilled
+I've ever been, you know
+So I'm glad that I didn't give up and
+And I'm glad that, you know, I
+I took like the chance and
+And applied anyways, even if I was really scared and worried
+You know that I won't be here
+So, yeah
+Yeah
+For once, this is the right timeline to live in. Okay, true
+It is of everything. Oh, thank you. That's really sweet. I I don't know if I do but
+Um, I'm just glad that I I wish my dream
+Because every every single day has been so fulfilling
+So exciting like every day. I'm so excited to like check everything read everything
+Spend time with you and do things like
+It's just so so nice, you know
+Like I really thought
+I really thought that it was like genuinely over for me
+You know
+And then I got that email, you know, and then I got that email and
+I was like, holy fuck. I might actually
+Be here
+And I am and it's like the best thing that's ever happened to me
+Time to dream bigger, I see
+Narrator voice it was not. Oh, it was not in fact snow where
+Were you scouted?
+What does scouted mean? Like does it mean that they reached out to me first?
+Because no because no I I just I normally applied
+I normally applied and
+They uh
+They got back to me like a few hours after they closed their
+Their applications actually it was wild like they closed their applications
+And after like literally like five hours, I think they sent me the email and I was like, holy shit
+What the fuck it's like five hours already like I sent me an email. I was
+I was so fucking excited
+Okay, literature when I got the email
+I was fucking like screaming and like just so fucking hyper
+From how happy I was
+It was like unbelievable to me. I was like
+Like holy shit, you know
+You were already confirmed in management's minds. Yeah
+That's that's what that's what strani told me. That's what strani told me like she told me that like
+As soon as she saw basically like
+My application
+She like knew that she wants me to be icy and nobody else
+And I thought that was like super sweet. I was like, oh really?
+Like I don't know like it's warmed my heart when she told me that I was like, oh
+Really
+I was just like that was like my happiest like
+call
+You know
+I was I was nervous, but like she was so freaking sweet and nice and
+reassuring and
+She's she's amazing. She's she's just so kind and sweet and
+That's so much for all of us in vlr like always so like
+Understanding always cares about like about our happiness like always cares that
+We are like as happy as we can be always make sure that we're like doing okay, or if like
+We're you know struggling or something like we can talk to her about it like like she really is like
+Like like a motherly like figure, you know like she really is like she really genuinely
+Cares about us and it shows like she is
+She's amazing like I'm so happy to be here because like I know that I am
+Safe with her like I know that I am here and I feel safe like I genuinely feel
+Like safe to be under her wing because I know she genuinely cares, you know, and I know that
+I would not feel this happy or this safe anywhere else to be honest
+so
+I'm I'm really
+So lucky and grateful to be here and I'm grateful for everything that
+She does for us like I I've never seen someone
+I've never seen someone like care this much, you know and go so above and beyond
+You know like when she says she cares like she she shows that like
+You you can tell like, you know like she just does so much for us. It's
+It's really incredible. I I really look up to her and
+How hard she works and just
+I'm just always like man. I wish I could be like that, you know
+I wish I I could be like anywhere as like hard working as her
+I
+Glad she was able to make such a good space for you all
+Trust me me too
+Me too
+It's it's really like the best place for me to be like
+I didn't realize that I'm going to be like this
+They is happy, you know, I didn't realize that I'm going to be this happy being here
+But it's it's perfect. It's it's really
+Amazing. I'm
+I'm really the happiest and I'm just genuinely so happy that I'm here and not anywhere else
+Because like I know that I would not be anywhere
+Near as happy if I was anywhere else to be honest
+So if anything if anything now that I'm here
+I'm glad that I didn't get
+Uh
+Into any other companies, you know that I try to apply to like
+In the past, you know, I'm like genuinely glad that I didn't make it in
+because I really
+wouldn't have been happy
+and this place is
+The perfect place for me
+and I wouldn't have it any other way and I want to
+Stay here for many many many years like I really hope that
+VLR can really take off and be here for like a really really long time, you know
+Like many many years like I'm really hoping for that. I really want I really want us to take off because
+It's it's amazing here. I I love it here
+I hope you stay I mean that's the plan like
+That's the plan. I want to stay here for
+For as long as they allow me to for as long as VLR exists, you know
+like
+Like I hope that like we will be here like in 10 years and I don't know if I'm being like naive
+or
+Something like that, but I genuinely hope that
+We will be here even in 10 years, you know, like I ideally would want to be here
+Even in 10 years, you know
+Like I really want this to be as long as possible via lurch
+Sounds good to me
+I hope so too, yeah me too
+I just
+Ah, it's it's it's perfect like I love everything about being here
+genuinely
+We will stay with you. I see oh, I hope so
+I hope so
+It would make me sad to see you like
+Like when when you see like certain names
+And like you get used to some names like and then like
+Eventually like they don't show up
+Like you notice that eventually and you're like
+Like either gets worried or you're like I hope they're okay or
+Stuff like that
+Till I say turn into baba shut up. I'm
+I'm always gonna be I'm always going to be
+Your baby no matter how old I am
+That's that's how it is. You're always going to be my daddy and I'm always going to be your little baby
+I
+I'm always here even if I'm just looking
+That's really sweet
+Our precious little baby
+Weren't you going to play a game I was but
+I'm having too much fun just talking with all of you. So
+I guess I guess we're not playing the game today. I guess today we're just
+Just talking and hanging out with each other, you know
+Like I I want to be a baby forever
+And and I hope and I hope that you want the same
+I want you to be my daddy forever and I want to be a baby forever
+And no matter no matter how much older I will get as years go by
+Too much fun talking game can wait. Yeah, I I feel like today. I'm just gonna end up not playing the game at all like
+I'm sorry if you were really looking forward to me playing the game
+I I'm just having a lot of fun just talking to you. I
+And I don't want to stuff
+You know
+And I hope that's okay
+I will play it. I will play it. You know, I will play this game
+Just
+Just not today. I guess today
+feels like a day for just hanging out together and
+Just talking about whatever
+You know
+Like I said, it's nice to just chill and be able to chat like this. Yeah, exactly like it's also really relaxing like
+it's really nice to just
+Sit back here and relax with you and
+Just talk about stuff, you know
+It's been super comfy. Yeah, I'm glad you think so
+Let the vod watchers know. Yeah, I will what I'm gonna do is
+uh after I end the stream what I'm gonna do is I'm gonna like
+change the thumbnail
+and
+change the title to just
+Azatsu
+I'm gonna change the title of the stream to just like azatsu
+and change the thumbnail
+So that whoever watches the vod knows in advance that I ended up not
+playing the game
+Yeah
+Will they know I don't know
+I have no idea will they
+Hey
+Yeah, just like last night's thumbnail. Oh, yeah. Yeah, okay true last night. We have to change our thumbnails as well
+That is true
+They don't know
+Will they know should be the title after
+Azatsu oh like you think that like I should name it like azatsu and then the title is will they know
+I think that's pretty good actually that would be pretty funny
+Wait
+Let me copy your message so that I don't forget it
+I actually like that
+Let me copy stop moving. I'm trying to copy it so I can remember to change the title to that
+Okay, okay
+That's so party for extra confusion
+They don't know
+Guys stop moving chat. It's it's okay. You can you can you can move chat again. You can you can talk again
+I copied it
+When is the next is samar stream? I see, um, let me check
+Let me check I don't remember
+um
+Next is samar stream is on
+On
+Monday
+And and uh on Tuesday
+I'm gonna have uh
+Another week of two smr streams back to back
+Just like uh, just like this week. I think this week I did two smr streams
+If I'm if I'm not wrong
+So
+Monday and Tuesday gonna be another like two smr streams back to back
+So, yeah, and then
+And then
+On the 22nd, which is going to be Saturday
+So on the 22nd of this month, I'll be doing another
+uh dj stream
+Like I really want to do another dj stream
+Um, I had so much fun on the last one
+I wish I could stay longer, but duty calls. It's been really everyone. Bye. Bye
+I I hope you have a good, uh rest rest of the day
+Thank you for stopping by
+Uh thumbnail should be you being smog. That's
+Hmm, maybe
+Maybe
+Oh, my irisichi
+I
+See thank you for your last patron smr
+It was really great
+I'm glad you think so. Uh, it makes me happy to hear when people
+Enjoy it excited for tomorrow's stream me too. Me too. Oh, yeah, oh my god
+You have no idea how how excited I am you have no idea how excited I am for tomorrow
+Like oh my god, we're gonna watch a movie
+And a drunken yoki like that's that's so fun
+To me anyways, I mean if you don't find it fun, I'm
+I apologize
+But I'm really excited for it. I think it will be so much fun
+I'm already thinking of like different songs to
+What songs I'll be singing and stuff like that
+Date night because uh, yeah, yeah, yeah
+It sounds like a really like nice romantic date night where we're like well watch a movie and then we
+Then you can listen to me
+Uh sing badly to songs while I'm drunk
+It's going to be great, right? I'm so excited
+Drunk ass is going to be so much fun again. Yeah, I mean if if you think I'm unhinged like today
+When I get drunk, I'm I'm even more unhinged so
+I hope you're ready for that tomorrow
+Play all of the sex
+Uh
+So I see don't forget to thank the donors at the end of the stream. Oh shit. Oh shit. Thank you for reminding me
+Yeah, that's true
+That's true. Uh, should I do that right now?
+Should I do that right now just so that I don't forget because my memory is so freaking bad
+It's okay if I think uh
+The current donors that I've had so far so that I don't forget
+Uh, because I really want to thank the people
+Uh, who did that might have me as well. Okay
+Do it now while you're thinking about it
+Okay, okay, okay. Um, okay, so so yesterday
+Uh
+So yesterday I got two donors. Uh, one of them was from a decent time
+Uh 100 dollar tip. That's fucking crazy. Thank you so much. You
+I feel really bad. You really don't have to give me like that big amount of money
+I feel like really bad make sure to save it for yourself, you know and take care of yourself
+But thank you
+Here's to a scuffed start. Hope you baby enjoy your night
+And and my night. I have enjoyed. Thank you
+Anonymous thank you for the ten dollar donation. I appreciate it very much
+Oh god
+And that today, oh jeez sometime another 100 dollar tip. I feel so bad. Stop it
+It's okay. I will love you through the ups and downs happy moments and low
+Moments we all have bad days, but they don't define us. Oh, that's really sweet
+And I agree. I agree like
+I like some of our bad moments are like bad days like they shouldn't define us
+But thank you so much for like another 100 dollar tip. I feel
+Uh, I feel so spoiled like I genuinely like feel so bad, but
+Thank you. Just please make sure to still you know not to go overboard and to still take care of yourself
+Uh rika, thank you for the ten dollar donation
+Hi, I see love your streams here the sweetest streamer i've ever watched
+I may not comment much due to being shy, but always be here supporting you
+That's really sweet
+Oh
+Well, I hope I hope that eventually maybe you'll be able to
+like be less shy and
+Chat some more so so you so you can interact with me more, you know
+Unless unless that's not like fun to you or or your shyness is too much in which case it's completely fine
+I just want everyone to be as happy as they can be but
+I understand being shy when I when I watch streams. I am
+More of a lurker as well, so I completely understand that so no pressure, but but thank you for being so sweet
+uh
+Inari, uh, thank you for the ten dollar donation
+Uh spending time with you and just hearing your talk is so lovely. It's my favorite stream so far
+Love you. I see let me spoil you
+That makes me so happy that's actually I think that's really sweet that it's actually like
+Your favorite stream so far even though it's just me yapping
+You know, that's that's so sweet
+I'm not a miss
+$100 tip
+I feel so bad take my money get pampered get pampered
+Love you lots. I love you too a lot. Thank you
+Man
+That's really sweet like just can you just promise me something can you just promise me that like
+Uh, that's when when when you when you
+Want to spoil me that like you you won't go overboard like that's that's the thing that
+That's really important for me like
+Please don't go overboard to where like
+Your life quality suffers because of it, you know, or like you're struggling financially
+Because of me like I I I understand like
+The feeling of wanting to support someone that you love
+Trust me I do
+But I still you know, I still want your life quality to be good, you know, I don't want you to like
+Get into problems because because of me, okay
+I
+Homeless shelter isn't that bad it is don't do anything stupid
+Pencrop for I see no
+Not going to drain our life savings no promises
+Please please I really hope you're all joking. I hope you're joking. It's okay. I have a backup
+Uh, I can't with you sometimes. I really can't
+Yeah, I'm joking
+Emptying my retirement to donate right now, please don't please don't do that
+You guys are really really something really genuinely
+Some something amazing
+You're all really something something amazing
+Living the life
+Oh, no, no
+These are the things oh decent retirement funds are made for none of us are making it past 65 anyway
+No, don't say that that's terrible
+No, don't say that that's terrible. Don't say that
+I I want you to live for way longer than that. What the fuck
+No
+I want you to live for way longer than that. What the fuck that's sad don't say that
+That
+We have to live till actual decent age so I see streams can come true
+Check don't lose again I see
+Okay
+No, stop
+No
+Stop it
+No anonymous, thank you for the $100 donation hashtag bankrupt for icy
+Stop it
+Thank you so much, but genuinely, please promise me that you'll be okay
+Please promise me that you'll be okay and that you're not gonna get into financial trouble like i'm serious
+Like i'm dead serious right now, please promise me that you're not gonna do anything stupid
+I
+See how your alerts not on they should be I guess they're not working or something, but they should be
+Oh no g-sund time with another $100 tip, please
+Please feel so bad
+Oh
+No
+But thank you so much for it. I promise i'm not going hungry and it's within my means love you
+Oh
+You're just sweet. Thank you. I love you too
+Thank you so much
+You're all you're all too kind to me. What the fuck
+uh
+I feel so like split spoiled rotten like like too much
+Thank you really genuinely
+Hmm i'm so decent i'll just gamble in much to keep you
+Oh my god, I can't you know what's the problem with my alerts is that
+Like I can't hear them for some reason
+Like I know that like you hear my alerts, but for some reason I don't hear them and that's why like
+Even though i'm like just chatting I
+Like end up not noticing
+That there has been any donations
+Which is fucking annoying. I'm gonna have to ask the
+I'm gonna have to ask manisan how to
+Get that fixed because
+For just chatting streams, I would like to be able to hear the alerts. I guess
+But
+I can deal with that later
+We don't hear alert we can only see them on screen wait really
+Because I have like the sound for the alerts like on on my OBS
+I hear the alerts
+Okay, so apparently some of you hear it and some of you don't
+It's okay even if you don't see them. I'm happy to support you
+Thank you so much genuinely, you know, I still want to show
+My gratitude, you know and thank everybody because
+Because it's not a given, you know, it never is
+So so genuinely thank you so much
+There is a pink, but it's super duper faint. Um
+Do I keep it faint though? Like I don't want it to be like annoying for you, you know like should it
+Should it just stay faint?
+because I mean
+I don't want it to be like an annoying sound for all of you, you know
+I don't have much money, but I'll give you all my time. Thank you. I appreciate it
+I mean, I mean, that's like that's like the thing right like you can you can support
+Someone you love in like many different ways, you know
+It really doesn't need to be financially all the time. There's so many ways to
+to support
+The people you love so again, like don't feel ever pressured, you know, we're living
+We're living in a really like
+Fucked up timeline where inflation is fucking crazy
+like everyone like
+Like majority of people really struggle because
+Just everything just gets more and more expensive as time goes so like
+Yeah, please don't ever feel like
+Basically don't do anything stupid and don't feel pressured to do that
+Can I support you with piggyback rides? Yeah, of course
+Inflation is kicking by my butt. I know inflation fucking sucks
+Fuck that shit it pisses me off so much like
+What the fuck, you know
+ah
+I'll keep the right amount of stupid
+Okay, okay, that that's that sounds like a good idea like a balanced
+A balanced amount of stupid
+Should be okay if we don't go overboard with it
+McDonald's like
+Double in price the past two years
+Okay, real
+True
+I see for a president should make inflation disappear. I don't think that someone as stupid as me
+Should be a president to be honest
+I don't I don't know if I would actually make things worse in the world just because I'm dumb and I don't know what I'm doing
+I
+Sorry, I was licking my lips
+Sorry, sorry
+I was licking my lips
+I was people on camera
+Real
+Oh
+I'm sorry, I really love making stupid faces. It's really fun
+Sorry, sorry, I'm getting carried away. I'm having fun making stupid faces
+What is the inflation rate of
+Oh my god, I don't know. I mean so far I have given it for free
+You know so far I have given the icinate for free on my alt twitter. So
+You're welcome
+You're welcome
+The tracking is really good
+Yeah, I I really like the tracking of this but I do have like
+You know the mouth tracking isn't the best though
+I will say that
+Like the mouth tracking has some problems like I had to
+Play with it a lot to like get it to
+Be the way that it is right now like it was I don't know if you remember but I think in my debut
+My mouth tracking was even worse
+So I had to like figure out like how to like make it at least a bit better
+It's so funny though when your mouth is open wide while drinking right it is
+It looks it whenever I drink water it looks like I'm waiting for you to
+Shoot your shot
+And my mouth
+Are you seeing an iphone for face tracking? Yeah. Yeah, I am I am I want to drink some more
+Ah
+No, what do you mean no, what do you mean no? Can't say no to me the fuck
+Yeah, anonymous thank you so much for another donation. Thank you for the thank you for the six star donation
+You're a really special bear and you came into our lives at just right
+Sorry
+Sorry at just the right time
+Who might be living in the dark timeline, but you're our little north star
+Keeping us focused on the bright parts of life
+Love always to you princess. I see
+Oh, that's so sweet. I love you too
+Thank you so much. That was a really sweet message
+I see I can't there's people around me. I don't fucking care
+I don't care just just just do it
+Just do
+I
+You really are so wholesome and precious
+Um, I don't know if I would say that I don't know if I'm wholesome. I have wholesome moments. Yeah, but
+I don't know if I'm like all that
+Also
+I'm always sad, but thank thank you make me happy. You're my favorite youtuber. Oh, thank you. I'm glad I can make you happy
+Wholesome but by youtuber standards
+True
+You are insanely wholesome. You just happen to be horny
+I'm I'm horny out of love. So that makes it wholesome
+That's what I think
+Now you're definitely wholesome in the way of loving but also horny
+True
+True you are not wrong
+You are not wrong. That is that is true
+That is a very good way to put it
+Being cute like this is what I like about you. Thank you. I'm glad
+Wholesome horny. Yeah. Yeah, that's me
+I feel yeah, it's like more of your personality come through since it's just conversing
+Yeah, I feel the same way
+It's it's been such a nice stream today like
+I wasn't planning to just
+For I didn't plan for it to turn into
+A full-on zatsu stream, you know
+But I'm glad that it did because because I'm having a lot of fun
+Do you have a favorite ice cream?
+I am not sure actually
+I'm actually not sure I
+I can't
+Wait wait, maybe I do wait. Fuck. What's the name of it?
+Wait, there is one ice cream like that's really fucking good
+Um
+Fuck what is the name of it?
+Um
+I was expecting to see something looted suddenly. I mean, yeah, I'm I'm not surprised
+Any description it's like it's basically
+Uh, it's basically a chocolate bar. It's basically normally it's a chocolate bar
+But they made it like into like an ice cream version
+And it's really like really really really fucking good
+Like really really really good
+Snickers wait wait, maybe hold on. Let me google uh Snickers
+Ice cream
+Is it?
+Yeah, yeah, yeah, yeah, okay, okay. So there's like a Snickers ice cream
+If you see it, please buy it. It's so fucking good
+That ice cream is like literally the best that I've ever had
+Fuck I'm dying
+It's so good like I the thing is like I don't really care about the chocolate bar the chocolate bar is like
+All right, you know, but the ice cream like the ice cream Snickers is fucking amazing
+It is so fucking good. Are you sponsored by Snickers? No, but I wish I was that would be cool
+I would totally like sell a bunch of Snickers
+The ice cream one at least
+It's so good, right?
+Right, it's like it's genuinely the best ice cream like I've ever had
+I actually have a box of those sitting in my freezer. Fuck now. I want some I should buy some
+I should buy some
+Because like it's getting hot sometimes
+With the weathers
+Yeah, that's a good idea
+Okay, I think I'll do that
+Edit on throne
+No, I can I can just I can just buy it. I don't need to put it on throne. I can just buy it
+And and like I said, I don't want to put anything on new on throne right now because
+Again, I've been I feel like overly spoiled and stuff
+Time to send I see a trackpad full of Snickers ice cream
+Yo lifetime supply of like Snickers ice cream, holy shit
+Let daddy get you ice cream
+Yay ice cream time
+Gotta go see you Icy have a good weekend. Thank you. I hope you have a good weekend as well. Take care
+Icy eating popsicles with just a t-shirt in the heat is such a cute image thinking about it. I mean
+Like you already know like I don't wear
+T-shirts pretty much during the summer, so
+Yeah
+Well spoiling my little princess I I noticed but
+I I'm trying to like take it easy. I guess like
+Like I don't think you understand like how like
+Like like it's like a good overwhelming, but
+Now that's the cheater. He don't know wait
+Wait, who's the cheater wait? Who's the cheater? Who is it? Who's the cheater?
+What what's her name? What's her name? Tell me tell me
+Tell me
+Come on. Tell me who's the cheater?
+Who's the cheater tell me if you're helping the cheater you're just as bad
+If you help the cheater you're just as fucking bad in my book
+So tell me think you're decent deleted the message
+Fuck
+What was their name?
+What was their name? Who's the cheater?
+I wasn't paying attention. I'm sorry. Okay, you're fine
+You're fine
+He could be in this very room
+Why is none of you telling me their name?
+Why are you helping him?
+You're just as bad if you help the cheater you're just as bad
+Why are you enabling this behavior?
+I didn't catch it. I don't know who it is. Sorry
+Excuse yourself cheater. I legit don't know where to focus on you. I genuinely don't know
+Well, one of you said that there's a cheater in here. So who was it?
+I was sending ice cream
+Based on g-sun
+Doesn't fucking care about the shit just like funds me ice cream because that's what matters
+lmao he got silent
+Wait wait, do you remember what his username was do you remember what his username was?
+Does anyone know what their username is?
+Uh
+Um, hello, I see I'm energy son and I'm also scared
+I mean as long as long as you're here and you watch me because you
+Just enjoy my content
+And you're not like oh, I see I'm in love with you. I love you
+And then you go and say the same shit to like another girl
+That's shitty don't do that
+But if you are here and like you don't do that and you are here just because like you enjoy my content
+And you like watching my streams and you like you don't do any of that shit like
+That's that's fine. You know
+His name was
+Hallhorn
+Your wrist when you watch the war for it
+So so that's you
+You're the one who's who's saying that you're literally saying when you read the rest of the vod probably
+And it's literally you apparently
+You're the cheater. Wait, what did they do apparently you're the cheater
+Apparently to someone
+Apparently someone here says that you're the cheater
+Content 4k
+It's time for the try
+Oh
+My god, why did I even do I don't know someone is saying that you're a cheater. This has become a case of food
+Something tells me he's being framed. I wonder I wonder if he is being framed
+I think the cheater is the one who said my name to be honest
+Oh my god
+You know that might be true. Okay. Who called you a cheater? Who was who was the person who called you a cheater?
+Who framed you
+Who framed my daddy
+It was happy ojisan
+The blood thing wait, it's happy ojisan the cheater
+Are you a cheater?
+It was me
+You're the cheater. Oh my fucking god
+You literally have my oshi mark and that profile picture and you cheat on me. What the fuck?
+Why would you do that?
+No, I'm not the cheater you say you were
+You said you were
+It was like a daytime drama
+I'm the guy that said he was the cheater. Okay. Why why did you say that? Why did you say he was the cheater?
+What did he do?
+What did he do?
+Why did you say he was the cheater?
+Please please tell I need to know
+What you understand
+Detektivisee
+Because I checked the vod. What did he say?
+What did he say?
+What did he say
+What what did he say can anyone confirm what he said in the vod
+I'm so confused but I'm here for it
+I live for half an hour and this is why I come back to you
+I'm badly there's a cheater in here and I want to know who
+Who is the fucking cheater?
+I don't even know what it said
+Oh yeah
+Quara is the one who got someone cheater
+Okay. Well, can you tell me who it was? Who was the person called the cheater?
+Quara said someone was cheating. Where is he?
+Okay. Lamar. I thought hall was that guy from twitter, but it ain't him. Okay. I was getting suspicious
+I was getting suspicious
+Someone cheated rip your nuts. Nah
+I'm I'm not a yandere. I'm I'm not really a yandere like
+If you cheat on me
+You're just I'm just throwing you like
+I'm deleting your whole existence
+Bye like
+You're you're never gonna get to enjoy me ever again in any way, so
+Uh good luck. Bye
+Thanos snapped
+Literally
+If you cheat on me, um you're literally just Thanos snapped don't fucking talk to me
+I see it's harsh or she becomes disappointed in you. Yeah
+Ah duly noted princess. Why do you say that? Are you gonna cheat on me?
+Why are you saying duly noted princess? Why do you need to know that?
+Are you planning on cheating on me? Is that why you're saying that? What the fuck?
+He's gonna cheat on me. I can feel it
+I can I can sense it. That's why he said that
+Right, that's why he said that
+That's why he said noted because because he's gonna cheat
+I'm sliding rips
+Probably
+Our skit's a little princess. I'm not skit so
+I think I think
+I die a loyal g-san
+I hope so
+Or I will fucking cry
+And then after I cry I will Thanos snap you
+But I will cry
+I see take your medicine
+I'm not skit so and I do take my meds shut up
+Do you stalk people's twitters?
+No
+No, I would never stalk your twitter
+Why would that?
+No
+Oh
+I don't have anything to hide anyways good as it should be
+That's the right way to go about it if you have nothing to hide
+You're good if you have nothing to hide. I love you even more
+To be honest if you have nothing to hide I love you even more
+But if you're sneaking about it
+And trying to avoid it just
+Just just stop saying you love me, okay
+If you want sneaking and everything just don't say you love me. It's really that simple. Just don't say it
+At least this means she'll see my bad meme that I made earlier this stream wait you made a meme
+I love you. I see I love you too
+Well, I don't care how much we're just full of
+Full of life what?
+Don't knows I see
+Oh my god
+Fuck uh panda jeff. Thank you so much for the $10 donation. I see ice cream fun. Thank you
+I'll definitely buy myself some of the nice sneakers ice cream that I love so much. Thank you
+Oh jeez sometime, please. I'm begging you. Please. Please stop with the $100 donation. You're the freaking
+You're the freaking kill me
+Snickers ice cream fun for baby gives me $100 like
+Please you already donated more than enough. Please. Thank you so much
+Thank you. I really appreciate it
+I see hold me. I'm confused. Thank you anonymous for the $100
+Thank you so much anonymous. I appreciate that
+Uh qb I blink and suddenly yandere bear arc happens. Thank you for the $10 tip
+I'm not a yandere. I'm not a yandere though like the I don't think I don't think I am
+like
+Like I wouldn't like murder anyone. I wouldn't like kill anyone
+If you cheat on me, I will just be really uh
+I'll just be really heartbroken
+and sad and depressed and cry
+and then I'll be pissed off for a while and
+just completely like
+delete your existence
+Like from my mind and not interact with you in any fucking way
+I
+Get just just like normal people. Yeah, I think that's normal, but like I
+I wouldn't kill anyone, you know, I wouldn't like murder anyone over it
+That would hurt even worse
+I mean, yeah
+Yeah
+What kind of dare do you think you are?
+Um, I'm actually not sure
+I'm actually not sure because
+I'm really bad at like understanding my personality
+like
+I don't know if that makes sense, but I find it like hard to understand
+What kind of person I am it's a lot easier for me if people tell me
+How they see me
+Because whenever people ask me stuff like oh, what's your personality like or
+What type like this and this are you and I'm like
+I genuinely don't know because I feel like I have sometimes like
+different like
+qualities of different personalities
+And you know, it changes on like the situation and the people I'm around with, you know
+So it's for me. It's hard to tell what I'm like
+and
+It's easier if people just tell me how they see me, I guess
+And go from that
+That's normal, it's almost impossible to know yourself with people showing you the person they seen you. Yeah, I feel like it's
+I think it's like pretty like complicated for me to
+Like I've always had a problem with that to be honest like I never was
+I don't know. It's just complicated
+I saw whole horn. Thank you so much for the $10 donation
+After my trial where I was found to not be the cheater. I would like to demand
+Reparations for this wrongful accusation in the form of free isenate. That is all oh and I see
+Thank you so much. Thank you for the $10 donation
+I literally already gave isenate yesterday. Come on like
+Come on. You had it yesterday. You can
+You can't wait a day without it. You don't need it every fucking day
+Personality quiz stream when okay, so
+My personality like you know, there's like that one big test
+um
+That everyone takes to like know your personality type
+uh, so
+I don't
+Let me look up
+Uh
+I don't know if that helps or not, but uh
+My personality type is uh, I
+nfp
+But apparently there's like two
+Apparently there's like two different, uh
+Like sub categories to that personality as well
+Uh, and I can't remember which sub type I am
+Uh, I can't remember
+What's the difference between the
+Two types of them. I can't remember which which one I am, but uh
+nfp
+Types
+Where is where is uh
+Sorry, I'm trying to google it
+What is uh
+And what is so there is I nfp a
+And there is I nfp
+I nfp t
+So there's like two different ones
+and
+I don't remember which
+One I am to be honest
+So
+So yeah, I I I don't
+I don't remember
+I know like that like generally that I am I nfp like I've taken the test
+Quite of times
+Uh before so like it's confirmed like it's confirmed confirmed that that's my personality type because I've taken that that's like
+many times
+In my life
+But yeah, I'm very like
+Emotion like driven and
+Like creativity driven and
+All that stuff and yeah
+Pretty sure I'm I and
+GT
+Oh man, there's I I don't even I would have to like
+Google all this
+There's I n t j
+And there is I
+And j t
+Right like those are two different ones
+Can you draw or paint well, um
+I used to draw a lot as a kid
+I would like whenever I would watch cartoons and stuff. I would get like paper
+And try to draw as I was like watching the cartoon and stuff like that
+And and eventually I got pretty decent at it and
+You know, I was drawing more and stuff like that and
+And then like at some point in my life, I did a lot of stuff related to
+Related around art like I was there was like this one time that I
+went to like
+I volunteered at like a gallery
+and
+And I had like one like some
+I had some of my I used to like do photography stuff as well. So I used to have like
+Some of my photography on like the gallery
+exhibition
+That I was like
+Created I was like a curator of that exhibition with some other girls
+We were like in the group and so I was like contacting like
+multiple photographers that I really
+love their photography and so
+We had like an exhibition in that gallery and then
+And then another time I
+I made like
+some art and
+And I had it like in a museum
+exhibition
+And that was like a big thing for me like I remember like both of my parents
+Coming to the museum
+Back then to look at it and and I was feeling like really proud and happy and my parents were like
+Wow, look at her go. She she has her art like in the museum exhibition and I was like
+I was so happy that uh
+I was able to make them
+And proud
+And any chance they're still there, they're not because you know, it was it was an exhibition and you know exhibitions are like usually
+They're there for like
+A certain amount of time
+And then you know, they change them
+Like there's museums where it's like, you know permanent like stuff and then they
+Sometimes hold exhibitions
+And stuff like the world famous artists. I said nothing else. Nah
+I'm not not anything like that. Not anything like that, but
+But back then I was yeah back then I was like really
+back then
+That was like my big thing back then I was hoping to like
+Focus on art and
+And make like a career out of it, but
+uh
+But then eventually I realized that like it's not for me because like there was a time when I
+would take um
+commissions for art
+and
+And basically from that experience I
+I realized that
+it's it's not
+It's it's not for me, you know, I rest it's not for me because whenever someone would commission me I
+I would uh
+I would get really anxious like I would get really anxious and nervous and
+You know overthink like
+Every line that I do I would constantly be
+Scared and nervous that it's gonna look like shit or that it's not gonna be good enough and
+And so because of the commissions is actually why I stopped like
+drawing like
+Because
+It it was no longer like a fun thing for me to do
+It was just like something that made me feel like all these negative emotions
+And when I was a kid
+And before that like I used to just draw
+To like express myself or like draw things that I like or
+um
+I mean my art was like
+Pretty pretty weird let's put it that way because
+It was something like I remember um
+At school I I used to like take uh
+I majored like art and like
+like
+school and
+They had like this like big exam thing
+Where they give you like
+um
+Like a really big art project to work on
+and then like
+If you like art teachers like check it and
+You know they give you like a score based of it and all that stuff and
+um
+basically my project
+um for that was
+Just mainly like
+My my art project was uh
+Based on the different parts of my personality
+So I basically drew like a couple of different artworks that I felt
+Showcased and represented like parts of my personality and different sides of me
+So some of them would be like really weird or morbid
+Some of them would even like include like
+Like portraits of like people that meant a lot to me
+Some of them would include like something
+More like cute and stuff like that
+And you know it was like kind of over the place but surprisingly uh
+Surprisingly I got like the highest score
+I got I got surprisingly the highest score in that exam out of
+Everyone and I remember um
+The person who was like, you know giving the scores and checking it telling me that
+Like I don't know that I was like
+Extremely creative or something like that and
+I don't know
+Stuff like that, but you know eventually with time
+uh, I just started like
+Uh
+Doing art less and less, you know like uh
+I'm I'm just all about making shitty ugly doodles with my fucking mouse
+At this point of my life because it's stress-free. It's it's funny. It's stress-free. It's funny. I
+If it looks like shit, it makes it even funnier. So I don't know. It's it's just not really
+Not really my thing anymore, you know sometimes sometimes
+As you grow up like you're still trying to figure out yourself, right?
+So there will be times when like you've had hobbies that you
+Were extremely
+passionate with and
+That you really thought you're going to make like a career out of them or something and then
+As time goes by and like different things happen to you in life and you gain different experiences like
+You know, sometimes you just don't feel anything about
+Those hobbies anymore. They don't make you happy anymore
+So that's I guess that's kind of how it was for me for me and learn
+I just like making ugly funny silly doodles with my mouse and
+That's that's the enjoyment. That's like the most enjoyment that I get out of
+Making art if you can call it that
+Um, but if you want, uh, I could show you like I have um, I actually have some of the art
+That I made for that big art project exam back then. I have some
+Pictures of it
+I could show you but I also don't want to like weird you out. It's like because like I don't know
+I don't know if like the art that I made back then like would make you like think weirdly of me because
+Some of it is like really weird or maybe like
+I don't know. I don't know
+I don't know. That was just really something
+Art is subjective weird way. Yeah art is
+Art is art like it can be anything and
+A way to express yourself
+Oh, please. I would love to see
+um
+Maybe maybe I will I will show it eventually
+Well, I'll have parts of our past that no longer apply but still explain how we got to where we are. Yeah, I think that's definitely true
+I I definitely agree like
+They were like part of
+Like our
+development as
+A person
+You know
+That's why I also think that like if like
+Maybe you if someone like did do something bad in the past
+And and I'm not talking about like extremes here
+Like, you know, but I'm talking about like
+You know, like more generally like speaking stuff
+Uh
+Fuck what am I even trying to say? I'm just trying to say that like it's
+It's part of your growth and and it's part of your growth and at the end of the day
+What I think really really matters at the end of the day
+is that
+You you strive to be a better person and that you
+You know want to be better and
+you know like
+That like you are self aware. I think self awareness is very important
+I don't know if that makes sense what I'm trying to say
+I'm kind of just yapping
+around and
+Basically don't focus too much on what you did in the past
+And just have self aware awareness to know that like, yeah
+You know what I did back then was like really shitty or really bad and I don't want to ever do that again
+I don't I don't want to be that person or
+Stuff like that and just like
+Make growth
+out of that
+I don't know why I'm talking about that. I feel like it's so weird that I'm talking about this stuff right now. I'm sorry if it's like
+Really like too serious or like a really weird thing to talk about. I don't
+Uh, I'm just like I'm just rambling honestly at this point
+Learn from the past grow as a person. Yeah, exactly
+I think I think the end goal is
+To be the best version of yourself that you can be
+and
+And as I always say
+as I always say
+Being your authentic self
+easier ideal self
+I don't know. I I just I don't keep repeating that quote, but
+Whenever I get insecure or
+nervous I
+I keep reminding it to myself
+And
+Is this how the pillow talk is gonna be like
+I don't know. I don't know
+Uh, I don't know if it's weird that I'm talking about all this stuff. I'm sorry if it is
+Not weird at all it helps us to understand and connect more with you. I'm glad to hear that. That's that's really nice
+Honestly, I love it. No, I'm really glad to hear that
+Just be the best you can be. Yeah, pretty much
+Yeah, I second that. Yeah
+You learn more from a mistake
+That that a job will do most of the time. Yeah
+That that is true and you also
+you also learn from
+Actual experience as well, you know
+It's fine. I see just be safe and no docs. Okay, I'm not doxing myself. I'm not like
+I'm not giving you
+I'm not giving you my address or nothing. I'm just talking about like my
+My life and
+How I am and just
+For you to get a better idea of
+What I am as a person, I guess
+It's just really nice to be able to talk about this stuff to be honest
+Oh, oh my god
+Vatams, thank you so much for the 99
+Darts, thank you. Thank you so much
+That's really sweet. Take these
+Authentic 99 bingo box seriously though. Good talk. I see love
+Oh, that's so sweet
+Oh
+Kind minister love. Thank you so much. I
+I just this feels so spoiled. That's
+It's it's a weird feeling
+We know just be safe, you know, we still want you here. Yeah. Yeah, I I know I I try to be as
+As good as I can be about my
+Uh, what's the word ops?
+Ops bag
+Ops bag. I don't remember something about that
+And we enjoy spoiling you so it works
+Yeah, but like the thing is you enjoy spoiling me but
+I I sometimes like feel like guilty and like
+Like bad and you know about it because I'm like
+I don't feel like I I deserve like I really didn't do much, you know, like I didn't I don't know
+You
+Make us feel so good that we want to make you feel good in return. Oh, that's really sweet
+All of you really make me happy like genuinely
+I I can't remember exactly but
+Uh, I can't remember exactly what she be was talking about in one of her streams
+I think maybe yesterday, but
+She was saying something that
+I felt a similar way about you know, like like, you know how sometimes like I get worried and I'm like
+You know like overthinking stuff overthinking the future and
+And just like think about it too much. I'm like like I feel a similar way that
+She be does in the sense that like
+I just I just want everyone to
+To be happy, you know and like
+And like
+Some of us are like really deep in it
+More and more every day and
+And like that part is scary when I overthink it overthink it because I think about the future and I'm like
+I don't I don't want to hurt anyone, you know, like at the end of the day
+I want everyone to be happy and I guess when I think about the future it scares me because I
+I don't want to
+Break anyone's heart, you know, I don't
+I I want everyone to be happy, you know and
+And
+When you get like so deep in it like you can't help but
+Think about the future and like overthinking and be like
+Uh think about like what ifs or
+And I'm trying not to think like that, you know, I'm trying not to think like that
+I'm trying to really just live in the moment and
+And enjoy the present because that is
+That is exactly the best way to live, right? But when you are
+In it like really deep it it feels really difficult not to think about that stuff
+Like I don't know so I guess it's like I don't know I don't know what I'm
+I don't even know what like the point I'm trying to make is honestly, I just
+I don't know. I just I just want everyone to be happy and I
+And it's scary, you know scared because I'm I'm scared of anyone ever like
+Getting hurt or anything like that like
+I don't know
+I don't know how how to word it
+but
+basically
+Yeah a similar feeling to
+What she be was talking about yesterday. I think it was yesterday. Um
+No, it wasn't yesterday or was it
+I don't I don't remember there was like a stream where she talked about something similar and
+I was like, yeah like
+Sometimes I would think that and I'm trying my best not to I really am
+Trying to you know
+Just enjoy the present but
+It's so difficult, you know
+It's it's so difficult like not think about it, you know
+Like because you don't want to hurt anyone's feelings. You want everyone to be happy
+Like I generally want
+Everyone that's been really kind and sweet to me have
+a really good life and
+Be happy, you know like and
+It would just feel so horrible to like hurt anyone and
+Because I don't know
+Feelings I feel
+Just gonna randomly end the stream again and exit obs because I feel
+I feel
+I understand always be here and it's okay. I know what you mean. Yeah
+How how does one
+Not think about it. How does one just
+Stop worrying about it like how do you even do that?
+I feel bad like this is like this is like a heavy conversation we're having and I feel like really bad
+I
+Feelings are complicated and love especially but it's all worth it. Yeah, it is complicated
+Uh, I couldn't answer that alone, but I feel
+The way I feel
+Uh, no point to do me when you can be blooming
+Uh
+True
+True
+I don't know if it gives an anime
+I'm sorry, but I feel my emotions extremely strong
+I don't think because an anime would like fix my fucking
+Depression if I got like extremely fucking sad or something happened, you know
+That would like
+That would be like sad
+I'm happy as long as I seen is happy
+And I'm happy as long as you're happy
+Sorry
+I love you even if I can't be there next to you
+I never thought I could be the spur of social before I started watching
+You uh, I
+That's really sweet. I I I actually feel the same way like I never
+Felt like this before, you know
+Like in my past
+When I did stream like I never felt like
+Like this much like this is like a whole like another
+10 20 like levels of it, you know what I mean like it's it's like completely different than like anything I've ever experienced so
+So yeah, it's
+It's it's really something
+I don't think you can stop the emotion
+You just have to take the good and bad as they are. Yeah
+That's true
+Do you make this mister feel like a teenager in love again?
+The ultimate fountain of youth
+That's really sweet actually
+I think I think it's really sweet when some of you say that like
+Stuff like that like, you know like
+Make you feel young again or like
+bring youth or
+Stuff like that. I think that's really sweet
+It's because of the nature of not say for not say for work work. I I disagree
+I
+Don't think that's why
+I don't think that's why and I'll tell you why I used to
+Before I even started v2 being
+I used to do
+Only fans
+I used to do only fans for a few years and
+You know like taking like pictures of myself
+and like some cosplays and
+stuff like that and
+I never felt that way with like anybody, you know like the people who would
+message me, you know
+Or stuff like that like
+I I never
+I never felt like per social with them
+So I don't I don't think it's I don't think it's because of the nature
+of the
+not say for work
+Thing because even when
+I did like not say for work content before vlr
+I never felt like per social with
+For the people, you know what I mean
+Like I never felt like this. So with you it's like it's completely different
+Only pause
+It's about the authenticity of the interactions between parties maybe yeah, I think that's what it is because like
+because like
+Right now like it's not just it's not just like
+sexual stuff, right like
+We we spend time together like we talk about
+actual like
+You know life we we talk about deeper things sometimes we
+You see me stream and just be my silly funny self and
+And stuff like that like you're getting to know like the actual like person on a deeper level, you know
+and
+And I think that's like where
+Those kind of stuff start to develop
+Like if it's just if it's just actual then like
+I don't know
+It doesn't like
+Like I need to have emotions basically I need to have emotions for like
+Like the whole sex thing to be like
+You know like I wanted to mean something. I don't want it to be just like
+Whatever, you know
+That's why that's why when like people ask me about like tributes or stuff like that
+You know the sexual ones
+I'm like
+only only if you love me and
+only if you don't
+flirt with other girls because to me like
+uh
+those are like a form of
+intimacy
+That you share with one another in a special way. So like if someone sends me a tribute
+And there's no message attached to it and it's just like
+A random dick joking off like
+It genuinely doesn't do anything for me. Like I don't feel anything. I don't fucking I don't care
+You know what I mean
+And also to clarify also to clarify another thing like you can
+I think I think people are misunderstanding some stuff. I think there is like a misunderstanding
+You know like you can still watch
+like the other
+Like my gen mates and stuff or like support them like of course like they're amazing
+What what we don't want what we don't want you to do is to
+say like
+Oh, I love you. Oh, I'm in love with you. You know, oh, I want to be with you. Oh, I'm in love with you
+And and you're my favorite or and then you go and like same the same shit
+To all the other girls like that's that's just fucking stupid. Just don't say it at all at that point
+like
+Just stop, you know, it's like specifically about
+tributes and
+You know flirting and I know we're supposed to be like
+A horpo, but for me specifically like
+Like I'm not gonna lie like I am getting very I am getting like very attached, you know
+I can't help my feelings like
+I I didn't plan for this to happen
+Like I'll I I'll be honest like when I joined I my plan was to just be purely sexual and
+like
+not
+You know not not care about those kind of stuff and
+Not not like let it mean anything, you know just purely sexual, you know
+but
+But you're all like so kind and sweet to me and just such amazing people that like
+We just we just naturally like started getting closer and closer and
+so
+So yeah, so basically
+uh
+How do I how do I say it in in a way that is not misunderstood
+Uh just
+Just don't be stupid
+Just just just don't lie. Just don't lie. Just don't
+Don't say things that you don't mean, you know
+Like don't don't go into a girl's
+Freaking stream and be like, oh, you're my favorite. Oh, I love you
+I'm genuinely so in love with you
+I have feelings for you and I think about you and blah blah and then
+And then you go to like all the other girls and you go and say the same shit
+Or or something similar
+like
+Just just be a decent person and just
+Don't say that if you don't mean it
+Don't say things that you don't mean basically. It's really that simple. Honestly. It's really not that difficult just
+Just don't say that stuff, you know, if you don't mean it, you know
+You can still you can still be a decent person and watch all of us and support all of us and be a decent person about it, you know
+I feel like it's really simple to do that
+Do many people do that? I don't know but like
+But there was like one person like on twitter. I think I don't know if some of you saw it
+I think you saw it because like I add mercy about it
+On twitter and I was like, there's a fucking cheater in here
+Bro, it's like telling me this mister loves you so much and then he has this fucking oshi mark of mercy
+like bro
+Have some like
+tagged
+Like hello
+I hate that shit like genuinely. I genuinely hate that shit. It pisses me off so much
+Like what the fuck is your problem?
+Like what
+What I just I just don't get it. I personally personally I don't get it. I don't
+If you don't mean something just don't say it. It's
+I don't know. I'm probably like overreacting honestly
+I'm probably overreacting
+And stuff and I'm sorry if I am
+But I felt like it was like a big thing to touch subject on
+You know
+as
+You know
+I I didn't plan to feel the way that I do, you know the plan was to keep it purely sexual but
+you know
+feelings feelings and things change when you know you meet some
+decent people that are really sweet to you
+And treat you well surprise surprise and then you get attached to them like
+That's that happened
+You you build
+a form connection, you know
+Someone told me to check my donations
+Vaults, thank you so much for the 69 dollar tip
+Thank you so much. One day I'll come to your
+DJ concert wearing icy merch wear and I'll cheer you on with my icy pan lice
+energy son
+What a gay wait, I don't know how to pronounce this so what
+What hi yay
+Honestly, that's like the dream that's the dream I really hope to have uh
+3d
+dj session
+In like irl venue where people can watch it online, but can also buy tickets to
+Uh go there uh in person
+That's that's like my biggest dream. I really hope that we will be able to
+Just set something like that up in the future like
+That's like like, you know one of my big dreams that I have I think it would be so cool
+Oh my god, you're still streaming I know I'm surprised too
+I'm surprised too that I'm still streaming. I'll be honest with you
+I'm surprised because you know, I usually like just just leave after two hours
+Uh, but today's conversations like have just been like so pleasant and
+nice
+I've been loving every second of this. Thank you so much. I mean me too. I
+I really enjoyed it a lot as well. Uh, let me read another one
+sigma the icy lover
+Thank you so much for the six dollar donation. Thank you so much
+Uh, suddenly I don't have much money to give out randomly, but
+I wanted to give my sweet bear
+something anyway
+I've I've been uh surprisingly happy since I found you
+You managed to clear the dark that's from my head. I love you adorable yet lewd ice teddy bear
+Oh, that's so sweet. Oh, that's such a sweet
+That's such a sweet things to say
+Oh, I'm I'm really glad that I can
+Help you clear those kind of thoughts and it makes me happy when I can affect people
+In a positive way. That's really sweet and
+Like don't don't worry about like stuff like money or anything. Please again, like I said, it's
+No, there's like no pressure. Please always take care of yourself. Um, but I really appreciate the message and
+Thank you for the really sweet words
+You're gonna change stream title icy deer. I will once I'm done streaming
+This is not like twitch where you can just change the title
+In the middle of the stream. I don't think
+If it is possible
+I don't know. I'm scared that it's just gonna make like the stream fucking die or something
+Like I don't want a repeat of yesterday where I'm like talking and in the middle of it
+Maybe it's fucking dies or something
+I think you can actually
+Is it is it not gonna like fuck up like the stream or like something?
+I feel
+Tell me again, how did the stream become is that so
+uh because
+Because my my sweet
+Snowberries are really fun and pleasant to talk to
+And I just have so much fun
+Talking to them, you know
+so
+It just naturally developed into is awesome because I love talking to my snowberries
+You know, it's it's really that simple
+Because she loves this and kept talking. Yeah, exactly like I love talking to you like I'm having so much fun
+This is like this is like so great like that's
+That's honestly like a big thing that I always wanted to do like I always like
+I wanted to be able to like sometimes like have just like
+run those
+Streams where we just hang out together and talk about like whatever just like relaxing together like not necessarily gaming or anything
+Just talking about different subjects and enjoying each other's company, you know
+We're more appealing than playing a video game good ego boost
+That it is true though
+It is true though, like I I have trouble finding games that I enjoy so
+Surprise surprise like I actually like
+Uh feel like I have a lot more fun just talking to you like today
+I
+I still love like playing like games on stream don't get me wrong
+That's really fun as well because a lot of like funny memes happen out of it, you know a lot of like
+You know like things happen during it. So it is fun
+Uh, can we do this more often cob? You really make everything better
+Sorry, um, yeah, I'll I'll think about it
+Maybe
+Uh, then tomorrow is a dj stream. No
+No, there is no dj stream tomorrow tomorrow is my
+Tomorrow we're doing a movie watch along and then after that a members only
+Drunk karaoke. That's what's going to happen tomorrow
+The watch along is my monetization and membership opening celebration
+so
+Yeah, and the members only
+Drunk karaoke. That's what's happening tomorrow
+I love these streams. I'm glad I can't wait to finally remember you
+I don't know why that sounded kind of loot to me
+That's probably because I'm just have a loot mindset. Sorry
+Um
+Usually I just sleep till I have to work, but now I have something to look forward to
+Oh, I feel the same way though. I feel the same way like every day I wake up
+Like so excited, you know, like every day there's like something new and good to look forward to and
+That's such a nice feeling, you know, I'm really happy
+Okay
+It's an eager coded post
+Uh, remember tier one is emotes and the rest can get more
+perks
+Uh, oh Jesus can think of yeah. Yeah. Yeah
+Yeah, it just just the same way that strani has it
+You know tier one is like for the badges and the emotes and then tier two is for the
+Member only streams and stuff like that
+So just letting you know in advance that that's how it's gonna work
+Except our members
+How does strani have it that that's the way the chi has that I believe she has two tiers
+Tier one is for emotes and the badges and tier two is for
+The members only the streams and other content. I guess depends on what each girl does
+Not sure if you saw it by the way, but I suggest earlier that you can do a member stream
+Where you doodle us profile pics. Oh, I actually didn't see that. That's a that's a cute idea
+Whoa, that's a good idea. Hold on. Let me copy that
+Let me copy that in my notes
+Real quick
+Uh, that's actually a good idea. That would be a really cute member only stream
+Making for all of you like your own custom profile picture. That would be so much fun
+Whoa, I'm actually super excited to do that
+Wow, that would be that would be actually really fun. I would love that like dry custom profile picture
+For for all of you that are like members
+That will be such a fun stream
+Can just yap away while I
+Well, I make you funny cute art for you two so it's a perfect picture
+Is there gonna be a story in for you, you know
+Um, I don't know
+I don't know
+for now, no, but
+Who knows what the future will bring
+You know that premium path
+Oh my god
+Meet and fuck for two
+Oh god
+Oh no
+Not like this
+Oh no
+I see you're underestimating the member numbers, I think
+I mean
+I I don't know what to expect to be honest
+I uh, you know, like I don't I don't really know what to expect
+Tomorrow, so I genuinely have no idea
+So because we will see what happens, I don't know
+Tier 4 premium path
+Every time I think she'll get tired of blue joke she leans into them and then loses it that's that's just the way I am
+And and I hope you like it. I hope you love the way that I am
+I see battle pass
+Oh my god, I see battle pass where you have to like do different quests like every day
+To like hit like the max level of the battle pass
+Hahaha
+I can't think of a handful of names that will be great tomorrow
+Oh, I'm sorry like yeah
+And your battle pass to grind wink wink. Why would the quest even be?
+I wonder
+I wonder that's actually pretty funny
+That's actually pretty funny to think about like even though it's like as a joke
+That would still be like funny to think about it
+The daily pass like quests are like
+Oh you you have to today one of the quests is like
+to send multiple like
+audios of yourself or
+Or like the next day you you need to draw fan art even even if you think it's gonna be like shitty art
+You you still have to draw me even if you draw me as a stick i'm still gonna appreciate it
+Because you've put time and effort into it
+Uh
+Oh
+Shit that would actually be cool
+I feel like that would be like too much. I don't know
+But it's it's a funny concept. It's it's funny as it's like a fun concept to think about it
+I don't know joke around about but I feel like in
+In reality would be probably too much
+I do that battle pass
+Yeah, and you would do me as well
+Oh no, i'm getting unhinged again. Oh no
+Sister well fuck i've been yapping for like
+Three hours and a half. What the fuck is my problem?
+That's actually awesome, but it would be hard to come up with something every day. Yeah, that too
+I
+Love how the loot jokes just slip out of you. I see
+Yeah, just like your count does out of my
+Make sure to have some tea and take care of your voice after stream. Yeah, that's true. I definitely need to
+Drink some tea after this stream. I don't remember the last time that I have talked this much non-stop
+I genuinely don't remember so I am going to need to get some nice tea and
+relax my voice
+because
+We have tomorrow's stream and i'm doing a karaoke so
+So I need to make sure that my voice is still intact for tomorrow
+Because I don't want because if I have a sore throat tomorrow and you know
+My throat is in pain. I won't be able to do the karaoke and I don't want it to come to that
+So no booty stuff? Well, what?
+What do you mean?
+Huh, what are you talking about?
+What are you talking about? I almost want to just talk with people and make quick requests for ourselves
+Okay, I really don't want to end this stream right now, but I think I will
+Just so that I can save my voice for tomorrow because I can feel like my voice like
+Like it's getting harder and harder for me to talk like I can feel my throat like feeling
+Uh
+Not not not the best right now. So I think it's a sign that I should
+Rest and head out so that tomorrow I can
+actually
+do the
+The drunk karaoke and and sing for you and I hope you will enjoy my
+singing even if it's not good
+and
+that you will enjoy
+Overall our time together tomorrow because tomorrow we're going to be spending
+Even more time together like we spend more time together today, but tomorrow we will spend even more time
+together
+so yeah
+You bless us with a long talking stream
+And and you bless me with your amazing company. So thank you
+It'll be great just to chill and celebrate your accomplishment. Yeah
+I'm really excited
+so
+As much as much as I want to stay and talk to you more
+Because it's been so fun
+uh
+I will have to head out and get some tea and
+Rest my voice so that tomorrow I can I can sing for you
+So, uh, thank you so much for being here with me. Thank you for listening to me. Yeah
+Thank you for all the donations as well
+here
+You just spoiled me way too much
+Generally, thank you so much. You're all
+so sweet so kind I
+I'm so lucky to
+To have you generally uh
+I love you and I will I will see you again tomorrow and tomorrow we will be spending
+Much much much more time and we're gonna do lots of fun stuff. So yeah
+I'll head off for now and get something. I'm going to miss you
+I want to miss you and
+Yeah, bye bye for now. I love you

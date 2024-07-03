@@ -6,4 +6,5 @@ matplotlib
 scikit-learn
 jupyter
 notebook
+ipykernel
 phue

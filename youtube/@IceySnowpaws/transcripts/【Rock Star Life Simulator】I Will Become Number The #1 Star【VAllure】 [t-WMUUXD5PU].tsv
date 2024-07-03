@@ -1,0 +1,1638 @@
+start	end	text
+0	2000	1.5kg.
+2000	4000	2.5kg.
+4000	6000	3.5kg.
+6000	8000	4.5kg.
+8000	10000	5.5kg.
+10000	12000	6.5kg.
+12000	14000	7.5kg.
+14000	16000	8.5kg.
+16000	18000	9.5kg.
+18000	20000	10.5kg.
+20000	22000	11.5kg.
+22000	24000	12.5kg.
+24000	26000	13.5kg.
+26000	28000	14.5kg.
+28000	30000	15.5kg.
+30000	32000	16.5kg.
+32000	34000	17.5kg.
+34000	36000	18.5kg.
+36000	38000	19.5kg.
+38000	40000	20.5kg.
+40000	42000	21.5kg.
+42000	44000	22.5kg.
+44000	46000	23.5kg.
+46000	48000	24.5kg.
+48000	50000	25.5kg.
+50000	52000	26.5kg.
+52000	54000	27.5kg.
+54000	56000	28.5kg.
+56000	58000	29.5kg.
+58000	60000	30.5kg.
+60000	62000	31.5kg.
+62000	64000	32.5kg.
+64000	66000	33.5kg.
+66000	68000	34.5kg.
+68000	70000	35.5kg.
+70000	72000	36.5kg.
+72000	74000	37.5kg.
+74000	76000	38.5kg.
+76000	78000	39.5kg.
+78000	80000	40.5kg.
+80000	82000	41.5kg.
+82000	84000	42.5kg.
+84000	86000	43.5kg.
+86000	88000	44.5kg.
+88000	90000	45.5kg.
+90000	92000	46.5kg.
+92000	94000	47.5kg.
+94000	96000	47.5kg.
+96000	98000	48.5kg.
+98000	100000	49.5kg.
+100000	102000	50.5kg.
+102000	104000	51.5kg.
+104000	106000	52.5kg.
+106000	108000	53.5kg.
+108000	110000	54.5kg.
+110000	112000	55.5kg.
+112000	114000	55.5kg.
+114000	116000	55.5kg.
+116000	118000	55.5kg.
+118000	120000	55.5kg.
+120000	122000	55.5kg.
+122000	124000	55.5kg.
+124000	126000	55.5kg.
+126000	128000	55.5kg.
+128000	130000	55.5kg.
+130000	132000	55.5kg.
+132000	134000	55.5kg.
+134000	136000	55.5kg.
+136000	138000	55.5kg.
+138000	140000	55.5kg.
+140000	142000	55.5kg.
+142000	144000	55.5kg.
+144000	146000	55.5kg.
+146000	148000	55.5kg.
+148000	150000	55.5kg.
+150000	152000	55.5kg.
+152000	154000	55.5kg.
+154000	156000	55.5kg.
+156000	158000	55.5kg.
+158000	160000	55.5kg.
+160000	162000	55.5kg.
+162000	164000	55.5kg.
+164000	166000	55.5kg.
+166000	168000	55.5kg.
+168000	170000	55.5kg.
+170000	172000	55.5kg.
+172000	174000	55.5kg.
+174000	176000	55.5kg.
+176000	178000	55.5kg.
+178000	180000	55.5kg.
+180000	182000	55.5kg.
+182000	184000	55.5kg.
+184000	186000	55.5kg.
+186000	188000	55.5kg.
+188000	190000	55.5kg.
+190000	192000	55.5kg.
+192000	194000	55.5kg.
+194000	196000	55.5kg.
+196000	198000	55.5kg.
+198000	200000	55.5kg.
+200000	202000	55.5kg.
+202000	204000	55.5kg.
+204000	206000	55.5kg.
+206000	208000	55.5kg.
+208000	210000	55.5kg.
+210000	212000	55.5kg.
+212000	214000	55.5kg.
+214000	216000	55.5kg.
+216000	218000	55.5kg.
+218000	220000	55.5kg.
+220000	222000	55.5kg.
+222000	224000	55.5kg.
+224000	226000	55.5kg.
+226000	228000	55.5kg.
+228000	230000	55.5kg.
+230000	232000	55.5kg.
+232000	234000	55.5kg.
+234000	236000	55.5kg.
+236000	238000	55.5kg.
+238000	240000	55.5kg.
+240000	242000	55.5kg.
+242000	244000	55.5kg.
+244000	246000	55.5kg.
+246000	248000	55.5kg.
+248000	250000	55.5kg.
+250000	252000	55.5kg.
+252000	254000	55.5kg.
+254000	256000	55.5kg.
+256000	258000	55.5kg.
+258000	260000	55.5kg.
+260000	262000	55.5kg.
+262000	264000	55.5kg.
+264000	266000	55.5kg.
+266000	268000	55.5kg.
+268000	270000	55.5kg.
+270000	272000	55.5kg.
+272000	274000	55.5kg.
+274000	276000	55.5kg.
+276000	278000	55.5kg.
+278000	280000	55.5kg.
+280000	282000	55.5kg.
+282000	284000	55.5kg.
+284000	286000	55.5kg.
+286000	288000	55.5kg.
+288000	290000	55.5kg.
+290000	292000	55.5kg.
+292000	294000	55.5kg.
+294000	296000	55.5kg.
+296000	298000	55.5kg.
+298000	300000	55.5kg.
+300000	302000	55.5kg.
+302000	304000	55.5kg.
+304000	306000	55.5kg.
+306000	308000	55.5kg.
+308000	310000	55.5kg.
+310000	312000	55.5kg.
+312000	314000	55.5kg.
+314000	316000	55.5kg.
+316000	318000	55.5kg.
+318000	320000	55.5kg.
+320000	322000	55.5kg.
+322000	324000	55.5kg.
+324000	326000	55.5kg.
+326000	328000	55.5kg.
+328000	330000	55.5kg.
+330000	332000	55.5kg.
+334000	336000	55.5kg.
+336000	338000	55.5kg.
+338000	340000	55.5kg.
+340000	342000	55.5kg.
+342000	344000	55.5kg.
+344000	346000	55.5kg.
+346000	348000	55.5kg.
+350000	352000	55.5kg.
+352000	354000	55.5kg.
+354000	356000	55.5kg.
+356000	358000	55.5kg.
+358000	360000	55.5kg.
+360000	362000	55.5kg.
+362000	364000	55.5kg.
+364000	366000	55.5kg.
+366000	368000	55.5kg.
+368000	370000	55.5kg.
+372000	374000	56.6kg.
+376000	378000	56.6kg.
+378000	380000	56.6kg.
+380000	382000	55.6kg.
+384000	386000	55.6kg,
+386000	388000	55.6kg.
+388000	390000	5.100kg.
+390000	392000	55.6kg,
+392000	393520	Did you undress you beary?!
+393760	394880	I hope you are doing well lol
+399800	402040	I took a nap eldersday
+402880	405040	awlair than yesterday
+407840	410920	to make sure that
+412020	421940	that I'm not going to have any chance to wake up for stream
+421940	447760	ဵျံ ဧေိဏဴအ. ပ
+451940	456980	about them for me. I don't know. I guess I also get like really immersed in some of them so
+459540	464420	so yeah, I hope you will enjoy watching me trying my best to become
+465300	472260	the number one rock star. I'm also dumb. I got myself some tea and I was gonna drink it
+472260	479380	while the loading screen was going, but I forgot. Hold on, I wanna see if it's still warm.
+482100	485860	Oh no, I think it's kind of warm, but
+492180	499380	it's warm. It's warm, but it's not as hot as I want it to be.
+499380	504820	I also want to drink it, but I'm also scared if I drink it, I'm gonna have to
+506260	510660	go to the bathroom a lot and I really don't want to have like
+512260	517780	a bunch of rewrite backscreens while we're playing this, so I don't know what to do.
+519300	522820	I don't want to see it, go do I see it, but I don't know.
+528980	535860	But yeah, it's really good to see you everyone. Before I start, yesterday I
+535860	547620	saw that some people donated to me while I was streaming, but the thing is, I didn't hear the
+547620	556820	alerts go off, so I couldn't know, but also on top of that, I wouldn't even know who to thank,
+556820	566980	because my so-called abomination of a setup is not gonna really let me see who did it,
+566980	575620	so I thought that for now, so for now, I think that what I'm gonna do is
+576900	583940	when there's donations, I will read them and thank the people at the end of the stream,
+584580	590580	if that's okay, until I can get a better setup, I hope that's okay with you,
+591380	600340	because I still want to thank people, because I appreciate when people support me.
+601940	607300	Here's a cute adjoin, a video where I watch a long video to be, oh really, it's not how you
+607300	618740	found me, that's so cool, zip it slowly, yeah I could, but I don't know, I can already feel
+620660	627780	I can already feel that I'm gonna have to go eventually,
+627780	637380	and I don't want to deal with it, but yeah, I prefer them to be read at the end anyway,
+637380	641380	and helps keep it flow, okay okay, that's good to know,
+644420	656260	hello, just don't wheeze, I'll try, I'll try, no promises, no promises there, if I wheeze,
+656260	668100	well at least I had a good laugh, you know, oh no, I shouldn't have told you about the wheezing
+668100	679060	on my alt account, we'll try not to make too good of jokes, oh please do, I do love laughing,
+679060	687860	I do love laughing, okay, let me open the game, and as usual, when I open the game, please let me know
+687860	698980	if the sound is okay, and if you can hear me fine, and see everything, so yeah, I also try to figure
+698980	704740	out if I can fix my mouth tracking a bit, because I feel like it's been like so so bad,
+705700	711780	do you guys think it's any better, I don't think it's like better by that much, but
+711780	718820	I feel like my mouth opens more, so I hope, I hope that's at least a little bit better,
+723860	730340	that wheeze isn't really very contagious, I hear that a lot actually, that my laugh is very contagious,
+730420	740020	I'm flattered, it's a bit, it's a bit, fuck I can't fucking read help, it's a bit better,
+740020	745380	mouth opens wider now, yeah I feel like my mouth like opens more now, because usually like,
+746660	755540	I talk and my mouth is like closed, or has my teeth out, I don't know how to fix it fully,
+755540	761620	like I've tried like many different things, and it just doesn't, it just doesn't work,
+764020	770820	I don't know if it's uh, because my mouth is small, like I remember talking about it
+770820	780260	with Strani, and she was like, maybe your mouth is just so small that the tracking just can't pick it up
+780260	794340	or something, so I don't know, I don't know, I don't know what it is, uh, hold on, oh wait did I get another
+794340	801860	donut just now, Joshua thank you so much for the donation, thank you I appreciate it, thank you, thank
+801860	809060	you, thank you, thank you very much for the 6.90 dollar donation, I appreciate it, thank you,
+809700	818980	try ALTA4, how about I don't try that, how about we don't do that, okay, I'm gonna stop yapping now,
+818980	830500	I'm gonna stop yapping now, and open the game, blah blah blah blah, I hope it's not too loud, if it is,
+830500	848740	uh, again please, please let me know, okay, oh god I hope it's not too loud,
+849620	864180	yeah, this music, let's fucking go, oops, no, no, no, okay, how is the music, is it too loud,
+864820	866100	should I make it quieter,
+866500	880020	we don't hear music, oh, oh I'm stupid, I know why you don't, I know why you don't, I'm stupid it's my own fault,
+881540	886420	you should hear it now, you should hear it now, how about now, how about now,
+886420	900180	how about now, now we do, it's very quiet, let me make it a bit louder, how about now,
+902900	910980	is this better now, I tried to make it louder, are they good now, that's good, yeah we can hear,
+910980	923700	is it loud enough, still a bit quiet, what about now, is that better, hi me, hello, good morning,
+924900	932100	you ready to rock with me, rock in the morning, rock hard in the morning,
+932500	938740	never mind, I hear it now, okay, is the music too loud, sorry I keep asking, I just want to make
+938740	944100	sure the audio is okay, I don't want it to be blasting in anyone's ears or not hear me,
+958020	962420	I think it's okay, all right, all right, all right, all right, all right,
+963380	969540	okay, all right, I'm gonna start the game, let's go,
+977700	979540	okay, oh no,
+979700	992260	oh god,
+995300	996660	oh my god,
+996660	1001940	um,
+1005220	1014820	um, can we, can we change, uh, hair color, oh god, I'm gonna look so fucking ugly, it's so over,
+1015060	1018100	um,
+1021780	1030500	uh, my hair is kind of like this, my hair is more like this, I feel like, like it's blue,
+1030500	1038580	but not too blue, right, why every character is suited as fuck, put on a mask and relate it,
+1038580	1045780	no, you're gonna have to love me even when I look ugly as fuck, because that's what true love is,
+1045780	1056020	if you can't love your Oshi at her rock star life simulator, then you don't deserve her at her
+1057620	1065460	life to the anime, something, something, okay, let's see what hair styles we have,
+1066260	1071140	oh, that's not too bad, no, no, oh, that's kind of cute,
+1074340	1084420	okay, okay, okay, which one should I go with this one, or this one, which one should I go with,
+1087540	1087940	one,
+1090820	1092820	or two, I feel like this one,
+1095940	1099300	bold is the way, I don't want to be bold,
+1103700	1107060	go bold, why do you want me to go bold so bad, bangs,
+1108820	1113300	wait, you so, wait, you want me to go with this one, with the bangs,
+1114820	1121060	fuck, how do I do a poll, I want to do a poll, but I can't really do it with my setup,
+1121860	1130580	one looks the most like you, one, embrace the boldness, no, I'd rather not,
+1134500	1139620	bangs, you have bangs, no, so you'll just be like us, we'll love you even if you're bold,
+1139620	1147780	I like no bangs, I'm gonna go with this one, I'm gonna go with this one,
+1151780	1158740	okay, give me, give me nothing, the fuck is it, can I not wear a skirt,
+1160420	1165380	what the fuck, well I'm just gonna wear all white then, because I'm a polar bear,
+1166100	1175300	hold on, skin roughness, opacity, makeup, can I not like make myself more flat or something,
+1177620	1179380	can I, can I not make myself,
+1181300	1182820	I wanted to make myself,
+1186500	1193700	I'm very pale, I'm very pale, I'll be honest with you guys, I'm very fucking pale,
+1197380	1205220	man, what is this, I wanted like a cute skirt or something, maybe I'll be able to buy it,
+1205700	1215700	hmm, I don't see a boopa slider, where is the boopa slider,
+1218500	1219860	let's do eyes,
+1220660	1229380	my eyes are like golden,
+1233700	1244420	like this I think, right, I think, nose, whatever, oh wait what is height, oh it's the height of my,
+1245380	1252180	I'm gonna put the name, I see, sorry I look so busted, I'm sorry snowberries,
+1252180	1258580	I'm starting as a homeless person, okay, I don't have any cute clothes just yet,
+1259140	1266580	but maybe once I become a famous rock star, things will be better,
+1268580	1274180	not enough games of boop sliders, I know, I thought there would be a boop slider,
+1274180	1283220	so I can make myself like, you know, as tiny as I can be, I have a little loose something,
+1283220	1291540	but it's smaller, it's smaller than this, it's smaller than this, whatever fuck it,
+1292660	1295620	oh customize your band, okay,
+1296340	1304500	okay give me nothing, okay what, what should be, what should be our band name,
+1305860	1312900	what should be our band name, what about the on the top left body tab,
+1313460	1319540	wait can I go back, sorry it's too late, I can't go back, this is how we're gonna look,
+1320420	1330500	I want to do, I want to do like a funny band name, snow and berries, snow glob,
+1331300	1332500	uh,
+1340180	1340740	help,
+1348340	1352340	piss blizzard, I see silver hand,
+1352660	1361220	uh, through snow and ice, I want something like really stupid and funny, yellow snow,
+1361220	1365940	okay, we're going with yellow snow, we're going with yellow snow, perfect,
+1366580	1371060	that that's exactly what I was, that that is exactly what I was thinking about,
+1371700	1383300	okay, yellow snow is going to be our band name, let's fucking go,
+1390580	1393700	yellow snow gaming, yeah exactly, okay,
+1394500	1399940	isn't like no music, like hello,
+1403140	1414820	where's like the music, I want to like vibe and stuff, where's that, diary, wow I had a great day
+1414820	1421460	today, guess what happened, my aunt took me to a concert, I thought it would be boring at first,
+1421540	1428660	but I was wrong, on stage there was this amazing one playing the guitar, her name was Lara and
+1428660	1435380	would you believe it, she took me to a whole different world, the music, the lights, everything was
+1435380	1442180	so cool that I can't describe it with words, the expression on Lara's face as she played the guitar,
+1442180	1450900	the dance of her fingers among the strings, oh I was in awe, one day I want to be like her,
+1450900	1457140	just stand on stage and mesmerize everyone, I have thousands of thoughts and dreams in my head
+1457140	1465140	right now, I want to be a rock star, yes, yes exactly like that, I want to give people that amazing
+1465140	1473620	feeling they get when they listen to me, real, I'll work hard to make my dream come true,
+1473620	1479700	maybe I'll buy a guitar and start playing or enroll in the music course, who knows, maybe one
+1479700	1490980	day I'll be on the stage like Lara, like Lara, coincidence, I think not, creating my own music,
+1491620	1498180	are you getting excited diary, because I really am, not me talking to my fucking diary,
+1498180	1508100	what is my problem, I need to take my meds, okay eel, so we have like nothing,
+1510980	1515540	ooh okay, okay can I can I use it, um hello,
+1518580	1521860	maybe I'm going to the bathroom to use the toilet, okay,
+1521860	1527380	um all right, okay let's
+1529300	1540500	urinate, press and hold the pk to urinate, okay, um why am I pissing like this, what,
+1541060	1563220	what, why am I sitting on the toilet, um okay, hello, what the fuck, hold down the tap
+1563380	1572980	and select your phone, okay where's my phone, all right, open the progression app on your phone,
+1573540	1581060	okay, look at me I look so stupid, you can be information about yourself and your relationship
+1581060	1590180	in the left, I have no idea what the fuck I'm doing right now, I'm just like clicking random
+1590180	1601460	shit, grandmas house, vehicles, band, stuff, okay, start writing your first song by interacting
+1602260	1612420	the music, can I wash my hands, I gotta wash them a lot because
+1612420	1619380	what the way I was spying, I I need some extra washing, I couldn't even sit at the freaking toilet,
+1620500	1622740	that was, that was recent, can I shower,
+1628980	1635460	okay that was that was the quickest shower I've ever taken, can you piss in the sink,
+1637700	1638020	yes,
+1638900	1650900	pfft, ew, why does my kitchen look like it has shit all over it, what the fuck, ew, oh that's
+1650900	1662740	supposed to be my grandma, oh no, okay, all right, can I drink this, no, okay, all right snowberries,
+1663700	1673700	it is time to write our first new song for our band, yellow snow, okay let's do this,
+1675380	1676660	I understand,
+1679860	1690260	look at me, help, I'm like done with life, I'm like you know what, maybe I shouldn't be a rock star,
+1690340	1706500	I'm fucking done with this shit, oh no, okay, okay, okay, okay, let's go, oh no, oh fuck, okay,
+1708020	1719140	wow that that's what happens when I write a song, wow look at me go, wow, top skills, hell yeah,
+1720740	1725780	woohoo, enter song title,
+1736100	1737860	okay this will be our new song,
+1740980	1748500	send a text to your friend Ricky to move forward together, okay fine, how do I do that,
+1748980	1754500	okay hello, let's give a concert on the streets,
+1757380	1761060	let's go, this concert will be on forgive way, you can find location on the map,
+1762020	1766740	okay Ricky shut up, I need to pee, okay,
+1767220	1779860	okay, oh my god, okay, okay, this is not too bad, okay, buy food from the vendor, okay,
+1780980	1789300	mmm yum yum, yummy, very delicious, summon your car, launch the u-car app on your phone
+1790020	1792020	and summon the car, okay,
+1796740	1798900	hello, I need my car,
+1802020	1809700	um, can you pee out there, I can pee anywhere I want, what the fuck is that noise,
+1811220	1822180	um, ew, what the fuck is that noise, that noise sounds so, why is there so much trash in here, okay,
+1826740	1833620	um, okay, let's see,
+1835940	1846500	handbrake, oh look it says I see on the back of my car, find your friend at the park,
+1846500	1854900	okay, where the fuck is it, okay, hello, why is the map so weird,
+1855860	1865540	I can't see where the fuck I'm going, what the fuck, okay, go off,
+1868180	1874340	man why is there no music, this is really bad, I need some music for this, you know,
+1875460	1881860	you know what I'm saying, how is there no radio in here, oh god that's, that's quiet,
+1881860	1885700	that's quiet a long way, hello,
+1889380	1897380	I want to put music but, but I'm scared that it's gonna get me in trouble with YouTube if I do,
+1898100	1905380	but also I want to have fun, you know, I want to get the full experience of driving in the car and
+1905620	1913060	and listening to music, because I think that would be really nice,
+1914980	1923940	GTS6 gameplay leak, literally though, it came out early, this is what it looks like, okay, how do I enter,
+1924500	1943860	what the fuck, I want to jump in it, hello, please don't talk to me, I'm only here
+1944820	1953140	to practice, okay, okay let's perform everyone, let's perform our first song together,
+1954740	1956500	come my beloved,
+1962340	1964580	okay let's play come my beloved,
+1973860	1976180	wow, yeah, yeah, yeah,
+1977460	1983140	oh fuck, oh no I'm fucking up already, oh no it's so over,
+1987300	1996660	yeah, oh no I'm fucking up again, oh look at these people, oh they're liking it,
+1997380	2004100	wow thank you for the support guys, wow look at all these people, is that you snowberries,
+2004820	2012740	wow thank you for coming to my big show, I'm glad you're enjoying it, I really hope you like my new song,
+2013620	2014740	come my beloved,
+2016980	2022180	yeah, yeah, yeah, yeah, come, come, come, come,
+2027620	2028820	I'm fucking kidding,
+2033300	2040180	wow I'm doing so good, I'm totally gonna be the the most known rock star ever,
+2041140	2046420	this this song you might be laughing right now, but this song is gonna be a fucking banger,
+2047060	2055460	it's gonna be number one seller nationally, internationally, you're gonna hear the song play
+2055460	2059380	everywhere, so you better get ready,
+2062820	2064580	yeah, yeah, yeah,
+2070260	2073620	oh come on please, oh look at this girl,
+2076900	2081380	yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah, yeah,
+2082340	2088580	wow, perfect, take a photo, open camera application on the front, take a photo, okay,
+2090820	2096580	nice, how do I take a photo, oh camera,
+2096580	2106660	oh my god, okay,
+2107940	2116900	lunch that I almost read it as a histogram, no lyrics, it's avant-garde, yes,
+2118500	2123700	when you listen to this song you just have to understand those feelings,
+2124660	2132580	okay, let's post this picture, write a caption, okay,
+2135140	2139220	me playing my first song ever,
+2142980	2152020	look at my snowberries cheering on me, let's go,
+2154020	2165780	wow, Ricky, first comment for me buddy, wow, one like, it's over for me,
+2167540	2174420	one like, you know, I really thought I'm gonna have success, but I think it's over for me,
+2174420	2183300	one like and the slain fucking comment from Ricky, what the fuck,
+2184580	2192260	you know, yeah, it's it's over, it's officially over for me, wow,
+2192580	2194580	wow,
+2197780	2208580	any snowberries in here, any OG suns, hello, hello, snowberries, oh my god,
+2222340	2229380	why did you run away from me, you always tell me on twitter you like my piss,
+2230820	2233460	you said you like my piss, why did you run away,
+2236340	2244100	hello snowberries, I saw you really liked my current tweet on my alt account,
+2244740	2249540	so I wanted to do a meet and greet so you can get the real experience,
+2250260	2261700	oh, I'm sorry, sorry, I didn't have enough piss for you, but I hope you enjoyed the little bit that,
+2262660	2266820	that you had, it should have been me,
+2269860	2277060	I'll be back, listen, listen, don't worry OG sun, okay, don't worry, I'll be back when I have
+2277060	2284580	more piss in me, okay, I promise, getting pretty hungry, let's get a hot dog,
+2288100	2295060	yum yum yum, can I play on any of these, oh I love swings, my favorite,
+2295860	2298740	they make me feel like I can fly,
+2303300	2309220	why is OG sun, come play with me OG sun, hello,
+2311780	2315380	hello, oh OG sun, come play with me,
+2319860	2321620	OG sun, come play with me,
+2321860	2325780	no reaction,
+2328580	2333620	it's over, even OG sun doesn't want to play in the playground with me anymore,
+2335300	2336500	it's over for me,
+2339140	2349540	open the job, open jobs, fuck, I can't talk, open the jobs app on your phone, select the job you want and complete it,
+2349540	2352740	I mean, I don't, I don't want to do any jobs, what do you mean,
+2356900	2359060	cargo, flower distribution,
+2360980	2364900	guitar appare, I mean guitar appare gives me the most money, so,
+2366100	2374420	why don't I guitar shop and repair the guitars, okay, where is my car, where is my car, why should
+2380340	2382900	isn't my car somewhere here, oh there it is,
+2386100	2395460	I'm asked for the projecting myself into the game as you should, okay, where is the shop,
+2402100	2407540	oh guitar shop, okay, well why doesn't it, why doesn't it show me how to get there,
+2409620	2410100	hello,
+2414900	2422180	okay, I'll just do it myself, the car in the park on the sidewalk,
+2422180	2429700	yeah, I do what I want, I go by my own rules, I think that's more fun, that is more fun,
+2430420	2437700	oh there's the bar, oh we should go to the bar later, we should go to the bar after we're done with work,
+2438500	2450500	okay, okay, okay, oh fuck, okay, let's go fix some guitars, sorry, I'm sorry, I didn't mean to,
+2450900	2473380	I'm sorry, no I'm not, okay, hello, I'm here to fix guitars, repair room, okay, I guess I need to go,
+2473860	2480740	I guess I need to go, ew, who shits on the guitars, why does it look like this,
+2482500	2494260	what the fuck, I didn't clean all of it, what the fuck, I didn't even clean all of it, okay, repair,
+2503380	2510260	wow, me when, okay, now what do I do,
+2510260	2535140	no, no, why is it so thick, I want to make it like,
+2540660	2552100	okay, sticker, let me put a sticker, oh look,
+2553540	2557540	Emi, do you want this guitar, I think this guitar will suit you very well,
+2558180	2565140	like it has your aesthetic and stuff, guys, we should give this guitar to Emi, I think it will
+2565220	2567380	suit her perfectly, what do you think,
+2574180	2583060	okay, nice, complete, okay, next one, next one, let's clean
+2583540	2589300	the guitar again, and then
+2591940	2592980	repair it,
+2599620	2603300	make it blue, oh you want, you want me to make it like
+2604340	2610020	for myself or something, is that what you mean, it'll be perfect for playing boner gems,
+2610820	2615460	yeah, I think so too, you know what, I think that would be great, that would make a great gift,
+2615460	2617860	I know, I think Emi will really love my gift,
+2626740	2637060	nice, okay, now paint, okay, who do you want me to gift this next guitar to,
+2640100	2649300	I want to make custom guitars with beautiful designs, oh Jesus, approved,
+2652100	2659780	okay, let's see, mercy, strani, oh god, she be,
+2664020	2665860	okay, let's see,
+2666020	2677220	hmm, what would I, what could I draw, what could I draw for she be,
+2686100	2692980	you could make a yellow snow guitar, that's true, man, what would be a good thing,
+2693060	2708100	BDSM guitar, bondage guitar, tie it, oh maybe, if I was like shit, she be the toilet,
+2709300	2717220	man, how would I draw a toilet, oh look, I can make it smaller, wait, wait, wait,
+2717220	2724100	maybe I could, maybe I could, hold on, wait, I can make the thing smaller, so I can like make
+2724100	2744100	nice detail, what the fuck am I doing, it's supposed to be a toilet, it's supposed to be a toilet,
+2744900	2748980	let's, let's put some, let's put some piss in it,
+2749300	2755300	okay,
+2767380	2777460	she be the
+2778980	2808980	වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+2808980	2838980	වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+2838980	2868980	වවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවවව
+2869260	2893580	ව඀වවවව඀වවවවවවවවව සිοjacハ Viktor�
+2893580	2897180	වවවවවවවහවව ව඀වවවවවවව‍'veie to adults
+2897180	2899180	rice
+2901180	2902180	phon
+2903180	2904180	you
+2904680	2917180	if you
+2917180	2918180	instant
+2918180	2925620	Let's buy some beer. Nice, nice. Hello. Can I have some beer? Thank you.
+2933460	2940660	This sounds. Yeah, look at me. Hello.
+2940660	2956660	Hello. Hello. Hello. Hello. Big hello to all my fans. Hello. Okay, let's talk to you, Snowberry.
+2956660	2967660	I want to flirt with you, Snowberry. Well, I can't because apparently I have no fucking personality.
+2967660	2980660	Can I talk to you, Snowberry? No. Wow. I really suck so much. I'm not even allowed to flirt with the Snowberries. What the fuck?
+2980660	2984660	Snowberries out of my league. What the fuck?
+2985660	3002660	Oh, no, the fuck? No, not enough risk. Come on. Hello. Ask.
+3003660	3011660	Okay, okay. We can flirt with you after all. I've still got all of us.
+3011660	3025660	Okay, let's raise you real good, Oji-san. You've been rejected, but there was... What the fuck? Can I not even talk?
+3025660	3029660	Can I not even talk? Hello?
+3032660	3042660	Why can't I even talk? Bro, why can't I even talk to anyone? What the fuck? It's fucking over. It's fucking over.
+3042660	3053660	I can't flirt. I can't even fucking talk to you. I'm not even allowed to talk to my Snowberries. What the fuck is this about?
+3054660	3063660	Oh, my God. Okay, well, I'm hungry, so I'm gonna start eating my emotions. Yeah. Thank you.
+3063660	3074660	Well, that was a good day. You know what? Okay, you know what? You know what? Fuck you. You can't urinate in here.
+3074660	3087660	Oh, my God. Fuck off. Can I talk to you? No. Can I talk to anyone here? No. Please.
+3087660	3096660	I just want to talk to my Snowberries. Lady, why are you standing here like a fucking statue? Please.
+3096660	3101660	Hi, Oji-san. You would probably be interested, right?
+3105660	3122660	It's for being urinated in public. No, it's not. Yeah, fuck you. Fuck you for not letting me talk to my Snowberries. What the fuck?
+3122660	3136660	On the bright side, only minus one popularity. I mean, at that point, I have zero popularity then because apparently I have negative fucking risk to the point that I can't even talk to you Snowberries.
+3136660	3143660	So, yeah, that's fucking great. Press the K key and spin your first skill point.
+3144660	3149660	Ooh.
+3149660	3153660	I just need a breath.
+3153660	3160660	Let's just chat with Snowberries. Fuck yes, I'm unlocking that.
+3160660	3169660	Okay, wait. Can I do it now then? Hold on. Wait, wait, wait. Let's test it. Maybe now I can. Maybe now I can.
+3170660	3175660	Okay, let's try again.
+3175660	3181660	Okay, now I'm actually allowed to talk.
+3181660	3189660	Hello, Oji-san. I don't know who this is, but it doesn't matter, okay? This is about me.
+3189660	3204660	This is about me. Ignore her. Ignore her. She will never. She is trashed here. I'm the one who matters here. Pay attention to me, okay?
+3204660	3211660	Because fucking damn it. Let me stand. Okay, fuck you. Let me stand. Hello!
+3211660	3219660	Fucking bitch. Okay, whatever. Okay, now I can finally talk to you Snowberry. Let's go.
+3219660	3224660	Okay, what do you want?
+3225660	3232660	What do you want?
+3236660	3240660	I need your loving.
+3240660	3248660	Snowberry. Fuck, I have zero reason. I don't know how to fucking flirt.
+3248660	3257660	Well, my love's like a pub on Monday. None existed.
+3261660	3271660	That's okay, because I can provide you that love wink.
+3272660	3287660	Charmour, are you? My heart's like my wallet mate. Better when it's full, but Alice is always empty.
+3287660	3299660	I'm sorry, Snowberry, but I have no idea what the fuck that means.
+3300660	3306660	What the fuck? I heard it like in my fucking ear. Oh my god, that scared the shit out of me.
+3306660	3315660	It's a high level technique called avoiding commitment by using metaphors, advanced stuff really.
+3315660	3322660	Okay, and how did that work for you so far?
+3323660	3331660	Look at Charm, unless I'm trying to find a job, then it's as effective as chocolate tea pot.
+3331660	3338660	I'm not talking about jobs here.
+3338660	3346660	What the fuck? Why did I get minus fifty dollars? What the fuck? I'm not talking about jobs here, okay?
+3347660	3356660	Okay, I'm just gonna be straight forward. Let me suck here.
+3362660	3370660	I'm gonna be straight forward. Let me suck you dick, baby.
+3371660	3383660	Sorry, my dear, but the menu's not served at this spot. Try the fantasy section of the library.
+3383660	3394660	What the fuck? How dare you reject me? I am number one whore.
+3401660	3413660	Well, I prefer a more exclusive club. Membership, just me. Cheers to your ambition, Tom.
+3413660	3428660	I'm actually gonna open a membership, a membership eventually. Are you interested?
+3431660	3447660	Membership for what? The number one whore club. Oh, pass, but thanks for the exclusive.
+3448660	3453660	What the fuck?
+3453660	3459660	Bro, what the fuck is this?
+3459660	3463660	What the fuck?
+3463660	3468660	Hold on, let me adjust my sitting position.
+3468660	3472660	Oh my god, what the fuck, Rufus?
+3472660	3480660	What the fuck? I thought you're my fan. How could you? How could you do this to me? What the fuck?
+3484660	3491660	You are totally missing out, my dude.
+3491660	3497660	There is dick suck.
+3505660	3510660	Well, that sounds like a niche market you've cornered.
+3510660	3517660	Enjoy the echoes. Stick to my point. It's over.
+3517660	3532660	It's over. He said I hate this shit. Zero res. Nobody is interested. Fuck my life.
+3532660	3538660	He is a hater. He is a hater. It's okay. It's okay. It's okay, Snow Berries, you know?
+3538660	3546660	Sometimes there's gonna be haters and that's completely fine, you know?
+3546660	3553660	Not everyone is gonna want to join my big membership club and that's totally fine.
+3553660	3557660	You know why? Because I'm sure someone will love it.
+3557660	3564660	Okay, okay, okay. It's gonna be okay. Just like he said. Okay, okay, okay.
+3564660	3572660	Okay, where's my fucking car?
+3573660	3575660	Is this my car?
+3575660	3581660	Let's see. Instead of asking people out directly, how can they...
+3581660	3585660	I'm a person who doesn't want to talk to them.
+3585660	3588660	I mean, I already talked to them. Why do I need to ask them out?
+3588660	3591660	Okay, well, whatever. Okay.
+3591660	3595660	I'm gonna do it just to get this fucking thing.
+3595660	3600660	So, do you want to go out with me after our big talk?
+3600660	3603660	No. Okay, bye.
+3603660	3605660	Go home.
+3605660	3607660	If you want, you can use the bus stop.
+3607660	3613660	Why would I use the bus stops when I can literally just drive home?
+3613660	3615660	Literally, why?
+3615660	3619660	Please explain it to me.
+3619660	3633660	I'll join your number one whore club. Oh my god, thank you. I appreciate it.
+3633660	3642660	Thank you for supporting me, Snowberry. I promise you, you will have the best number one experience in my club.
+3643660	3645660	The worst you can say is no.
+3645660	3651660	And then there's Rufus just completely fucking obliterating me
+3651660	3658660	and killing any confidence that I have left.
+3658660	3661660	I can't put the fucking sounds in this game.
+3661660	3664660	Okay, get out of my fucking way.
+3664660	3666660	Get out of my way. I had a bad day, okay?
+3666660	3668660	Okay, I had a bad day.
+3668660	3671660	Leave me alone. Fuck all of you.
+3672660	3674660	Home sweet home.
+3674660	3680660	Open the melotify app on your phone and withdraw your welcome income.
+3680660	3683660	Okay.
+3683660	3689660	And withdraw your welcome income? What?
+3689660	3694660	Huh?
+3694660	3698660	Yeah, money.
+3699660	3702660	Yes, Snow. Wow.
+3702660	3704660	Thank you.
+3704660	3706660	Give me fucking nothing.
+3706660	3710660	Police department. Oh, great.
+3710660	3716660	You received the traffic ticket because your car was walking traffic and car was fucked off.
+3716660	3723660	Please, please just let me just fucking sleep after this horrible day.
+3723660	3728660	Press tab to say smartwatch at your end of the day start.
+3731660	3733660	Well, fuck is...
+3733660	3738660	I don't see a smartwatch.
+3738660	3742660	Oh, that's what they mean. Never mind. I'm fucking stupid.
+3742660	3744660	Being a rock star is so difficult.
+3744660	3748660	I know. I can't even raise anyone.
+3748660	3750660	What is the point?
+3750660	3756660	Go to your bed and press the E key to sleep.
+3756660	3757660	Okay.
+3757660	3760660	Okay, good night, Snowberries. It's been...
+3760660	3762660	What the fuck is my bad?
+3762660	3764660	Wait, what?
+3764660	3768660	Ew! Where's my bad?
+3771660	3773660	Am I...
+3775660	3779660	Oh, okay, I'm fucking stupid.
+3779660	3783660	Okay, let's go sleep.
+3787660	3791660	Wait, I didn't read what it said.
+3791660	3793660	I didn't read what it said.
+3793660	3795660	Fuck.
+3795660	3797660	Okay, what do you want?
+3797660	3799660	Who the fuck is this?
+3799660	3801660	Hulkster.
+3801660	3803660	Buddy.
+3803660	3805660	I totally rocked the casino yesterday.
+3805660	3808660	You gotta go try your luck for sure.
+3808660	3810660	I don't know about that.
+3810660	3814660	Fuck, I'm starving. I need to eat.
+3814660	3816660	I need to eat.
+3816660	3818660	Hello.
+3818660	3820660	Can I have some food, please?
+3820660	3822660	Thank you.
+3825660	3827660	Oh, that was just a tutorial.
+3827660	3830660	Yeah, a tutorial for getting roasted.
+3832660	3836660	Fuck, excuse me for clearing my throat so much.
+3836660	3838660	I would mute myself,
+3838660	3841660	but my microphone doesn't have a mute button
+3841660	3844660	and with my setup,
+3844660	3848660	it's just full-screen the game, so...
+3848660	3851660	Please bear with me. No pun intended.
+3851660	3853660	Read.
+3855660	3858660	What the fuck is this?
+3859660	3861660	Wait!
+3861660	3864660	Wait, this thing at the bottom!
+3865660	3870660	Isn't that one of those sock artists?
+3870660	3874660	Flark. Flork. Flark. Flark.
+3874660	3876660	Art?
+3876660	3878660	Are they allowed to do this?
+3880660	3882660	Flork.
+3882660	3884660	Yeah, that's what I meant.
+3884660	3886660	Is that a flork art?
+3887660	3889660	Are they allowed to use it?
+3889660	3892660	I wonder if they're even allowed to use it.
+3894660	3898660	Okay, let's read my diary out loud for you, snowberries.
+3898660	3901660	I'm sharing this very important page with you
+3901660	3903660	just because you're my snowberry,
+3903660	3907660	so that's why I'm sharing with you my cringe fucking diary, okay?
+3909660	3911660	Yo, yo, yo, buddy.
+3911660	3913660	I'm so full of energy today.
+3913660	3915660	I have tons of things to tell you.
+3915660	3918660	First of all, my grandmother.
+3918660	3921660	She's an amazing woman.
+3921660	3924660	Thanks to her, I'm one step closer to my dreams.
+3924660	3926660	No, I'm not.
+3926660	3930660	My grandma sold her antique watch to buy me a guitar.
+3930660	3932660	Can you believe it?
+3932660	3935660	She sacrificed something so valuable for my dreams.
+3935660	3938660	That watch was very precious to my grandma,
+3938660	3941660	but she put my happiness above her own.
+3941660	3943660	I can never thank her enough.
+3944660	3946660	And here I am, on the streets,
+3946660	3950660	pissing on people, making music with Riki.
+3950660	3953660	Our shared passion for music brought us together.
+3953660	3956660	Seeing the smiles on people's face,
+3956660	3959660	watching their feet move to the rhythm
+3959660	3961660	is an incredible feeling.
+3961660	3965660	With our music, to bring joy to people's days,
+3965660	3967660	to make them feel good,
+3967660	3969660	even if for just a few moments,
+3969660	3971660	it's indescribable.
+3972660	3974660	I can't fucking read.
+3974660	3978660	I'm working tirelessly every day to play my guitar better.
+3978660	3981660	Each chord, each melody
+3981660	3984660	brings me a little closer to my dream.
+3984660	3988660	My admiration for Lara Croft is as fresh
+3988660	3991660	as it was on the first day,
+3991660	3995660	and she remains a great source of inspiration for me.
+3995660	3998660	I don't know if I'll ever be as good as her,
+3998660	4001660	but I'll never stop trying.
+4001660	4003660	Life can be tough at times,
+4003660	4005660	but with the happiness music gives me,
+4005660	4007660	I can overcome anything.
+4007660	4010660	And remember, Diary,
+4010660	4012660	as I've always said,
+4012660	4015660	I'm going to be a rock star.
+4017660	4019660	Bro, what the fuck?
+4019660	4021660	Okay, great.
+4021660	4023660	Very nice, Diary.
+4023660	4025660	Can I write a new song yet?
+4025660	4027660	No.
+4031660	4033660	Where is this?
+4033660	4036660	And why the fuck has my door opened the entire time?
+4039660	4041660	I don't think that's very safe.
+4041660	4043660	Do I have anything in here?
+4046660	4048660	Charlotte.
+4049660	4053660	Wait, didn't this guy try to talk to me or something?
+4056660	4058660	Unless I'm stupid.
+4059660	4061660	Noah.
+4061660	4063660	Hello.
+4063660	4066660	I'm going to give you a very important piece of advice.
+4066660	4068660	Listen carefully. Yes, yes.
+4068660	4070660	Be the one who listens.
+4070660	4072660	Don't you dare tell anyone.
+4077660	4080660	You must have a lot of courage to make that move.
+4080660	4082660	Yes, I do.
+4082660	4084660	That's how I roll.
+4084660	4086660	Despite all your efforts,
+4086660	4089660	I don't think you'll ever become a real rock star.
+4089660	4091660	Not that easy? Yes, it is.
+4092660	4095660	You know what happens to dreamy punks like you around here?
+4095660	4097660	No.
+4101660	4103660	Why do I need to...
+4104660	4106660	Where did you go to?
+4108660	4111660	Ooh, there's a clothing store.
+4113660	4115660	I'm kind of curious.
+4116660	4119660	Kind of curious what they have at the store.
+4119660	4121660	Let's see.
+4123660	4126660	I wouldn't see if they have anything cute that I could buy, you know?
+4126660	4131660	Because I mean, I've been looking like a homeless person this entire time, so...
+4131660	4135660	I want to see if they have like a cute skirt or something cute.
+4139660	4141660	Hello.
+4145660	4147660	Okay, how do I...
+4148660	4150660	How do I buy clothes?
+4150660	4152660	Hello?
+4155660	4157660	Okay.
+4157660	4159660	Okay.
+4163660	4165660	Do we have any skirts?
+4169660	4171660	What is...
+4171660	4174660	Okay, all these clothes are fucking shit.
+4174660	4177660	This skirt is like...
+4178660	4181660	This skirt is like the most...
+4181660	4184660	Okay, out of all of them.
+4184660	4189660	But none of them are like, wow, that's my style.
+4191660	4194660	Okay, some heels.
+4195660	4198660	And everything is like fucking 500.
+4199660	4203660	Look at the glasses, I look so cool with them. Should I buy them?
+4203660	4206660	Ooh, I might buy the glasses to look extra cool.
+4206660	4208660	It also increases my charisma.
+4208660	4212660	Okay, I should go to work then and save my money.
+4214660	4216660	As much as I can anyways.
+4218660	4221660	170 cents, that's broke.
+4221660	4226660	Yes, that's why you need to give me money, Snowberry.
+4226660	4232660	So I can finally look like not a fucking homeless person, okay?
+4233660	4238660	Don't you understand the importance of fashion in the rock star music industry?
+4238660	4239660	Come on.
+4239660	4240660	Okay.
+4240660	4242660	Oh fuck.
+4242660	4243660	Why isn't...
+4243660	4244660	What the fuck?
+4244660	4246660	Why is it on this side?
+4246660	4248660	Okay, a map.
+4252660	4254660	Where is my...
+4257660	4262660	Where is my fucking job place?
+4264660	4266660	Uh...
+4267660	4270660	That is not the center.
+4270660	4272660	Oh, that's how you move the map.
+4272660	4275660	Okay, I need to move it that way, guitar shop.
+4276660	4280660	Okay, let's go to the guitar shop so I can make some more money.
+4283660	4286660	Okay, get out of my way, lady.
+4286660	4289660	Get out of my way.
+4289660	4292660	Get out of my way.
+4292660	4295660	Look at the map, look at...
+4298660	4302660	Why does literally everyone have the same fucking car?
+4302660	4304660	What's your problem?
+4313660	4317660	I really wish this freaking game had music.
+4317660	4320660	Like, how are you gonna drive in the car and not have music?
+4320660	4322660	Something ...
+4335660	4338660	Okay, I got the...
+4339660	4344660	Fuck I'm stuck!
+4344660	4345660	Please.
+4345660	4347660	No.
+4347660	4349660	Please, I'm trying...
+4350160	4355160	E warning
+4356740	4362660	It's been explic yan and hełem
+4362660	4369780	It's not then
+4369780	4373660	I'm trying to make my own music
+4373860	4377460	Let me how Allah day where I am
+4377460	4378860	I'm not fighting struggling or something
+4378860	4385860	უუ გეჰვჰ eჭრვრეჷჸღ შ჉რfe helmet
+4398320	4401700	჏იჰრ ლ추ე ქ'ggekk
+4408860	4410860	jon  oste комnen
+4413340	4415580	stewardship  concer  concer
+4415580	4417580	fian Ǐ ǜ ǐ し yǐ ǒ Burke
+4418220	4420100	ǎ ǜ ǎ ǒ Kor
+4420100	4422060	ǎ Ǐ ǎ ǒ Ka得 s 살린
+4422060	4424860	七 〉ɞrit ǋ nǎn dòng dòngry
+4424860	4425500	ǒ temporary job ǎda ǐ ǎ
+4425500	4427100	ǎt Ì
+4427100	4428140	Rafael ǎ
+4428140	4430140	ǎ d appreciative ǎd〉a quilt
+4430140	4431740	ǎbconnect ǎt ǎt d uniqu
+4431740	4432460	ǎdang qitāra
+4432460	4436540	ǎerk normally elam
+4436620	4437500	ǎi ǎi qy 따라
+4437500	4437620	It's interesting
+4437620	4438620	ǎi ǀi ǎt dtoo
+4438620	4444720	ammenі  capacit
+4446760	4451100	۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶ ۶, ۶ ۶
+4465620	4466460	۶ ۶ ۶ ۶ ۶ ۶ Icha
+4466460	4468840	Empress
+4475280	4477620	The next guitar for
+4481900	4483740	Ok, let's do
+4484800	4486360	mercy next
+4488200	4489420	How big it is段
+4489420	4490300	What?
+4490300	4495180	Why is it showing as blue?, I am trying to make, it purple
+4496460	4498460	Okay
+4498780	4503320	They brought drop it in dirt. No, I think I think they dropped it in shit to be honest
+4507220	4508700	Okay
+4508700	4515100	Let's see. Oh, I know I know we can start with some scissors.
+4520100	4524220	I mean to be fair that does not look like scissors
+4525020	4527020	but
+4527100	4530000	That looks like a fucking ribbon
+4532380	4536760	Wow, that looks like shit. Well, I'm sorry, okay? I'm not I'm not a
+4537260	4543580	Scaled artist like the rest of my gen mates, okay? I'm sorry, but but it's but it's the truth. I
+4545260	4550060	I am I'm better at drawing ugly things that that's
+4551740	4553580	That's my
+4553900	4559580	My talent drawing ugly things, okay? And that's okay because that means that
+4560540	4562780	It has more soul to it, right? So
+4563820	4565340	So that's fine
+4565340	4570380	Man, I really want to fix it all like fuck. This is bothering me. This is bothering me too much
+4571340	4575180	It just it just looks so bad like I I can't
+4576540	4578540	Okay, that's
+4578700	4580700	A little better, I guess
+4583820	4585820	I
+4588700	4590700	Can't even make a stick figure
+4591180	4595260	I I can I can you're skilled in other ways
+4597180	4600060	God I wish you don't I I really wish I would
+4601340	4603900	I really feel like I'm not skilled in anything
+4604380	4607740	But if you ever find something that you think I'm skilled at
+4608460	4611740	Please let me know that will that will make me very happy
+4612700	4615980	Okay, so we have the scissors now
+4616940	4618940	What else do we want to add
+4619020	4621020	to mercy's
+4621580	4625900	Thing oh, I know we can add some like blood like
+4626860	4631660	Blood stains and stuff. Yeah, we can make it look like blood stains, I think
+4633420	4635420	No, that's
+4635660	4637660	I needed it to be a bit brighter
+4639500	4641500	More like this I think
+4642700	4644700	I
+4645100	4647100	Wow
+4647340	4649340	Wow, I can't even
+4649740	4651740	Throw fucking blood properly
+4652300	4654300	Okay
+4654700	4656700	Wow, look at me go
+4657500	4659500	That looks like
+4659500	4662860	Like a fucking disease on a guitar. That's what it looks like
+4664220	4666220	To be honest with you
+4667180	4670780	But that's okay, I'm sure she will appreciate my effort
+4671260	4675660	It's it's always about the intention, you know, I think it's always about the intention
+4676940	4679420	That's what truly truly matters
+4680300	4682300	She will be like wow, I see
+4683340	4687020	Thank you for this ugly fucking guitar that you made for me. I love
+4688380	4690380	Draw a heart, okay
+4690460	4692460	True
+4692780	4697180	Ooh, I can do like a broken heart because that's what her eyes are like
+4702060	4704460	She had like a broken heart, okay, well
+4708700	4716060	I just can't win I just can't fucking win it's fucking over
+4716380	4723420	Okay, that's that's the closest that I can get to a broken heart
+4724300	4726300	Heart I meant to say heart
+4726860	4728860	eyepatch
+4735340	4737580	It sounds so genuinely sad
+4739020	4743500	I'm not I'm okay. I'm not sad. I'm I'm not sad. I promise
+4744460	4746460	If I sound sad
+4747020	4748700	I'm not
+4748700	4750700	It's it's like it's like, you know
+4751900	4753900	resting bitch face
+4754380	4756700	For me, it's I guess resting
+4757900	4759900	A sad voice
+4760300	4763820	Or something I'm not sad. I'm okay. Stop it
+4764700	4770860	I'm not sad. I don't know what you guys think. I'm sad. I'm not I'm having fun. Okay stop it
+4774060	4776460	Okay, uh, how will I do
+4778460	4780460	An eyepatch
+4781340	4783340	I honestly don't know
+4785900	4789980	Wow, that looks like shit bro. What the fuck is
+4791580	4794700	The fucking garbage I hate this fuck this shit
+4795340	4798620	I'm gonna put her name on it. I'm gonna put her name on it because
+4799660	4802300	Clearly I I can't I can't fucking
+4803100	4804780	Do anything
+4804780	4806780	mercy
+4808060	4810060	Wow
+4810300	4812300	Beautiful
+4813180	4815180	Okay, now let's clean the next guitar
+4816460	4820140	I see is a skilled actor. Can we to see her except for oscar?
+4821020	4823020	I don't know about that
+4823420	4825420	But thank you
+4826140	4828140	Stabith
+4828620	4830620	Oh, no
+4830860	4833900	Not me having the joystick name originally
+4835340	4838700	Joystick snow paws god damn
+4841900	4847100	Now do yours no, I don't want to do mine yet. I want to first make sure I make
+4847900	4851340	Guitar for each and every one of the girls and then
+4852940	4854940	And then I'll make
+4855020	4857020	One for myself
+4859500	4863020	So many guitars are being dropped in the mod. I think they're being dropped in shit
+4867100	4869100	Fuck
+4869500	4871500	Okay, nice
+4873340	4875340	Uh
+4876460	4878460	I see shawl
+4878540	4881180	Yeah, why don't you don't even know what that means?
+4882140	4885260	Uh, who who should we make the next guitar for?
+4894620	4896620	Uh
+4901500	4905420	I think I guess I'll make one for strongy
+4905980	4914300	And then next time I do this job, I'll make one uh for azzer
+4916860	4918860	Fondle of both of
+4922060	4927980	I already made one for shibi shibi's guitar has a toilet on it and ebony
+4930140	4934780	You're good. Stop saying you sound sad. I'm not sad. What the fuck
+4935820	4940780	God damn it stupid ogisan. I'm not sad. What is your problem?
+4942220	4948460	Holy fuck ogisan. I think you're deaf. Okay. I'm not sad. What the fuck is your problem?
+4950620	4953260	Okay, let's make one for strongy
+4960460	4962780	I was trying to drive tentacle, but
+4962780	4967340	I don't I don't know how I feel about this
+4971820	4973820	What the fuck
+4975020	4977900	The tentacles have dots on them
+4979260	4982620	I can't remember what tentacles look like so pretend
+4983900	4986540	Tentacles have weird circles on them
+4988620	4992060	Tentacle looking guitar for strongy
+4993740	4995740	Tentacle looking
+4996780	4998780	Suction cups
+4999020	5002460	Rings. Okay, so I have this. I also wanted to have something
+5003500	5006220	A little bit pink to resemble
+5007100	5011820	The kashies pink and green in her hair. What would be the pink?
+5017740	5019740	Uh depends on the tentacle
+5020620	5022620	Yeah
+5022940	5025740	Oh, I think I know hold on. I think I know
+5028220	5036620	Eyes no no no no not eyes. I was thinking of um she has like the cute seashells she has
+5041260	5044380	Seashells on her hair
+5046860	5049360	Nice that looks cute
+5049440	5051440	Good
+5052400	5057440	Halen Bieler has seen the most tentacles as a wonder. I mean probably strongy
+5059120	5065760	She literally lives under the sea so I assume she sees tentacles every freaking day
+5067600	5069600	I think that would make sense
+5069920	5073200	Okay, well this one looks like fucking shit because I don't have enough
+5074160	5076800	Space and I can't make the brush small enough
+5077600	5079600	Under the sea
+5080880	5085280	There are videos you can use for reference for reference for what to draw
+5086960	5088960	No, I'm good
+5090880	5096640	Trolley and artist of all time. Thank you. I'm glad you think so. What else could we add?
+5098640	5100640	Write her name too. Okay
+5101440	5104000	I don't know if I will have space. Where could I
+5104320	5106320	Give me here
+5109600	5111600	Strah
+5117120	5119120	Knee
+5120560	5124000	Nice and then also put a heart in here
+5125520	5128640	Okay, nice. Okay, that's cute
+5130480	5132880	Should we put a sticker? What stickers do we have?
+5134960	5136960	I
+5137520	5139520	Wish we had more stickers
+5141040	5143040	They really don't
+5144240	5147920	They really don't have a big variety. Um
+5150320	5152320	Oh
+5154320	5156320	How do I can I make the stickers
+5156320	5158320	I
+5162080	5166800	What the fuck am I doing? I want to make the stickers bigger, but I can't
+5167760	5169760	Okay, whatever
+5171760	5174260	I don't know how you put it in there
+5176400	5183680	Just just just pretend it makes sense this this sticker here is supposed to uh resemble
+5184640	5186640	Uh the fact that she is
+5187040	5189600	Mine and my gen mates mommy
+5190240	5195120	Okay, this sticker that that's what it resembles. It resembles mommy
+5198160	5204480	Oh, there's another one. Okay, I didn't know I'm doing three today. Okay. I can make azeris then
+5205840	5207840	You can make azeris as well then
+5208320	5210560	This has literally become a fucking
+5211520	5217680	Costume guitar make up make up. Fuck. I can't talk this has officially become
+5218400	5220400	um
+5220400	5224080	A fucking uh, we can't talk costume
+5224480	5229760	Uh guitar maker simulator. That's what this game has become apparently for me
+5230560	5232560	The best few minutes
+5240960	5242960	Me
+5251120	5253120	Fuck
+5253200	5258720	Okay, nice. Okay. So uh next
+5261680	5264000	We're going to be doing
+5264240	5266240	We're going to be doing
+5268000	5270000	Acera
+5270400	5273040	Okay, so I think
+5278240	5280240	She be soggy at the guitar
+5280320	5283280	Wait, really? Did she did you see it?
+5284160	5287200	Really? What did you say? What did she say?
+5288320	5290320	Oh, no, she's probably gonna kill me
+5291040	5293040	Oh, no, she's probably gonna kill me
+5295360	5298320	What did she say about my guitar? I want to know
+5300560	5306560	You get spanked. I snitched. Yeah, she says you're getting a spanking. Oh, no
+5307440	5309440	Not like this
+5310640	5312640	I'm sorry, she be
+5313440	5315440	I'm sorry, she be the toy
+5315680	5317680	I'm sorry, she be the toy
+5320560	5327520	She add your twitter responding to it. Oh god, I see a sweater god you're getting spanked for this
+5329200	5336560	Okay, I'm wondering though. I'm really wondering what's himi's reaction is gonna be when she sees hers
+5337200	5341840	Because hers is the most fucking unhinged one that I've made
+5343360	5345360	Like I made everyone
+5345600	5348400	Like I like like the guitar for she be
+5349360	5355760	And imi are the most unhinged and like funny ones and let me see me make for everyone else like
+5356960	5358960	These cute
+5362000	5366720	Oh my god, okay, so acera
+5370640	5372640	Oh
+5372640	5374640	I know what I want to draw
+5375520	5377520	Could you show the guitars again?
+5377760	5381760	I can't you you'll have to watch the vod and go back
+5382880	5387920	Uh to see all of them. There's no option to like see these guitars again or anything like that
+5389200	5394240	Um, okay, I want to I want to draw a baby bottle. I want to draw a baby bottle
+5396400	5398880	Let's start with a baby bottle. I think that would be good
+5399120	5401120	Hmm
+5405280	5407280	Let's start with
+5409440	5411680	Okay, I know what this looks like right now
+5412880	5414880	But please
+5414880	5420640	This is not the final result. Okay, this is this is not the final result. Trust the process
+5421280	5423280	Trust the process, okay
+5425680	5427680	Okay
+5429200	5431200	Okay
+5431280	5433280	No
+5433360	5439760	Leave it like that. No, I I don't want to get in trouble with acera as well. I'm good
+5440960	5444240	I don't want to get in trouble with acera as well
+5446000	5450960	Or imi because I don't know what what's going to be imi's reaction when she sees hers
+5450960	5460960	Hopefully she doesn't curse me with her magic book. Or like fucking kills me
+5463520	5465520	Ah
+5466800	5468800	Oh, that's not the same
+5470560	5472560	I fucked up
+5473440	5476080	Nice, look that looks cute, right?
+5476800	5480000	I think that looks cute. We have like a milk thing
+5480560	5485680	Because because she has uh the baby bottle in her oshi mark. So I think that's cute, right?
+5486320	5492320	I like it. I think it's cute should I add uh one of those like lines that they have
+5493520	5496880	That show like how much uh of the milk you have
+5497120	5499120	You
+5502880	5508080	Should put a brown gold but small that's the thing that's the smallest that I can make my
+5508960	5514080	Brush which kind of sucks if I could make it smaller. I could probably drive in better stuff
+5515600	5520080	Yeah, but why you draw poop? What do you mean? I didn't draw poop. What are you talking about?
+5520400	5524240	This is a baby bottle and this is the thing you suckle on
+5524880	5526880	What the fuck has her in it?
+5527760	5529920	um
+5529920	5531920	Wait
+5532800	5535680	I went back to see imi's because I forgot hers is just
+5536240	5541200	Okay, so imi's imi's guitar has a big dunk, but
+5542400	5544800	It has a skeleton on top of it
+5546880	5548720	So
+5548720	5550720	Do you see what i'm saying?
+5551200	5553680	I don't even know what i'm saying, so don't pay attention
+5554880	5561840	It's a nipple. Yeah, yeah, it's like it's it's the baby bottle the nipple thing like uh you suck on on the baby bottle
+5564640	5566640	That that that's what it is
+5567440	5569440	Okay, what else should we draw?
+5569680	5571840	I want to draw a gold, but I don't know if I would be
+5572960	5577120	Able to really draw a gold because the brush is just not small enough
+5578400	5579920	uh
+5580000	5582000	I'm not sure
+5582240	5584960	Like I would draw a gold otherwise cookies
+5586160	5588800	Just her horns
+5591360	5593360	I don't remember how to draw
+5595840	5600000	Draw the letters milf. Oh, that's a good one hold on
+5602400	5604720	Sorry about the noise outside if you can hear it
+5606000	5608560	Beep beep, okay, we're gonna put this
+5609920	5611920	I
+5614080	5616080	Milf
+5617600	5619600	Nice
+5622480	5628320	I don't have space to write all of that. Okay. I have very limited space, okay
+5629600	5631600	Maybe like blue in the white part
+5633520	5635520	Wait, what do you mean? What do you mean like?
+5640880	5643360	And then put a heart maybe
+5646640	5649840	Well, that's at least fucking hard I've ever seen
+5652000	5654000	What is my fucking problem?
+5657280	5661120	That's the problem with with with this the problem with this thing
+5661680	5667440	Is that because the brush is so fucking thick like I can't draw things as well as I usually would when I do
+5667680	5669680	Stuff with my mouse
+5672800	5675680	Below the strings thingy wait, what do you want me to put?
+5677920	5679920	Below the strings thingy
+5683440	5689360	Is cute do you think it's good enough or or are we missing or should we add something else?
+5695440	5697360	Small diamond
+5698400	5700400	Hmm
+5702000	5707520	Can I even draw a diamond that's not gonna look like complete fucking shit
+5709760	5712720	Fuck how do you draw a diamond I forgot I think like this
+5714880	5717520	Wow, that looks like shit
+5719360	5721360	Man, I hate the brush in this game
+5728160	5734880	Could you draw being conquerors? Sure, you know what let's do this
+5744880	5746880	There you go
+5751760	5755920	Why did I out of pee what the fuck I didn't even click to pee what the fuck
+5757600	5759600	What the fuck I didn't
+5761120	5766320	What oh fuck I'm starving as well. What the fuck happened
+5767520	5773280	I finished making the guitars and I instantly started pissing. What the fuck?
+5774880	5778400	I'm starving. I need to get food. What is happening?
+5779520	5784000	Pissing over the floor or like pissing simulator. Okay, real
+5784800	5786800	Oh my god, can my
+5787520	5790320	My stomach stop me in those rooms. Is it what the fuck?
+5790880	5794080	Okay, I need I need to go back home
+5796320	5798320	Need to desperately go home
+5800160	5802640	Yeah, what are those noises?
+5804080	5811040	See this is this is why I I don't want anyone to hear my tummy sounds and
+5811920	5816960	Bitch, please stop. Oh my god. I hate the sound. What the fuck?
+5820240	5822240	What the hell is this?
+5824400	5826400	Holy fuck
+5826560	5828560	What are those noises?
+5828720	5830720	What the fuck did you eat?
+5831360	5835360	All I ate is baby food and a banana before stream
+5836400	5838400	What the fuck?
+5841200	5843200	Are you okay?
+5844080	5848880	Uh, I will be when I become the number one star
+5851760	5854160	The fuck I had this fucking game
+5856160	5858160	Oh my god
+5860800	5867360	Those aren't the fun time you sound this smart. Yeah, no shit. Come on, please give me food
+5868320	5874000	The hell are you doing eating baby food? Um, I like to get
+5875280	5877280	pouches of
+5877280	5883760	Baby food because they're easy to eat for me and they're like a nice quick snack
+5884400	5885520	so
+5885520	5892000	Before a stream I I don't like to have a full meal. I like to eat my full dinner after stream
+5892080	5894080	so before a stream I always get
+5895040	5898960	A banana and like a pouch of baby food and that keeps me full
+5900640	5902640	While I stream
+5905360	5909040	I really I really like mango flavored ones. Those are the best
+5910560	5914560	What kind of baby food? Uh, it has banana mango
+5916000	5919760	And and gojava in it. I think
+5920800	5922800	Okay, let's do piss time
+5924640	5930960	You know, I should have pissed on someone outside, but I already have like minus one charisma, so
+5932080	5934080	I don't know if I want to ruin that
+5935280	5941280	Doesn't look gross. I mean, I don't see it. It's it's in a pouch like you it's in a pouch
+5941920	5943920	And then you open it and then you like
+5944640	5947680	You know, like you suck it basically the food
+5950080	5952080	Why baby food
+5952800	5958720	Because it's it's just convenient. It's like it's in a pouch. It's fast. It's easy. I open it
+5959840	5962480	I I suck it up. It gives me full
+5963200	5965200	for the time that I stream and
+5966400	5968400	Yeah
+5968400	5970400	Convenient fast healthy
+5971840	5973840	Sweet and nice
+5974160	5976160	Good enough for me
+5976720	5979360	Why are so we do right behind the toilet?
+5979600	5981600	Um
+5983040	5988560	You know, you want to know why because when I stand here and I piss I like to look outside
+5990080	5995200	You know, like I really want to get a nice view while I pee that makes me really happy
+5998880	6003280	Why not astronaut food sounds way cooler? I don't know where I would get
+6004480	6007120	astronaut food to be honest. I don't know
+6007920	6015600	Uh, where's my bed is supposed to be here, right? I'm supposed to go to sleep, right? Can I make a new song yet or no?
+6018160	6021360	Wow, no, I fucking can't okay, whatever
+6022560	6024560	It's bad time
+6026080	6028080	Every time I open this
+6029360	6032000	I'm sorry. Okay. I have a small bladder
+6033200	6035200	I can't help it
+6035360	6037600	Okay, so what the fuck?
+6046400	6049040	Oh, I was supposed to go to the casino
+6051680	6055440	Right, let's go to the casino. I completely forgot about that
+6056080	6058080	Yeah, we should we should try it out
+6058560	6061040	We should try it out and see if we can get lucky
+6062000	6064000	Stop staring at me
+6064240	6066240	Where's my car?
+6066240	6068240	Did they tow my car again?
+6069440	6073200	I think they did because I'm too lazy to park it anywhere
+6080720	6088080	Rufus took it. I'm gonna kill Rufus. How dare he reject me? Okay, let's see the map
+6088800	6090800	Uh
+6092160	6094160	Where is
+6095600	6098720	Uh park on strong car dealer
+6100080	6105760	Uh casino, okay nice. Okay, let's go
+6109280	6114880	Did they steal your car? I don't think so. I think I think they went to like tow it
+6115680	6117680	or something like that
+6118800	6120800	I want you to break up with him
+6120880	6122880	We weren't even in a relationship
+6124000	6126000	I got straight up rejected
+6126640	6131440	Rufus straight up fucking rejected me. Did you not see the conversation?
+6148560	6150560	Um
+6164160	6166160	Um
+6166160	6168880	...
+6169920	6170540	NO,��,
+6172460	6174600	presidents my
+6181600	6183860	...,
+6185640	6186120	ow
+6186620	6187600	??
+6187700	6188020	??
+6188020	6188620	??
+6188620	6189300	??
+6189300	6189820	??
+6189820	6190500	??
+6190500	6190920	??
+6190920	6191660	??
+6191660	6192700	??
+6192700	6193200	??
+6193200	6194000	??
+6194640	6195440	??
+6195440	6199200	ἐἀἅἱ· ἊἀἓʷἱἝἄἱἬἆ ἊἈἅ·ἋἴἡaitἒʲἋ Ḓἄἑἠ bulky ἆἄἏ�mentedἄἊ� Value rg Shipry
+6201380	6204360	ἒἎἱἱἸἋἻʷ ἀἀἎἕῐἕἕἲἱ ἄἐἑἕ ἔἜ ἔἌ἟ἱἄ branded.
+6204360	6206960	თᄜთᄶთᄷ� nerve
+6207960	6209240	თក� rear
+6209240	6211400	თ� oak
+6211400	6214360	თ თកᄆადათ თ·еш· tid
+6218480	6219400	თទ
+6219560	6221960	თទ
+6221960	6225560	თទ
+6225560	6228560	თទ
+6228680	6230960	თទ
+6230960	6233240	თទ
+6233240	6263240	ვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვვ�
+6263240	6267240	nice okay is there anything
+6267240	6271240	anything inside here
+6271240	6273240	make your
+6273240	6275240	which dish
+6275240	6279240	oh hello
+6279240	6283240	cousin if you ever become famous please reserve
+6283240	6287240	VIP tickets and a spot backstage for me
+6287240	6291240	alright remember i changed your diapers when
+6291240	6297240	you were little no not like this why are you embarrassing
+6297240	6303240	me in front of my snow berries what the fuck
+6303240	6309240	yeah sure one day
+6309240	6311240	coming soon okay
+6311240	6315240	can i talk to anyone here no
+6315240	6319240	okay fuck you
+6319240	6325240	don't worry guys she is not getting any VIP tickets
+6325240	6331240	you know who's getting VIP tickets use snow berries you know why
+6331240	6337240	because you snow berries are the ones who deserve those VIP tickets
+6337240	6341240	can i apply for this cousin position
+6341240	6345240	i don't know can you
+6345240	6351240	okay what else is though what else can i do
+6351240	6355240	advertise auction house studio
+6355240	6361240	brah i really came in here and i can i can't fucking do anything
+6361240	6365240	oh my god
+6365240	6369240	oh my god should have said that to rufus you know what i should have
+6369240	6373240	should i go back to rufus and talk some more
+6373240	6377240	wait what if i go to rufus
+6377240	6381240	what if i go to rufus and i start roasting him
+6381240	6385240	to get back at him for rejecting me
+6385240	6389240	holy um
+6389240	6393240	wait where is it oh my god
+6393240	6397240	please i'm so dumb
+6397240	6401240	where is it supposed to be the bar
+6401240	6405240	okay um where's my car
+6405240	6409240	i'll be honest i don't know where the fuck my car is
+6409240	6413240	so i'm just gonna do this
+6413240	6417240	and summon it car
+6417240	6421240	any
+6421240	6425240	cars
+6425240	6429240	is it there wait did i park in there
+6433240	6437240	i don't know where my car is
+6437240	6441240	i don't remember is this my car
+6441240	6445240	i hope so it kind of looks like my car right
+6445240	6449240	oh yeah this is my car it says icy
+6449240	6453240	don't you mean my car
+6453240	6457240	okay
+6457240	6461240	why doesn't that show the thing anymore
+6461240	6465240	hello show me
+6465240	6469240	am i stupid okay i'm stupid
+6469240	6473240	i didn't see that i was like where's the blue sign
+6473240	6477240	that shows me where to freaking go
+6477240	6481240	okay okay let's go let's go
+6481240	6485240	rufus
+6485240	6489240	clearly he does not
+6489240	6493240	oh this place looks so cool what is this place
+6493240	6497240	oh it's like a house that i could buy in the future i think
+6497240	6501240	no please
+6501240	6505240	let me enter
+6505240	6509240	guys play
+6509240	6513240	please i want to go inside this house
+6513240	6517240	i want to role play like this is my house please
+6517240	6521240	50 000 you can have a
+6521240	6525240	party in this house oh my god i could have a
+6525240	6529240	party with snowberries that would
+6529240	6533240	be so cool but i don't have
+6533240	6537240	$50 000 snowberries
+6537240	6541240	you know what to do give me $50 000
+6541240	6545240	right now so i could buy this
+6545240	6549240	okay let's go to the we can call it the piss bath
+6549240	6553240	that's a nice name wait am i which way am i
+6553240	6557240	fucking going i think i'm stupid
+6557240	6561240	update this throne
+6561240	6565240	imagine imagine i'm updating this throne
+6565240	6569240	and i'm like $50 000
+6569240	6573240	to buy a house in a rockstar simulator
+6573240	6577240	we can manage 50 000
+6577240	6581240	maybe
+6581240	6585240	thank you i appreciate it
+6585240	6589240	okay
+6589240	6593240	i'm being really stupid i don't oh wait
+6593240	6597240	it's almost 8 pm it's almost open
+6597240	6601240	wait maybe we should maybe we should stay wait wait wait
+6601240	6605240	look look at the time it says 721 22 it's
+6605240	6609240	almost 8 i should wait then right
+6609240	6613240	i think i should wait
+6613240	6617240	oh this house
+6617240	6621240	oh my god imagine
+6621240	6625240	fuck
+6625240	6629240	i guess you can
+6629240	6633240	i don't think you can save in this game i think you just
+6633240	6637240	automatically saves it or something come on
+6637240	6641240	open up i want to go inside i want to go inside i want to win all
+6641240	6645240	the money come on gimbal time gimbal time
+6645240	6649240	yo let's go fuck off let me in
+6649240	6653240	yo
+6653240	6657240	hello
+6657240	6661240	blackjack
+6661240	6665240	slot machine
+6665240	6669240	oh i can't some alcohol another slot machine
+6669240	6673240	well this space looks cool though
+6673240	6677240	let me in
+6677240	6681240	wow i need
+6681240	6685240	$1000 to enter the VIP area fuck you
+6685240	6689240	can't you run in here fuck you
+6689240	6693240	whatever you know what
+6693240	6697240	no that's fine i might look like a homeless person and i might not
+6697240	6701240	have money but you know what you can always get
+6701240	6705240	alcohol let's fucking go
+6705240	6709240	don't have money then drink all the alcohol you can get
+6709240	6713240	that's what i do let's go
+6713240	6717240	oh yeah just what i needed
+6717240	6721240	why does the vending machine have nothing
+6721240	6725240	okay let's
+6725240	6729240	let's just slot machine
+6729240	6733240	fuck i really should i should not bad this but let's do
+6733240	6737240	let's do
+6737240	6741240	$4 because i don't trust this fucking slot machine
+6749240	6753240	wow
+6753240	6757240	come on
+6757240	6761240	give me something
+6761240	6765240	please please give me something
+6765240	6769240	i'm begging come on please
+6769240	6773240	bro fuck this i did not win a single time in this fucking
+6773240	6777240	machine fuck you let's do okay
+6777240	6781240	let's let's try this i'm going to bet
+6781240	6785240	$1000
+6785240	6789240	and you know why because i don't know how to play blackjack
+6789240	6793240	i have no idea what the fuck i'm doing
+6793240	6797240	how do you play blackjack
+6797240	6801240	i don't know how to fucking play this
+6801240	6805240	oh my god
+6805240	6809240	what do i click hard or hold
+6809240	6813240	i don't know what i'm doing
+6813240	6817240	should i hold or card
+6817240	6821240	come on snowberries you know what to do
+6821240	6825240	you want to get 21 to win you want to hit 21
+6825240	6829240	card okay let's do card
+6829240	6833240	no
+6833240	6837240	no
+6837240	6841240	let's do this again
+6841240	6845240	no no fuck you are so
+6845240	6849240	close
+6849240	6853240	hold
+6853240	6857240	fuck
+6857240	6861240	oh my fucking god i fucking hate this shit
+6861240	6865240	fuck you please i'm begging please i'm begging let me
+6865240	6869240	win it this once please should i hold
+6869240	6873240	let's hold
+6873240	6877240	what the fuck fuck you okay i'm going to do this
+6877240	6881240	let's do 40 so
+6881240	6885240	when i win i get lots of money
+6885240	6889240	let's fucking go
+6889240	6893240	what the fuck is 717
+6893240	6897240	wait what
+6897240	6901240	what the fuck is that what does that mean hold
+6901240	6905240	wow shit's rigged i know
+6905240	6909240	literally rigged
+6909240	6913240	what the fuck hold
+6913240	6917240	wait people are saying card some are saying hold
+6917240	6921240	let's hold
+6933240	6937240	one last time
+6937240	6941240	oh god
+6941240	6945240	are we holding are we holding
+6945240	6949240	or are we doing card
+6949240	6953240	fuck i don't know what to do i keep fucking losing every single time
+6953240	6957240	card
+6957240	6961240	hold hold
+6961240	6965240	yes yes i won
+6965240	6969240	yo okay let's do this again
+6969240	6973240	maybe we're gonna get better luck oh i'm holding
+6973240	6977240	i'm holding
+6977240	6981240	make it back all the money that i fucking lost
+6981240	6985240	should we go should we go one more
+6985240	6989240	time should we go one more time
+6989240	6993240	i kinda wanna make more money
+6993240	6997240	but i'm scared
+6997240	7001240	should i do another one
+7001240	7005240	or should i stop
+7005240	7009240	your first step in your prime gambling addiction oh god no
+7009240	7013240	oh god
+7013240	7017240	stop it while you're at high
+7017240	7021240	one last time i promise no big
+7021240	7025240	one last time
+7025240	7029240	i promise
+7033240	7037240	should i hold
+7037240	7041240	should i hold
+7041240	7045240	i'm kinda scared
+7045240	7049240	i'm scared to do card
+7049240	7053240	cause before that every time i did card i would fucking lose
+7053240	7057240	i see please no card
+7057240	7061240	i'm scared i'm scared to do card
+7061240	7065240	okay hold
+7065240	7069240	no why do they always get 20
+7069240	7073240	i'm doing this here fuck this
+7073240	7077240	i need to get that back okay no
+7077240	7081240	no this will be the last time
+7081240	7085240	this will be truly the last time
+7085240	7089240	i promise i see your promise
+7089240	7093240	i was just joking
+7093240	7097240	i did not mean it i was just fucking around with you
+7097240	7101240	now this is the last time
+7101240	7105240	now this is truly the last time
+7105240	7109240	yo
+7109240	7113240	draw bitch what
+7113240	7117240	what do you mean draw fuck you
+7117240	7121240	what do you mean draw fuck you bitch
+7121240	7125240	i'm so man what do you mean draw
+7125240	7129240	oh no
+7129240	7133240	oh no we're spiraling down
+7133240	7137240	fuck i wanna do one more
+7137240	7141240	i wanna do one more
+7141240	7145240	oh no i'm addicted
+7145240	7149240	one more one last time let's go one last time
+7149240	7153240	i wanna make what the fuck is 919
+7153240	7157240	what the fuck is this
+7157240	7161240	just one
+7161240	7165240	what is 919
+7165240	7169240	why do i do should i hold hold hold
+7169240	7173240	yes i won
+7173240	7177240	okay okay okay that's enough that's enough
+7177240	7181240	that's enough
+7181240	7185240	fuck why can i piss on people
+7185240	7189240	okay
+7189240	7193240	i really need to pee i need to pee really bad
+7193240	7197240	i need to pee really bad
+7197240	7201240	i need to pee really bad
+7201240	7205240	okay
+7205240	7209240	okay
+7209240	7213240	oh no i'm hungry
+7213240	7217240	oh no
+7217240	7221240	i'm hungry again the fuck
+7221240	7225240	what happens if you pee on the bouncer
+7225240	7229240	probably fucking die
+7229240	7233240	okay
+7233240	7237240	i need to go to the bar so that i can get something to eat
+7237240	7241240	i see a minister civilization
+7241240	7245240	i mean what did you expect is going to happen
+7245240	7249240	when you literally bring a polar bear
+7249240	7253240	polar bear to live in civilization
+7253240	7257240	of course i'm going to be a menace you know
+7257240	7261240	why do you think i'm going to do
+7261240	7265240	just start living by your rules
+7265240	7269240	i don't give a fuck i do what i want
+7269240	7273240	yeah that's right this is my life
+7273240	7277240	my rules
+7277240	7281240	this is in this game i hate this so much please stop
+7285240	7289240	oh no
+7297240	7301240	okay let's eat
+7301240	7305240	let's eat
+7305240	7309240	yum yum yum
+7309240	7313240	yum yum yum
+7313240	7317240	okay okay fuck roofies
+7317240	7321240	let's talk to someone else
+7321240	7325240	that kind of looks similar snowberries
+7325240	7329240	you kind of look similar
+7329240	7333240	what's going on can i talk
+7333240	7337240	can i talk to you
+7337240	7341240	nope
+7341240	7345240	oh my god roofies
+7345240	7349240	is the only one i can fucking talk to what the fuck
+7349240	7353240	i can talk to her as well
+7353240	7357240	should i talk to her
+7357240	7361240	hello
+7361240	7365240	why was he looking up your nose
+7365240	7369240	i don't know i think he has a weird fascination
+7369240	7373240	with my nose because i'm a bear
+7373240	7377240	okay let's talk to her
+7377240	7381240	how can i help you
+7381240	7385240	i can fix you
+7385240	7389240	let's eat
+7389240	7393240	oh fencing yourself a mechanic for the soul are we
+7393240	7397240	yeah
+7397240	7401240	exactly i am
+7401240	7405240	like a therapist
+7405240	7409240	i don't know what the fuck i'm saying
+7409240	7413240	brilliant why is her laugh so loud
+7413240	7417240	i'm having my head exam by a pop philosopher
+7417240	7421240	cheers to unconventional therapy
+7425240	7429240	have you
+7429240	7433240	heard of my number one
+7433240	7437240	whore club
+7437240	7441240	wait
+7441240	7445240	oh riding membership discount
+7445240	7449240	never knew loneliness had a loyalty program
+7449240	7453240	well you know now
+7453240	7457240	membership benefits
+7457240	7461240	includes solo high fives
+7461240	7465240	and talking to plants count me in
+7465240	7469240	no no no
+7469240	7473240	that's not the benefits
+7473240	7477240	you're getting it all wrong
+7477240	7481240	i offer much much more
+7481240	7485240	and better
+7485240	7489240	ah how do you tell my plants all ears too
+7489240	7493240	stop talking
+7493240	7497240	about plants
+7497240	7501240	stop talking here
+7501240	7505240	about sags
+7505240	7509240	i hear this thing is sags
+7509240	7513240	what the fuck are you high
+7513240	7517240	what are you talking about
+7517240	7521240	only on life my friend
+7521240	7525240	and the odd pond cheers
+7525240	7529240	i don't want to talk
+7529240	7533240	to you anymore
+7533240	7537240	are you miss my dad and his personality
+7537240	7541240	but sure take a breather
+7541240	7545240	i don't know why but she was worse than rufus
+7545240	7549240	for me personally
+7549240	7553240	oh my god
+7553240	7557240	what the fuck
+7557240	7561240	i see you gotta tell her about your pen
+7561240	7565240	oh my god how did i not think of that
+7565240	7569240	how did i not think of that that's true
+7569240	7573240	yeah i don't know if you know
+7573240	7577240	but this is like a new program
+7577240	7581240	that civilization has made
+7581240	7585240	let me enter it
+7585240	7589240	we have a furrow
+7589240	7593240	we're gonna have to put some limits
+7593240	7597240	she's only allowed
+7597240	7601240	a few sentences a day to talk to civilization
+7601240	7605240	and after that she can't talk to anyone anymore
+7605240	7609240	so that's what happened here
+7609240	7613240	what the fuck
+7613240	7617240	what the fuck
+7617240	7621240	why is my phone on the side when i drive
+7621240	7625240	what the fuck camera
+7625240	7629240	can i take a selfie
+7629240	7633240	oh wait
+7633240	7637240	i know what i'm gonna do
+7637240	7641240	what the fuck
+7641240	7645240	what the fuck
+7645240	7649240	what the fuck
+7649240	7653240	what the fuck
+7653240	7657240	what the fuck
+7657240	7661240	this man
+7661240	7665240	is a bitch
+7665240	7669240	someone please
+7669240	7673240	arrest him
+7673240	7677240	thank you very much
+7677240	7681240	what
+7681240	7685240	you are 10 plus xp
+7685240	7689240	christopher who killed your grandma
+7689240	7693240	might not be too far off
+7693240	7697240	5 likes
+7697240	7701240	look at the 5 likes i get
+7701240	7705240	what the fuck
+7705240	7709240	time like speed 4 hating on the man
+7709240	7713240	and the pop because they rejected me
+7713240	7717240	i'm really going places
+7717240	7721240	holy fuck
+7721240	7727380	ᆁ ᆁ ᆁ ᆁ
+7727380	7730380	ᆄᆋᑐႌ � clothing
+7732380	7734040	ᐁ ᐁᅁ
+7734680	7737300	ᐂᅃ ᧣႘ᶠ어 ៦ៃ
+7739880	7742080	ც ះᴒែᏄ៑ ះ
+7743000	7744020	ᓒᠤ႘饼
+7744260	7745380	ᔷ፧တ'ោ
+7745380	7746360	ᆗក៿ᐘ'
+7746360	7747280	᐀' Jas �搏
+7747280	7748520	ᐁ cheese ᕠ� leak
+7748520	7748800	ᐉ � hypnotize
+7748800	7760580	statewide 大家 no geetars
+7760580	7763460	purpose
+7763460	7767180	privile injar
+7767180	7770840	ぷ i
+7770840	7772760	liberation
+7772760	7776040	par
+7776040	7778040	GAMBALL!
+7778040	7780040	That was it.
+7780040	7782040	That was really it.
+7782040	7784040	Sounds like a rockstar to me.
+7788040	7792040	That's a rockstar life. You go piss on people.
+7792040	7796040	GAMBALL and make custom guitars for your friends.
+7806040	7808040	Fuck, fuck.
+7814040	7820040	Since I'm here, I'm gonna exit the game.
+7820040	7828040	And I am gonna thank the people who have donated.
+7828040	7836040	And then I'm gonna redirect you into Strani.
+7838040	7840040	Let me see.
+7846040	7848040	Let me see.
+7848040	7860040	Let me add any top on my stream elements.
+7860040	7862040	Hold on, hold on, shall we?
+7868040	7872040	I know, I know my chocolate stuff.
+7878040	7890040	Thank you for watching the stream.
+7890040	7894040	I know you're telling me thank you for the stream.
+7894040	7900040	But it's big thanks for your snowberries.
+7900040	7902040	For being here.
+7902040	7908040	How do I view it in a bigger thing?
+7912040	7926040	I'm gonna read the ones from yesterday and from today.
+7926040	7928040	Okay, so Mike Honey said.
+7928040	7930040	Russian honey.
+7930040	7932040	Oh, bratty lolly baba.
+7932040	7934040	It's correction.
+7934040	7936040	Oh, sorry for the cringe.
+7936040	7938040	It's fine.
+7938040	7940040	It's fine. Thank you so much.
+7940040	7944040	Thank you for the $6.9 tip, Mike Honey.
+7944040	7950040	Anonymous, thank you for the $4.2 donation.
+7950040	7954040	Why didn't the polar bear bright turn up to her wedding?
+7954040	7956040	She got cold feet.
+7958040	7964040	I'm sorry, I don't get the joke on, but I appreciate the effort.
+7966040	7974040	Joshua, thank you for the $4.2 donation.
+7974040	7984040	Thank you for the $10 donation.
+7984040	7986040	Why am I freezing?
+7986040	7988040	What the fuck?
+7988040	7990040	This is shit.
+7990040	7992040	We believe in UIC.
+7992040	7994040	Thank you for believing in me.
+7994040	7996040	I appreciate it.
+7996040	8002040	Joshua, thank you for the $6.9 donation.
+8002040	8010040	Mike Honey, thank you for the $3.33 donation.
+8010040	8014040	Now watch Netflix with a polar bear.
+8014040	8018040	They're always pressing pause.
+8018040	8022040	Okay, Mike Honey, okay.
+8022040	8024040	Joshua, thank you for the donation.
+8024040	8026040	Thank you for the stream.
+8026040	8028040	I keep up the good work.
+8028040	8030040	Thank you, thank you for coming to my stream.
+8030040	8032040	I appreciate it.
+8032040	8038040	And another donation from Joshua.
+8038040	8040040	Thank you again.
+8042040	8050040	Namecatguy said cute brat.
+8050040	8054040	Thank you for the $4 donation.
+8054040	8058040	Joshua, thank you for the $6 donation.
+8058040	8068040	Mike Honey, why do you call a polar bear who likes to sunbathe a solar bear?
+8068040	8072040	Oh gee, son, you better get better jokes.
+8072040	8074040	Why are these jokes?
+8074040	8080040	I'm not laughing, but thank you for the $3 donation.
+8080040	8086040	Mike Honey, baby food equals true lolly.
+8086040	8092040	Thank you Mike Honey for the $6 donation.
+8092040	8094040	Oh my god, help.
+8094040	8096040	I fucking can.
+8096040	8098040	But yeah, thank you.
+8098040	8100040	Thank you for everyone who's dead.
+8100040	8102040	I can't fucking talk.
+8102040	8106040	Thank you to everyone who donated yesterday and in today's stream.
+8106040	8110040	I really, really appreciate it.
+8110040	8112040	Oh wait.
+8112040	8114040	Wait, there's another one.
+8114040	8122040	Oh, tuning in on my lunch hour is becoming a cozy part of my daily routine.
+8122040	8126040	Oh, thank you for the $10 donation.
+8126040	8128040	And thank you.
+8128040	8134040	I'm very happy that I can be a cozy part of your daily routine.
+8134040	8140040	Although I don't know how cozy I am to be honest with how chaotic I can get.
+8140040	8142040	But thank you, I appreciate it.
+8142040	8144040	Okay, okay, okay.
+8144040	8152040	So again, thank you very much for everyone who came to my stream today
+8152040	8156040	and talked to me and made me laugh and donated.
+8156040	8158040	I really appreciate it.
+8158040	8163040	I don't know why the fuck my tracking keeps fucking pausing.
+8163040	8167040	I think it's because my phone probably needs to be charged or something like that.
+8167040	8169040	I'm not sure what the problem is.
+8169040	8174040	But hopefully that didn't happen last stream.
+8174040	8176040	I hope that didn't happen last stream.
+8176040	8178040	I don't think it did.
+8178040	8185040	But before I go, let me make sure that I redirect.
+8188040	8190040	I need to remember how to do it.
+8191040	8197040	We will be redirecting into Strani.
+8202040	8205040	I need to go into my settings to do that.
+8207040	8209040	So, please give me a moment.
+8209040	8223040	Okay, redirect and Strani save.
+8227040	8231040	Okay, nice, nice, nice.
+8231040	8233040	Okay, okay.
+8233040	8236040	All right, I'm gonna finish.
+8236040	8243040	I am not streaming tomorrow, but I will be streaming on Thursday.
+8243040	8247040	So I will see you guys on Thursday again.
+8247040	8252040	I believe Thursday I'll be playing the polar bear game if I'm not wrong.
+8252040	8257040	And then Friday should be a summer and Saturday the DJ stream.
+8257040	8259040	So yeah, thank you.
+8259040	8261040	Thank you for stepping by.
+8261040	8263040	I love you.
+8264040	8266040	I love you and thank you for being here.
+8266040	8268040	And I'll see you next time.
+8268040	8270040	Bye bye for now.
+8270040	8272040	Bye.
