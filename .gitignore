@@ -138,3 +138,6 @@ cython_debug/
 youtube/data/*
 youtube/*/downloaded/*
 youtube/*/processed/*
+
+youtube/playlist.json
+youtube/cookies.txt
