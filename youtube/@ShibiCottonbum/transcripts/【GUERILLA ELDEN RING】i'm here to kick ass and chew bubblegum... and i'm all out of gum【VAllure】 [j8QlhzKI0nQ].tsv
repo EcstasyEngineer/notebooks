@@ -1,0 +1,3848 @@
+start	end	text
+30000	32000	You
+60000	80000	You
+90000	100000	You
+120000	140000	You
+150000	170000	You
+170000	190000	You
+190000	218000	You
+218000	234000	You
+248000	268000	You
+268000	296000	You
+296000	316000	You
+316000	336000	You
+336000	364000	You
+364000	390000	You
+390000	418000	You
+418000	440000	You
+440000	468000	You
+468000	488000	You
+488000	516000	You
+516000	538000	You
+538000	564000	You
+564000	584000	You
+584000	612000	You
+612000	638000	You
+638000	660000	You
+660000	686000	You
+686000	706000	You
+706000	726000	You
+726000	746000	You
+746000	774000	You
+774000	800000	You
+800000	826000	You
+826000	852000	You
+852000	872000	You
+872000	892000	You
+892000	912000	You
+912000	932000	You
+932000	952000	You
+952000	972000	You
+972000	992000	You
+992000	1012000	You
+1012000	1032000	You
+1032000	1052000	You
+1062000	1088000	You
+1088000	1108000	You
+1108000	1128000	You
+1128000	1148000	You
+1148000	1174000	You
+1174000	1200000	You
+1200000	1220000	You
+1220000	1240000	You
+1240000	1268000	You
+1268000	1294000	You
+1294000	1314000	You
+1314000	1334000	You
+1334000	1354000	You
+1354000	1374000	You
+1374000	1394000	You
+1394000	1414000	You
+1414000	1440000	You
+1440000	1456000	You
+1456000	1476000	You
+1476000	1496000	You
+1496000	1516000	You
+1516000	1532000	You
+1532000	1544000	You
+1544000	1570000	You
+1570000	1592000	You
+1592000	1612000	You
+1612000	1632000	You
+1632000	1652000	You
+1652000	1680000	You
+1680000	1706000	You
+1706000	1732000	You
+1732000	1752000	You
+1752000	1780000	You
+1780000	1800000	You
+1800000	1820000	You
+1820000	1840000	You
+1840000	1860000	You
+1860000	1880000	You
+1880000	1900000	You
+1900000	1920000	You
+1920000	1940000	You
+1940000	1960000	You
+1960000	1980000	You
+1980000	2008000	You
+2008000	2034000	You
+2034000	2060000	You
+2060000	2086000	You
+2086000	2106000	You
+2106000	2134000	You
+2134000	2154000	You
+2154000	2174000	You
+2174000	2194000	You
+2194000	2214000	You
+2214000	2240000	You
+2240000	2260000	You
+2260000	2286000	You
+2286000	2306000	You
+2306000	2314000	You
+2314000	2340000	You
+2340000	2360000	You
+2360000	2380000	You
+2380000	2408000	You
+2408000	2434000	You
+2434000	2462000	You
+2462000	2488000	You
+2488000	2514000	You
+2514000	2540000	You
+2540000	2566000	You
+2566000	2586000	You
+2586000	2612000	You
+2612000	2632000	You
+2632000	2658000	You
+2658000	2678000	You
+2678000	2698000	You
+2698000	2718000	You
+2718000	2744000	You
+2744000	2754000	You
+2754000	2764000	You
+2764000	2784000	You
+2784000	2812000	You
+2812000	2822000	You
+2822000	2832000	You
+2832000	2852000	You
+2852000	2862000	You
+2862000	2872000	You
+2872000	2892000	You
+2892000	2912000	You
+2912000	2932000	You
+2932000	2952000	You
+2952000	2972000	You
+2972000	2980000	You
+2980000	3000000	You
+3000000	3008000	You
+3008000	3028000	You
+3028000	3056000	You
+3056000	3076000	You
+3076000	3084000	You
+3084000	3104000	You
+3104000	3112000	You
+3112000	3140000	You
+3140000	3160000	You
+3160000	3188000	You
+3188000	3214000	You
+3214000	3242000	You
+3242000	3270000	You
+3270000	3286000	You
+3286000	3298000	You
+3298000	3326000	You
+3326000	3346000	You
+3346000	3366000	You
+3366000	3386000	You
+3386000	3406000	You
+3406000	3434000	You
+3434000	3454000	You
+3454000	3474000	You
+3474000	3502000	You
+3502000	3522000	You
+3522000	3550000	You
+3550000	3566000	You
+3566000	3578000	You
+3578000	3606000	You
+3606000	3634000	You
+3634000	3662000	You
+3662000	3682000	You
+3682000	3690000	You
+3690000	3700000	You
+3700000	3710000	You
+3710000	3730000	You
+3730000	3758000	You
+3758000	3768000	You
+3768000	3778000	You
+3778000	3806000	You
+3806000	3832000	You
+3832000	3860000	You
+3860000	3870000	You
+3870000	3880000	You
+3880000	3908000	You
+3908000	3936000	You
+3936000	3964000	You
+3964000	3974000	You
+3974000	3984000	You
+3984000	3992000	You
+3992000	4002000	You
+4002000	4012000	You
+4012000	4020000	You
+4020000	4040000	You
+4040000	4048000	You
+4048000	4076000	You
+4076000	4096000	You
+4096000	4104000	You
+4104000	4114000	You
+4114000	4124000	You
+4124000	4132000	You
+4132000	4160000	You
+4160000	4164000	You
+4164000	4168000	You
+4168000	4170000	You
+4170000	4176000	You
+4176000	4180000	You
+4180000	4182000	You
+4182000	4188000	You
+4188000	4217260	And
+4217260	4218260	I'm out.
+4218260	4219260	Yikes.
+4219260	4220260	Nope.
+4220260	4221260	It's fine.
+4221260	4222260	It's fine.
+4222260	4223260	It's fine.
+4223260	4224260	Don't worry about it.
+4224260	4225260	It's fine.
+4225260	4226260	You gotta fake him out.
+4226260	4227260	I'm out.
+4227260	4228260	Yikes.
+4228260	4229260	Yikes.
+4229260	4230260	Yikes.
+4230260	4231260	Yikes.
+4231260	4232260	Yikes.
+4232260	4233260	Yikes.
+4233260	4234260	Yikes.
+4234260	4235260	Yikes.
+4235260	4236260	Yikes.
+4236260	4237260	Yikes.
+4237260	4238260	Yikes.
+4238260	4239260	Yikes.
+4239260	4240260	Yikes.
+4240260	4241260	Yikes.
+4241260	4242260	Yikes.
+4242260	4243260	Yikes.
+4243260	4244260	Yikes.
+4244260	4245260	Yikes.
+4245260	4246260	Yikes.
+4247260	4249260	Yikes.
+4249260	4251260	Yikes.
+4251260	4252260	Yikes.
+4252260	4253260	Yikes.
+4253260	4254260	Yikes.
+4254260	4255260	Yikes.
+4255260	4256260	Yikes.
+4256260	4257260	Yikes.
+4257260	4258260	Yikes.
+4258260	4259260	Yikes.
+4261260	4262260	Yikes.
+4262260	4263260	Yikes.
+4264260	4265260	Yikes.
+4265260	4266260	Yikes.
+4266260	4267260	Yikes.
+4267260	4269260	Yikes.
+4270260	4271260	Yikes.
+4272260	4273260	Yikes.
+4273260	4274260	Yikes.
+4274260	4284420	gets fucked shadow wizard money gain my hands are sweating what is going on with
+4284420	4294580	my headphones okay you this soda sucks it's a porch digestive health this tastes
+4294580	4301020	like shit I got a ollie pop soda and it tastes like crap
+4302020	4307380	it's all gonna drink it though because I spent money on it
+4313100	4317100	it's calling ollie pop
+4318780	4322260	oh fuck me up
+4331020	4334020	oh
+4344700	4349940	like that I fucking fell in there in the cliff came claims another it was very
+4349940	4355100	good very good
+4361420	4364420	oh
+4375860	4379740	oh I pressed that too late
+4382740	4388500	oh fuck me my timing's all off now
+4391980	4396340	I'm trying to roll forward but I can't because the camera lock and now I'm
+4396340	4404060	trapped it's fine fuck your mom I like how I always I always get so close on
+4404060	4413020	my first try and then I fuck up bye bye have a good one oh have a good camping
+4413020	4423460	trip what the hell that's cool I haven't been camping in so long the vaude will be
+4423460	4426900	like eight hours so don't worry
+4437980	4441260	it's hard cuz you get locked into an animation so you have to make sure you're
+4441300	4446540	just the right amount of way
+4449180	4453220	how'd you cut you cut you
+4453220	4455220	I
+4470180	4472180	hold on
+4475940	4480620	I'm busy oh fuck me
+4483620	4504340	you just fucking slap me what the hell why can't I do this now it was so good
+4504340	4513060	my first run oh no I'm I know I'm not saying
+4513100	4516980	that it'll take eight hours for me to beat this boss I'm telling you I know any
+4516980	4520100	lock back in right any lock back in I'm telling you it's gonna take me eight
+4520100	4526100	hours to do everything else it's gonna be an endurance dream today
+4573060	4575060	oh
+4603060	4613380	I was so close I'm so mad at myself for not getting it the first time I was
+4613380	4619180	expect the hammer yeah they always there's always a second phase usually I
+4619180	4623820	love this game this game makes you so excited because I was like oh I can't
+4623820	4627500	wait to beat your ass and this feels so good after when I do it I'm gonna clap
+4627500	4631060	those cheeks so good market you have no idea just just bend over and take it
+4631060	4635860	market stop fucking me so I can fuck you okay
+4653980	4657620	oh I rolled into that
+4661060	4663060	oh
+4691060	4702940	oh maybe doesn't or maybe it maybe it just it doesn't
+4702940	4715820	maybe can I kill oh look at you can you give me a fucking break bro I'm get
+4715820	4720060	locked in the animation so he gets a free hit every time I do that
+4721060	4723060	I
+4744220	4749060	you know what I'm doing what I'm doing wrong what I'm doing wrong when I'm
+4749060	4751980	getting close to him I'm still using this fucking gravity thing I should be
+4751980	4760220	using the sword I'm fucking stupid it's on me it's not it's it's on me
+4760740	4764300	smash or pass market smash because I'm about to beat his fucking ass to the
+4764300	4771580	ground all right I'm not gonna get cuz once I usually do this he gets a free
+4771580	4780900	one and run behind him do a little I'm right in the noggin
+4788300	4795060	I'm gonna come up close and fucking run away and then I'm gonna run away and then
+4795060	4802420	I'm gonna run away and I'm gonna get locked in my thing so I'm not far away
+4802420	4812340	enough bro bro I'm shitting on myself right now I'm about to fall off this
+4812340	4818940	cliff I wish I could make him jump off the cliff that'd be great
+4823340	4831700	oh I jumped too early and I was too late getting up
+4842340	4854660	I'm out I'm I just scratch my eye I'm scratching my eye
+4858060	4862780	it looks like the kind of passes around STD's
+4866260	4870380	I'm getting hot take off my clothes
+4872340	4877220	it's waiting
+4884340	4891420	okay no I didn't I was taking off my sweatshirt that's it everybody relax
+4891420	4902460	my headphones are tangled and my controllers cable
+4905900	4917500	please whoa I scared me I wish I could play music but I can't cuz YouTube
+4917500	4923580	copyright I'm better when I can play music I usually play my own music when
+4923580	4935300	I fight a boss happy winter oh you must live on an Australia land or something
+4935300	4943140	or European land Western Hemisphere land I don't know no audio audio jungle
+4947500	4949500	hmm
+4959700	4965420	back up back up back up a little might be no
+4977500	4980100	no
+5067500	5095020	No, I'm out, what the fuck am I doing?
+5095020	5096020	Oh I walked into that.
+5096020	5103020	I thought he was going to jump.
+5103020	5106020	No I'm not going to summon anything.
+5106020	5112340	I want to do this by myself.
+5112340	5116900	Sometimes I will like summon to take the aggro off of me if it's a hard boss, usually like
+5116900	5122940	when I played I would literally do mimic tier, have it aggro the mimic tier and then just
+5122940	5144500	blackknife the fuck until the blight fucking killed it.
+5144500	5150820	I rolled into that, rolled too early and I'm still stuck, I'm still stuck, I can get out
+5150820	5168260	of my animations.
+5168260	5175580	I don't even remember pressing that, I'm stuck, I'm stuck, my eye is at you again.
+5175580	5192220	Oh I'm accidentally holding it, ow.
+5192220	5194940	I'm, I, how do you have so much reach?
+5194940	5201140	How do you have so much reach, bro?
+5201140	5229500	Oh I'm doing stuff too late and I'm locked in animations, yeah.
+5229860	5234860	How did I get so close, my first try, because I was locked in, I had the rhythm down, it's
+5234860	5258420	fine, it's fine, guys I promise you.
+5258420	5268740	I'm not, I'm not a trash wizard, I'm a good wizard.
+5268740	5279340	I'm good at this I promise, I'm so good, see?
+5279340	5283180	Liza P taught me well.
+5314140	5316940	Hold on.
+5316940	5317940	I'm busy.
+5317940	5340940	No I was locked in the animation, I was trying to cancel it and I couldn't, no, no, no, no.
+5340940	5342940	Stop, let me breathe.
+5342940	5352940	No, leave me alone.
+5352940	5362940	No, leave me alone.
+5362940	5366940	Ow.
+5392940	5416940	Oh fuck, nope.
+5416940	5423940	Ow.
+5423940	5426940	Ow.
+5446940	5453940	Ow.
+5453940	5456940	Ow.
+5456940	5457940	Ow.
+5457940	5458940	Ow.
+5458940	5459940	Ow.
+5459940	5460940	Ow.
+5460940	5461940	Ow.
+5461940	5462940	Ow.
+5462940	5463940	Ow.
+5463940	5464940	Ow.
+5464940	5465940	Ow.
+5465940	5466940	Ow.
+5466940	5467940	Ow.
+5467940	5468940	Ow.
+5469940	5474940	Ow.
+5474940	5479940	Ow.
+5479940	5486940	Ow.
+5486940	5494940	Ow.
+5494940	5496940	I don't know.
+5507940	5509940	Oh, I can't sleep laughing.
+5514940	5517940	Anonymous kicked $3.33.
+5517940	5521940	If Margit had a shampoo brand, it'd be called Cane in Tail.
+5521940	5524940	I hope someone clipped that shit. It was funny as fuck.
+5539940	5543940	Oh, thank you. Thank you for the tip, Anonymous. Thank you.
+5546940	5549940	I don't have my headphones on, so I don't know what was sad, but thank you.
+5549940	5551940	I'm going to look at it right now.
+5555940	5557940	I'm trapped in the game.
+5564940	5566940	I'm locked out of stream elements.
+5566940	5568940	Anonymous.
+5577940	5580940	If Margit had a shampoo brand, it'd be called Cane in Tail.
+5587940	5589940	It almost don't work. Oh, yeah. No, it's fine.
+5596940	5598940	I'm locked out of stream elements.
+5605940	5607940	Anonymous, Anonymous.
+5607940	5609940	I'm locked out.
+5626940	5629940	I'm going to do some stretches. We're just going to get back into the zone. No.
+5637940	5639940	I don't know.
+5667940	5669940	I don't know.
+5674940	5677940	I don't believe it. I mean, it's all railings. What do you mean?
+5677940	5679940	Fuck you.
+5679940	5682940	You guys know, like, I'm decent.
+5682940	5685940	I'm just getting my, I'm getting overeagered. I'm getting greedy.
+5685940	5687940	I'm not getting my timing right.
+5697940	5699940	I'm not getting my timing right.
+5727940	5729940	I don't know.
+5729940	5731940	I'm locked out of stream elements.
+5731940	5733940	I'm locked out of stream elements.
+5733940	5735940	I'm locked out of stream elements.
+5735940	5737940	I'm locked out of stream elements.
+5737940	5739940	I'm locked out of stream elements.
+5739940	5741940	I'm locked out of stream.
+5753940	5755940	Okay. I need, where are my airpods.
+5755940	5757940	I need music. I need music so bad.
+5763940	5765940	I need music so bad.
+5769940	5780940	I'm just going to throw on some fucking Rob Zombie.
+5780940	5807940	I remember, I almost dropped something, I was playing as Rinna as a patient right there.
+5807940	5817940	I was playing as Rinna being called the lamb, and I was getting my ass handed to me with one of the bosses.
+5817940	5822940	And so I literally just put on Rob Zombie and I fucking rocked him.
+5822940	5835940	So that's my go to, is I just play some Rob Zombie, or just some dubstep or something.
+5835940	5839940	I don't know, I just have an easier time if I listen to music and I don't listen to the game.
+5839940	5844940	And I can just focus on movement, and so I think the sound distracts me.
+5844940	5847940	Alright, let me just...
+5848940	5850940	I'm thinking about playing sick bubblegum.
+5850940	5852940	The Skrillex remix.
+5877940	5887940	Shibi is the muppet that's operating the model.
+5887940	5901940	The muppet's operating the model.
+5901940	5907940	Dragula, Dragula is also good.
+5907940	5909940	We all know how we're going to die, baby.
+5909940	5914940	Wait, I can't have my model open while I have YouTube open, that's stupid.
+5914940	5925940	Alright, well, ventriloquism.
+5925940	5930940	Alright, I'm in the zone, I feel good.
+5930940	5934940	Please, let me the fucking...
+5960940	5966940	Alright, I'm in the zone, I feel good.
+5991940	5996940	Now I'm getting too into music.
+5996940	6001940	Oh fuck.
+6001940	6012940	Sick bubblegum.
+6021940	6026940	I can't believe I breathed almost on my first try, and then I fucked it up.
+6026940	6036940	And I fell off the map the second time.
+6050940	6060940	Alright, I'm in the zone, I feel good.
+6060940	6070940	I'm in the zone, I feel good.
+6070940	6098940	I'm stuck.
+6098940	6126940	Oh, I just noticed my health.
+6126940	6136940	I'm in the zone, I feel good.
+6136940	6146940	Alright, let's do Dragula.
+6166940	6191940	I'm stuck.
+6192940	6202940	I'm stuck.
+6202940	6205940	Now I threw it, I didn't know you could do that.
+6205940	6211940	Dig through the ditches and I'm not paying attention to my health because this music is good.
+6211940	6215940	Dragula.
+6215940	6216940	Hi, Boomi.
+6216940	6221940	Boomi, I need your little titties as a little stress ball.
+6221940	6224940	Thank you.
+6224940	6226940	So many apps.
+6226940	6236940	Stream's going good.
+6256940	6276940	I'm in the zone, I feel good.
+6276940	6292940	Fuck.
+6292940	6304940	I got cornered, I knew I was going to get stuck back here.
+6304940	6310940	I'm going to be quiet until I beat him, I apologize.
+6310940	6320940	I can never die, dig through the ditches and burn through the witches of Sam in the back of my Dragula.
+6341940	6347940	No, fuck, I didn't get the stagger.
+6347940	6358940	I got locked into another animation.
+6358940	6387940	I need heal.
+6387940	6390940	And no!
+6390940	6402940	Alright, next song.
+6402940	6412940	Shut me up, my little self-indulgence, let's go.
+6412940	6415940	The bass, the rock, the mic, the treble.
+6415940	6421940	I like my coffee black just like my middle with the bass, the rock, the mic, the treble.
+6421940	6425940	I like my coffee black just like my middle cuz.
+6425940	6429940	Oh, knock me up in a minute, minute, minute, and a fucking minute.
+6429940	6434940	I can't wait for you to knock me up in a minute, minute, and a second.
+6434940	6440940	I can't wait for you to shut me up and make me hit like fuck.
+6440940	6446940	It's fine, it's too far away.
+6446940	6455940	Oh, it was stuck in the animation cuz I accidentally pressed the button.
+6455940	6458940	Shut.
+6458940	6469940	La la la, ooh la la la, ooh la la la.
+6469940	6475940	The whip timed perfectly when you threw it.
+6475940	6479940	Oh, it's funny.
+6479940	6483940	I can't wait for you to knock me up in a minute, minute.
+6483940	6490940	I'm so fucking stupid, I can't wait for you to knock me up in a minute, minute, and a second.
+6490940	6497940	I can't wait for you to shut me up and make me hit like badass.
+6497940	6503940	All right.
+6503940	6513940	I'm getting worse.
+6513940	6535940	It's a great music video.
+6535940	6554940	All right, timed that horribly.
+6554940	6570940	I thought I was gonna stagger him.
+6570940	6572940	I, I...
+6572940	6576940	Whoa, ah!
+6576940	6578940	I'm almost dead.
+6578940	6581940	That's not the one.
+6581940	6588940	Thank you for letting me heal.
+6612940	6614940	Oh.
+6614940	6617940	I'm getting animation locked.
+6617940	6619940	Yeah, I'm dead.
+6619940	6633940	I'm dead.
+6633940	6637940	Declan hide, five finger death punch.
+6637940	6641940	Which is gonna be the magical song, like that's it.
+6641940	6643940	Yes, I'm still in the market!
+6643940	6656940	Fuck off!
+6656940	6659940	I didn't even do a lot of damage.
+6659940	6662940	Ow.
+6662940	6672940	There's a demon.
+6672940	6673940	This is a good run.
+6673940	6682940	I'm just gonna let him kill me.
+6682940	6684940	Are my cats making noise?
+6684940	6690940	What are you guys doing?
+6690940	6692940	I think I'm just drinking water.
+6692940	6694940	What are the other cats doing?
+6694940	6695940	Like nirvana?
+6695940	6696940	Yeah.
+6696940	6702940	Something's in my ass.
+6702940	6704940	Damn, wait on your shoulder.
+6704940	6711940	I just saved your motherfucking life.
+6734940	6759940	Why did I ever feel this pain?
+6759940	6769940	Hey, hey, hey!
+6789940	6818940	No, I missed it!
+6818940	6847940	I'm trying to heal.
+6847940	6862940	Okay, another song.
+6862940	6879940	Maybe I need something at the right BPM.
+6879940	6905940	Okay, locked to DNMO mix.
+6905940	6934940	Are you gonna do anything, bro?
+6934940	6961940	I'm locking in, closing all my tabs, besides the game.
+6961940	6981940	I'm getting sloppy, bro!
+6981940	7010940	Fuck, bro!
+7011940	7039940	I'm getting sloppy, bro!
+7039940	7068940	I'm getting sloppy, bro!
+7069940	7096940	I didn't think he was gonna hit me with that.
+7096940	7101940	All right.
+7101940	7102940	Spit.
+7102940	7128940	My slush puppy.
+7128940	7141940	Misfit, misfit, and trouble.
+7141940	7170940	Shit icon, each spit get dicked with the lights on.
+7171940	7197940	Misfit, misfit, and trouble.
+7197940	7207940	That bitch, clean shit icon, each spit get dicked with the lights on.
+7207940	7210940	You guys can't tell how much I'm stimming right now.
+7210940	7226940	My legs are going crazy.
+7226940	7243940	I didn't have to heal.
+7243940	7244940	I'm getting too eager.
+7244940	7250940	I'm getting too eager!
+7250940	7251940	He's like, wow, you're awesome.
+7251940	7252940	Wait, you're dead.
+7256940	7283940	Fuck, I love this song.
+7283940	7293940	I'm getting too angry.
+7293940	7318940	What is up with my timing?
+7318940	7338940	I don't know why I pressed that twice.
+7338940	7347940	I shouldn't have healed until I jumped.
+7347940	7367940	I shouldn't have healed until I jumped.
+7367940	7380940	I need to heal.
+7380940	7381940	I need to heal.
+7381940	7382940	I need to heal.
+7382940	7387940	Don't worry, but I'm not.
+7387940	7394940	I'm just dancing.
+7394940	7401940	I need to do a lap.
+7424940	7432940	I'm dancing to the hum of your fridge.
+7432940	7433940	Fuck out.
+7433940	7434940	I like the lighting.
+7434940	7435940	I like your waitress.
+7435940	7436940	She's pretty hot.
+7436940	7456940	I'm going to do this homeless guy.
+7456940	7465940	I'm putting my clothes back on.
+7465940	7491940	Everybody get up and twerk.
+7491940	7511940	Alright, how have I been looking at chat?
+7511940	7517940	Let me see what you say.
+7517940	7520940	I have a camera mode too.
+7520940	7522940	I'm throwing it back as hard as possible.
+7522940	7523940	My back hurts.
+7523940	7530940	I need a good twerk song.
+7530940	7559940	I need a good twerk song.
+7559940	7579940	I need a good twerk song.
+7579940	7608940	I need a good twerk song.
+7608940	7628940	I need a good twerk song.
+7628940	7657940	I need a good twerk song.
+7657940	7686940	I need a good twerk song.
+7686940	7715940	I need a good twerk song.
+7715940	7735940	I need a good twerk song.
+7735940	7762940	I need a good twerk song.
+7762940	7789940	I need a good twerk song.
+7789940	7817940	I need a good twerk song.
+7817940	7846940	I need a good twerk song.
+7846940	7870940	I need a good twerk song.
+7870940	7899940	I need a good twerk song.
+7900940	7920940	I need a good twerk song.
+7920940	7940940	I need a good twerk song.
+7940940	7962940	I need a good twerk song.
+7962940	7984940	I need a good twerk song.
+7984940	8011940	I need a good twerk song.
+8011940	8040940	I need a good twerk song.
+8040940	8062940	I need a good twerk song.
+8062940	8091940	I need a good twerk song.
+8091940	8118940	I need a good twerk song.
+8118940	8143940	I need a good twerk song.
+8143940	8172940	I need a good twerk song.
+8173940	8202940	I need a good twerk song.
+8204940	8227940	Bandai Namco.
+8227940	8256940	I need a good twerk song.
+8257940	8284940	I need a good twerk song.
+8284940	8313940	I need a good twerk song.
+8314940	8343940	I need a good twerk song.
+8344940	8373940	I need a good twerk song.
+8374940	8401940	I need a good twerk song.
+8401940	8430940	I need a good twerk song.
+8431940	8460940	I need a good twerk song.
+8461940	8490940	I need a good twerk song.
+8491940	8520940	I need a good twerk song.
+8521940	8548940	I need a good twerk song.
+8548940	8574940	I need a good twerk song.
+8574940	8603940	I need a good twerk song.
+8604940	8626940	I need a good twerk song.
+8626940	8652940	I need a good twerk song.
+8652940	8678940	I need a good twerk song.
+8678940	8707940	I need a good twerk song.
+8708940	8737940	I need a good twerk song.
+8738940	8760940	I need a good twerk song.
+8760940	8787940	I need a good twerk song.
+8787940	8816940	I need a good twerk song.
+8817940	8846940	I need a good twerk song.
+8847940	8876940	I need a good twerk song.
+8877940	8904940	I need a good twerk song.
+8904940	8933940	I need a good twerk song.
+8934940	8957940	I need a good twerk song.
+8957940	8984940	I need a good twerk song.
+8984940	9013940	I need a good twerk song.
+9013940	9042940	I need a good twerk song.
+9042940	9071940	I need a good twerk song.
+9071940	9095940	I need a good twerk song.
+9095940	9118940	I need a good twerk song.
+9118940	9147940	I need a good twerk song.
+9148940	9163940	I need a good twerk song.
+9163940	9190940	I need a good twerk song.
+9190940	9219940	I need a good twerk song.
+9220940	9240940	I need a good twerk song.
+9240940	9267940	I need a good twerk song.
+9267940	9295940	I need a good twerk song.
+9295940	9324940	I need a good twerk song.
+9324940	9344940	I need a good twerk song.
+9344940	9373940	I need a good twerk song.
+9373940	9393940	I need a good twerk song.
+9393940	9420940	I need a good twerk song.
+9420940	9449940	I need a good twerk song.
+9449940	9476940	I need a good twerk song.
+9476940	9505940	I need a good twerk song.
+9505940	9530940	I need a good twerk song.
+9530940	9559940	I need a good twerk song.
+9559940	9581940	I need a good twerk song.
+9581940	9610940	I need a good twerk song.
+9610940	9639940	I need a good twerk song.
+9639940	9668940	I need a good twerk song.
+9669940	9694940	I need a good twerk song.
+9694940	9721940	I need a good twerk song.
+9721940	9750940	I need a good twerk song.
+9750940	9779940	I need a good twerk song.
+9779940	9808940	I need a good twerk song.
+9809940	9838940	I need a good twerk song.
+9838940	9867940	I need a good twerk song.
+9868940	9897940	I need a good twerk song.
+9898940	9925940	I need a good twerk song.
+9925940	9952940	I need a good twerk song.
+9952940	9981940	I need a good twerk song.
+9982940	10011940	I need a good twerk song.
+10012940	10034940	I need a good twerk song.
+10034940	10063940	I need a good twerk song.
+10063940	10092940	I need a good twerk song.
+10092940	10119940	I need a good twerk song.
+10119940	10146940	I need a good twerk song.
+10146940	10175940	I need a good twerk song.
+10175940	10197940	I need a good twerk song.
+10197940	10226940	I need a good twerk song.
+10226940	10255940	I need a good twerk song.
+10255940	10284940	I need a good twerk song.
+10285940	10312940	I need a good twerk song.
+10312940	10341940	I need a good twerk song.
+10341940	10370940	I need a good twerk song.
+10370940	10399940	I need a good twerk song.
+10400940	10429940	I need a good twerk song.
+10429940	10458940	I need a good twerk song.
+10458940	10487940	I need a good twerk song.
+10487940	10516940	I need a good twerk song.
+10517940	10546940	I need a good twerk song.
+10546940	10573940	I need a good twerk song.
+10573940	10602940	I need a good twerk song.
+10602940	10625940	I need a good twerk song.
+10625940	10654940	I need a good twerk song.
+10654940	10674940	I need a good twerk song.
+10674940	10701940	I need a good twerk song.
+10701940	10728940	I need a good twerk song.
+10728940	10757940	I need a good twerk song.
+10757940	10784940	I need a good twerk song.
+10784940	10813940	I need a good twerk song.
+10814940	10823940	I need a good twerk song.
+10823940	10843940	I need a good twerk song.
+10843940	10872940	I need a good twerk song.
+10872940	10901940	I need a good twerk song.
+10901940	10930940	I need a good twerk song.
+10930940	10959940	I need a good twerk song.
+10959940	10981940	I need a good twerk song.
+10981940	11006940	I need a good twerk song.
+11006940	11035940	I need a good twerk song.
+11035940	11062940	I need a good twerk song.
+11062940	11091940	I need a good twerk song.
+11091940	11118940	I need a good twerk song.
+11118940	11147940	I need a good twerk song.
+11147940	11176940	I need a good twerk song.
+11176940	11205940	I need a good twerk song.
+11205940	11227940	I need a good twerk song.
+11227940	11254940	I need a good twerk song.
+11254940	11283940	I need a good twerk song.
+11283940	11312940	I need a good twerk song.
+11312940	11339940	I need a good twerk song.
+11339940	11368940	I need a good twerk song.
+11368940	11397940	I need a good twerk song.
+11397940	11426940	I need a good twerk song.
+11426940	11453940	I need a good twerk song.
+11453940	11475940	I need a good twerk song.
+11475940	11504940	I need a good twerk song.
+11504940	11533940	I need a good twerk song.
+11533940	11553940	I need a good twerk song.
+11553940	11582940	I need a good twerk song.
+11582940	11604940	I need a good twerk song.
+11604940	11633940	I need a good twerk song.
+11633940	11660940	I need a good twerk song.
+11660940	11687940	I need a good twerk song.
+11687940	11716940	I need a good twerk song.
+11716940	11736940	I need a good twerk song.
+11736940	11762940	I need a good twerk song.
+11762940	11791940	I need a good twerk song.
+11792940	11821940	I need a good twerk song.
+11821940	11850940	I need a good twerk song.
+11851940	11880940	I need a good twerk song.
+11880940	11907940	I need a good twerk song.
+11907940	11936940	I need a good twerk song.
+11936940	11965940	I need a good twerk song.
+11966940	11995940	I need a good twerk song.
+11996940	12025940	I need a good twerk song.
+12026940	12055940	I need a good twerk song.
+12056940	12085940	I need a good twerk song.
+12085940	12114940	I need a good twerk song.
+12114940	12143940	I need a good twerk song.
+12144940	12170940	I need a good twerk song.
+12170940	12199940	I need a good twerk song.
+12200940	12229940	I need a good twerk song.
+12230940	12259940	I need a good twerk song.
+12260940	12287940	I need a good twerk song.
+12287940	12316940	I need a good twerk song.
+12317940	12337940	I need a good twerk song.
+12337940	12366940	I need a good twerk song.
+12367940	12396940	I need a good twerk song.
+12397940	12426940	I need a good twerk song.
+12427940	12456940	I need a good twerk song.
+12456940	12478940	I need a good twerk song.
+12478940	12505940	I need a good twerk song.
+12505940	12532940	I need a good twerk song.
+12532940	12561940	I need a good twerk song.
+12562940	12591940	I need a good twerk song.
+12592940	12621940	I need a good twerk song.
+12621940	12650940	I need a good twerk song.
+12650940	12677940	I need a good twerk song.
+12677940	12706940	I need a good twerk song.
+12706940	12731940	I need a good twerk song.
+12731940	12760940	I need a good twerk song.
+12761940	12790940	I need a good twerk song.
+12791940	12820940	I need a good twerk song.
+12821940	12850940	I need a good twerk song.
+12851940	12879940	I need a good twerk song.
+12879940	12906940	I need a good twerk song.
+12906940	12935940	I need a good twerk song.
+12936940	12965940	I need a good twerk song.
+12966940	12995940	I need a good twerk song.
+12996940	13018940	I need a good twerk song.
+13018940	13041940	I need a good twerk song.
+13041940	13070940	I need a good twerk song.
+13070940	13099940	I need a good twerk song.
+13100940	13129940	I need a good twerk song.
+13130940	13159940	I need a good twerk song.
+13160940	13189940	I need a good twerk song.
+13190940	13213940	I need a good twerk song.
+13213940	13242940	I need a good twerk song.
+13243940	13272940	I need a good twerk song.
+13272940	13292940	I need a good twerk song.
+13292940	13321940	I need a good twerk song.
+13321940	13348940	I need a good twerk song.
+13348940	13377940	I need a good twerk song.
+13377940	13400940	I need a good twerk song.
+13400940	13422940	I need a good twerk song.
+13422940	13451940	I need a good twerk song.
+13451940	13480940	I need a good twerk song.
+13481940	13510940	I need a good twerk song.
+13510940	13532940	I need a good twerk song.
+13532940	13559940	I need a good twerk song.
+13559940	13586940	I need a good twerk song.
+13586940	13615940	I need a good twerk song.
+13615940	13644940	I need a good twerk song.
+13644940	13673940	I need a good twerk song.
+13674940	13703940	I need a good twerk song.
+13703940	13732940	I need a good twerk song.
+13733940	13762940	I need a good twerk song.
+13763940	13789940	I need a good twerk song.
+13789940	13818940	I need a good twerk song.
+13818940	13847940	I need a good twerk song.
+13847940	13876940	I need a good twerk song.
+13876940	13898940	I need a good twerk song.
+13898940	13927940	I need a good twerk song.
+13928940	13957940	I need a good twerk song.
+13957940	13986940	I need a good twerk song.
+13987940	14009940	I need a good twerk song.
+14009940	14038940	I need a good twerk song.
+14038940	14067940	I need a good twerk song.
+14068940	14095940	I need a good twerk song.
+14095940	14124940	I need a good twerk song.
+14124940	14151940	I need a good twerk song.
+14151940	14180940	I need a good twerk song.
+14180940	14209940	I need a good twerk song.
+14210940	14239940	I need a good twerk song.
+14239940	14262940	I need a good twerk song.
+14262940	14289940	I need a good twerk song.
+14289940	14316940	I need a good twerk song.
+14316940	14345940	I need a good twerk song.
+14345940	14374940	I need a good twerk song.
+14375940	14404940	I need a good twerk song.
+14404940	14433940	I need a good twerk song.
+14434940	14463940	I need a good twerk song.
+14463940	14489940	I need a good twerk song.
+14489940	14518940	I need a good twerk song.
+14518940	14538940	I need a good twerk song.
+14538940	14561940	I need a good twerk song.
+14561940	14588940	I need a good twerk song.
+14588940	14617940	I need a good twerk song.
+14617940	14637940	I need a good twerk song.
+14637940	14658940	I need a good twerk song.
+14658940	14685940	I need a good twerk song.
+14685940	14714940	I need a good twerk song.
+14715940	14738940	I need a good twerk song.
+14738940	14763940	I need a good twerk song.
+14763940	14790940	I need a good twerk song.
+14790940	14811940	I need a good twerk song.
+14811940	14837940	I need a good twerk song.
+14837940	14853940	I need a good twerk song.
+14867940	14888940	I need a good twerk song.
+14888940	14917940	I need a good twerk song.
+14918940	14938940	I need a good twerk song.
+14938940	14967940	I need a good twerk song.
+14967940	14996940	I need a good twerk song.
+14996940	15025940	I need a good twerk song.
+15025940	15052940	I need a good twerk song.
+15052940	15081940	I need a good twerk song.
+15082940	15104940	I need a good twerk song.
+15104940	15131940	I need a good twerk song.
+15131940	15160940	I need a good twerk song.
+15161940	15190940	I need a good twerk song.
+15191940	15220940	I need a good twerk song.
+15221940	15246940	I need a good twerk song.
+15246940	15273940	I need a good twerk song.
+15273940	15295940	I need a good twerk song.
+15295940	15322940	I need a good twerk song.
+15322940	15349940	I need a good twerk song.
+15349940	15378940	I need a good twerk song.
+15379940	15401940	I need a good twerk song.
+15401940	15430940	I need a good twerk song.
+15430940	15459940	I need a good twerk song.
+15459940	15488940	I need a good twerk song.
+15488940	15511940	I need a good twerk song.
+15511940	15540940	I need a good twerk song.
+15540940	15569940	I need a good twerk song.
+15570940	15597940	I need a good twerk song.
+15597940	15626940	I need a good twerk song.
+15626940	15650940	I need a good twerk song.
+15650940	15679940	I need a good twerk song.
+15679940	15701940	I need a good twerk song.
+15701940	15724940	I need a good twerk song.
+15725940	15734940	Let's do that real quick.
+15734940	15741940	How are you not dead?
+15741940	15768940	I need a good twerk song.
+15768940	15797940	I need a good twerk song.
+15797940	15824940	I need a good twerk song.
+15824940	15853940	I need a good twerk song.
+15853940	15880940	I need a good twerk song.
+15880940	15909940	I need a good twerk song.
+15909940	15938940	I need a good twerk song.
+15939940	15966940	I need a good twerk song.
+15966940	15995940	I need a good twerk song.
+15995940	16022940	I need a good twerk song.
+16022940	16044940	I need a good twerk song.
+16044940	16065940	I need a good twerk song.
+16065940	16094940	I need a good twerk song.
+16094940	16123940	I need a good twerk song.
+16124940	16151940	I need a good twerk song.
+16151940	16180940	I need a good twerk song.
+16180940	16209940	I need a good twerk song.
+16209940	16238940	I need a good twerk song.
+16238940	16265940	I need a good twerk song.
+16265940	16294940	I need a good twerk song.
+16294940	16323940	I need a good twerk song.
+16323940	16345940	I need a good twerk song.
+16345940	16374940	I need a good twerk song.
+16374940	16403940	I need a good twerk song.
+16404940	16433940	I need a good twerk song.
+16433940	16455940	I need a good twerk song.
+16455940	16484940	I need a good twerk song.
+16484940	16511940	I need a good twerk song.
+16511940	16540940	I need a good twerk song.
+16540940	16569940	I need a good twerk song.
+16569940	16596940	I need a good twerk song.
+16596940	16622940	I need a good twerk song.
+16622940	16651940	I need a good twerk song.
+16651940	16680940	I need a good twerk song.
+16680940	16705940	I need a good twerk song.
+16705940	16732940	I need a good twerk song.
+16732940	16759940	I need a good twerk song.
+16759940	16786940	I need a good twerk song.
+16786940	16815940	I need a good twerk song.
+16815940	16838940	I need a good twerk song.
+16838940	16867940	I need a good twerk song.
+16867940	16896940	I need a good twerk song.
+16896940	16925940	I need a good twerk song.
+16926940	16955940	I need a good twerk song.
+16956940	16983940	I need a good twerk song.
+16983940	17012940	I need a good twerk song.
+17013940	17040940	I need a good twerk song.
+17040940	17069940	I need a good twerk song.
+17069940	17098940	I need a good twerk song.
+17099940	17128940	I need a good twerk song.
+17129940	17158940	I need a good twerk song.
+17158940	17177940	I need a good twerk song.
+17177940	17206940	I need a good twerk song.
+17206940	17235940	I need a good twerk song.
+17236940	17255940	I need a good twerk song.
+17255940	17284940	I need a good twerk song.
+17285940	17314940	I need a good twerk song.
+17315940	17342940	I need a good twerk song.
+17342940	17369940	I need a good twerk song.
+17369940	17398940	I need a good twerk song.
+17398940	17427940	I need a good twerk song.
+17427940	17446940	I need a good twerk song.
+17446940	17467940	I need a good twerk song.
+17467940	17496940	I need a good twerk song.
+17496940	17519940	I need a good twerk song.
+17519940	17548940	I need a good twerk song.
+17548940	17575940	I need a good twerk song.
+17575940	17604940	I need a good twerk song.
+17604940	17633940	No.
+17633940	17648940	I need a good twerk song.
+17648940	17677940	I need a good twerk song.
+17678940	17707940	I need a good twerk song.
+17707940	17730940	I need a good twerk song.
+17730940	17759940	I need a good twerk song.
+17759940	17779940	I need a good twerk song.
+17779940	17808940	I need a good twerk song.
+17808940	17837940	I need a good twerk song.
+17837940	17866940	I need a good twerk song.
+17867940	17879940	I need a good twerk song.
+17879940	17908940	I need a good twerk song.
+17909940	17934940	I need a good twerk song.
+17934940	17957940	I need a good twerk song.
+17957940	17986940	I need a good twerk song.
+17987940	18002940	I need a good twerk song.
+18002940	18029940	I need a good twerk song.
+18029940	18058940	I need a good twerk song.
+18058940	18087940	I need a good twerk song.
+18088940	18108940	I need a good twerk song.
+18108940	18137940	I need a good twerk song.
+18137940	18166940	I need a good twerk song.
+18166940	18189940	I need a good twerk song.
+18189940	18210940	I need a good twerk song.
+18210940	18232940	I need a good twerk song.
+18232940	18261940	I need a good twerk song.
+18262940	18291940	I need a good twerk song.
+18291940	18320940	I need a good twerk song.
+18321940	18350940	I need a good twerk song.
+18350940	18379940	I need a good twerk song.
+18380940	18407940	I need a good twerk song.
+18407940	18433940	I need a good twerk song.
+18433940	18462940	I need a good twerk song.
+18463940	18492940	I need a good twerk song.
+18492940	18519940	I need a good twerk song.
+18519940	18548940	I need a good twerk song.
+18549940	18559940	I need a good twerk song.
+18559940	18588940	I need a good twerk song.
+18589940	18618940	I need a good twerk song.
+18618940	18647940	I need a good twerk song.
+18647940	18669940	I need a good twerk song.
+18669940	18698940	I need a good twerk song.
+18698940	18727940	I need a good twerk song.
+18728940	18752940	I need a good twerk song.
+18752940	18781940	I need a good twerk song.
+18782940	18809940	I need a good twerk song.
+18809940	18838940	I need a good twerk song.
+18838940	18867940	I need a good twerk song.
+18868940	18897940	I need a good twerk song.
+18898940	18927940	I need a good twerk song.
+18928940	18957940	I need a good twerk song.
+18958940	18987940	I need a good twerk song.
+18988940	19008940	I need a good twerk song.
+19008940	19027940	I need a good twerk song.
+19027940	19049940	I need a good twerk song.
+19049940	19078940	I need a good twerk song.
+19078940	19107940	I need a good twerk song.
+19107940	19134940	I need a good twerk song.
+19134940	19163940	I need a good twerk song.
+19164940	19185940	I need a good twerk song.
+19185940	19214940	I need a good twerk song.
+19215940	19244940	I need a good twerk song.
+19245940	19274940	I need a good twerk song.
+19274940	19303940	I need a good twerk song.
+19303940	19332940	I need a good twerk song.
+19332940	19355940	I need a good twerk song.
+19355940	19384940	I need a good twerk song.
+19384940	19411940	I need a good twerk song.
+19411940	19426940	I need a good twerk song.
+19426940	19455940	I need a good twerk song.
+19455940	19480940	I need a good twerk song.
+19480940	19507940	I need a good twerk song.
+19507940	19529940	I need a good twerk song.
+19529940	19558940	I need a good twerk song.
+19558940	19587940	I need a good twerk song.
+19587940	19614940	I need a good twerk song.
+19614940	19641940	I need a good twerk song.
+19641940	19666940	I need a good twerk song.
+19666940	19693940	I need a good twerk song.
+19693940	19718940	I need a good twerk song.
+19718940	19745940	I need a good twerk song.
+19745940	19774940	I need a good twerk song.
+19774940	19797940	I need a good twerk song.
+19797940	19826940	I need a good twerk song.
+19827940	19856940	I need a good twerk song.
+19856940	19878940	I need a good twerk song.
+19878940	19901940	I need a good twerk song.
+19901940	19929940	I need a good twerk song.
+19929940	19958940	I need a good twerk song.
+19959940	19981940	I need a good twerk song.
+19981940	20004940	I need a good twerk song.
+20004940	20014940	I need a good twerk song.
+20014940	20024940	Where is this fire coming from?
+20024940	20053940	Where is this fire coming from?
+20053940	20073940	Where is this fire coming from?
+20073940	20087940	Where is the child?
+20087940	20114940	Where is this fire coming from?
+20114940	20143940	Where is this fire coming from?
+20143940	20163940	Where is this fire coming from?
+20163940	20192940	Where is this fire coming from?
+20192940	20212940	Where is this fire coming from?
+20212940	20232940	Where is this fire coming from?
+20232940	20259940	Where is this fire coming from?
+20259940	20288940	Where is this fire coming from?
+20289940	20318940	Where is this fire coming from?
+20318940	20347940	Where is this fire coming from?
+20347940	20374940	Where is this fire coming from?
+20374940	20403940	Where is this fire coming from?
+20403940	20415940	Where is this fire coming from?
+20415940	20437940	Where is this fire coming from?
+20437940	20457940	Where is this fire coming from?
+20457940	20486940	Where is this fire coming from?
+20486940	20513940	Where is this fire coming from?
+20513940	20542940	Where is this fire coming from?
+20542940	20569940	Where is this fire coming from?
+20569940	20595940	Where is this fire coming from?
+20595940	20624940	Where is this fire coming from?
+20625940	20652940	Where is this fire coming from?
+20652940	20680940	Where is this fire coming from?
+20680940	20707940	Where is this fire coming from?
+20707940	20730940	Where is this fire coming from?
+20730940	20759940	Where is this fire coming from?
+20759940	20786940	Where is this fire coming from?
+20786940	20806940	Where is this fire coming from?
+20806940	20828940	Where is this fire coming from?
+20828940	20843940	Come on down here, lady.
+20843940	20849940	Wow.
+20849940	20862940	Hey, how the awe feels so accurate here about this expression.
+20862940	20868940	It's so weird how weirdly proportioned her body is.
+20868940	20884940	She has such a small head and a huge body.
+20884940	20897940	I call the kids just disappear.
+20897940	20915940	Sorry, I'm trying to kill your mom.
+20915940	20927940	Now she just buffs her mom.
+20927940	20936940	Such a badass shot, though.
+20936940	20949940	Ooh, she's locked in.
+20949940	20964940	Not many men there.
+20964940	20984940	I hate that she just jumps out of the way.
+20984940	20989940	I might just go at her with my sword.
+20989940	20993940	Fuck, I fucked that up so hard.
+20993940	21000940	I can't even direct myself.
+21000940	21009940	I gotta do this shit again.
+21009940	21010940	Indeed.
+21010940	21029940	Racing Moonvale.
+21029940	21036940	Yup, I missed.
+21036940	21048940	It's really just like, oh, because then you have to deal with her second phase.
+21048940	21059940	It's also mostly just like, why isn't there a fucking grace next to the thing that pisses me off to no end?
+21059940	21062940	Because then I gotta deal with these motherfuckers.
+21062940	21075940	I'm gonna kill them so they don't fucking...
+21075940	21077940	I don't like them.
+21077940	21079940	Go away.
+21079940	21084940	I just spam shit and then I gotta like...
+21084940	21086940	Oh my god.
+21086940	21094940	This health I don't need to be wasting.
+21094940	21098940	Yeah, I think the ball route is better.
+21098940	21099940	Fuck off.
+21099940	21113940	I don't even bother.
+21113940	21128940	Sometimes I just want to jump in there and get all crushed.
+21128940	21140940	Alright.
+21140940	21143940	Fuck off.
+21143940	21146940	I can't kill you fast enough.
+21146940	21148940	Actually, I realize I don't have to kill them.
+21148940	21164940	I just have to bop them.
+21164940	21179940	For free?
+21179940	21187940	Can I please drink a glass?
+21187940	21207940	Ha!
+21207940	21211940	Can you chill?
+21211940	21218940	Am I about to get killed?
+21218940	21222940	I love the music in this.
+21222940	21223940	Oh my god.
+21223940	21228940	I fucking need to lock down bitches.
+21228940	21231940	Get out of the way!
+21231940	21240940	Shut up!
+21240940	21245940	No.
+21245940	21252940	Oh my god.
+21252940	21281940	This is annoying.
+21282940	21284940	Oh my god.
+21284940	21286940	I was hoping I wouldn't get hit by that.
+21286940	21313940	That's whatever.
+21313940	21328940	Get out of the way, you little bitch.
+21328940	21354940	Thank god.
+21354940	21356940	Her grippers are huge.
+21356940	21381940	I like Lady Dimitrescu's feet because Lady Dimitrescu is hotter.
+21381940	21384940	I'm going to turn into a moon, really?
+21384940	21390940	It's not really cash money of you.
+21390940	21400940	Ow, that actually hurt a lot.
+21400940	21409940	Get over here.
+21409940	21411940	What the fuck was that?
+21411940	21421940	Are you a little staff at me?
+21421940	21424940	Well, this is going to be a long one.
+21424940	21425940	I can already fucking tell.
+21425940	21432940	It's going to take a while to kill her, Nala.
+21432940	21433940	Smash?
+21433940	21434940	Smash or password for Nala?
+21434940	21435940	No, she has too many issues.
+21435940	21436940	I don't feel like dealing with all that.
+21436940	21438940	She's a weird thing with kids.
+21438940	21440940	I'm not about it.
+21440940	21443940	She has 80% magic resistance.
+21443940	21449940	Wow.
+21449940	21458940	Should I be using a different weapon then?
+21458940	21460940	Although she was weak against the gravity.
+21460940	21461940	I'm not.
+21461940	21475940	The gravity did do some damage on her.
+21475940	21476940	Yeah, okay.
+21476940	21482940	Well, I guess we'll...
+21482940	21486940	Yeah.
+21487940	21495940	We'll figure it out.
+21495940	21497940	Oh, it's just a portal that they come from.
+21497940	21508940	That's nifty.
+21508940	21509940	That's true.
+21509940	21510940	I'm just throwing rocks at her.
+21510940	21511940	All right.
+21511940	21515940	Then I'll kill her with the sword and I'll switch to magic.
+21515940	21520940	I'll switch to the gravity.
+21520940	21532940	I'm not going to use any of my ashes at all so I can conserve using them.
+21532940	21541940	I might do a jellyfish to poison her, perhaps.
+21541940	21566940	Hold on a moment.
+21566940	21582940	Hi, Fia.
+21582940	21585940	What are you doing, little girl?
+21585940	21594940	Just trying to help my lamp.
+21594940	21596940	You're just getting it stuck to my chair.
+21596940	21611940	Can you hear her little claws just going...
+21611940	21623940	Sorry, I need to calm down and pet my cat.
+21623940	21630940	What are you guys sticking your head in the trash for?
+21630940	21634940	I just remember to pay them after you beat the boss.
+21634940	21635940	Fia.
+21635940	21636940	The deathbed companion.
+21636940	21637940	Come here, Fia.
+21637940	21638940	I want to pick you up.
+21638940	21639940	Fia.
+21639940	21640940	How well?
+21640940	21641940	How's it going?
+21641940	21642940	Oh, look at your little face.
+21642940	21643940	With your little pink nose.
+21643940	21644940	With your little eyes.
+21644940	21655940	You're getting a little round, lady.
+21655940	21658940	Are you coming a little chunker?
+21658940	21659940	I don't know.
+21659940	21663940	Fia kind of looks like a ferret for a meerkat.
+21663940	21670940	I had to post that picture of her sitting up on her hind legies and she looked so goofy.
+21670940	21677940	She looked like a little meerkat.
+21677940	21688940	Oh, shoulder.
+21688940	21690940	I love a round kitty.
+21690940	21691940	What do you mean?
+21691940	21695940	I don't want her to be chunky.
+21695940	21699940	She needs to be my little small gal.
+21699940	21706940	I don't want her to get in, like, having health issues or something.
+21706940	21713940	I remember my friend's cat had this thing about shoving its face in a girl's shoes and just walking around like that.
+21713940	21715940	That's so funny.
+21715940	21722940	Fia likes to stick her toys in my shoes and hang out.
+21722940	21724940	I don't know why.
+21724940	21726940	She also just likes to lick my feet.
+21726940	21733940	She woke me up and scared me because she was licking my feet while I was sleeping.
+21733940	21743940	The other day, I was scared the crap out of me because it was early morning.
+21743940	21749940	I think I had fallen asleep on the couch or something from watching TV.
+21749940	21753940	Sometimes if I can't sleep, I'll move to different places to sleep.
+21754940	21761940	I woke up and she was licking a nibble in my feet and I was like, ah!
+21761940	21764940	She's something.
+21764940	21767940	She also really liked when I got my toes done.
+21767940	21775940	Her and Boomi were sniffing my feet.
+21775940	21780940	I'm gonna fuck where it'll be us go.
+21780940	21782940	All right.
+21782940	21785940	I'm so tired of this lady.
+21785940	21787940	It's the steps.
+21787940	21788940	It's the steps that's annoying.
+21788940	21793940	I wish she was more straightforward.
+21793940	21795940	All right, we're two-handed in it.
+21795940	21805940	We're looking for one of the first bitches.
+21805940	21807940	Ow.
+21807940	21809940	Unlock.
+21809940	21815940	There's the next one.
+21815940	21817940	I hear you.
+21817940	21831940	Where are you, child?
+21831940	21833940	Here.
+21849940	21852940	There's a lot of people singing right now.
+21852940	21857940	I need to unlock.
+21857940	21863940	I kind of want to hide over here until she shoots her little fucking thing.
+21863940	21867940	I've actually never seen her do it.
+21867940	21875940	Oh, they just get turned into gravestones?
+21875940	21876940	Oh, my God.
+21876940	21878940	Fia is actually sniffing and licking my feet right now.
+21878940	21880940	Stop.
+21880940	21891940	She heard me talking shit.
+21891940	21895940	Are they all golf chicks?
+21895940	21898940	Oh, God, my nose is itchy.
+21898940	21903940	Ow.
+21903940	21906940	Get back down here, lady.
+21906940	21919940	Look at my heel.
+21919940	21935940	I need one more.
+21935940	21940940	I love my fucking knocking kids out.
+21940940	21952940	I'm going to turn into fucking gravestones.
+21952940	21956940	Oh, that did not save me.
+21956940	21959940	I'll tell you that much.
+21959940	21968940	Should have used the Wonders Psychic for that.
+21968940	21970940	Ow.
+21970940	21988940	Ow, I walked into that one.
+21988940	21992940	Ow.
+21992940	21996940	I didn't know she was an Abbey Shepherd sheep, you viewer.
+21996940	22000940	Do you have a cat that likes to get high after mineral ice smell?
+22000940	22002940	What?
+22002940	22010940	Like the water?
+22010940	22015940	Oh, I need to get out of the way first.
+22015940	22017940	Oh, no, that's a shield.
+22017940	22020940	Oh, no, I'm stuck.
+22020940	22023940	It's fine.
+22023940	22051940	Okay, it's not fine.
+22051940	22056940	No, I was trying to heal.
+22056940	22062940	Oh, I hate Rinala so much.
+22062940	22070940	What's another spell like the gravity one that I can use on her?
+22070940	22077940	What's another spell like that?
+22077940	22087940	I need something long range, but the thing with the gravity spell is that nothing you have,
+22087940	22094940	but I can go get it.
+22094940	22099940	The thing is that, I regret what I was going to say.
+22099940	22108940	Oh, my, I almost missed again.
+22108940	22123940	Making my way downtown, walking fast, faces past, and I'm homebound.
+22123940	22134940	I've been nothing with a strength deck, so that's fine.
+22134940	22139940	I did, I used, I can't even remember what I beat her with.
+22139940	22146940	I think I beat her with the Halo Scythe, or did I beat her?
+22146940	22148940	Wait a second.
+22148940	22154940	I'm going to do it one more time, and then I realize I should probably upgrade my Glenstone staff.
+22154940	22157940	I mean, my Muterite staff.
+22157940	22161940	I didn't do that, I only upgraded my, can I upgrade my staff?
+22161940	22163940	I can upgrade my staff, right?
+22163940	22168940	Again, I've never been a sorcerer, so I don't fucking know anything.
+22168940	22173940	Fia, I can feel you grabbing my chair.
+22173940	22177940	Da, da, da, da, da, da, da, da, da, da.
+22177940	22181940	Fuck, fuck, fuck off.
+22191940	22194940	Yeah.
+22203940	22230940	I feel like I'm in prison.
+22230940	22255460	Oh, I was hoping it wouldn't hit me.
+22256460	22259460	What am I doing?
+22269460	22271460	Ow.
+22273460	22277460	Stop hitting me, they're stupid fucking books. Oh god, everybody's spitting fire.
+22285460	22312460	I can't tell where she is, is everybody singing the same fucking song? Ow. What? I swear, I already did. Wait, did I miss something?
+22315460	22331460	Did I? Did I? Did I already kill enough and I didn't even fucking realize? I don't even... I don't... I don't fucking know, bro.
+22331460	22348460	I feel like it glitched. I feel like it just glitched. Yeah, she fell for like a second and then she got right back up. That was weird. I thought that was me, but I don't think it is.
+22353460	22356460	Oh, now you come down.
+22361460	22390460	Okay. Stop, you fucking little bitches. Oh my fucking god, dude, I hate Renala. She's the most annoying... I beat her so easily the first time because I just... I think I know what I'm going to do.
+22391460	22393460	I think I know what I'm going to get.
+22393460	22422460	I don't know why her fight music sounds like a good idea.
+22423460	22430460	Yeah, anime, OST. To me.
+22454460	22468460	Talisman does make me do double damage. I just skimmed my ass.
+22468460	22481460	Oh my god. Ah, I didn't mean to do that one.
+22499460	22504460	Fabulous.
+22511460	22521460	I am using the meteorite staff. What? Have I not been using it the entire time? I got it. Yeah, no, I'm using it.
+22529460	22534460	I know what I'm going to go get.
+22544460	22547460	One moment.
+22558460	22561460	One moment.
+22561460	22564460	One moment.
+22564460	22567460	One moment.
+22584460	22588460	Wait, I don't think I'm able to scale.
+22595460	22599460	Fuck, yeah, I need to play it more.
+22606460	22612460	I need something that builds.
+22613460	22624460	Maybe if I... I need to poison her or I need to scarlet rot her ass.
+22625460	22631460	Yeah, the Talisman moves. I don't.
+22631460	22637460	Which one is that? I know it's the one with the heads on it, I believe.
+22637460	22642460	There are some arrows. No, bro, what? No.
+22642460	22648460	With what bow? I don't even have a fucking bow. Jollyfish can poison? Alright, true.
+22649460	22654460	Serpent bow. That's true.
+22660460	22666460	But I feel like the Jollyfish will just get fucking, yeah, dragon breath, but you need faith for that.
+22666460	22670460	I think I have one, aren't I? Okay.
+22671460	22678460	You can grab the poison mist ash, but I can't apply the ash to my sword.
+22678460	22683460	Okay.
+22696460	22701460	I can get the neck, yeah. But like, I don't want to...
+22701460	22707460	I feel like it would be easier if I honestly just tried to brute force this.
+22708460	22713460	Hmm.
+22715460	22719460	Because I don't think it'll help too much.
+22719460	22724460	If anything, I'll get the medallion, the boost sorcery.
+22738460	22743460	Breathe in, blast, Talisman.
+22755460	22760460	Oh, I forgot where he's like, in her Talisman.
+22768460	22773460	Okay.
+22783460	22788460	Because honestly, the sword seal is helpful, but it's also fucking me at the same time.
+22799460	22806460	The dragon crest shield could offset the damage. No.
+22817460	22822460	Is there a medallion that reduces damage taken?
+22829460	22833460	Take your ash, Talisman.
+22838460	22842460	That connection.
+22850460	22854460	It's not a great job.
+22859460	22864460	That's true, that would produce the magic taken.
+22865460	22870460	Good morning.
+22889460	22894460	That's one of the runes there.
+22894460	22899460	Yeah, I was thinking about the graven school, Talisman.
+22899460	22904460	I just have to remember where to get it.
+22904460	22909460	Plus 1 million in the staff of Blossom, Night Comet, which is a lot of money.
+22909460	22914460	Yeah.
+22914460	22919460	Yeah, because I just have to kill the room bear.
+22919460	22924460	So I'll go and get that.
+22924460	22929460	And then...
+22929460	22934460	I'll go and get that.
+22934460	22939460	And then...
+22939460	22944460	Well, it's either like, do I want to boost my own or do I want to?
+22944460	22949460	It's probably better if I actually negate.
+22949460	22954460	Uh...
+22954460	22959460	Where is that?
+22959460	22964460	Wait, no, what am I doing?
+22964460	22969460	It's in the Weeping Peninsula.
+22969460	22974460	Where in the Weeping Peninsula is it?
+22984460	22989460	I need a map.
+22994460	23000460	Uh...
+23024460	23029460	Damn it, I fell asleep again.
+23029460	23034460	It's fine, it's not like I haven't been streaming for like hours.
+23044460	23049460	Fuck, what number did I say it is?
+23049460	23053460	I don't know which way I'm fucking going.
+23053460	23058460	I'm assuming it's 2.
+23058460	23063460	Where did I put my 1?
+23070460	23075460	Hey, I wish I would show you when you put your own fucking markers.
+23083460	23088460	Okay, where's this fucking bear?
+23102460	23107460	I don't care about no damn goblins, where's this fucking bear?
+23107460	23112460	There it is.
+23112460	23117460	What? No, that's not a bear.
+23117460	23122460	That is the demigod thingy.
+23122460	23127460	It's demihumanlady.
+23127460	23132460	She drops like a staff if I recall.
+23132460	23137460	Where am I?
+23137460	23142460	It's over here.
+23156460	23161460	Where's this fucking bear?
+23167460	23172460	Left side?
+23172460	23177460	Over here?
+23185460	23190460	Bear, where for art thou, bear?
+23190460	23195460	Is it that big ass bear that scratches the tree?
+23200460	23205460	Oh my god, that scared the absolute shit out of me.
+23205460	23210460	Unnecessarily loud.
+23210460	23215460	Ugh, I'm irritated so you guys are gonna die.
+23216460	23221460	You gonna run away?
+23221460	23226460	Bitch.
+23234460	23239460	Oh no, it's just a trap.
+23239460	23244460	They just laid shit out for me and I fell for it.
+23244460	23249460	I'm just saying that it's right over around here and it's not.
+23258460	23263460	I'm just gonna stay up here for a second.
+23263460	23270460	No, I am, cause I'm like there is a fucking dungeon and I can't remember and it's this big ass white bear.
+23270460	23275460	I believe, or just like white one.
+23275460	23280460	I don't remember.
+23280460	23285460	I'm not spell drained.
+23285460	23290460	No, I'm not.
+23290460	23295460	Perfect.
+23300460	23305460	Wait, they did it.
+23305460	23310460	They went to the school of sorcery. What the fuck is this other guy telling me?
+23316460	23321460	First light of the torches. Do I have to really do it? No, this isn't it.
+23321460	23326460	Do not recall it being difficult.
+23326460	23331460	I don't remember.
+23342460	23347460	Inside the earth bore cave.
+23347460	23352460	Where is the fucking earth bore cave?
+23356460	23361460	It's showing that the cave is right around here.
+23361460	23366460	Oh my god, I almost jumped across that.
+23366460	23371460	Where is the earth bore cave?
+23371460	23376460	Oh, maybe it's below.
+23376460	23381460	Yeah.
+23381460	23386460	Oh my god, I almost jumped across that.
+23386460	23391460	Where is the earth bore cave? Is it? Oh, maybe it's below.
+23391460	23396460	Yeah, right over here.
+23396460	23401460	This has to be a cave over here.
+23401460	23406460	Thank you.
+23406460	23411460	Oh, nifty.
+23416460	23421460	Oh.
+23421460	23426460	This is fun.
+23426460	23431460	Why is this rat so strong?
+23431460	23436460	Alright, where is this fucking bear?
+23436460	23441460	I forgot that this little thingy drops you.
+23441460	23446460	Probably shouldn't just be dropping really nearly,
+23446460	23451460	but I'm just kind of just trying to speed around this.
+23451460	23456460	Bear. Oh, thank you.
+23456460	23461460	Oh, you're way stronger than I thought you'd be.
+23471460	23476460	Oh.
+23476460	23481460	Fuck.
+23481460	23486460	Can I get up there?
+23486460	23491460	That is a good thing.
+23491460	23496460	Fucking slapping me one, trying to drink.
+23496460	23501460	Killers are killed by a bear.
+23501460	23506460	I don't have to have my own kind in this cave.
+23506460	23511460	Huh.
+23511460	23516460	Nice try.
+23516460	23521460	Oh.
+23521460	23526460	Nice try.
+23526460	23531460	It was a pickled turtle.
+23531460	23536460	This is awkward.
+23542460	23547460	What are you doing, Fia?
+23547460	23552460	Why are you using my footrest as a cat scratcher?
+23552460	23557460	I feel like how it's the whole fucking boss thing.
+23557460	23562460	I know.
+23577460	23582460	I'm stuck in the bear.
+23607460	23612460	Fuck.
+23612460	23617460	Fuck.
+23617460	23622460	Fuck.
+23622460	23627460	Fuck.
+23627460	23632460	Fuck.
+23632460	23636460	Fuck.
+23637460	23642460	She died already. Jesus Christ.
+23647460	23652460	The crazy part is the room bear isn't even the strongest one.
+23652460	23657460	Bear is angry because I came into its home.
+23657460	23662460	I mean, you did just come into it.
+23662460	23667460	Well, it was sleeping and I just kind of walked in and attacked me first.
+23667460	23672460	Like, let's be real.
+23672460	23677460	Fuck.
+23677460	23682460	Fuck.
+23682460	23687460	Fuck.
+23687460	23692460	Cool. All right, we did that.
+23692460	23697460	Fia, can you please stop chewing on my headphones, darling?
+23697460	23702460	Can I, can you give this back to me?
+23702460	23707460	Thank you.
+23707460	23712460	What's up?
+23712460	23717460	Give me a little kiss.
+23717460	23722460	Feels like a doll.
+23722460	23727460	Fader arc? Oh my God.
+23727460	23732460	Fia, you wanna come snuck?
+23732460	23737460	Yes.
+23737460	23742460	Hmm.
+23742460	23747460	Let me do a little bit more research.
+23762460	23767460	She says that she's just weak to bleeding and I'm like, well, I tried that.
+23767460	23772460	I tried to make her bleed.
+23772460	23777460	It didn't work out.
+23777460	23782460	It works for her if I can like spam on her for a little bit.
+23782460	23787460	Honestly, I need more, I need more golden seeds.
+23787460	23792460	So I can have more health.
+23792460	23797460	Fia, can you please, what are you doing?
+23797460	23802460	Come here.
+23802460	23807460	What are you doing?
+23807460	23812460	Come here.
+23812460	23817460	Everything's unbending.
+23817460	23822460	What, is that moving?
+23822460	23827460	There's nothing around. I don't like regularly stare at stuff.
+23827460	23832460	What are you doing?
+23832460	23837460	What are you doing?
+23837460	23842460	You leaving me?
+23842460	23847460	Do what you must.
+23847460	23852460	Hmm.
+23852460	23857460	I don't think
+23857460	23862460	I'll have enough.
+23862460	23868460	You said that the other talisman
+23868460	23873460	is around here.
+23873460	23878460	You're the debate parlor, right?
+23878460	23883460	I believe.
+23883460	23888460	I can't really do anything with that because if I take off riding in Sore Seal,
+23888460	23894460	then I'm not going to be able to wield
+23894460	23899460	the Moon Veil.
+23899460	23904460	I thought I was going to miss that.
+23904460	23909460	What happened again?
+23909460	23914460	I'm just giving my computer a little breaky poo.
+23914460	23919460	So you can get him up at Sheeby.
+23919460	23925460	Up at Sheeby making me feel
+23925460	23930460	ways I've never felt before.
+23930460	23935460	She's got a nice one.
+23935460	23940460	At least I look nice.
+23940460	23945460	That was a sick nasty outfit.
+23945460	23950460	It poo.
+23950460	23955460	Oh brother, this guy stinks.
+23955460	23960460	And your character looks nice in game.
+23960460	23965460	Thank you, thank you.
+23965460	23970460	Just so I don't accidentally do shit.
+23970460	23975460	My mother died.
+23975460	23980460	My mother died.
+23980460	23985460	These books fly everywhere.
+23985460	23990460	You scratch my nose.
+23990460	23995460	Ah, that's a fucking thingy.
+23995460	24000460	Sorry.
+24000460	24005460	Oh, boomy, why?
+24005460	24010460	I can't see, boomy.
+24010460	24015460	Okay, boomy, it's fine if you walk now,
+24015460	24020460	because now I can just spam killing her.
+24020460	24025460	Die, die, die, die.
+24025460	24030460	Ah, back up, back up!
+24030460	24034460	Ow.
+24034460	24039460	Ow, I'm stuck, I'm stuck, I'm stuck!
+24039460	24044460	It's because I'm fucking locked on.
+24044460	24049460	Oh my.
+24049460	24054460	Boomy, could you please move?
+24054460	24059460	You also were sitting in front of my screen.
+24059460	24064460	As punishment, I hold you like a baby.
+24064460	24069460	But you like being held like a baby.
+24069460	24074460	I don't mind my boy.
+24074460	24079460	Scratchy your chin.
+24079460	24084460	No.
+24084460	24089460	Sorry, I'm busy holding my son like a baby.
+24089460	24094460	Because that's what he is, he is a baby.
+24094460	24099460	He's the babyest baby that ever babyed.
+24099460	24104460	He's making like airplane ears while I'm petting him,
+24104460	24109460	it's kind of funny.
+24109460	24114460	Big time attention hours.
+24114460	24119460	Help me step up it, I'm stuck.
+24119460	24124460	No, you can't leave.
+24124460	24129460	It's my time, it's my time to snuggle you.
+24129460	24134460	Mercy?
+24134460	24139460	Scared the shit out of me.
+24139460	24144460	That just terrified, oh my god.
+24144460	24149460	Oh my, I'm so happy I wasn't doing anything
+24149460	24153460	because I would have thrown my controller across the room.
+24153460	24158460	Oh my god, everybody, everybody says hi.
+24158460	24163460	Hello.
+24163460	24167460	What was that?
+24167460	24172460	My autonomous dog.
+24172460	24177460	What? How does it do, is it like a sound board?
+24177460	24180460	You know, you know, the little like.
+24180460	24184460	Oh, like the thing, yeah, the like saying.
+24184460	24189460	Yeah. Oh, I thought that was you.
+24189460	24191460	No, seriously, it does sound like me sometimes.
+24191460	24193460	Come on, let me show you.
+24193460	24198460	Play me a song.
+24198460	24200460	Play you a song?
+24200460	24202460	Yeah, yeah.
+24202460	24222460	Happy birthday to me.
+24222460	24224460	That was gorgeous.
+24224460	24227460	Everybody clap, clap for Mercy everyone.
+24227460	24229460	My chat is very impressed.
+24229460	24231460	The resemblance is on candy.
+24231460	24235460	So it's between you and the little music note thingy.
+24235460	24238460	Oh, I'm dead.
+24238460	24240460	Especially if you shake it, you can like shake it off.
+24240460	24244460	Oh my god.
+24244460	24247460	What the hell, I want one.
+24247460	24250460	It's like, it's like.
+24250460	24254460	Here, you know what to do.
+24254460	24258460	New suggested gift, that's one of those.
+24258460	24261460	Automaton, is that what it's called?
+24261460	24263460	Automaton.
+24263460	24265460	Automaton, that's cool.
+24265460	24269460	Mercy sounds like an automaton.
+24269460	24271460	That's what somebody said.
+24271460	24282460	I mean, I do like it's uncanny.
+24282460	24284460	Mercy's just screaming in my chat.
+24284460	24287460	That's what's happening if you just come in.
+24287460	24290460	Sorry, I saw you were on the open mic and I went,
+24290460	24295460	can I troll Shibby?
+24295460	24297460	That's so scary.
+24297460	24300460	I was so like, I was like locked in, like thinking about,
+24300460	24302460	okay, what do I have to do next in this game?
+24302460	24307460	And then it heard.
+24307460	24308460	Thank you.
+24308460	24312460	I needed to laugh because I'm starting to get angry.
+24312460	24315460	Oh my god.
+24315460	24321460	Well, how are you doing?
+24321460	24322460	I'm doing great.
+24322460	24323460	How are you?
+24323460	24326460	How's Elden Ring?
+24326460	24328460	Elden Ring's fine.
+24328460	24330460	Have you ever played Elden Ring?
+24330460	24334460	No, I'm not ready for souls like yet.
+24334460	24335460	You're not ready?
+24335460	24338460	Yeah, I think the motion sickness would actually get to you.
+24338460	24341460	Yeah, it would be tough.
+24341460	24342460	That sucks.
+24342460	24345460	But yeah, it's going well.
+24345460	24347460	Are you streaming today?
+24347460	24348460	I am.
+24348460	24352460	Later though, like in like three hours?
+24352460	24353460	Two or three hours?
+24353460	24355460	Roughly three hours, yeah.
+24355460	24360460	If I'm still around, I'll wade right into you then.
+24360460	24362460	If I make it that long.
+24362460	24364460	Yeah, no problem about it.
+24364460	24365460	Sorry to disturb.
+24365460	24366460	I just wanted to...
+24366460	24367460	No, no, you did not disturb.
+24367460	24371460	Azura did the same thing yesterday.
+24371460	24380460	I know, I don't know why.
+24380460	24384460	I'm not hearing people come in when they like go into the discord.
+24384460	24385460	It's funny.
+24385460	24386460	It's only in this channel.
+24386460	24387460	It doesn't work.
+24387460	24389460	I wonder why.
+24389460	24391460	Anyways, sir.
+24391460	24396460	I have a lovely surprise.
+24396460	24398460	Thank you.
+24398460	24401460	No problem.
+24401460	24406460	The dark yandere, everybody.
+24406460	24408460	Oh my God.
+24408460	24410460	I love you.
+24410460	24413460	Love you too, hearts.
+24413460	24415460	Huggy.
+24415460	24418460	Make sure you beat the bad guy or the good guy.
+24418460	24421460	I don't actually know if you're the good guy or bad guy in Elden Ring.
+24421460	24423460	I'm both, essentially.
+24423460	24425460	Yeah, that's it.
+24425460	24427460	I can be either.
+24427460	24429460	Oh my God.
+24429460	24433460	My chat is sending their love.
+24433460	24435460	I love your chat too.
+24435460	24437460	Hello, Hera.
+24437460	24438460	Be nice.
+24438460	24445460	I mean, actually, I think she'd be supposed to be the one to be nice.
+24445460	24446460	Never mind.
+24446460	24448460	I've been beating them all day.
+24448460	24450460	Yeah.
+24450460	24454460	Torturing them with my Elden Ring gameplay.
+24454460	24456460	I'm sure you're great.
+24456460	24459460	You are the resident, one of the residents.
+24459460	24463460	Uh, souls like.
+24463460	24468460	I'm sure it's fine.
+24468460	24471460	It's fine.
+24471460	24473460	She'd be extremely serious.
+24473460	24475460	Oh yeah, and happy 4th of July.
+24475460	24476460	Thank you.
+24476460	24479460	Happy Canada Day for a couple days ago.
+24479460	24485460	It's so funny how that are independent days or whatever they are.
+24485460	24489460	Old or like the days of each other.
+24489460	24492460	It's always funny.
+24492460	24494460	Do you get fireworks?
+24494460	24496460	We get fireworks.
+24496460	24501460	I think they're doing fireworks around the 6th.
+24501460	24502460	Oh, okay.
+24502460	24503460	That's kind of late.
+24503460	24506460	Yeah, they like, it's like my town desert or whatever.
+24506460	24511460	And so they're going to be blown off right by my house.
+24511460	24514460	I feel like because I, and it's going to be.
+24514460	24518460	I'm wondering if I'm, I have to check the time if I'm streaming at that time.
+24518460	24521460	Cause then somebody said, I should do ASMR.
+24521460	24527460	You're being shelled by heart artillery and your mommy is trying to rush you to safety.
+24527460	24530460	Wait, that's a good plot.
+24530460	24531460	What the heck?
+24531460	24532460	I know.
+24532460	24533460	I'm like, actually.
+24533460	24534460	Perfect.
+24534460	24536460	Actually, that might work.
+24536460	24538460	That's not just might work.
+24538460	24542460	No, that's really good.
+24542460	24546460	One of my viewers came up with it.
+24546460	24549460	Gosh, viewers have like the best ideas.
+24549460	24551460	They really do.
+24551460	24553460	Yeah, it's mine now.
+24553460	24555460	Actually, I came up with it.
+24555460	24557460	Sorry guys.
+24557460	24560460	It's all my idea and my little Muppet brain.
+24560460	24562460	That's where it came from.
+24562460	24564460	Did you see my Muppet form yet, Mercy?
+24564460	24565460	I did.
+24565460	24571460	I noticed I was like, oh my gosh, you could actually put your model behind the Muppet because it's your hand.
+24571460	24572460	Yeah.
+24572460	24573460	Somebody did such a good job.
+24573460	24575460	I love it.
+24575460	24577460	It looks really good.
+24577460	24580460	It looks so seductive.
+24580460	24581460	I know.
+24581460	24584460	I'm a little seductive Muppet.
+24584460	24589460	Would you put your hand up her?
+24589460	24597460	They already said they would make me into one of their socks.
+24597460	24606460	Oh, oh, oh, oh.
+24606460	24609460	They're also saying I'm a furry because I'm a Muppet.
+24609460	24610460	I don't know how that works.
+24610460	24611460	I don't know.
+24611460	24613460	You were already a furry.
+24613460	24615460	You're a bunny.
+24615460	24618460	I'm a kemama mamimi.
+24618460	24621460	That's like, you know, just one step away from furry.
+24621460	24622460	I'm sorry.
+24622460	24623460	I'm in denial.
+24623460	24625460	I'm not accepting it.
+24625460	24626460	Don't die.
+24626460	24627460	No.
+24627460	24628460	It's okay.
+24628460	24629460	I'm joking.
+24629460	24630460	I'm choking.
+24630460	24635460	I'm choking on your love.
+24635460	24636460	Okay.
+24636460	24644460	That's a way to phrase that.
+24644460	24649460	But yeah, you're already furry.
+24649460	24650460	I'm sorry.
+24651460	24659460	At this point, you're probably, you know, you're probably like so close to like the
+24659460	24668460	saw, you know, the jigsaw, like fan fictions and fan arts.
+24668460	24669460	Excuse me.
+24669460	24674460	No, she calls it like this.
+24674460	24675460	She sees them.
+24675460	24676460	No, she has an eye patch on.
+24676460	24678460	She doesn't know what she's seeing.
+24678460	24684460	I'm partially blind.
+24684460	24685460	Oh my God.
+24685460	24686460	Am I projecting?
+24686460	24687460	No.
+24687460	24688460	Of course.
+24688460	24689460	Oh my God.
+24689460	24690460	All right.
+24690460	24692460	Is Vila just a bunch of furries?
+24692460	24694460	Are we all just furries?
+24694460	24695460	Yeah.
+24695460	24696460	Okay.
+24696460	24700460	I'll accept it if I'm not alone.
+24700460	24701460	Yeah.
+24701460	24703460	Look, look at me.
+24703460	24704460	Look at Amy.
+24704460	24706460	Heck, we even have icy.
+24706460	24709460	There's a cuttlefish.
+24709460	24711460	That's a scaly.
+24711460	24712460	That's true.
+24712460	24713460	Is that a scaly?
+24713460	24715460	I think scaly's are reptiles.
+24715460	24717460	Oh, shit, really?
+24717460	24719460	Wait, why did I know that?
+24719460	24721460	Fuck.
+24721460	24726460	Mercy, how are you furry?
+24726460	24728460	Is there isn't an animal?
+24728460	24731460	Are you not saying that humans are not animals?
+24731460	24735460	She has a point.
+24735460	24740460	Oh my God.
+24740460	24741460	Okay.
+24741460	24745460	I'm going to attempt to continue with my boss.
+24745460	24746460	I love you.
+24746460	24748460	I'll leave you be now.
+24748460	24749460	I love you too.
+24749460	24750460	Bye, Mercy.
+24750460	24751460	See you later.
+24751460	24753460	I just wanted to spook you.
+24753460	24754460	Oh, he works.
+24754460	24756460	I call you furry, I guess.
+24756460	24757460	No.
+24757460	24758460	My.
+24758460	24760460	I love her.
+24760460	24764460	She's great.
+24764460	24771460	She's scared of shit out of me.
+24771460	24776460	All right.
+24776460	24777460	Don't go.
+24777460	24779460	You'll see her later.
+24779460	24782460	You know, she streams at 11 Eastern time.
+24782460	24788460	She'll be around in a couple hours.
+24788460	24799460	Yep.
+24799460	24804460	Yeah.
+24804460	24816460	What was that?
+24816460	24820460	I didn't ask.
+24820460	24824460	I realized I didn't run because it hits the second pillar over there.
+24824460	24828460	You see where the point of my like bounces off of that then goes to the right.
+24828460	24841460	And I was still close to the right when that happened.
+24841460	24844460	I thought I was storming outside, but it's just the game.
+24844460	24845460	I think.
+24845460	24846460	Oh, wait.
+24846460	24848460	No, if people throwing off fucking fireworks.
+24848460	24851460	See, it bounces off that one.
+24851460	24853460	And now I got a ride.
+24853460	24854460	No.
+24854460	24855460	Sorry.
+24855460	24857460	It's the first one that bounces off of.
+24857460	24858460	Wow.
+24858460	24863460	All my rooms that I got back.
+24863460	24864460	I wasn't.
+24864460	24865460	No, I.
+24865460	24871460	I'm not going to go to the boss after it hits me and knocks my health in half.
+24871460	24874460	I'm just going to kill myself.
+24874460	24878460	I'm just kill it because I don't like you have to make sure I have to make sure I'm at full
+24878460	24879460	health.
+24879460	24892460	I was just going to work otherwise, you know.
+24892460	24903460	Oh, I'm hungry.
+24903460	24907460	Ting.
+24907460	24909460	Why isn't there?
+24909460	24912460	I know there's a fucking.
+24912460	24920460	It's like right here is a grace when you beat her, but yeah, we're doing the moon veil only
+24920460	24936460	strat up until I get her to her second phase.
+24936460	24942460	I'm getting fucking got by books.
+24942460	24945460	Ow, ow.
+24945460	24946460	You can't.
+24946460	24950460	Go in the middle of them because they will fuck you up.
+24950460	24951460	Fuck off.
+24951460	24955460	You fucking books.
+24955460	24956460	Sleep tight.
+24956460	24959460	Shut the fuck up.
+24959460	24964460	I'm down here, lady.
+24964460	24969460	I'm missing.
+24969460	24976460	Thank you.
+24976460	24985460	Okay.
+24985460	25003460	I need to see where she's going to throw that.
+25003460	25006460	This won't break.
+25006460	25007460	Yeah.
+25007460	25012460	Okay.
+25012460	25014460	Bitch.
+25014460	25016460	Bitch slapping children.
+25016460	25018460	Oh my God.
+25018460	25026460	That guy scared me.
+25026460	25027460	Bitch.
+25027460	25028460	I missed.
+25028460	25029460	Bitch.
+25029460	25054460	I still smells like burnt popcorn.
+25054460	25072460	I wanted to break her before she did that little move.
+25072460	25082460	Unlock.
+25082460	25089460	She's over there.
+25089460	25092460	Fuck.
+25092460	25102460	Where is it?
+25102460	25113460	Ow.
+25113460	25128460	Ow.
+25128460	25138460	I'm getting got by books.
+25138460	25144460	Yeah, everybody just watch as I kill your mom.
+25144460	25151460	Die.
+25151460	25153460	Why are you hitting graduates?
+25153460	25155460	Because I want to.
+25155460	25162460	They're dumb little children.
+25162460	25175460	Oh my God.
+25175460	25202460	Oh, I'm so sick of you.
+25203460	25205460	What?
+25205460	25206460	What?
+25206460	25208460	What?
+25208460	25210460	Say it to my fucking muppet face.
+25210460	25218460	Fucking end you.
+25218460	25221460	I'd rather fucking fight Radon at this point.
+25221460	25225460	This is just annoying.
+25225460	25227460	It's a hard not life.
+25227460	25229460	Knock.
+25229460	25231460	I said not life.
+25231460	25235460	It's a hard not life for us.
+25235460	25240460	All my cat's food is going off instead of kibble.
+25240460	25244460	We get treats.
+25244460	25256460	Oh my God.
+25256460	25259460	Would you really rather fight Radon?
+25259460	25262460	I don't know, actually.
+25262460	25267460	At least I could be on fucking torrent.
+25267460	25272460	This person was like me and definitely ran off.
+25272460	25276460	I want to punch the blood stain.
+25276460	25280460	Oh no, that's they died that way.
+25280460	25282460	You look pretty badass while you were doing it though.
+25282460	25287460	You got Uchigatana or the Naga something.
+25287460	25289460	I'm not a furry.
+25289460	25305460	Oh my God.
+25305460	25325460	I'm so sick of this song.
+25325460	25326460	Oh, perfect.
+25326460	25327460	Oh, I miss.
+25327460	25330460	Die.
+25330460	25332460	I'm locked on you.
+25332460	25335460	Get down here.
+25335460	25348460	No, not you.
+25348460	25354460	No.
+25354460	25358460	Sweetings.
+25358460	25361460	Little Ting.
+25361460	25363460	Oh, books.
+25363460	25368460	Oh, fire.
+25368460	25372460	Books are my one enemy in this game now.
+25372460	25374460	I keep missing you.
+25374460	25375460	I can't.
+25375460	25377460	There's too many people to focus on.
+25377460	25386460	It's hard for the camera to lock.
+25386460	25388460	Fuck off.
+25388460	25393460	Oh, fucking child landing on me.
+25393460	25397460	Get down with your bad self.
+25397460	25401460	Fucking slugs.
+25401460	25410460	Your feet are big.
+25411460	25428460	Ah.
+25428460	25430460	Where is this one?
+25430460	25437460	Alright, she is.
+25437460	25444460	Not too bad.
+25444460	25454460	They are going to fall.
+25454460	25464460	Oh, fucking books.
+25464460	25477460	I feel like Art of Muppets should be wearing a shroud.
+25477460	25478460	It would be funny.
+25478460	25480460	Jesus Christ.
+25480460	25489460	That would be hilarious, actually.
+25489460	25498460	Oh, why was that taking forever?
+25498460	25518460	Do I have to go up close to you?
+25518460	25540460	Okay, I realize it's better to roll towards her.
+25540460	25546460	I'm running out of stamina, though.
+25546460	25553460	No, I'm coming through.
+25553460	25556460	Do I have to click it?
+25556460	25568460	Oh, fuck you.
+25568460	25577460	Fucking bitch.
+25577460	25583460	Ow.
+25583460	25584460	No, no, I don't want to die.
+25584460	25589460	I don't want to die.
+25589460	25595460	I just get the timing right for that one.
+25595460	25597460	Oh, no.
+25597460	25598460	I'm attacking you.
+25598460	25601460	I don't care about any of that shit.
+25601460	25612460	Nope, nope.
+25612460	25622460	You're mine.
+25622460	25630460	Hold on.
+25630460	25639460	Fuck off.
+25639460	25641460	Oh.
+25641460	25643460	Stop it.
+25643460	25645460	Enough.
+25645460	25647460	You're done, Manala.
+25647460	25648460	Sit.
+25648460	25657460	Get fucking...
+25657460	25662460	Yeah.
+25662460	25667460	Yeah.
+25667460	25669460	First try.
+25669460	25671460	100% first try.
+25671460	25675460	I think one of that only took me like seven tries?
+25675460	25677460	Eight tries, maybe ten?
+25677460	25680460	I don't know.
+25680460	25685460	That'll go through close for loose change.
+25685460	25694460	Yeah, I'll be right back.
+25694460	25703460	Hey.
+25703460	25706460	Me.
+25706460	25712460	I need shit for that.
+25712460	25715460	I'm a gamer.
+25715460	25717460	Pulling those dodges off.
+25717460	25718460	I'm telling you.
+25718460	25724460	A pee really helps me with Eleanor because I would not be able to do this normally.
+25724460	25732460	Normally I could not get dodges right and I literally would just either cheese a boss
+25732460	25734460	or I just spam shit.
+25734460	25741460	But I'm actually pretty proud of myself that this run I am actually like dodging.
+25741460	25765460	I would be parrying too if I was doing that sort of build but I'm not.
+25765460	25769460	I know I'm no gamer but I'm not like painfully bad.
+25769460	25784460	But I'm not painfully bad.
+25784460	25785460	Perseverance.
+25785460	25786460	That's my word.
+25786460	25787460	That's my word this year.
+25787460	25790460	Perseverance.
+25790460	25795460	I'm entertainingly bad.
+25795460	25797460	I'm not a gamer at the end of this playthrough.
+25797460	25799460	A true gamer.
+25799460	25811460	Sick.
+25811460	25813460	You're kind of weird.
+25813460	25819460	You're just a bit weird.
+25819460	25821460	Is it audio skipping for anyone else?
+25821460	25822460	Is it audio skipping?
+25822460	25824460	I don't know.
+25824460	25825460	I went through a lot.
+25825460	25839460	I can't really lock her for it.
+25839460	25840460	Okay.
+25840460	25843460	Let me do...
+25843460	25846460	Should I do more intelligence?
+25846460	25847460	Yeah.
+25847460	25852460	I feel like that's good.
+25852460	25857460	Because then I won't need Radigan's Scar Seal to fucking wield this.
+25857460	25866460	I don't think.
+25866460	25868460	Oh I need Strength and Dex.
+25868460	25869460	Oh you're right.
+25869460	25872460	Because I need 18 and I need 12.
+25872460	25873460	Fuck.
+25873460	25879460	I wish I read that before.
+25879460	25880460	Fuck.
+25880460	25884460	It's fine.
+25884460	25885460	It's fine.
+25885460	25889460	What does her green do?
+25889460	25890460	I don't know.
+25890460	25891460	I don't have it yet.
+25891460	25892460	It doesn't really matter.
+25892460	25893460	Yeah.
+25893460	25896460	It's just two more levels.
+25896460	25897460	In fact.
+25897460	25900460	Oh shit.
+25900460	25909460	I haven't been doing any crafting or nothing.
+25909460	25914460	Do I need to go somewhere to do her rune?
+25914460	25915460	I don't have to.
+25915460	25916460	Right?
+25916460	25917460	Oh.
+25917460	25924460	I don't have to.
+25924460	25925460	Oh.
+25925460	25926460	Yeah.
+25926460	25931460	Is it Ronnie's wedding ring in there?
+25931460	25933460	I need a larvae.
+25933460	25934460	That's right.
+25934460	25936460	I would need a larvae.
+25936460	25937460	Larva.
+25937460	25938460	Larvae.
+25938460	25942460	I don't know what the fuck I'm saying.
+25942460	25943460	That's true.
+25943460	25944460	I could use the Remembrances.
+25944460	25947460	Because I don't really care about the items.
+25947460	25950460	The only item I care about is Radon's bow.
+25950460	25956460	Because I'm going to need that for farming.
+25957460	25977460	I might as well do that now then.
+25977460	25978460	Wait.
+25978460	25979460	Do I have to go to the fucking...
+25979460	26000460	I was like, where is it?
+26000460	26007460	I might as well just go here first.
+26007460	26021460	Do I only have...
+26021460	26022460	I don't...
+26022460	26025460	You're going to laugh at me, but I thought this was a helmet.
+26025460	26031460	And I just realized it was Ronaldo.
+26031460	26032460	I like how I just went past it.
+26032460	26034460	And I was like, oh, where is it?
+26034460	26039460	It's right fucking there.
+26039460	26040460	Yeah.
+26040460	26041460	Because what's hers?
+26041460	26042460	Wait.
+26042460	26050460	Before I do hers, does hers give a spell?
+26050460	26051460	I don't want her funny hat.
+26051460	26056460	I don't care about her funny hat.
+26056460	26066460	I hate her hat so much.
+26066460	26068460	Hers does give a spell.
+26068460	26069460	Is it?
+26069460	26074460	It's the comet, isn't it?
+26074460	26076460	I'm not going to do hers then.
+26076460	26078460	It's the moon bomb.
+26078460	26080460	Oh, I never fucking even use that.
+26080460	26081460	Never mind.
+26081460	26082460	Yeah, that's right.
+26082460	26084460	I recall now.
+26084460	26105460	I think I got her funky little hat instead.
+26105460	26115460	Yippee.
+26115460	26116460	Yippee.
+26116460	26117460	Her staff is good.
+26117460	26118460	I don't really care.
+26118460	26128460	It's one of the best staffs, but it isn't the best staff.
+26128460	26129460	My staff's fine.
+26129460	26134460	I can always get a better one late game.
+26134460	26142460	Her staff is good, but what am I doing?
+26142460	26143460	I'm looking fashionable.
+26143460	26144460	That's what I'm doing.
+26144460	26147460	What am I doing?
+26147460	26152460	I totally forgot what I was going to do.
+26152460	26154460	Oh, no.
+26155460	26165460	Okay, I don't need that.
+26165460	26176460	So now I can stop fucking myself over with that.
+26176460	26182460	So where is the graven?
+26182460	26184460	Damn.
+26184460	26186460	Look at her feet.
+26186460	26187460	Look at her soles.
+26187460	26189460	She's a little dimple on her foot.
+26189460	26192460	Interesting.
+26192460	26195460	Anything else that I can see?
+26195460	26197460	Oh, all right.
+26197460	26199460	I hate your...
+26199460	26203460	Your weirdly proportioned body is so disturbing to me.
+26203460	26206460	It is generally uncanny valley and it bothers me so much.
+26206460	26207460	Oh, wow.
+26207460	26208460	Look who's that.
+26208460	26209460	It's Radigan.
+26209460	26212460	Fascinating.
+26212460	26227460	So now we're going to get the school.
+26227460	26228460	I'm looking at her feet.
+26228460	26229460	Don't worry about it.
+26229460	26244460	Don't worry about your own feet because I'm covering your feet.
+26244460	26249460	Probably also...
+26249460	26267460	There's another wonder physics.
+26267460	26287460	Okay, okay, okay.
+26287460	26293460	Not my grippers, madame.
+26293460	26296460	Your grippers are not safe.
+26296460	26309460	Exit the parlor.
+26309460	26312460	There's an illusory wall.
+26312460	26316460	Attack the bookshelf.
+26316460	26318460	Oh, before the stairs.
+26318460	26320460	For the stairs.
+26320460	26323460	This one.
+26323460	26325460	Where is it?
+26325460	26338460	Oh, it's this one.
+26338460	26343460	Sick, we got Comet.
+26343460	26346460	All right, where is the ladder?
+26346460	26353460	This is not the ladder you climb.
+26353460	26357460	Follow the wall to a room with the ladder.
+26357460	26370460	Oh, this one.
+26370460	26382460	Sorry, I just wanted to break that.
+26382460	26389460	Time for jumping.
+26389460	26400460	I want to jump.
+26400460	26411460	Do I have to go down?
+26411460	26413460	That's a creepy little hole.
+26413460	26414460	Let me go this way first.
+26414460	26415460	There's nothing there.
+26415460	26423460	Okay, we go down the creepy little hole.
+26423460	26428460	Be wary of group.
+26428460	26430460	I don't see anything.
+26430460	26433460	Is it the jars?
+26433460	26448460	I guess it is the jars.
+26448460	26461460	How do I get out of here?
+26461460	26463460	Walk with me, little jar.
+26463460	26467460	Oh, never mind.
+26467460	26477460	Now, now, fuck, shit.
+26477460	26479460	Excuse me, pardon me.
+26479460	26483460	Excuse me, pardon me.
+26483460	26492460	She's in the walls.
+26492460	26498460	Yeah, fuck, now I'm a heavy load.
+26498460	26501460	Why am I going to fat roll?
+26501460	26504460	Are you serious?
+26504460	26513460	That's so stupid.
+26513460	26519460	Actually, I don't really need the spells right now.
+26519460	26522460	My microphone is in my face.
+26522460	26528460	I'll put that back on.
+26528460	26530460	It's still a heavy load.
+26530460	26533460	Okay.
+26533460	26543460	That's better.
+26543460	26545460	Got one grim difference.
+26545460	26547460	Broke a sand.
+26547460	26548460	I know.
+26548460	26549460	Just drop the shield.
+26549460	26550460	Oh, yeah, what the fuck?
+26550460	26553460	I have the shield on.
+26553460	26563460	I need that shit.
+26563460	26574460	I need those right now.
+26574460	26576460	Now we big chillin'.
+26576460	26579460	Okay.
+26579460	26587460	So, we got Morgan, Godric, and Rinala.
+26587460	26599460	Now we just need to...
+26599460	26610460	I believe I have to go rest at a side of grace outside of this, right?
+26610460	26614460	Or does this count?
+26614460	26628460	Oh, fuck, do I get out of here anyways?
+26628460	26633460	No.
+26633460	26637460	Oh, my God, he's scared the fuck out of me.
+26637460	26642460	Jesus Christ, he's scared the shit out of me.
+26642460	26650460	Oh, I'm alive?
+26650460	26651460	Oh, my God.
+26651460	26657460	I just got a fucking shiver from that.
+26657460	26666460	Okay, if it's redawn time, it's redawn time.
+26666460	26673460	Fuck, I have to go really far.
+26673460	26674460	I just don't like the noises they make.
+26674460	26682460	It freaks me out.
+26682460	26684460	Yeah, they do do way too much damage.
+26684460	26687460	I don't know the type of damage that they do.
+26687460	26694460	I don't know why I teleported all the way over here when I shifted down over here.
+26694460	26708460	We'll see if it works, and we'll see if we can fuck up redawn.
+26708460	26731460	Let's do it.
+26731460	26736460	What's up with the music?
+26736460	26738460	My favorite place to be.
+26738460	26741460	Okay, look how beautiful sunny skies.
+26741460	26744460	It's really gorgeous out.
+26744460	26746460	Got a dude here.
+26746460	26749460	I'll say hi.
+26749460	26754460	What do you got?
+26754460	26757460	I haven't even been using any of that stuff.
+26757460	26758460	I haven't been crafting shit.
+26758460	26762460	I haven't been doing anything.
+26762460	26764460	I'll do all that later.
+26764460	26767460	When I get to DLC, I'll focus on getting a lot.
+26767460	26771460	I'm just trying to get to DLC right now.
+26771460	26773460	What the hell?
+26773460	26779460	There's a casual golden seed.
+26779460	26784460	Alright, let's keep going.
+26784460	26786460	I want to be known before I go to sleep.
+26786460	26789460	Imagine Muppet should be killing the bosses of the sound clip.
+26789460	26793460	Miss Picky Karate Choppy Kermit!
+26793460	26797460	Has been amusing me all stream.
+26797460	26798460	That is hilarious.
+26798460	26800460	Thank you, Oregon.
+26800460	26803460	Have a good sleep.
+26803460	26806460	Oh my god, that just made me chuckle.
+26806460	26808460	There's a lot of puppies around here.
+26808460	26809460	I don't want to anger the puppies.
+26809460	26812460	I like how this one, the bird, that's not a death bird,
+26812460	26819460	but the bird just kind of sits there and chills.
+26819460	26822460	Sneaky?
+26822460	26827460	Sneaky?
+26827460	26836460	Sneaky, sneaky, be careful.
+26836460	26838460	Are they chilling?
+26838460	26848460	Yeah, I know how terrifying they are.
+26848460	26852460	Sick.
+26852460	26854460	I don't have any sacred tears, right?
+26854460	26856460	I thought I did when it said,
+26856460	26857460	Oh, you want to use a sacred tear?
+26857460	26877460	I'm like, oh yeah, sure.
+26877460	26879460	I need 52 intelligence for that.
+26879460	26881460	Jesus Christ.
+26881460	26886460	Alright, well.
+26886460	26893460	Let's ride and avoid shit.
+26893460	26894460	Where is it?
+26894460	26895460	There it is.
+26895460	26899460	Oh, that already fucking took out Torrent so fast.
+26899460	26905460	Alright, nevermind.
+26905460	26907460	I wanted to get away from the fire,
+26907460	26910460	because I knew I was going to die.
+26910460	26915460	It's fine.
+26915460	26918460	I got that.
+26918460	26921460	I've always been kind of confused by that.
+26921460	26922460	Why is that?
+26922460	26925460	Oh, there's a portal here.
+26925460	26936460	It cannot be used now.
+26936460	26961460	Damn, fucking Torrent is getting God right now.
+26961460	26962460	Oh, Torrent, please.
+26962460	26963460	Oh, come on, Torrent.
+26963460	26964460	You got this, Torrent.
+26964460	26977460	Come on, Torrent.
+26977460	26982460	It's fine.
+26982460	26985460	Oh, well.
+26985460	27001460	This will be fun.
+27001460	27009460	Hey, nice.
+27009460	27010460	How did the...
+27010460	27014460	Oh.
+27014460	27015460	Who's manning this trebuchet?
+27015460	27020460	I just want to talk.
+27020460	27022460	I came up all the way here to kill you.
+27022460	27036460	I thought this is where Red Main Castle was.
+27036460	27037460	Something near me?
+27037460	27038460	Oh, fucking bat.
+27038460	27040460	What's up, bitch?
+27040460	27042460	Can I launch myself back?
+27042460	27043460	That'd be funny.
+27043460	27048460	I want to launch myself.
+27048460	27053460	Yeah, that'd be nifty.
+27053460	27067460	No, we both can't attack each other.
+27067460	27083460	Damn it, I thought I could jump right before, but there's a little thing right there.
+27083460	27085460	Did you sit at an altar?
+27085460	27091460	Apparently, Volcano Manor doesn't count.
+27091460	27093460	How many runes did I lose?
+27093460	27095460	Can somebody tell me?
+27095460	27103460	Actually, I can tell myself.
+27103460	27110460	I am blocking how many runes I have.
+27110460	27111460	It probably doesn't matter.
+27111460	27112460	I don't really care that much.
+27112460	27113460	Yeah, four to five K.
+27113460	27114460	I don't really care that much.
+27114460	27123460	It's not a big deal.
+27123460	27131460	Okay, yeah, that doesn't count.
+27131460	27136460	Let's go back.
+27136460	27141460	Try to leave the fucking manor.
+27141460	27150460	Well, frick!
+27150460	27156460	Sorry, rubbing my fucking ears, because the headphones itself don't hurt.
+27156460	27161460	It's just that when I'm wearing my glasses with them, they press a little bit.
+27161460	27166460	It's like a little headdent.
+27166460	27171460	I have dents about my fucking ears.
+27171460	27177460	Now, how the fuck am I supposed to leave this place?
+27177460	27178460	There's a grace here.
+27178460	27188460	I can't fucking remember.
+27188460	27197460	I wish I had Bloodhound Step, because then I would just attach that to a dagger and fucking go wherever.
+27197460	27198460	That's where it came from?
+27198460	27199460	No.
+27199460	27200460	Sure.
+27200460	27202460	Let's go wherever this leads us.
+27202460	27204460	There's a lot of stuff here.
+27204460	27206460	What do the people have to say?
+27206460	27207460	Detour ahead?
+27207460	27209460	Are you wearing a hole?
+27209460	27210460	A vision of a hole?
+27210460	27211460	Oh.
+27211460	27213460	I found the hole.
+27213460	27215460	I found it.
+27215460	27218460	Didn't expect a hole.
+27218460	27220460	Grass.
+27220460	27225460	Alright, he's fighting something.
+27225460	27228460	Isn't this where...
+27228460	27229460	Wait a second.
+27229460	27232460	This looks mighty familiar.
+27232460	27236460	Isn't this where you fight late?
+27236460	27238460	A question mark?
+27238460	27245460	At some point?
+27245460	27247460	I don't know.
+27247460	27248460	No?
+27248460	27249460	No?
+27249460	27252460	It's a different place?
+27252460	27253460	It's a no-car...
+27253460	27256460	Oh yeah, you're right, you're right.
+27256460	27257460	Oh.
+27257460	27260460	Who the fuck is here then?
+27260460	27261460	Oh.
+27261460	27262460	Let's find out.
+27262460	27267460	Oh, it's...
+27267460	27276460	Oh, fucking Jesus Christ.
+27276460	27281460	This is fun.
+27281460	27282460	Ow.
+27282460	27283460	Actually...
+27283460	27290460	No, I'm going to roll into that.
+27290460	27299460	No, I don't want you to be grabbing his little hands.
+27299460	27309460	How am I supposed to...?
+27309460	27328460	Oh, I was hoping it wouldn't be able to hit me.
+27328460	27330460	Oh fuck, you're over here now.
+27330460	27335460	Ain't that nice?
+27335460	27337460	Am I dead?
+27337460	27344460	I gotta be dead now.
+27344460	27347460	Grab my little body.
+27347460	27358460	There really isn't a whole lot of little snakes.
+27358460	27361460	I hate that they're called abductor.
+27361460	27364460	I thought it was going to be called abducator.
+27364460	27366460	I thought everybody was joking.
+27366460	27368460	Alright, well...
+27368460	27370460	You gotta say hello.
+27370460	27373460	Now I know what to expect.
+27373460	27375460	Look at this little guy.
+27375460	27376460	They're so cute.
+27376460	27378460	Truly.
+27378460	27383460	Well...
+27383460	27385460	Since there's a hole there...
+27385460	27387460	I should probably get a fucking flashlight.
+27387460	27390460	Can I go around it?
+27390460	27393460	No?
+27393460	27394460	Yes?
+27394460	27395460	No?
+27395460	27396460	Can I go down there?
+27396460	27398460	Alright, well...
+27398460	27402460	If you insist.
+27402460	27404460	What are they weak to?
+27404460	27406460	Not that I have anything.
+27406460	27409460	When you're first doing a playthrough and you grab everything
+27409460	27411460	and you do fucking every little thing,
+27411460	27417460	you have so many swords and weapons to play with.
+27417460	27420460	I'm like, ah, they're weak against this?
+27420460	27424460	Bet, and then I fucking pull that out.
+27424460	27430460	Did they fight them all the way over here too?
+27430460	27434460	I'm confused.
+27434460	27435460	Duck people.
+27435460	27437460	The hole is the way out.
+27437460	27440460	Alright.
+27440460	27442460	Try lightning.
+27442460	27444460	I don't have any lightning.
+27445460	27447460	Cough, cough, cough.
+27463460	27466460	No, no.
+27466460	27469460	Let me out.
+27474460	27497460	I literally dodged that.
+27497460	27499460	What did I mouth you, girl?
+27499460	27505460	Merging up doctors?
+27505460	27509460	They're weak when they open?
+27509460	27511460	I didn't know they were full of snakes.
+27511460	27527460	They're just a lot of little grabby hands.
+27527460	27536460	Let's see how they do with the regular magic.
+27536460	27540460	I know someone said grass, but they're like lily pads.
+27540460	27553460	Surprise! It's snakes!
+27553460	27560460	What?
+27560460	27563460	I wish there was friendly fire on these fucking bitches.
+27563460	27566460	That would be great.
+27566460	27567460	No!
+27567460	27569460	Don't do it, you fucking whore.
+27569460	27575460	I swear to God.
+27575460	27581460	No!
+27581460	27591460	No!
+27591460	27595460	I'm tired of this, Grandpa.
+27595460	27609460	What I usually do is I usually get them trapped.
+27609460	27615460	How did you get up there, bro?
+27615460	27617460	How did you get up there?
+27617460	27619460	Oh, perfect.
+27619460	27628460	Well, never mind.
+27628460	27630460	Come on!
+27630460	27634460	Even if I got up there, how are they able to hurt me?
+27634460	27637460	I didn't know I could throw it upwards.
+27637460	27639460	Muppet? Yeah, one of it.
+27639460	27641460	You're a muppet.
+27641460	27653460	Boy, you built like a muppet.
+27653460	27658460	Excuse me, sir.
+27658460	27665460	Boy, you built like a baked bean! A baked bean!
+27665460	27668460	This is annoying.
+27668460	27671460	If there was one of them, that would have been fine.
+27671460	27681460	But the twins makes it a little bit more tricky.
+27681460	27686460	Stop it!
+27686460	27689460	And then it becomes fucking impervious.
+27689460	27703460	And so it's a waste of my fucking stuff.
+27703460	27708460	Can I see?
+27708460	27710460	See, it can grab me from here.
+27710460	27712460	Oh God.
+27713460	27718460	Jesus.
+27718460	27726460	This is great.
+27726460	27728460	Can I have a moment?
+27728460	27752460	Oh God.
+27752460	27754460	Oh God.
+27754460	27756460	What the fuck, bitch?
+27756460	27765460	Oh, what the fuck, bitch?
+27765460	27774460	No. No.
+27774460	27788460	No.
+27788460	27795460	It looks like I can't get out of here.
+27795460	27797460	Why are you talking like that?
+27797460	27800460	Is your E button broken?
+27801460	27815460	Again, with the homestuck speech.
+27815460	27823460	You're giving me a stroke.
+27823460	27828460	Sadly, yes.
+27828460	27838460	Why don't you just pop the key off and try to fix that?
+27838460	27840460	I'll buy you.
+27840460	27843460	I'm back in 2005 and I hate it.
+27843460	27853460	I know, I feel like I'm reading MySpace.
+27853460	27854460	Should I?
+27854460	27866460	They probably won't do shit with the lead.
+27866460	27868460	Alright, fuck it.
+27868460	27896460	Oh.
+27896460	27900460	I was actually working, so I will continue to do that.
+27900460	27902460	I'll focus on one.
+27902460	27911460	It's just hard to keep an eye on the other one.
+27911460	27913460	Yeah, I don't know why you just don't copy-paste ease.
+27913460	27915460	That's a good point as well.
+27915460	27918460	Well, that is annoying in like the middle of a sentence.
+27918460	27925460	I'll be here or something.
+27925460	27927460	Okay.
+27927460	27930460	Alright, it doesn't matter.
+27930460	27936460	A little fire never hurt nobody.
+27936460	27939460	Visions of hole.
+27939460	27942460	Chapped humps together to give him an E.
+27942460	27949460	That's funny.
+27949460	27951460	I can't even read that.
+27951460	27953460	What?
+27953460	27955460	Alright, let's focus on one.
+27955460	27984460	I'm gonna focus on this one.
+27984460	27990460	I was drinking!
+27990460	27992460	This will take a while.
+27992460	27994460	This will take a while.
+27994460	28004460	I apologize in advance.
+28004460	28009460	I just hate it when I have to walk places and do the same fucking thing over and over again.
+28009460	28011460	Just drop me in front of the thing.
+28011460	28021460	That's all I ask.
+28021460	28039460	Are you drinking during a fight?
+28039460	28048460	Kinda fucked myself as well.
+28048460	28050460	That's a good point.
+28050460	28067460	Let me try to see if the jellyfish will take off aggro, but I highly doubt it.
+28067460	28069460	I'm wondering which one.
+28069460	28074460	I have the skeleton militiaman ashes.
+28074460	28079460	I have the jellyfish.
+28079460	28086460	And then I have the wolves.
+28086460	28088460	I'm asking the triggers.
+28088460	28100460	I should grab early.
+28100460	28115460	It's funny because I instinctively want to do that as if I'm gonna wiggle out.
+28115460	28122460	Should I grab the jellyfish?
+28122460	28126460	Oh, master triggers!
+28126460	28128460	Do it!
+28128460	28130460	Oh, it kinda worked.
+28130460	28142460	No, do it again.
+28142460	28144460	Guys, I don't think this is working.
+28144460	28150460	Guys, I think I have blood loss.
+28150460	28155460	I'm starting to forget regular sheevee and getting used to muffin sheevee help.
+28155460	28161460	It's kinda weird because I just have a weird American flag next to me.
+28161460	28167460	Luckily, I'm here to talk to you about how you can support our soldiers.
+28167460	28172460	With my hand up, I'm like, well.
+28172460	28176460	With war with blah blah blah on the rise.
+28176460	28180460	It's time to support our soldiers, men.
+28180460	28182460	You say women should be back in the kitchen?
+28182460	28186460	You should be enlisting.
+28186460	28188460	Hello, welcome to...
+28188460	28191460	Welcome to being a member.
+28191460	28195460	Delanash!
+28195460	28196460	Ronnie time?
+28196460	28201460	What do you mean, Ronnie time?
+28203460	28205460	Oh, god.
+28205460	28223460	Can you guys hit each other? That'd be great.
+28223460	28225460	Oh, hello.
+28225460	28227460	Hello, nice to see you there.
+28256460	28262460	Fuck off, bro.
+28269460	28271460	No.
+28274460	28276460	I'm dead.
+28285460	28290460	Close, close.
+28290460	28293460	Yeah, I need to kill at least one of them and I'll be golden.
+28293460	28299460	All I have to do is run away from the other one.
+28299460	28309460	Okay, the sickle one is better to get up and close personal to, in my opinion.
+28309460	28321460	You...
+28321460	28335460	Are these the main bosses of volcano manor? I can't remember.
+28335460	28343460	Oh, this has been fun.
+28343460	28345460	Like I just flop on the ground.
+28345460	28347460	No!
+28347460	28353460	You fucking asshole, he's like, my turn.
+28353460	28355460	Come here, you.
+28355460	28357460	You're mine.
+28357460	28363460	Ha!
+28363460	28368460	I don't quite understand that.
+28368460	28377460	No!
+28377460	28381460	I'm just getting passed around.
+28381460	28385460	Like I'm at a fucking frat party, what the fuck is this?
+28385460	28391460	This is stupid.
+28391460	28397460	I'm mad, but I still got jokes.
+28407460	28409460	What frat party was this?
+28409460	28411460	I've never been to a frat party.
+28411460	28417460	This is just a joke.
+28417460	28423460	I never went to a actual college, I just did online college.
+28423460	28425460	Because it's so easy.
+28425460	28437460	I was working on getting my computer science degree.
+28437460	28443460	I am stuck.
+28443460	28454460	No.
+28454460	28472460	I'm scared of being caught.
+28472460	28482460	Do you see how he tracks me?
+28482460	28486460	I need to heal.
+28486460	28488460	I need to heal again.
+28488460	28493460	I need to fuck.
+28493460	28501460	No, I never finished school.
+28501460	28503460	It's just a pain.
+28503460	28505460	I didn't like it.
+28505460	28507460	I didn't like school.
+28507460	28512460	If anything, I'm considering going back.
+28512460	28516460	I didn't mean to press that, but it's fine.
+28516460	28522460	And if anything, making my major psychology or something.
+28522460	28525460	Or just a liberal art.
+28525460	28533460	Just because, although, like, I would have made really good money had I stuck with it.
+28533460	28536460	But I'm like, I enjoyed coding.
+28536460	28540460	I wanted to be, I wanted to be do front end development.
+28540460	28550460	Because I really love just making things pretty.
+28550460	28558460	Now.
+28558460	28564460	Can I get out of here?
+28564460	28568460	If I had lightning, this would be great.
+28568460	28571460	Yeah, happy pork.
+28571460	28573460	Is the ash of war too much to them?
+28573460	28574460	I'll try it.
+28574460	28577460	I didn't try it yet.
+28577460	28585460	I don't think they're kind of like doesn't really matter with like with magic.
+28585460	28586460	I tried throwing rocks at them.
+28586460	28596460	I didn't really do anything.
+28596460	28605460	I know I never, ever use lightning unless it's against these motherfuckers.
+28605460	28608460	For everyone, my career for it is mostly high school grads that just buy a school.
+28608460	28609460	Yeah.
+28609460	28617460	I just like, because I was in school before I got into the dealer.
+28617460	28622460	But I was just like, I didn't get out of school because of dealer.
+28622460	28623460	Don't don't get it twisted.
+28623460	28629460	It was just that I was already a thing on my mind.
+28629460	28634460	Oh my fucking God, bro.
+28634460	28635460	Please.
+28635460	28636460	Please.
+28636460	28638460	A camera lock dude.
+28638460	28642460	I need to not lock my camera.
+28642460	28651460	But I was already planning on leaving and then kind of, because I had already taken a break for like two months of school.
+28651460	28652460	And then I was just like, you know what?
+28652460	28654460	I don't care anymore.
+28654460	28661460	I have plenty of time to go to school anytime I fucking want.
+28661460	28672460	I was thinking, like let's say like a bazillion years from now when the dealer isn't around.
+28672460	28686460	I was thinking, because you know how like, you know how like psychology is very, very important.
+28686460	28695460	There is no true fucking HR in a Corpo.
+28695460	28696460	Mental health's important.
+28696460	28710460	I was wondering if I could market myself as a psychologist for VTubers.
+28710460	28719460	And be, oh my God, I'm going to die.
+28719460	28723460	And be like a manager, a psychologist sort of thing.
+28723460	28735460	I feel like that would be a very sought after thing in the industry.
+28735460	28737460	What the heck did you back up?
+28737460	28740460	Whoa.
+28740460	28744460	Open your little mouth.
+28744460	28752460	Let me jump out.
+28752460	28757460	Oh God, hello.
+28757460	28760460	Oh God, how are you knowing where I'm jumping?
+28760460	28775460	Oh God, I was hoping you would get stuck behind them so you didn't roll me down.
+28775460	28779460	Because I'm very in tune with people's emotions.
+28779460	28781460	And I love, love, love, love psychology.
+28781460	28799460	And just really finding out like the how's and why's, like why our brain makes specific decisions and kind of how to work things out in a healthy way.
+28799460	28809460	And because I do have a management background at my last job, I feel like,
+28809460	28817460	like let's say, let's say like three years from now or whatever,
+28817460	28820460	Strawny anticipates us to stop having gents.
+28820460	28826460	Maybe the fourth year I decide to be, I comment on as a talent manager instead of a talent, you know?
+28826460	28827460	I think that'd be cool.
+28827460	28829460	Because I'm trying to think of long term.
+28829460	28837460	You can't be a VTuber forever, sadly, I wish I could.
+28837460	28841460	And I think that would be pretty violent because there always will be VTubers.
+28841460	28845460	Like I don't, that won't go away.
+28845460	28847460	But I think it would be cool.
+28847460	28851460	Oh my God, please.
+28851460	28853460	Just give me a chance.
+28853460	28860460	Just give me a chance.
+28860460	28863460	But it's like I do have this approach ability.
+28863460	28865460	I do have this, like I can be professional.
+28865460	28868460	I want to be.
+28868460	28876460	I am good in terms of like, I'm good with networking.
+28876460	28878460	I'm good at connecting with people.
+28878460	28884460	And I feel like I would benefit a lot of like future YouTubers in no way.
+28884460	28886460	And especially because I've been part of the industry.
+28886460	28892460	Again, this is years and years and years and years into the future.
+28892460	28895460	Because again, I want to make VTuber my full time job right now.
+28895460	28898460	It's essentially is.
+28898460	28907460	And so I think it would be pretty cool to do something like that in the future.
+28907460	28914460	Like to, or like be some sort of social media management, which I never really anticipated for myself before.
+28914460	28919460	Maybe I'll take a like communications course or something.
+28919460	28922460	Unironically, you'd be a great mental health professional.
+28922460	28929460	I don't know why, but hearing that is just really funny.
+28929460	28931460	I don't know why it's just funny to me.
+28931460	28940460	Unironically, VTuber, that looks like a Muppet right now, you'd be a really great mental health professional.
+28940460	28941460	Yeah, exactly.
+28941460	28945460	So that's why I'm like, okay, after the three gents, because I want to be there.
+28945460	28946460	I want to be there to help stick out.
+28946460	28949460	Maybe the third gen, I help mentor.
+28949460	28950460	I love being a mentor.
+28950460	28951460	I love teaching.
+28951460	28957460	I love that sort of stuff.
+28957460	28959460	Oh, hello.
+28959460	28963460	Hi.
+28963460	28965460	Why do you get to clip through each other?
+28965460	28969460	That's not fair.
+28970460	28971460	How did you kill me?
+28971460	28975460	Oh, I thought I was, I never got them in your hitbox.
+28975460	28977460	You can see the little sneaky poos.
+28977460	28978460	There.
+28978460	28983460	Oh, right, it's a little air box.
+28983460	28985460	A lot of conversations with my sex Muppet.
+28985460	28987460	It really helped me.
+28987460	28993460	My psychologist brought up how after I confided them that I wasn't comfy talking to a person, I would honestly be the most helping thing.
+28993460	28994460	Oh, really?
+28994460	28995460	You think so?
+28995460	28997460	That's cute.
+28997460	29003460	Like, I'm very in touch with my mental health.
+29003460	29007460	I mean, just dropping a dookie behind me.
+29007460	29008460	Oh, fuck.
+29008460	29009460	Oh, fuck.
+29009460	29014460	I can't get out, guys.
+29014460	29018460	I'm really in touch with my mental health.
+29018460	29020460	I see it therapist.
+29020460	29022460	I think mental health is very important.
+29022460	29026460	Even if you don't really think you need one, it's always good just to have somebody like every once in a while.
+29026460	29029460	Like every few months or so.
+29029460	29032460	In fact, I need to message my therapist back.
+29032460	29036460	She just came back from vacation.
+29036460	29043460	It's important to like have somebody bounce off of this like kind of an unbiased third party.
+29043460	29049460	Kind of help you untangle the yarn that is your mind, you know?
+29049460	29055460	Coming for you, bro.
+29056460	29059460	I wish I could get you stuck on something.
+29059460	29060460	I'm dead already.
+29060460	29062460	Guys, I don't know.
+29062460	29063460	This is so annoying.
+29063460	29071460	This might be a beat-off stream thing again.
+29071460	29072460	Yeah, outside perspective.
+29072460	29082460	I've also worked with psychologists and practitioners.
+29082460	29088460	I just find mental health to be super, super necessary.
+29088460	29099460	Especially there's not a lot of people that have a focus on mental health that is in regards to people who are social media influencers.
+29099460	29101460	It's a whole different ballgame.
+29101460	29103460	You're in the spotlight.
+29103460	29111460	You are dealing with a different sort of hatred, different sort of comments, different sort of pressure.
+29112460	29119460	And like you can ask the other girls, I help them work through their shit all the time.
+29119460	29124460	Not that they have a lot, but just like if they're having a tough time, they talk to me, you know?
+29124460	29131460	And I can either listen or give you a solution, whatever you want.
+29131460	29133460	Yeah.
+29133460	29136460	The only person who can put me down is myself.
+29136460	29140460	Therapy stream answering mental health related marrows would be really cool actually.
+29140460	29147460	If I would do that, just because that's a slippery slope, because I'm not a licensed professional.
+29147460	29152460	I don't want you and people, some of you know would know to take my shit with a grain of salt.
+29152460	29167460	Others would take it literally and just take my word as Bible, which I don't want.
+29167460	29171460	That would just be a suggestion. I'm already going to die.
+29171460	29175460	Can you guys stop? I need you to fuck off.
+29175460	29184460	Both of you, fuck off. Both of you right now, fuck off.
+29184460	29188460	You know, no one got me, no psychology major, she got me.
+29188460	29193460	Um, because I've been a fair, I don't understand how people can do therapy,
+29193460	29198460	personal health stuff to a stranger seems very daunting, because I've had a fair share of issues.
+29198460	29202460	I talk with friends and they keep claiming I'm being taken advantage of.
+29202460	29207460	Oh, because I've had a fair share of issues, like what do you mean?
+29207460	29213460	Oh wait, this is two different things.
+29213460	29217460	Therapy, so like I've been in therapy for a very long time.
+29217460	29223460	I will not lie to you and say, you know, there's a lot of mental health issues running my family,
+29223460	29229460	but thankfully my parents were, my parents were, oh shit, I'm just going to die.
+29229460	29233460	Just kill me, just kill me now.
+29233460	29237460	My parents were very self aware people and they were very open minded.
+29237460	29245460	Like my parents are not from a generation where they think that mental health is just like get over yourself.
+29245460	29251460	Which sometimes, you know, sometimes people do need to get over themselves, I won't lie to you.
+29251460	29259460	So, and I've been to multiple therapists when I was a kid.
+29259460	29264460	So, because I mentioned to you guys, I have OCD, I also have something called Dermatillomania,
+29264460	29271460	which is kind of like almost like an offshoot of OCD, where I have this compulsion to pick at my skin,
+29271460	29275460	because I feel like it's just like, it's a sensory issue for me.
+29275460	29278460	I don't like when there's a bump, I don't like when there's a scab.
+29278460	29281460	That's why I relate a lot to Amy when she's like, I love picking my scabs.
+29281460	29284460	I'm like, oh my god, me too.
+29284460	29288460	And so I went for that because my parents thought it was a form of self harm.
+29288460	29292460	It is not, it is literally just almost like an OCD thing.
+29293460	29304460	Thank you for the tip. Yeah, I'll fix your whole entire life.
+29304460	29310460	And it took a lot. I remember my first therapist, I didn't say anything to her at all.
+29310460	29314460	I was like, fuck you, you fucking bitch. I was like 14.
+29314460	29317460	I'm like, don't talk to me. You don't know anything about me.
+29317460	29322460	Again, I had lots of bad social anxiety as well.
+29335460	29338460	I'm stuck. I'm gonna die.
+29347460	29365460	I should have healed and it takes a lot of trust.
+29365460	29367460	It takes a lot of repetition.
+29367460	29374460	It takes, you also have to be in the right mindset to do therapy because you're not.
+29374460	29380460	The thing looks so fucking funny. It's a little worm.
+29380460	29384460	It's if you're resistant, it's not going to work out for you.
+29384460	29387460	Just like, you know, hypnosis or whatever.
+29387460	29390460	And also the therapist has to be good.
+29390460	29396460	Like if you go to a therapist and they're like, and how does that make you feel like all fucking stereotypically, don't talk to them.
+29396460	29398460	They're fucking stupid.
+29398460	29403460	You want somebody who's going to make you think and going to challenge you and your thought processes.
+29403460	29406460	And I give a shout out to my therapist for that.
+29406460	29412460	She fucking bought my merch, I believe, which is hilarious because she was so proud of me because I was telling her.
+29412460	29417460	She's, again, known me for years, told her how much I wanted to be a VTuber.
+29417460	29420460	And then it happened and she was so proud.
+29420460	29424460	She got a little key chain.
+29424460	29431460	And if I'm feeling a certain type of way, if I'm like, oh, I interacted with this person
+29431460	29436460	and it was not a good interaction, she's just like, why was it a bad interaction?
+29436460	29439460	Why, why did you react?
+29439460	29442460	Why do you think you reacted the way you did?
+29442460	29449460	What may have caused you like it's just more deeper questions and like, how did that make you feel?
+29449460	29458460	Because and then I also like people be like, oh, if you go to a therapist, you know, eventually have to stop because then it's then they're just taking advantage of you.
+29458460	29461460	It's not working anymore.
+29461460	29462460	Again, it's personal preference.
+29462460	29464460	You don't have to see one.
+29464460	29471460	If you don't think talking will help you that it probably won't because talk therapy is a form of therapy.
+29471460	29480460	It's like there's so many other forms of therapy out there besides just talk therapy.
+29480460	29481460	It's helpful.
+29481460	29485460	It's helpful to kind of figure out who you are.
+29485460	29487460	Again, from an unbiased perspective.
+29487460	29495460	Then again, there are some very toxic therapists out there who have maybe gotten into it for your own gain.
+29495460	29499460	That's why it's important to shop around.
+29499460	29509460	I would say for for one because the first one I remember I went to she was just absolutely fucking off.
+29509460	29516460	It was monotonous that type of like, how does that make you feel?
+29516460	29520460	And she didn't take me seriously.
+29520460	29522460	And I told my parents like, I don't think I don't like this lady.
+29522460	29524460	And then I went to another one.
+29524460	29530460	And then she kind of just felt like I felt sorry, smack my microphone accident.
+29530460	29535460	I felt like she was being really condescending.
+29535460	29540460	And again, I'm like 14 and I am aware that someone's patronizing me.
+29540460	29543460	You know, it's bad because usually when you're a kid, you're like, oh, they're supposed to be talking to me like this.
+29543460	29546460	But no, it was just like, I didn't feel good.
+29546460	29557460	And I felt like I wasn't getting anywhere because like I was still I was still picking my skin pretty bad.
+29557460	29560460	My mom was actually like, I had a dermatologist.
+29560460	29562460	No, no, I had a fucking esthetician.
+29562460	29567460	It's someone who like does like your skincare and stuff like this when you go to a spa.
+29567460	29569460	Oh, that's like the simplest way I can put it.
+29569460	29571460	Hi, Rena.
+29571460	29582460	And my esthetician was giving me more information about mental stuff and dermatolomania than my own that my own therapist was, which was so funny to me.
+29582460	29584460	She's like, oh, I've seen this before.
+29584460	29586460	It's very common in women.
+29586460	29587460	I'm like, what?
+29587460	29588460	She's like, yeah.
+29588460	29594460	You know, the best thing to do is to work on your skincare rather than and then the mental health second.
+29594460	29604460	Because if you can prevent the stuff from popping up and protect your skin from like accidentally getting hurt or vice versa, then you can almost fight the urge or you can wear gloves.
+29604460	29608460	And I was like, this lady was pouring so so much fucking information on me.
+29608460	29611460	And I was like, damn, whereas my therapist was just absolutely useless.
+29611460	29613460	And now I have a new one.
+29614460	29615460	Rena, what are you doing?
+29615460	29618460	She's like, she's sitting on me funny.
+29618460	29619460	Hi, Rena.
+29622460	29624460	But yeah, do you want to ask for you?
+29624460	29626460	You don't have to do it, obviously.
+29626460	29632460	I went to a therapist and I kept asking questions about my daily schedule instead of the issues I faced in my life and kids for three sessions.
+29632460	29634460	And I felt like that wasn't the best way to therapy.
+29634460	29636460	And then you had to tell him that.
+29636460	29638460	You got to tell him that.
+29639460	29642460	It's literally you have to be honest.
+29642460	29645460	It's hard, but you have to be if you're going to get anywhere.
+29647460	29652460	Parsing your emotions into comprehensible words or thoughts seems to be quite a large part of their.
+29652460	29653460	Yes, exactly.
+29653460	29655460	Because like, I remember.
+29659460	29662460	So like, I've told you guys, I have a lot of religious trauma.
+29662460	29665460	Ever been a really religious household.
+29666460	29675460	And I was, as you guys know, I'm kind of drawn to more esoteric things because they just feel better for me.
+29675460	29680460	And I kind of delved into that with my therapist.
+29680460	29686460	And she's like, I think you're doing this and you're doing this sort of stuff because you weren't allowed to before.
+29686460	29689460	And you're feeling rebellious because you weren't allowed to rebel when you're younger.
+29689460	29691460	And I'm like, holy shit, you're right.
+29691460	29694460	That's the only reason I was drawn to it.
+29694460	29696460	It's because it was forbidden.
+29696460	29703460	Sort of like esoteric, pagan, sort of like tarot card read in shit.
+29703460	29706460	Because it's like, you know, growing up like it's demonic.
+29706460	29709460	And I'm like, it was an active rebellion of me participating in it.
+29709460	29712460	And that's why that's that's literally why I do it.
+29712460	29713460	100%.
+29713460	29723460	And it took therapy for me to realize that instead of just me being like, yes, rocks, crystals, frequencies.
+29725460	29727460	Yeah, psychologist is not a doctor.
+29727460	29733460	There's also a difference between a psychologist, a therapist, and a psychiatrist.
+29733460	29736460	They are different things.
+29736460	29738460	How does this do an eczema?
+29738460	29739460	Some days it gets super bad.
+29739460	29741460	Taking skin, lots of cocoa butter lotion.
+29741460	29743460	Yeah, exactly.
+29743460	29749460	And then, yeah, with my dermatolomaniac, I had even like a sort of body dysmorphia.
+29749460	29752460	Because I always felt like something was wrong.
+29752460	29755460	If something was on my skin, it was very weird.
+29758460	29761460	It's like those chiropractor videos where the girl starts crying from the stress release
+29761460	29764460	and the doctor stops her from apologizing and crying and reassures her.
+29764460	29765460	Yeah.
+29765460	29769460	Like, there are things you kind of like talk about and you're like, holy shit, wait.
+29769460	29771460	That makes so much sense.
+29771460	29773460	It just took to talking to somebody else.
+29773460	29777460	The reason why I go to a therapist and the reason why I don't talk to like friends about stuff.
+29777460	29778460	Well, I do.
+29778460	29779460	I do.
+29779460	29782460	One of the reasons is because everybody has something going on.
+29782460	29785460	You know, everybody has something going on.
+29785460	29791460	You don't want to kind of dump stuff on people if you don't know.
+29791460	29795460	And so I pick and choose my moments where I share things with friends and where, you know,
+29795460	29799460	I just go to a licensed professional who's paid to listen to me, you know, trauma dump,
+29799460	29806460	you know, because like I've been the person and I never minded this that at my last job,
+29806460	29807460	everybody went to you.
+29807460	29811460	Again, I was seen as the big sister.
+29811460	29825460	I was seen as the person that everybody wanted me to help fix their issues or like give them advice.
+29825460	29826460	Oh, God.
+29826460	29828460	Oh, God.
+29828460	29830460	Oh, hey.
+29830460	29832460	Let me just a little slappy slap.
+29832460	29834460	Damn it.
+29834460	29838460	Ow.
+29838460	29845460	Raina, you're on my arm and I can't really play.
+29845460	29848460	And even customers again would tell me really deep things.
+29848460	29851460	Like again, I've had customers telling me like, oh, my husband passed away recently.
+29851460	29852460	I'm buying this.
+29852460	29854460	Remember this of him.
+29854460	29857460	I'm getting this fixed because this and this happened.
+29857460	29858460	I lost a kid.
+29858460	29861460	This happened.
+29861460	29863460	My child doesn't speak to me anymore.
+29863460	29865460	This isn't that.
+29865460	29869460	Or just like my co-workers personal lives.
+29869460	29876460	And it was a lot, but I can compartmentalize that stuff.
+29876460	29879460	But at some point, you know, it does become mentally exhausting.
+29879460	29885460	And that's why it's important not to tax your friends with that stuff.
+29885460	29888460	And it's also important when your friend is venting to you.
+29888460	29896460	And I learned this from one of my co-workers who is talking to me about his wife.
+29896460	29899460	He was just like, I love my wife so much.
+29899460	29901460	She's the great, we have amazing communication and blah, blah, blah.
+29901460	29905460	I don't know why I pressed that.
+29905460	29917460	But he said, always ask when someone is asking you for help or venting to you if they want a solution.
+29918460	29923460	Or if they want just to vent.
+29923460	29930460	Because sometimes people say things to you.
+29930460	29932460	Come back here.
+29932460	29935460	Damn it.
+29935460	29942460	Open up.
+29942460	29945460	Really, he backs up sometimes.
+29945460	29955460	Where am I?
+29955460	29960460	Because you don't want to start, somebody's venting to you and then you just start telling them what they should be doing.
+29960460	29965460	It's not going to do anything for them.
+29965460	29970460	Damn, I was close for that one.
+29970460	29972460	It's really not.
+29972460	29977460	They're not going to listen to you because they just think you're just wordbombing on them.
+29977460	29984460	Shibi, how do I recover from the trauma of recommending someone a show and they don't watch it until someone else recommends it to them?
+29984460	29988460	If that's true, I'll be real with you.
+29988460	29998460	They probably don't value your opinion as much as they should.
+29998460	30008460	Or they want multiple people to reassure them that's the right decision and that's on them, that's not on you.
+30008460	30012460	A show, by the way, now I want to know.
+30012460	30020460	With that, would you add to have understanding of a person who tells you they can't help you with right now because they have stuff going on and you have to respect that as a person?
+30020460	30022460	Exactly.
+30022460	30027460	Sometimes I would have one of my friends come up to me and be like, hey, can I talk to you about something?
+30027460	30030460	And I'm like, I'm sorry, I generally just don't have the mental capacity for that right now.
+30030460	30031460	And they're like, okay, I understand.
+30031460	30033460	I'm like, don't take it, please don't take it personally.
+30033460	30034460	I have my own stuff going on.
+30034460	30037460	Please tell me in like a day.
+30037460	30038460	And then I got you.
+30038460	30046460	Oh, fuck.
+30046460	30051460	Okay, Rena, you're on my arm and I can't move that well.
+30052460	30053460	I'll take the first answer.
+30053460	30057460	Thank you.
+30057460	30058460	Yeah.
+30058460	30059460	Do you want someone to talk to you?
+30059460	30060460	Someone to vent to?
+30060460	30065460	Yeah.
+30065460	30070460	I think the second venting versus finding solutions is something that drives my mom up the wall when I try to help.
+30070460	30074460	Yeah.
+30074460	30080460	Like, and I, and I had to tell my parents that too.
+30080460	30088460	Because again, like, you're still your parents, you're still like their kid and whatever.
+30088460	30093460	And I remember I would talk to my mom and my mom would just try to give me advice.
+30093460	30096460	And I'm like, that's not, I just want to talk to you right now.
+30096460	30099460	You know, I don't want, I'm not looking for advice.
+30099460	30100460	I know what I'm supposed to be doing.
+30100460	30103460	I just need to talk about it.
+30103460	30115460	And then when I trust that to her, she then she started to really, really listen to me a lot more and then our relationship got better.
+30115460	30124460	Jesus, I can't dodge right now.
+30124460	30127460	Oh, God.
+30127460	30129460	I'm already almost dead.
+30129460	30130460	I hate them so much.
+30130460	30132460	I don't have to beat them off stream.
+30132460	30138460	100% boundaries are very important.
+30138460	30143460	It's a very important, but it's also like, nobody's going to know what you're thinking unless you say it.
+30143460	30151460	You know, if you, if somebody slights you and you feel fronted and you start like, don't be passive aggressive.
+30151460	30154460	That's not the, you're an adult.
+30154460	30155460	You talk to them.
+30155460	30159460	You say, Hey, I have an issue with how you approach this.
+30159460	30162460	That's the type of person that I am.
+30162460	30172460	If I never got into fights with anybody, one, because I was tall and people were intimidated by my height.
+30172460	30180460	And two, because the moment I heard that something was wrong, that somebody was just like, Oh, so and so is talking shit about you.
+30180460	30182460	This is like high school, by the way.
+30182460	30184460	I immediately go to the person to be like, Hey, what's up?
+30184460	30186460	Snip this in the butt.
+30186460	30188460	What's going on?
+30188460	30189460	So I don't fuck with that.
+30189460	30192460	I don't fuck with that.
+30192460	30197460	I don't need the extra silliness, you know.
+30197460	30198460	Nobody does.
+30198460	30206460	Nobody needs extra silliness.
+30206460	30207460	Die.
+30207460	30208460	Die.
+30208460	30209460	Die.
+30209460	30210460	Oh.
+30210460	30212460	I got grabbed by the other one.
+30212460	30220460	Are you serious, bro?
+30220460	30226460	Oh my God.
+30226460	30229460	This isn't fair.
+30229460	30230460	They lining up on you.
+30230460	30237460	I'm getting a train in on me by these abducer, abductor virgins.
+30237460	30239460	But yeah.
+30239460	30242460	Chiwi's in a yapping mood, not a slapping mood.
+30242460	30243460	And boss is on the worst.
+30243460	30244460	They really are, though.
+30244460	30245460	Hello.
+30245460	30246460	Hello.
+30246460	30247460	Welcome in.
+30247460	30249460	No one has the same sphere of knowledge.
+30249460	30251460	Most problems stem from assumption.
+30251460	30252460	Exactly.
+30252460	30261460	And this is what, and this is kind of what bothers me about being the VTB community, because again, everything's online.
+30261460	30265460	People usually talk over DMs.
+30265460	30266460	And this hasn't happened to me or anything, by the way.
+30266460	30271460	It's just something I've observed.
+30271460	30284460	I see that so there's so many miscommunications, so much drama that comes off of things that could be easily spoken over to in a call.
+30284460	30293460	And also people just taking something too far just for the sake of it, because they get some sort of adrenaline after participating in drama, you know.
+30293460	30300460	And people also just like, they've been like assumptions a lot in VTB.
+30300460	30308460	That's kind of to be expected, though, because you kind of, how could you not assume things, you know?
+30308460	30311460	Oh, please.
+30311460	30313460	I need to get them away from each other.
+30313460	30316460	That's what I need to do.
+30316460	30320460	Get a trainer and on you by virgins in the wild.
+30320460	30323460	It has to be relic of football.
+30323460	30330460	One thing that drives me nuts is when everyone has a problem that needs fixing and talk around in circles and wants to do instead of humming about it.
+30330460	30331460	Very true.
+30331460	30336460	Again, actions speak louder than words.
+30336460	30338460	You just want to do something.
+30338460	30339460	If you see something's wrong, just do it.
+30339460	30341460	Just like, just act on it.
+30341460	30343460	If necessary, you know, ask for permission.
+30343460	30347460	If you need to be like, hey, when you have this conversation, I would like to have this conversation with you.
+30347460	30350460	Are you able to have it right now?
+30350460	30357460	And also know that everybody has different ways of receiving feedback.
+30357460	30361460	Some people want it told to them straight.
+30361460	30364460	And some people need, they can't handle that.
+30364460	30368460	Like, I'm the type of person.
+30368460	30371460	And me and my dad the exact same way.
+30371460	30376460	Like, and my mom knew how to handle me better because how much I'm similar to my dad.
+30376460	30379460	But like, so my mom is the type of person.
+30379460	30386460	So if you get into, if you get into like a little scuffle, a little kerfuffle with her, she needs to talk about it immediately.
+30386460	30393460	Which is what I've learned to do is actually, as I've had it, I've hit a balance with the saving it for later and talking about it immediately.
+30393460	30400460	But my dad's the type of person where he needs to kind of think about stuff and come back to it.
+30400460	30410460	Everybody talks and communicates differently and you, there's nothing wrong with asking a person how they communicate, you know?
+30410460	30417460	If someone's just like, I would like to be very blunt with me, then be blunt with them.
+30417460	30423460	If someone's like, I can't handle that and I need to think about stuff for a little bit, then respect them.
+30423460	30425460	Respect their respect that.
+30425460	30429460	Because eventually you'll get to the solution you need to.
+30429460	30433460	Oh, fuck. I thought I was going to dodge in time.
+30433460	30436460	Look at them hold. They're waiting for me.
+30436460	30438460	Irina.
+30442460	30448460	Perfect example. The roof is leaking. We need to fix. We have no money, so I propose you put a tarp outside the roof.
+30448460	30455460	No, it's, no, it's too much money. Okay, a few months later, the roof is sacking from water damage.
+30455460	30457460	Yup.
+30457460	30463460	It's also like, it's a slippery slope because everybody has a different opinion. Everybody has a different solution on how they want to do things.
+30463460	30476460	And it's kind of up to the group, excuse me, how they, how they want to have a compromise to fix it, you know?
+30476460	30480460	Again, that's all it comes down to communication, communication, communication, communication.
+30480460	30496460	This goes for normal relationships too. They'll be your parents, your friends, your spouse, your boyfriends, girlfriends, situationships.
+30496460	30501460	I've learned a lot from my therapist in general because I'll ask her questions. He's very open.
+30501460	30510460	And I'll be like, how would you approach someone like this? Because I'll, you know, I'll vent to people venting to me to be like, hey, this person told me this, what the fuck do I do about it?
+30510460	30521460	Like one of my coworkers is being harassed by someone and I'm like, how the fuck do I approach this? And then she's like, well, go to HR and I'm like, well, yeah, but like, what else?
+30521460	30531460	I wish I could parry that somehow.
+30531460	30544460	Okay, I don't think I'm getting a lot of volcano mirror anytime soon. I don't think I might just get those dectas medallions.
+30544460	30566460	You die the behind your time when the name seems to abduct your chats. And every problem needs an immediate resolution, but it does need a solution. Yes, a very good friend taught me that.
+30566460	30571460	Oh, man, I'm crying. I'm fucking crying. I hate this muppet. Oh, why are you crying? Oh, don't cry.
+30571460	30573460	You don't cry.
+30573460	30582460	Person who over things in a combo. So I'm not sure how best to communicate. Just say that. Just say that. Just tell people, hey, I tend to overthink a lot.
+30582460	30599460	I need you to reassure me or I need you to be very explicit with me what you're trying to say. Like I need you to really be blunt in order for me to understand because I'm going to overthink it.
+30599460	30605460	Because I know I do that sometimes. Again, I'm not a perfect person. I'm not a perfect muppet.
+30605460	30618460	Somebody tells me something and my mind's going a thousand miles per hour. It was a porn hour. Why do people fight over here, by the way? I'm kind of confused by that. What's over here?
+30626460	30628460	Why are so many people dying over here?
+30636460	30640460	I'm a little confused.
+30640460	30644460	Maybe invasions. Oh, that makes sense.
+30644460	30650460	I spammed buttons to break out. It's not working.
+30650460	30656460	I know they're weak to electric. I don't have anything electric for them.
+30657460	30666460	I could try to craft some electric shit.
+30666460	30676460	My health is too low. What are you talking about? Who are you? Get out of here. Nobody asked you to speak.
+30676460	30685460	Cookbook search? Yeah, I'm thinking I might need to get a lightning cookbook out of the fuck it's called.
+30685460	30687460	Wait.
+30687460	30694460	Can I knock it out of here? Okay, I can. Thank God.
+30694460	30701460	I'm wondering if there probably isn't another way for me to get out.
+30701460	30705460	What was I going to do?
+30705460	30708460	I'm going to get out of here.
+30708460	30720460	What was I going to do?
+30720460	30730460	Gally haven't been to the plateau yet? No, because I'm going to fucking these motherfuckers for an hour or two.
+30730460	30735460	I just beat Rinala.
+30735460	30740460	I need to get to the fucking plateau so I can get to Radon.
+30740460	30748460	But these bitches are in the way.
+30748460	30757460	If they hardlocked me in there, I would brute force it off stream. Don't even worry about it. Just like I did with the worm.
+30757460	30762460	But yeah, I hope you guys kind of get what I'm saying.
+30762460	30767460	I like being real with you guys sometimes.
+30767460	30772460	Where is the nearest lightning fucking cookbook?
+30772460	30778460	I often catch astrophys when I text people and they don't respond quickly and chatting in the stream has actually been helping me get over that a bit.
+30778460	30785460	That's good. That's good. I get that. Sometimes if people don't respond right away, I'm like they hate me.
+30786460	30794460	I said something to her the other day and she just totally ignored it.
+30794460	30796460	She hates me.
+30796460	30800460	And then literally like five minutes later, she's like, I'm so sorry I didn't see this.
+30800460	30806460	I'm so sorry. She's profusely apologizing.
+30806460	30813460	And then sometimes our minds tend to stretch things.
+30813460	30816460	You too, Shibi.
+30820460	30825460	You also have to think about people have other lives. They have stuff to do. They got stuff going on.
+30825460	30829460	And sometimes I'll be honest with you. Sometimes I don't feel like responding to people.
+30829460	30835460	Sometimes I'm just peopled out and I just don't feel like talking.
+30836460	30846460	Sometimes people will text me and I will leave them unread because I'm just not mentally equipped to talk to somebody right now.
+30849460	30851460	What? Mesh bat and blast.
+30851460	30855460	Get me out. Get me out. Get me out. Get me out. I'm dead.
+30855460	30857460	As it doesn't work.
+30860460	30863460	And again, are you like two different time zooms? Exactly. That's not a factor.
+30864460	30866460	There's so many different factors.
+30866460	30869460	Remember how Mercy explained she didn't think she got in.
+30869460	30872460	So she messaged Stroni and she was like, oh, you're actually in.
+30872460	30874460	Should you be like that?
+30877460	30880460	And then it's also to talk to personalities.
+30880460	30882460	Stroni's a little forgetful.
+30882460	30885460	And again, also different time zones.
+30885460	30888460	I'm tired of tired of doing this.
+30894460	30898460	I've tried to stream until Mercy comes on.
+30898460	30900460	It's not going to read into her.
+30900460	30902460	I don't remember what she's doing today.
+30902460	30905460	I haven't looked at the schedule. I need to work on my schedule for next week.
+30905460	30907460	Happy 4th of July!
+30909460	30913460	The book is in the Wyndham.
+30913460	30914460	Wyndham.
+30914460	30916460	Catacombs.
+30917460	30919460	Is there still streaming?
+30919460	30921460	Yeah, I wanted to.
+30921460	30922460	I didn't even know.
+30922460	30924460	I haven't looked at any of the schedules today.
+30924460	30926460	I didn't see know who was streaming.
+30926460	30928460	Streaming Super Mario RPG.
+30928460	30931460	Send a message to my friend who's on vacation on WhatsApp today.
+30931460	30933460	And he didn't answer it.
+30933460	30935460	And I remembered he just doesn't have WhatsApp anymore.
+30935460	30936460	That too.
+30936460	30937460	It's just like...
+30937460	30939460	Or people have really bad reception.
+30940460	30942460	You know?
+30948460	30950460	Fuck you.
+30951460	30953460	Fuck you.
+30957460	30958460	I don't like you.
+30958460	30960460	Why does there have to be two of you?
+30966460	30967460	Maybe another play.
+30967460	30969460	I'm not doing that.
+30972460	30974460	Yeah, we're streaming up next to mine.
+30974460	30976460	Thank you for your support, everybody.
+30976460	30978460	I really appreciate that.
+30979460	30981460	Um...
+30983460	30984460	Yeah.
+30985460	30987460	A lot of things could be solved.
+30989460	30992460	If people just communicated or weren't scared to.
+30993460	30995460	Then people have reasons to be scared to.
+30995460	30997460	Which you know, you can't blame them for it all.
+30998460	31001460	You want to just gap for the rest of the stream and you beat them off stream?
+31001460	31002460	I might do that.
+31002460	31007460	I'm gonna keep talking and fight them half-handedly.
+31007460	31009460	Half-heartedly, but yeah.
+31013460	31015460	What if I do?
+31021460	31024460	Maybe the wolfies will distract them.
+31026460	31028460	Because they'll be bouncing around.
+31037460	31038460	Yeah.
+31052460	31054460	Trying to grab the dogs.
+31063460	31065460	Dogs are actually helping.
+31068460	31069460	Oh.
+31074460	31075460	I'm dead.
+31075460	31076460	Oh, not dead.
+31084460	31085460	I'm almost dead.
+31086460	31087460	No!
+31092460	31093460	No!
+31093460	31094460	Oh, he grabbed me.
+31098460	31100460	I don't know if there's a stat spread.
+31100460	31102460	Um, I'll show you in a second.
+31105460	31108460	Do you not zoom in on the fucking virgin crotch?
+31108460	31109460	It's kind of weird.
+31111460	31113460	Am I scared to communicate?
+31113460	31114460	You just suck at it.
+31114460	31115460	But why?
+31115460	31116460	Why do you think you suck at it?
+31116460	31118460	Why do you think you suck at communicating?
+31121460	31122460	You know?
+31123460	31125460	Do you think, do you like stutter?
+31125460	31127460	Do you think you can't form your words properly?
+31127460	31129460	Okay, what can you do to fix that?
+31129460	31130460	You know?
+31133460	31135460	I practice a lot of shit in the mirror.
+31135460	31138460	Honestly, streaming helps a lot with me talking.
+31142460	31144460	Then again, I worked in customer service,
+31144460	31145460	but I had to address a lot of people,
+31145460	31147460	so that was also a big help.
+31147460	31149460	Otherwise, I couldn't talk at all.
+31149460	31151460	I was almost like a fucking slut.
+31151460	31154460	I was select to mute for a little bit when I was younger.
+31156460	31160460	Going back to the thing about your esthetician,
+31160460	31161460	knowing more about your therapist,
+31161460	31163460	I teach my doctor about HRT
+31163460	31166460	and provide him with my own research in order to get HRT.
+31166460	31168460	That's when you go to a different doctor, though.
+31168460	31171460	You want to go to a doctor that specializes in what you know.
+31171460	31174460	You have to, you cannot just stay with a doctor
+31174460	31176460	because it's familiar, you know?
+31179460	31182460	I had to go to many different doctors
+31182460	31186460	in order to figure out my fibromyalgia diagnosis,
+31186460	31188460	and I'm still fighting for that.
+31190460	31193460	It's officially recognized by state shit,
+31193460	31197460	just like how Nikki Ray from Idol is dealing with it.
+31197460	31200460	She just finally got approved for disability and stuff,
+31200460	31202460	and I'm like, fuck props to her.
+31202460	31205460	I want to do a fundraising thing with her at some point for fibro.
+31205460	31206460	That would be amazing.
+31206460	31208460	I'm definitely going to reach out to her about that.
+31208460	31210460	She said it'd be cool.
+31211460	31213460	I saw your communication.
+31213460	31215460	I keep going.
+31215460	31220460	Sometimes I just have trouble turning thoughts into words.
+31222460	31225460	Then, you know, I think to fix that,
+31225460	31229460	well, not to fix it, but like to practice to improve.
+31229460	31231460	Just say what's on your mind,
+31231460	31233460	not to anyone in particular.
+31233460	31235460	Just like talk to yourself.
+31237460	31239460	I talk to myself a lot.
+31240460	31242460	It would have been a year-long wait to see a specialist
+31242460	31244460	going to wait that long.
+31244460	31248460	But don't you want to wait for the best type of care
+31248460	31250460	that you want to get?
+31250460	31252460	I understand.
+31252460	31255460	Obviously, I don't know your circumstance.
+31255460	31260460	You 100% can't wait.
+31260460	31264460	And clearly, if your doctor is willing to learn
+31264460	31267460	and willing to be more open-minded about that sort of thing,
+31267460	31269460	then, of course, try to push the subject,
+31269460	31271460	and you did, and it worked out.
+31271460	31273460	Sometimes it's not a luxury.
+31273460	31275460	So I'm like, hey, it doesn't work out.
+31275460	31276460	Fuck them.
+31276460	31278460	Fuck them and run.
+31278460	31280460	Now, I'm almost dead.
+31282460	31287460	Can you like just give me just a second?
+31289460	31291460	Okay, who is going to be distracted?
+31291460	31293460	You are.
+31294460	31299460	I'm dead.
+31309460	31312460	I sadly damage my voice from being in a high school metal band.
+31312460	31313460	I can't raise my voice.
+31313460	31314460	It's got more painful as I got older,
+31314460	31316460	and it's infuriating when people tell me to raise my voice.
+31316460	31317460	I'm like, that sucks.
+31317460	31319460	I'm so sorry about that.
+31320460	31323460	I know, like, I would love to learn how to scream,
+31323460	31326460	but, again, it does strain your voice,
+31326460	31329460	and you have to really learn how to do it properly.
+31332460	31335460	And that's like, you know, speech therapy.
+31335460	31339460	It's hard when you damage your voice like that.
+31341460	31344460	And, again, you don't want to have to keep explaining to people
+31344460	31348460	the reason why you can't, you know.
+31350460	31351460	That sucks.
+31351460	31353460	I'm really sorry about that.
+31353460	31355460	I had to go through so many doctors and specialists
+31355460	31357460	for my health issues, even with good insurance.
+31357460	31359460	So many doctors wanted to avoid any actual tests
+31359460	31361460	to help figure out what the issue was.
+31361460	31363460	I feel that's so hard.
+31363460	31364460	I feel that's so hard.
+31364460	31368460	You do not know how much money I am medically in debt
+31368460	31371460	because I'm seeing specialists after specialists,
+31371460	31373460	not even just for fibro,
+31373460	31377460	but for, like, skin stuff, mental health stuff,
+31377460	31380460	physical stuff, physical therapy.
+31383460	31384460	So much shit.
+31386460	31387460	So much stupid shit.
+31387460	31389460	Oh, God, I should have done this earlier.
+31392460	31393460	All right.
+31393460	31394460	Now I'm down the road.
+31395460	31396460	Hey, man.
+31396460	31398460	I'm gonna kill you.
+31402460	31404460	I hope you keep a good eye on me.
+31405460	31406460	Yeah.
+31414460	31417460	When I was younger, I always felt like I had a mask,
+31417460	31418460	never saying what I was thinking,
+31418460	31420460	but after shedding a few years ago,
+31420460	31423460	communication is so much easier and we weren't fulfilling.
+31423460	31426460	I am actually still struggling with that to this day.
+31426460	31428460	I 100% mask.
+31428460	31431460	I didn't know how much I masked
+31431460	31436460	because growing up, again, very religious,
+31436460	31439460	there was different expectations on behavior.
+31439460	31446460	And so I would change my behavior so I could fit in so much.
+31446460	31452460	And only, like, in the past few years, have I really realized
+31455460	31457460	how much I hide, how I am.
+31457460	31460460	And even, like, something that stuck out to me,
+31460460	31462460	when I was starting VTubing,
+31462460	31464460	is someone said to me,
+31464460	31467460	I can tell she's not being herself.
+31467460	31470460	I can tell she's hiding herself.
+31470460	31474460	And then my goal was to, if anything,
+31474460	31476460	I should be my true self on the internet.
+31476460	31478460	Nobody knows what the fuck I am, you know?
+31478460	31480460	So much anonymity.
+31480460	31483460	I shouldn't have to worry about that shit, you know?
+31483460	31485460	You know?
+31489460	31491460	Alrighty.
+31491460	31494460	Grab my party divide.
+31494460	31499460	But yeah, and then that's why I'm working,
+31499460	31502460	because I realize, like, I stim, I repeat stuff,
+31502460	31505460	I have echolalia, I have a bunch of other shit.
+31505460	31507460	Again, I'm no professional.
+31507460	31510460	I'm not a huge fan of how some people self-diagnose,
+31510460	31513460	you know, sometimes the first step in getting to an actual diagnosis
+31513460	31516460	is a self-diagnosis within reason, of course.
+31516460	31520460	The people who go on and say that they have fucking alters and DID
+31520460	31525460	piss me the fuck off, because it takes away
+31525460	31527460	from the people who actually have the issue
+31527460	31529460	and makes them seem less serious.
+31529460	31532460	That is one of my least favorite things.
+31532460	31536460	I think they have some, it's a pet peeve of mine.
+31537460	31541460	As someone I have worked in human services,
+31541460	31545460	I took care of adults with mental and physical disabilities
+31545460	31549460	and behavioral issues, and people pretending to go
+31549460	31553460	what people go through as a little quirk pisses me the fuck off,
+31553460	31555460	because they have no fucking idea.
+31555460	31558460	They have no idea what the fuck I work with.
+31559460	31566460	One of my people I took care of had schizophrenia.
+31566460	31569460	She was one of the sweetest people in the world.
+31569460	31572460	She passed away recently, it was really sad.
+31572460	31577460	I still have a playlist I made around my phone.
+31577460	31582460	It's time to get a little emotional and think about her.
+31582460	31587460	And then people just pretending to be quirky
+31587460	31589460	with schizophrenia and stuff.
+31589460	31591460	They're like, oh yeah, I talk to people.
+31591460	31592460	There's people there.
+31592460	31594460	I'm like, are you fucking stupid?
+31594460	31598460	You have no idea what people struggle with.
+31600460	31603460	I feel like I'm a lot like myself now.
+31605460	31609460	My alter is minor in internet celebrity, oh brother.
+31610460	31613460	It's like, no, you're just weird and you have a tulpa.
+31617460	31618460	It's that kind of stuff.
+31618460	31620460	That's why I'm very wary.
+31620460	31625460	People be like, oh, my chat will joke when I was written up
+31625460	31631460	that I was autistic and that I have ADHD.
+31631460	31634460	And I'm like, no, I don't.
+31634460	31638460	And now I'm reconsidering.
+31638460	31639460	I don't have autism.
+31639460	31642460	I know I don't fucking have autism.
+31642460	31646460	But now I'm reconsidering if I have adult ADHD.
+31646460	31649460	And I'm just like, huh, I do experience a lot of these symptoms.
+31649460	31652460	I thought they were OCD related, but they're not.
+31652460	31654460	Maybe I should look into that.
+31654460	31656460	There's nothing wrong with that.
+31656460	31660460	And I'll make jokes about it like, ah, sorry, it's my ADHD.
+31660460	31664460	But I also say I don't fucking have it officially diagnosed.
+31664460	31670460	But I also don't make it a part of my personality.
+31670460	31676460	And some people do that are self-diagnosed.
+31678460	31681460	I don't like when people make labels as part of their personality.
+31681460	31683460	You're so much more than that, you know?
+31683460	31685460	So much more than that.
+31685460	31699460	So many different other facets to your being besides your mental illnesses,
+31699460	31702460	what you identify as, who you love.
+31702460	31708460	Not that those things don't matter, because they do.
+31708460	31710460	They're also a big part of you.
+31711460	31713460	But yeah.
+31722460	31724460	I have a friend in BPD.
+31724460	31725460	She's such an amazing person.
+31725460	31726460	Yeah.
+31726460	31728460	People at BPD have a bad rap.
+31731460	31733460	I'll be honest with you.
+31733460	31738460	I had a former friend of mine that had BPD.
+31738460	31745460	And she blew her whole entire life up, which was sad to see.
+31745460	31755460	It was really tough watching her blow up her life like that just for attention.
+31755460	31757460	Because she wasn't getting the help that she needed.
+31757460	31758460	She wasn't seeing anybody.
+31758460	31761460	She wasn't seeing a specialist.
+31761460	31766460	That's the type of thing you need to see someone for.
+31766460	31767460	She didn't.
+31767460	31769460	And she, you know, ruined a lot of friendships.
+31769460	31774460	I had to disengage with her because I supported her on something.
+31774460	31778460	Then, you know, it was all just for attention and it really sucked.
+31778460	31782460	This was a deep issue.
+31782460	31786460	But they are amazing people when treated.
+31786460	31790460	When you're properly medicated, you're taking care of yourself.
+31790460	31794460	That's so important.
+31794460	31795460	I miss them truly.
+31795460	31803460	And people, but also there's another thing of people who use their mental illness as an excuse for bad behavior.
+31803460	31807460	I think I have like a, I took like a picture of a quote.
+31807460	31818460	I forget how it goes, but it was just like, just, yes, it can contribute to it, but you can't.
+31818460	31821460	Having a mental illness doesn't make you a shitty person.
+31821460	31826460	That's how you handle it or something like that.
+31826460	31831460	If I'm in here, pretend to have mental disabilities for pity points and Perky dealing with them gave me so much trust all the time.
+31831460	31833460	Yeah, definitely.
+31833460	31834460	True.
+31834460	31837460	I get the sense that folks who self-diagnose these conditions just seek their feeling of importance through it.
+31837460	31844460	It's also just like, it's a sense of belonging.
+31844460	31845460	Excuse me.
+31845460	31850460	It's a sense of belonging because you see it a lot on like social media.
+31850460	31853460	People want to be a part of something.
+31853460	31855460	Want to be proud of something.
+31855460	31856460	They want to feel included.
+31856460	31857460	They want to feel in a group.
+31857460	31860460	There's nothing wrong with that.
+31860460	31871460	But it might be the detriment of others that you proclaim that you're something that you're not just so you can feel like you need to fit into a more quirky label, which is unnecessary.
+31871460	31879460	You know, especially with kids, kids feel like the kids are so pressured to feel like they have to fit in.
+31879460	31900460	I know I like for one of my and also you just sometimes you do it just to be liked by like if you if you look up to someone or if you admire someone or you want to be friends with someone, you'll try to relate with them.
+31900460	31912460	And so sometimes you might kind of try to adopt their personality traits or things that they, you know, struggle with so you can have that common ground.
+31912460	31914460	I didn't find out I had ADHD until last year.
+31914460	31915460	I explained a lot.
+31915460	31917460	Yeah.
+31917460	31920460	MPPD can be life ruining if you don't properly get help.
+31920460	31921460	Truly sad.
+31921460	31922460	Very true.
+31922460	31925460	A lot of things can be a lot of things can be life ruining if not properly treated.
+31925460	31929460	That's why it's so important to be on top of your mental health.
+31929460	31935460	That's why, again, self-diagnosing is important in certain contexts.
+31935460	31939460	If you think you're a danger to yourself or others, seek help.
+31939460	31941460	100%.
+31942460	31949460	Self-destructive behavior is always so sad, especially when you know how somebody is when they're not manic.
+31949460	31956460	They're just kind of like balanced and they, you know, plateaued and normal, normal tempo or whatever.
+31956460	31961460	Only people realize that simply asking for attention is not a bad thing.
+31961460	31963460	That's true.
+31963460	31969460	It's like it sucks though because there's always people that will like respond negatively to anything that you say.
+31969460	31974460	Like I totally respect your opinion if you don't agree with me with anything I've just said for the past like two hours.
+31974460	31977460	That's totally fine.
+31977460	31985460	But then somebody might be like, hey, I would like some attention and someone would be like, oh, so you're just a fucking pick me or something.
+31985460	31987460	Like I'm just giving an example.
+31987460	31992460	So somebody that always like do that and that's where it gets tricky.
+31992460	31999460	There's, oh, there's sometimes people are negative to be negative.
+31999460	32004460	That's why trust and, you know, having your guard up is important some of the time.
+32004460	32013460	You want to be careful, protect your feelings first and foremost, you know.
+32013460	32016460	I just thought of the marina and the diamonds.
+32016460	32018460	Fucking lyric.
+32018460	32020460	Don't wear your heart on your sleeve.
+32020460	32022460	Wear it on your cheek.
+32022460	32024460	Look at the marina and the diamonds.
+32028460	32030460	These are scenes for that goth emo punk.
+32030460	32035460	Now it's I have DID, I have ADHD.
+32035460	32043460	I am this form of this identity.
+32043460	32049460	It's very interesting how people, that's such a, that actually just brought something to my attention.
+32049460	32058460	It used to be like clicks in terms of, yeah, goth emo punk, jock, popular, nerdy, artistic, like it was that.
+32058460	32060460	And now it's something else.
+32060460	32066460	It's become more innate personality traits that you don't outwardly show your, it's your inside now.
+32066460	32067460	That's so interesting to me.
+32067460	32071460	I just realized that.
+32071460	32074460	How, how now that's how groups are formed.
+32074460	32077460	Because nobody cares anymore.
+32077460	32085460	Like I'll see like, like my cousins, like my cousin, my little cousin, he plays soccer.
+32085460	32087460	But he's also a big nerd.
+32087460	32089460	He's also really good at academics.
+32089460	32093460	He's less Pokemon.
+32093460	32096460	Someone's car alarm is going off outside.
+32096460	32101460	But he'll still hang out with like other nerdy kids or like the super, like, he'll sing out with the artistic kids.
+32101460	32103460	Like that doesn't matter anymore.
+32103460	32105460	Which is kind of cool.
+32105460	32111460	Because now it's like, it's all chopped up to now you bond with people who have shared your same like headspace kind of thought process.
+32111460	32114460	There's nothing wrong with that.
+32114460	32118460	Everything can become a little easier when you stop and talk 100%.
+32118460	32120460	Golf is just not a scene.
+32120460	32123460	It's a lifestyle.
+32123460	32130460	I feel like people aren't self diagnosing as all these things though, just certain internet circles 100%.
+32130460	32141460	Yeah, it's not like, I don't see a people's life self diagnosing quirkly as BPD.
+32141460	32145460	It's really, it's like, what, what is the fad?
+32145460	32149460	And I would say, honestly, that's like, that's ADHD now.
+32149460	32153460	That's why I'm wary to say if I have that or not, because I don't want to seem like that.
+32153460	32159460	Because I don't know, I'm not officially diagnosed, you know, I'm not trying to do it to fit in with people.
+32159460	32166460	I figure like, get the right medication so I can get shit done.
+32166460	32180460	Because sometimes like for me, I only seek a diagnosis or I seek to understand a diagnosis or symptoms if I feel like it pertains to me.
+32180460	32186460	Like, I personally feel like right now my medication isn't working in terms of my attention span.
+32186460	32190460	I cannot focus sometimes, unless I'm really interested in something.
+32190460	32196460	That's why I can stream for long periods of time because it's B2B is my special interest.
+32196460	32199460	But if I have to do like housework, I'm procrastinating.
+32199460	32201460	I'm also, I can't sleep because my mind keeps going.
+32201460	32203460	It's going boom, boom, boom, boom.
+32203460	32206460	I can't even, I'll be doing certain things.
+32206460	32207460	Certain things bother me.
+32207460	32211460	I have some sensory issues and I feel like I've never really noticed that before.
+32211460	32218460	You know, my parents told me to get over it or that I'm being dramatic or something.
+32218460	32224460	And that's, and then I'm like, oh, you know, maybe I need to look at my medication.
+32224460	32225460	Maybe I need to look at my diagnosis.
+32225460	32232460	Maybe I just, you know, misdiagnosis exists, you know.
+32232460	32236460	Yeah.
+32236460	32237460	Following this Elden Rings theory session.
+32237460	32238460	Yeah, it's really interesting.
+32238460	32240460	I always like talking about this sort of stuff.
+32240460	32248460	I'm very, I love talking and thinking about how people work, how society works.
+32248460	32249460	I also like philosophy.
+32249460	32255460	So if you ever want to philosophize, is that a word?
+32255460	32262460	I am down for that.
+32262460	32263460	I'm never getting diagnosed.
+32263460	32266460	I got to keep everybody guessing.
+32266460	32267460	I think maybe that's how I want to be.
+32267460	32270460	Maybe I want, I think I might follow your example.
+32270460	32273460	Yeah, when you start to notice the thing when it's like, oh, I think I do have it.
+32273460	32275460	Yeah, like, it was so funny.
+32275460	32282460	You know that there's like that one, there is, so I was doing, when I was Rina, I think
+32282460	32285460	I was doing like a slime ASMR or something.
+32285460	32288460	I forget, like an actual slime ASMR.
+32288460	32296460	Everybody calm down and someone was just like, I am literally on the autism spectrum and
+32296460	32299460	I think you are higher up there than me or lower than me.
+32299460	32300460	And I'm like, what?
+32300460	32301460	You're kidding.
+32301460	32303460	And they're like, go ahead, take a test online.
+32303460	32306460	I'm like, what actual fucking test is there online?
+32306460	32311460	I don't believe any of that bullshit online test taking.
+32311460	32316460	There is a test they use as a guideline I discovered from this person that was in my chat.
+32316460	32320460	It's called the RADS or the RAS, I don't know, RADS test.
+32320460	32328460	I took it, I scored like 120, which is high indications of autism.
+32328460	32331460	Well, not high, more like medium indications.
+32331460	32332460	That kind of made me wonder.
+32332460	32338460	I'm just like, okay, should I be looking into this now?
+32338460	32344460	Because I'm realizing that I do do things a little bit weirdly, not weirdly.
+32344460	32349460	Actually, I'll take that back a little differently with other people.
+32350460	32351460	120 plus plus.
+32351460	32353460	I think it was out of 240.
+32353460	32355460	So I was like, I was in the middle of the road.
+32355460	32356460	It was bad.
+32356460	32357460	It was funny.
+32357460	32361460	I got my coworkers to do a network because I'm like, hey, let's try it.
+32361460	32367460	And then this one dude scored super high and he's like normally very quiet.
+32367460	32369460	And he really likes music.
+32369460	32373460	He doesn't really talk to a lot of people in my impulsive ass.
+32373460	32376460	He scored like, I think like 240.
+32376460	32382460	I just went, oh, that explains a lot in my, in my, in Salem cause she, cause I used to
+32382460	32383460	work with her.
+32383460	32384460	She's my one of my best friends.
+32384460	32389460	She's fucking like hit me in the arm so hard and gave me such a look.
+32389460	32390460	I'm like, I'm sorry.
+32390460	32393460	I didn't mean to say that out loud.
+32393460	32394460	Yeah, exactly.
+32394460	32396460	They share a lot of traits and symptoms.
+32396460	32398460	That's why I'm like, okay, maybe I should look at that.
+32398460	32400460	Maybe I should look at that.
+32400460	32404460	And then I'm even telling my dad to look at it.
+32404460	32406460	Cause again, me and my dad are like, I'm a clone of my father.
+32406460	32412460	I just have boobs and I'm not bald cause my dad is bald dude.
+32412460	32414460	And I'm like, dad, I think you should consider this too.
+32414460	32423460	Cause we both have like, I know my dad is learning a lot about his mental health through me cause we are so similar.
+32423460	32431460	In terms of like, he is realizing he also has really bad things with change and adjustment.
+32431460	32436460	And that we both like are very childlike sometimes like in goofy.
+32436460	32438460	My mom was like, my mom always complains.
+32438460	32443460	Sometimes she's just like, sometimes even your dad would argue like your brother and sister.
+32443460	32446460	Cause my dad would just be a goofy.
+32446460	32448460	And I love him for that.
+32448460	32450460	He's a great dad.
+32450460	32451460	I said was like he's dead.
+32451460	32453460	He is a great dad.
+32453460	32460460	My mom's awesome too for putting up with our bullshit.
+32460460	32464460	Um, yeah, diagnosed or not, people always compare me to forest comp.
+32464460	32466460	I didn't know what they meant until I watched it.
+32466460	32471460	Oh, but he's such a sweetheart though.
+32471460	32473460	Such a sweetheart.
+32473460	32474460	I'm so thankful.
+32474460	32477460	So like, again, I, like I mentioned, I worked in human services.
+32477460	32480460	Um, did that for six years.
+32480460	32487460	And I've also had been growing up around like the disabled population for a long time because my dad worked in the industry.
+32487460	32498460	And so like one of my best friends growing up was literally a woman who was at her time at the time was I believe in her late.
+32498460	32499460	No, not really.
+32499460	32500460	Yeah.
+32500460	32501460	Her late twenties.
+32501460	32505460	She had the mentality of like a 13 year old that we would hang out all the time.
+32505460	32507460	It was great.
+32507460	32509460	And it just normalized it for me.
+32509460	32513460	Like that, you know, people have different stuff going on.
+32513460	32516460	And like there are people like, again, I told you, like I worked with somebody that gets schizophrenia.
+32516460	32520460	She was there at the time too, because I worked at the same place my dad did.
+32520460	32528460	And there are folks who had like, you know, different behavioral issues, autism, Down syndrome.
+32528460	32531460	And so kind of just normalized it for me.
+32531460	32537460	And I was kind of just like under more understanding and I'm very thankful for that.
+32537460	32539460	Very thankful for that.
+32539460	32544460	Because I know some people don't know how to act around that population.
+32544460	32550460	You know, they're, you know, they're just like, you know, experiencing a little bit differently.
+32550460	32553460	Ow.
+32557460	32559460	You guys saw that.
+32559460	32563460	You guys saw I jumped out of the way and it still grabbed me anyways.
+32563460	32566460	That's so funny.
+32566460	32570460	How the fuck did that clip through them?
+32570460	32572460	These are unique in their own ways.
+32572460	32574460	Anyone to understand that? Exactly.
+32574460	32579460	That's why I'm a very kind of open-minded and accepting person.
+32579460	32581460	Yeah.
+32581460	32582460	They're cheating. They are cheating.
+32582460	32584460	I swear to God, they're cheating.
+32584460	32585460	They have hacks.
+32585460	32587460	They're clipping through shit.
+32587460	32592460	One of them is wall hacks.
+32593460	32596460	Oh, well, I'm just gonna die then.
+32596460	32598460	I'll kill you.
+32607460	32611460	Yes, after working with a lot of people with different mental disabilities and afflictions,
+32611460	32613460	I think it really makes you approach people and consider them differently.
+32613460	32616460	Of course, especially. Yeah.
+32619460	32620460	I loved working there.
+32620460	32622460	Again, it was very taxing.
+32622460	32627460	I mostly left because a lot of my folks, a lot of the folks I worked with,
+32627460	32631460	the clients I supported, they were older.
+32631460	32633460	They were institutionalized when they were younger.
+32633460	32640460	So they were, if you have any idea what institutions were like in like the 70s and 60s and 50s,
+32640460	32642460	they were a mess.
+32642460	32644460	Dude.
+32644460	32646460	And it's kind of helping them through what they went through.
+32646460	32648460	It's pretty hard.
+32648460	32653460	And then another thing was they were older.
+32653460	32654460	So they're passing away.
+32654460	32656460	So it was really hard because I had grown up with a lot of them.
+32656460	32658460	My dad would take me to work with them.
+32658460	32661460	I would like sit in color while he helped them out just like,
+32661460	32664460	because it was an art therapy place as well.
+32664460	32665460	That was art therapy.
+32665460	32668460	That's also where I love to draw.
+32668460	32670460	My dad used to trick and joke with me.
+32670460	32676460	He's just like, oh, you thought you were, you thought you were helping them out.
+32676460	32680460	The clients, you were one of them.
+32680460	32689460	I was like, my dad was like gaslighting me to think I was disabled for the longest fucking time.
+32689460	32691460	I was fucking.
+32691460	32693460	My mom was so mad.
+32693460	32700460	She's like, why are you talking to that?
+32700460	32713460	Yeah, no, I was, it was, it was tough seeing the people that I had grown up knowing pass away.
+32713460	32719460	But it was really also nice to kind of give back and take care of them.
+32719460	32723460	He literally shot her island me.
+32723460	32724460	Streaming is my therapy.
+32724460	32725460	It really is.
+32725460	32729460	Again, I guess just get to talk.
+32729460	32730460	Streaming is very good.
+32730460	32733460	Again, my therapist was on vacation.
+32733460	32738460	So it was tough not being able to talk to her when Fia has been, not Fia.
+32738460	32744460	Reina has been, I'm so used to Fia being sick that Reina is sick now.
+32744460	32753460	I'm so used to talking to her about like what's going on with like my cats and stuff kind of sucks when she was around.
+32753460	32755460	But you know, everybody needs a fucking vacation.
+32755460	32756460	Are you kidding me?
+32756460	32759460	I heard people multiple yapp all the time about how much they hate their lives.
+32759460	32763460	Jesus Christ.
+32763460	32765460	And I know.
+32765460	32774460	And one of my friends, I recommended to her and we obviously there's like client confidentiality.
+32774460	32779460	She doesn't tell my therapist is telling my friend talks to her about, but I talked to my friend, obviously.
+32779460	32785460	And I'm like, damn, if I had to be her therapist, oh my God.
+32786460	32788460	That can be hard.
+32788460	32792460	My grandmother passed away from brain cancer the other year and you're really, but I'm so sorry about that.
+32792460	32796460	That's very hard.
+32796460	32798460	Loss is extremely difficult.
+32798460	32800460	Very extremely difficult.
+32800460	32802460	I'll be honest with you.
+32802460	32805460	I haven't experienced knock on wood.
+32805460	32808460	Watch my like grandfather die like three days or something.
+32808460	32811460	I haven't experienced a lot of like immediate family loss.
+32811460	32817460	Although my I'm actually my great grandmother passed away.
+32817460	32819460	Literally a couple of weeks ago.
+32819460	32828460	That was tough, but it was tough because I it was hard seeing my mom really worked up about it because she was super close to my great grandmother.
+32828460	32830460	But I haven't experienced a lot of loss.
+32830460	32838460	And so I always admire how people are strong people are people are so strong.
+32838460	32840460	So strong after those things.
+32840460	32842460	And sometimes they're not and that's okay.
+32842460	32844460	That's why there's other people there to lift them up.
+32844460	32850460	That's why it's important to have a support system so that you don't feel alone in the situations.
+32854460	32856460	Oh, baby.
+32858460	32860460	I don't know why I ran in here.
+32860460	32872460	Yeah, everybody I'm gonna I'm gonna recommend a book to you.
+32872460	32874460	This is my favorite book.
+32874460	32876460	One of my favorite books.
+32879460	32881460	Where is it? Where did I put it?
+32882460	32890460	I'm very nervous because I'm wondering if I gave it to someone to borrow and they never gave it back from work.
+32890460	32893460	And I will hunt that person the fuck down.
+32898460	32900460	My mom wrote something for me.
+32900460	32902460	It's very important to me.
+32911460	32937460	I'll read you what my mom said.
+32937460	32939460	So
+32947460	32949460	Now maybe I'll do like a
+32949460	32954460	I'll do a stream where I read this to you because I although I start I'll start fucking crying.
+32958460	32964460	But it's called and this is also like an Apple TV movie that they made into a movie.
+32964460	32967460	It's called the boy the mole the fox and the horse.
+32972460	32974460	What are you doing?
+32974460	32976460	And it's full of really sweet quotes.
+32976460	32979460	It's by Charlie Mackenzie or Mackenzie.
+32981460	32983460	Very beautifully illustrated.
+32983460	32987460	It's very unique like sketchy painted watercolor art style.
+32987460	32990460	You can just Google it and you can see some of the quotes in there.
+32991460	32992460	They're very reassuring.
+32992460	32995460	Anytime I'm feeling very, very down.
+32995460	32996460	I'm late.
+32996460	32998460	My voice is shaking because I love this book so much.
+32998460	33002460	And every time I open to a page, I want to cry.
+33002460	33003460	Oh yeah.
+33003460	33004460	My mom dated it.
+33004460	33006460	It was March 2021.
+33006460	33007460	I don't know.
+33007460	33011460	I think it was during COVID and I think I was just having a tough time with the isolation.
+33011460	33019460	I've literally bent so many corners in this book pages because there's so many good quotes.
+33019460	33021460	There's so many good quotes in here.
+33021460	33023460	But I highly recommend it.
+33023460	33024460	A member stream.
+33024460	33025460	Maybe.
+33025460	33026460	Maybe.
+33033460	33034460	I'm sorry.
+33034460	33038460	I just read about my mom row and I'm trying not to.
+33038460	33041460	I'm actually fine, but I'm trying not to get worked up.
+33041460	33042460	Okay.
+33042460	33048460	For redacted for she be the mole is very wise.
+33048460	33054460	I folded over corners of this book, which I hope you read from time to time when you're happy, when you're sad, when you feel alone.
+33054460	33058460	Remember, love always brings you home and I love you always, mom.
+33062460	33064460	So anytime I'm sad, I read that.
+33071460	33073460	I highly recommend the book.
+33073460	33074460	So sweet.
+33074460	33075460	My mom is very sweet.
+33078460	33083460	And maybe we'll watch it together for a watch along.
+33083460	33084460	That'd be cute.
+33084460	33086460	No, I'll just be crying the entire time.
+33086460	33087460	I can't do that.
+33087460	33088460	Like that.
+33088460	33093460	Literally that book and that movie give me a Pavlovian response where I literally cry.
+33093460	33098460	Like I'm tearing up right now and I'm okay, but I'm literally tearing up.
+33098460	33103460	I'm looking at my mup itself with the American flag next to me.
+33103460	33104460	I'm dead.
+33104460	33105460	I'm dead.
+33105460	33106460	I'm dead.
+33106460	33107460	I'm dead.
+33107460	33108460	I'm your dad too.
+33108460	33109460	Call me daddy.
+33109460	33110460	Who's your daddy?
+33110460	33111460	Who's your daddy?
+33111460	33115460	Actually, I need to think of what to do for a member stream next week.
+33119460	33122460	Okay, let me, I'm done with this for now because that's pissing me off.
+33122460	33123460	I'll do this.
+33123460	33126460	I'm probably going to play this tomorrow by myself.
+33131460	33134460	I will probably play a lot of this off stream.
+33134460	33136460	So you might, I might be redone off stream.
+33136460	33140460	I don't know because I'm not going to be able to wait and want to get to the DLC as soon
+33140460	33143460	as fucking possible.
+33143460	33144460	Crying the whole time would just be average.
+33144460	33145460	So I need to watch along.
+33145460	33146460	Porfin cries over there.
+33146460	33147460	Yeah.
+33147460	33148460	Wasn't she crying?
+33148460	33149460	I like, oh no.
+33149460	33150460	That's Sarah.
+33150460	33155460	That's Sarah was reading me when I was about to end.
+33155460	33161460	I can chat a little bit longer.
+33161460	33162460	Crying, watch along.
+33162460	33169460	Let me turn this fucking music down.
+33169460	33171460	Is that a Muppet?
+33171460	33172460	Yeah.
+33172460	33175460	You got a problem with this Muppet?
+33175460	33178460	You want to shmup it with this Muppet?
+33178460	33179460	Welcome Raiders.
+33179460	33181460	Chania Breakdown here at the end of John Wick 4.
+33181460	33185460	I don't know why she was crying at John Wick besides the first movie.
+33185460	33186460	I get it.
+33186460	33187460	I cried during the first movie.
+33187460	33190460	But why was she crying during the other movies?
+33190460	33193460	I can't remember what happened at the end of 4.
+33193460	33195460	4 wasn't Parabellum, was it?
+33195460	33201460	It was, that's, she cried so much.
+33201460	33204460	Chania's an emotional person.
+33204460	33205460	Welcome Raiders.
+33205460	33206460	Hello, Sarah.
+33206460	33208460	I want to shmup it with the Muppet.
+33208460	33209460	Of course you do.
+33209460	33212460	You can shmup it with this Muppet anytime.
+33212460	33215460	Anytime, Sarah.
+33215460	33222460	Mercy pulled a U today and came into the call and was being really funny.
+33222460	33227460	She scared the crap out of me with a little Atomaton.
+33227460	33228460	Atomaton?
+33228460	33229460	Atomaton?
+33229460	33230460	Atomaton?
+33230460	33231460	Pull up.
+33231460	33232460	YouTube studio.
+33232460	33233460	We're just going to gap.
+33233460	33234460	We're just gaping.
+33234460	33235460	We're just hanging out.
+33235460	33236460	Oh my God.
+33236460	33237460	The screen's so bright.
+33237460	33238460	Oh, I hate it.
+33238460	33239460	There we go.
+33239460	33240460	Now it's better.
+33240460	33241460	Sorry, I'm asleep.
+33241460	33242460	Sorry, I'm not asleep.
+33242460	33243460	Hello.
+33243460	33244460	Okay.
+33244460	33248460	It's so weird seeing my model after a while.
+33248460	33249460	Whoa.
+33249460	33250460	Excuse me.
+33250460	33251460	Your progress today?
+33251460	33252460	It's time to say goodnight.
+33252460	33253460	Good night.
+33253460	33254460	Good night.
+33254460	33255460	Good night.
+33255460	33256460	Good night.
+33256460	33257460	Good night.
+33257460	33258460	Good night.
+33258460	33259460	Good night.
+33259460	33260460	Good night.
+33260460	33261460	Good night.
+33261460	33262460	Good night.
+33262460	33263460	Excuse me.
+33263460	33264460	Your progress today?
+33264460	33265460	It's time to say goodnight.
+33265460	33266460	Thank you.
+33266460	33267460	Thank you for coming by.
+33267460	33268460	There she is.
+33268460	33269460	Oh, she be.
+33269460	33270460	Yeah.
+33270460	33279460	I can, um, I can, hold on.
+33279460	33288460	I can hold it up like I am controlling the Muppet.
+33288460	33289460	I'm up.
+33289460	33294460	It's actually controlling me if anything, just to, just to say.
+33294460	33298460	I'm trying to make this look as realistic as possible.
+33298460	33300460	Also cover my boobies.
+33300460	33305460	Now I look at the Muppet when you talk.
+33305460	33306460	All right.
+33306460	33308460	I'm taking them up on off.
+33308460	33309460	I forgot.
+33309460	33312460	I need to send PNGs to people that I'm collabing with.
+33312460	33313460	All right.
+33313460	33315460	I'm gonna take some pictures real quick.
+33315460	33316460	Don't, don't mind me.
+33316460	33319460	I'm just going to take some pictures.
+33319460	33331460	Which one is that one?
+33331460	33333460	Perfect.
+33333460	33335460	Taking selfies.
+33335460	33338460	What a terrible day to be a Muppet fan.
+33338460	33340460	Silly or menacing.
+33340460	33341460	Okay.
+33341460	33345460	I can be, I can be silly menacing.
+33345460	33356460	How do I, this looks terrifying.
+33356460	33364460	Do I look silly and menacing to you?
+33364460	33366460	I don't like that.
+33366460	33371460	Let me take this off.
+33371460	33374460	It's what, it was so funny.
+33374460	33380460	There, these were like, I think these were like bonus expressions that like the artists
+33380460	33381460	just like left.
+33381460	33383460	And then every group is going through.
+33383460	33388460	She's like, why does everybody have this face?
+33388460	33392460	That means all of us have this goofy face.
+33392460	33394460	What the fuck?
+33394460	33396460	I accidentally winked.
+33396460	33399460	I was like, what the fuck?
+33399460	33402460	I was like, what the fuck?
+33402460	33405460	I was like, what the fuck?
+33405460	33408460	I was like, what the fuck?
+33408460	33418460	I accidentally winked.
+33418460	33421460	That's better.
+33421460	33435460	Let me do a normal face.
+33435460	33437460	Oh, guys, it's so hard being a VTuber.
+33437460	33450460	I have to take selfies.
+33450460	33454460	Lippies aren't closing.
+33454460	33459460	Sometimes VTube Studio think my lips are like how my mouth is open.
+33459460	33466460	So like my mouth is closed right now, ready?
+33466460	33473460	And it thinks my mouth is open.
+33473460	33478460	She really said, oh.
+33478460	33480460	Can't wait for Tan to talk a little bit.
+33480460	33481460	I know, me too.
+33481460	33483460	I can't wait.
+33483460	33489460	I think I'll feel even more like myself than them, Tan.
+33489460	33491460	You're so beautiful.
+33491460	33492460	Thank you.
+33492460	33493460	Sheepie's lips.
+33493460	33495460	Which lips were I talking about?
+33495460	33496460	Were I talking?
+33496460	33500460	Fuck, never mind.
+33500460	33505460	I'm getting overtired again.
+33505460	33509460	I feel like I want to take one more picture.
+33509460	33510460	I want to selfie.
+33510460	33523460	I'll do one with my cute mouth.
+33523460	33537460	Maybe I should look the other way.
+33537460	33538460	Cool.
+33538460	33544460	It's always good to have a lot of PNGs on hand, you know?
+33544460	33551460	Always good.
+33551460	33552460	Maybe the ropes are back.
+33552460	33553460	You need to go back.
+33553460	33554460	I know I'm restraining myself.
+33554460	33555460	I'm calm.
+33555460	33565460	Let me throw in some music.
+33565460	33568460	I'm going to my bedroom.
+33568460	33581460	We're going to my bedroom.
+33581460	33582460	I know that's too fucking loud.
+33582460	33584460	I don't know why.
+33584460	33585460	Okay.
+33585460	33586460	Oh.
+33586460	33588460	I should just put a Muppet.
+33588460	33591460	I should just send people who are asking for a PNG.
+33591460	33596460	You just my Muppet self.
+33596460	33599460	That would be terrifying.
+33599460	33608460	I can't even see the one who they picked.
+33608460	33618460	There we go.
+33618460	33640460	That's a lot of multiple.
+33640460	33656460	I'm going to tell you so huge.
+33656460	33665460	I should have asked mommy to get me a thing where I can put my hands on my hips.
+33665460	33670460	I think that would be, and I can just power stance.
+33670460	33671460	Oh, hi, Tomo.
+33671460	33672460	Did you win?
+33672460	33675460	I was really about to look at your DMs.
+33675460	33685460	What is this?
+33685460	33712460	I'm secretly responding to Tomo.
+33712460	33717460	Tomo's cooking, by the way.
+33717460	33719460	You guys have no idea what she's cooking.
+33719460	33721460	She also sends me a TikTok that I can't watch right now.
+33721460	33723460	Wait, can I watch it right now?
+33723460	33741460	Can I watch this to cut?
+33741460	33743460	Oh, my God, me.
+33771460	33778460	Oh, my God, they're so African.
+33778460	33779460	I love it so much.
+33779460	33798460	They just remind me of my aunties.
+33798460	33805460	I don't know if you guys can hear that, but it was funny.
+33805460	33808460	It was very funny.
+33808460	33811460	Can't wait to see it's cursed.
+33811460	33820460	My free page is built brick by brick for my friends.
+33820460	33826460	All right, well, I guess I'll read mercy.
+33826460	33832460	Let me see.
+33832460	33844460	Oh, holy crap.
+33844460	33849460	Where?
+33849460	33854460	I can't find YouTube, please.
+33854460	33855460	Where am I?
+33855460	33857460	Oh, it's under this.
+33857460	33862460	Oh, bad.
+33862460	33874460	Oh, Aimee's opening memberships.
+33874460	33879460	Well, when I said I would already read mercy, but I want to read Aimee.
+33879460	33880460	Oh, no.
+33880460	33884460	I could not drum off so many friends streaming.
+33884460	33889460	What do I do?
+33889460	33893460	I love Aimee, but I love mercy too.
+33893460	33905460	I wish I could split a raid.
+33905460	33909460	Well, I told Mercy I would read her something.
+33909460	33912460	But go see Aimee as well.
+33912460	33914460	She's opening memberships.
+33914460	33916460	I love her.
+33916460	33917460	She's so sweet.
+33917460	33926460	We were talking today because we're going to do a collab soon with some other girlies.
+33926460	33929460	Question harder than the Dark Souls boss because I love so many people.
+33929460	33932460	There's like five people streaming right now that I wish I could rate all at the same time.
+33932460	33936460	Just split you all like 25, 20 people.
+33936460	33937460	You go there.
+33937460	33938460	You go there.
+33938460	33939460	All right.
+33939460	33940460	Tell mercy I say hi.
+33940460	33945460	Just say all you got to say is surprise and then you just say like a funny noise.
+33945460	33948460	Just be like, that's what she did to me.
+33948460	33950460	I want to bed though.
+33950460	33953460	I'm knocking out because I've been streaming since two.
+33953460	33954460	Holy crap.
+33954460	33956460	I started streaming nine hours ago.
+33956460	33957460	I just looked at my own thing.
+33957460	33958460	What the hell is wrong with me?
+33958460	33960460	I'm really a product.
+33960460	33962460	I'm really my mother's daughter.
+33962460	33964460	I can't even fucking talk.
+33964460	33973460	How do you type a bunny noise?
+33973460	33974460	I don't know.
+33974460	33975460	Go bunny noise.
+33975460	33976460	Bunny noise.
+33976460	33979460	You can just be like bunny noises and asterisks.
+33979460	33981460	I'm so tired.
+33981460	33983460	I don't even remember how to end stream.
+33983460	33984460	Okay.
+33984460	33985460	There we go.
+33985460	33987460	I'm like, how the fuck?
+33987460	33989460	I'm so like Elden Ringbrained right now.
+33989460	33991460	I'm just like, huh?
+33991460	33993460	What's happening?
+33993460	34003460	I was going to talk to Strani.
+34003460	34005460	I want to ask you that.
+34005460	34006460	Yes.
+34006460	34008460	I know I'm on my end extreme, but I'm going to talk to you on my next screen.
+34008460	34021460	Help me convince Strani to do a cover of, um, wait, what's the song called?
+34021460	34036460	The song from the Lord of the Rings that Ed Sheeran sings.
+34036460	34037460	I see fire.
+34037460	34038460	Yes.
+34038460	34042460	I want to do a cover of I see fire with Strani.
+34042460	34043460	Convince her to do it with me.
+34043460	34047460	I haven't asked her yet, but I will.
+34047460	34050460	Also, my goal XLR came in.
+34050460	34051460	Thank you.
+34051460	34052460	I'm going to put that together.
+34052460	34053460	Together.
+34053460	34054460	I can't talk at all.
+34054460	34055460	Oh my God.
+34055460	34056460	I'm so tired.
+34056460	34058460	Um, I'm going to put that together tomorrow.
+34058460	34066460	I'll see if I can do some funky shit because I was waiting for that so I can do, um, reverb
+34066460	34070460	a lot easily for, for karaoke.
+34070460	34073460	So maybe member stream will be karaoke.
+34073460	34074460	Hmm.
+34074460	34075460	Hmm.
+34075460	34076460	Hmm.
+34076460	34077460	Hmm.
+34077460	34078460	Hmm.
+34078460	34082460	Why are you claimed if I do that though?
+34082460	34083460	Or should I do an archive?
+34083460	34085460	How do I, I don't even know how that works.
+34085460	34087460	I don't know how YouTube works.
+34087460	34093460	Um, but anyways, uh, stay beautiful, stay gorgeous, stay you, stay amazing.
+34093460	34095460	I hope you enjoyed our chat tonight.
+34095460	34096460	I know I enjoyed it.
+34096460	34099460	Um, again, if you didn't agree with something that I said, you're totally entitled to that.
+34099460	34101460	And, you know, you can disagree.
+34101460	34103460	I still love you.
+34103460	34105460	No, I don't.
+34105460	34106460	I didn't say that.
+34106460	34107460	You smell.
+34107460	34108460	You stink so bad.
+34108460	34109460	God damn.
+34109460	34110460	Take a shower, bro.
+34110460	34111460	Jesus Christ.
+34111460	34113460	My harem smells.
+34113460	34115460	Anyways, I'll see.
+34115460	34117460	What am I doing tomorrow?
+34117460	34119460	Am I streaming tomorrow?
+34119460	34121460	How am I doing?
+34121460	34125460	Am I doing Hades or ASMR?
+34125460	34128460	I still didn't fix my fucking 3DU.
+34129460	34130460	Whoopsies.
+34130460	34132460	Anyways, I'll leave you with that.
+34137460	34139460	I hope you have a good time.
+34142460	34143460	I hope you have a good time.
+34143460	34144460	What?
+34144460	34146460	I don't even know what I'm talking about.
+34149460	34152460	Just, let me just turn off my microphone and stop, stop talking.
+34152460	34153460	I'm tired.
+34153460	34154460	Oh my God.
+34154460	34156460	Good night.
+34156460	34160460	Don't let the sheebie bite.
+34162460	34163460	Heehee.
+34186460	34207460	Oh yeah, happy 4th, bye.
