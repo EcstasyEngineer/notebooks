@@ -1,15 +1,46 @@
-countdown
-flirty
-possessive
-talking about herself, especially hobbies
-personal stories
-plans for next streams
-talking about old streams
-talking about the other girls
-interest in new games
-answering questions
-reading marshmallows, maros, or marrows
-losing composure, frustration
-mood swings
-bathroom breaks
-other items of significant interest from streamer
+Please analyze the provided transcript of a stream and generate timestamps for the following items of interest. Note that the transcript may contain misspellings or inaccuracies, so please consider context when identifying the moments:
+Funny moments
+Interactions with fans
+Personal stories
+Emotional moments
+Answering questions
+Skill showcases
+Game highlights
+Reading marshmallows, or maros
+Talking about themselves
+Reactions to donations or gifts
+New announcements
+Plans for next streams
+Starting and ending streams
+Interest in new games
+Talking about old streams
+Being flirty
+In-depth discussions
+Unexpected events
+Talking about other girls
+Special celebrations
+Losing composure, frustration
+Mood swings
+Being possessive
+Challenges and bets
+Technical issues
+Other items of significant interest from streamer
+Bathroom breaks
+
+Please provide the summaries of each individual event in the format:
+[timestamp] [concise summary or quote]
+For example, if the streamer starts talking about their dog starting at 10:46 for several minutes:
+10:46 Talking about their dog
+
+The summaries should be concise, but should include some minimal detail. For example, if the streamer makes a joke, give a summary of the joke:
+17:52 Joking about a how a character looks funny
+
+Other example timestamps the output should include:
+0:50 Shares a funny anecdote from their day
+11:26 Discusses upcoming plans for a new game release
+14:05 Talks about their favorite hobby and its recent developments
+19:22 Reacts to a new game trailer and its features
+20:12 Mentions a recent movie they watched and their review
+
+Start from the beginning of the provided transcript to the end. Preferably there should be one timestamp per approximately 3-5 minutes, so try to pick the best ones.
+Transcript:
