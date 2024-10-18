@@ -31,6 +31,61 @@ from datetime import datetime, timedelta
 # chats are downloaded
 
 
+"""
+Function main():
+    Input CHANNEL_URL
+    video_list = get_video_list(CHANNEL_URL)
+    For each VIDEO_URL in video_list:
+        video_metadata = get_video_metadata(VIDEO_URL)
+        start_time = get_video_start_time(video_metadata)
+        download_subtitles(VIDEO_URL)
+        adjust_subtitle_timestamps(VIDEO_URL, start_time)
+
+Function get_video_list(CHANNEL_URL):
+    Run command: yt-dlp --flat-playlist --dump-json CHANNEL_URL
+    Collect the output (list of JSON lines)
+    Initialize empty list video_list
+    For each line in output:
+        Parse JSON line to get 'url'
+        Build full VIDEO_URL using 'url'
+        Add VIDEO_URL to video_list
+    Return video_list
+
+Function get_video_metadata(VIDEO_URL):
+    Run command: yt-dlp --dump-json VIDEO_URL
+    Parse the JSON output to get video metadata
+    Return video_metadata
+
+Function get_video_start_time(video_metadata):
+    If 'release_timestamp' in video_metadata:
+        start_time = video_metadata['release_timestamp']
+    Else if 'live_start_time' in video_metadata:
+        start_time = video_metadata['live_start_time']
+    Else if 'timestamp' in video_metadata:
+        start_time = video_metadata['timestamp']
+    Else:
+        Print warning: "Cannot determine start time for VIDEO_URL"
+        start_time = 0
+    Return start_time
+
+Function download_subtitles(VIDEO_URL):
+    Run command: yt-dlp --write-auto-sub --sub-lang live_chat,en --skip-download VIDEO_URL
+    This will download the live chat and the transcript subtitles
+
+Function adjust_subtitle_timestamps(VIDEO_URL, start_time):
+    Locate the subtitle files downloaded for VIDEO_URL (e.g., *.vtt files)
+    For each subtitle file:
+        Read the subtitle file content
+        For each timestamp in the subtitle file:
+            Convert timestamp to total seconds
+            new_timestamp = start_time + timestamp_in_seconds
+            Convert new_timestamp back to timestamp format
+            Replace the timestamp in the subtitle file with new_timestamp
+        Save the adjusted subtitle file
+
+End of pseudocode
+"""
+
 
 def create_directories(channel):
     dirs = [
