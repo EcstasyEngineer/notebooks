@@ -9,8 +9,8 @@
             "name": "Sync Stronny (no whisper)",
             "type": "debugpy",
             "request": "launch",
-            "program": "youtube/scrape_chats.py",
-            "cwd": "youtube/",
+            "program": "scrape_chats.py",
+            "cwd": "${workspaceFolder}/youtube",
             "console": "integratedTerminal",
             "args": ["@StronnyCuttles"]
         },
